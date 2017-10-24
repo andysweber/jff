@@ -360,35 +360,6 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1,ADSport 2HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
 
-#EXTINF:0,Sport Klub 1 HD 
-http://smarttv.tvviet.tv/live12/SK1HD.m3u8 
-#EXTINF:0,Sport Klub 2 HD 
-http://smarttv.tvviet.tv/live12/SK2HD.m3u8 
-#EXTINF:0,Sport Klub 3 HD 
-http://smarttv.tvviet.tv/live12/SK3HD.m3u8 
-#EXTINF:0,Sport Klub HD 
-http://smarttv.tvviet.tv/live52/SKHD.m3u8 
-#EXTINF:0,Sky Bundesliga 
-http://smarttv.tvviet.tv/live32/skybundesliga1.m3u8 
-#EXTINF:0,Sky Sport 1 
-http://smarttv.tvviet.tv/live22/skysport1.m3u8 
-#EXTINF:0,Sky Sport 2 
-http://smarttv.tvviet.tv/live22/skysport2.m3u8 
-#EXTINF:0,Eurosport 
-http://smarttv.tvviet.tv/live22/Eurosport.m3u8 
-#EXTINF:0,Eurosport 2 
-http://smarttv.tvviet.tv/live52/Eurosport2.m3u8 
-#EXTINF:0,Arena Sport 
-http://smarttv.tvviet.tv/live22/ArenaSport.m3u8 
-#EXTINF:0,Arena Sport 2 
-http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8 
-#EXTINF:0,Arena Sport 3 
-http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8 
-#EXTINF:0,Arena Sport 4 
-http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8 
-#EXTINF:0,Arena Sport 5 
-http://smarttv.tvviet.tv/live52/Arenasport5.m3u8
-
 #EXTINF:-1, SPORTS TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1,ALL Sports 
