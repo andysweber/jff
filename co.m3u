@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,27/10/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,28/10/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -10468,46 +10468,44 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,"Video Player All Format"
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
 
-#EXTINF:-1,BEIN SPORTS 1 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7767.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7766.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7765.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7764.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7763.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7762.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7761.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7760.m3u8
-#EXTINF:-1,BEIN SPORTS 9 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7759.m3u8
-#EXTINF:-1,BEIN SPORTS 10 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7758.m3u8
-#EXTINF:-1,BEIN SPORT HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12745.m3u8
-#EXTINF:-1,BEIN_NEWS_HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7757.m3u8
-#EXTINF:-1,BEIN SPORTS NEWS HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12744.m3u8
-#EXTINF:-1,AD SPORT 1 (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12678.m3u8
-#EXTINF:-1,AD SPORT 1 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12534.m3u8
-#EXTINF:-1,AD SPORT 2 (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12518.m3u8
-#EXTINF:-1,AD SPORT 2 HD (Video Player All Format ONLY)
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12542.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7767.ts
+#EXTINF:-1,BEIN SPORTS 2 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7766.ts
+#EXTINF:-1,BEIN SPORTS 3 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7765.ts
+#EXTINF:-1,BEIN SPORTS 4 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7764.ts
+#EXTINF:-1,BEIN SPORTS 5 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7763.ts
+#EXTINF:-1,BEIN SPORTS 6 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7762.ts
+#EXTINF:-1,BEIN SPORTS 7 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7761.ts
+#EXTINF:-1,BEIN SPORTS 8 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7760.ts
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7759.ts
+#EXTINF:-1,BEIN SPORTS 10 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7758.ts
+#EXTINF:-1,BEIN SPORT HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12745.ts
+#EXTINF:-1,BEIN_NEWS_HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7757.ts
+#EXTINF:-1,BEIN SPORTS NEWS HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12744.ts
+#EXTINF:-1,AD SPORT 1 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12678.ts
+#EXTINF:-1,AD SPORT 1 HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12534.ts
+#EXTINF:-1,AD SPORT 2
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12518.ts
+#EXTINF:-1,AD SPORT 2 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12542.ts
 
 
 
@@ -11653,119 +11651,6 @@ http://bein.website/movecast/beIN.m3u8?id=bein10-hq
 
 
 
-
-
-
-
-
-
-
-#EXTINF:9 group-title=”United.Arab.Emirates2-Loop_one”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,bein 3 sd
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/64.ts
-#EXTINF:-1,bein 2 sd
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/63.ts
-#EXTINF:-1,bein 1 sd
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/62.ts
-#EXTINF:-1,HD BEIN Ñ
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/57.ts
-#EXTINF:-1,bein sport USA
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/56.ts
-#EXTINF:-1,bein sport 3 turk
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/60.ts
-#EXTINF:-1,BEIN SPORT 3 FR
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/55.ts
-#EXTINF:-1,bein sport 2 turk
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/59.ts
-#EXTINF:-1,BEIN SPORT 2 FR
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/54.ts
-#EXTINF:-1,bein sport 1turk
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/58.ts
-#EXTINF:-1,BEIN SPORT 1 FR
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/53.ts
-#EXTINF:-1,Jeem KIDS
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/48.ts
-#EXTINF:-1,BEIN MOVIES 4HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/45.ts
-#EXTINF:-1,BEIN MOVIES 3HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/44.ts
-#EXTINF:-1,BEIN MOVIES 2HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/43.ts
-#EXTINF:-1,BEIN MOVIES 1HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/46.ts
-#EXTINF:-1,Bein HD SERIE 1
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/49.ts
-#EXTINF:-1,beIN GOURMET HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/50.ts
-#EXTINF:-1,Be Junior
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/51.ts
-#EXTINF:-1,Baraem
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/47.ts
-#EXTINF:-1,BeInSport 17 HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/42.ts
-#EXTINF:-1,BEIN SPORT NEW HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/41.ts
-#EXTINF:-1,BEIN:BEINSPORTS9HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/29.ts
-#EXTINF:-1,BEIN:BEINSPORTS8HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/26.ts
-#EXTINF:-1,BEIN:BEINSPORTS7HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/23.ts
-#EXTINF:-1,BEIN:BEINSPORTS6HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/20.ts
-#EXTINF:-1,BEIN:BEINSPORTS5HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/17.ts
-#EXTINF:-1,BEIN:BEINSPORTS4HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/14.ts
-#EXTINF:-1,BEIN:BEINSPORTS3HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/11.ts
-#EXTINF:-1,BEIN:BEINSPORTS2HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/8.ts
-#EXTINF:-1,BEIN:BEINSPORTS1HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/5.ts
-#EXTINF:-1,BEIN:BEINSPORTS16HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/40.ts
-#EXTINF:-1,BEIN:BEINSPORTS15HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/39.ts
-#EXTINF:-1,BEIN:BEINSPORTS14HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/38.ts
-#EXTINF:-1,BEIN:BEINSPORTS13HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/37.ts
-#EXTINF:-1,BEIN:BEINSPORTS12HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/36.ts
-#EXTINF:-1,BEIN:BEINSPORTS11HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/35.ts
-#EXTINF:-1,BEIN:BEINSPORTS10HD
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/32.ts
-#EXTINF:-1,BEIN:BEIN.SPORTS
-http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/3.ts
 
 
 
