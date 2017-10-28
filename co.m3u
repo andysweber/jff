@@ -7447,6 +7447,38 @@ http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1512.ts
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
 http://..........
 
+
+#EXTINF:-1,Futebol TV 6
+http://loadnovo.aovivo.gratis:8081/live/17/playlist.m3u8
+#EXTINF:-1,Futebol TV 7
+http://loadnovo.aovivo.gratis:8081/live/18/playlist.m3u8
+#EXTINF:-1,09h30 Sub-17: Mali x Gana
+http://loadnovo.aovivo.gratis:8081/live/20/playlist.m3u8
+#EXTINF:-1,Jogos Ao Vivo 4
+http://loadnovo.aovivo.gratis:8081/live/3/playlist.m3u8?FELIPEGRAIN
+#EXTINF:-1,Jogos Ao Vivo 3
+http://loadnovo.aovivo.gratis:8081/live/4/playlist.m3u8?FELIPEGRAIN
+#EXTINF:-1,Jogos AO VIVO Playtvgeh
+http://loadnovo.aovivo.gratis:8081/live/5/playlist.m3u8
+#EXTINF:-1,
+http://loadnovo.aovivo.gratis:8081/live/8/playlist.m3u8
+#EXTINF:-1,Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/RRGSLkRCr8/KBpnydHkgy2os13K.png" ,Universal Channel SD
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/BgRU4QJFvj/Sv8nCJhyzW76S5sD.png" ,Nickelodeon SD
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist_w290772736.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/4F32KnFQFb/nDsYHifKpFOSceBQ.png" ,Disney XD SD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" ,Fox
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8?FELIPEGRAIN
+#EXTINF:-1,NICKELODEON
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+#EXTINF:-1,NICK
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" , TNT
+http://tv.ec.cx:1935/redecanais-stream-tnt/myStream/playlist.m3u8?TECHNOID
+
  #EXTINF:-1,SPORT TV1 
  http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8 
  #EXTINF:-1,SPORT TV2 
