@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,30/10/17 !!
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,31/10/17 
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -1859,13 +1859,98 @@ http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1834.ts
 
 
 
-#EXTINF:3 group-title=”UK4-LOOP_ONE”, 
+#EXTINF:3 group-title=”UK4”, 
 
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTEE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
-
-
-
+#EXTINF:-1,TLC HD
+http://185.19.188.60:8090/TLC/playlist.m3u8 
+#EXTINF:-1,TV12 HD
+http://185.19.188.60:8090/TV12/playlist.m3u8 
+#EXTINF:-1,TV10
+http://185.19.188.60:8090/TV10/playlist.m3u8 
+#EXTINF:-1,MTV
+http://185.19.188.60:8090/MTV/playlist.m3u8 
+#EXTINF:-1,Eurosport2 HD
+http://185.19.188.60:8090/Eurosport2/playlist.m3u8 
+#EXTINF:-1,Eurosport1 HD
+http://185.19.188.60:8090/Eurosport1/playlist.m3u8 
+#EXTINF:-1,CartoonNetwork
+http://185.19.188.60:8090/CartoonNetwork/playlist.m3u8 
+#EXTINF:-1,6eren
+http://185.19.188.60:8090/6eren/playlist.m3u8 
+#EXTINF:-1,BBC 1
+http://185.19.188.60:8090/BBC1/playlist.m3u8 
+#EXTINF:-1,BBC 2
+http://185.19.188.60:8090/BBC2/playlist.m3u8 
+#EXTINF:-1,CBBC
+http://185.19.188.60:8090/CBBC/playlist.m3u8 
+#EXTINF:-1,CHANNEL 4
+http://185.19.188.60:8090/CHANNEL4/playlist.m3u8 
+#EXTINF:-1,CHANNEL 5
+http://185.19.188.60:8090/CHANNEL5/playlist.m3u8 
+#EXTINF:-1,CNN
+http://185.19.188.60:8090/CNN/playlist.m3u8 
+#EXTINF:-1,Discovery Science
+http://185.19.188.60:8090/DiscoverySc/playlist.m3u8 
+#EXTINF:-1,E4
+http://185.19.188.60:8090/E4/playlist.m3u8 
+#EXTINF:-1,EURONEWS
+http://185.19.188.60:8090/EURONEWS/playlist.m3u8 
+#EXTINF:-1,FILM 4
+http://185.19.188.60:8090/FILM4/playlist.m3u8 
+#EXTINF:-1,FOX 
+http://185.19.188.60:8090/FOX/playlist.m3u8 
+#EXTINF:-1,INFO
+http://185.19.188.60:8090/INFO/playlist.m3u8 
+#EXTINF:-1,ITV1
+http://185.19.188.60:8090/ITV1/playlist.m3u8 
+#EXTINF:-1,ITV2
+http://185.19.188.60:8090/ITV2/playlist.m3u8 
+#EXTINF:-1,ITV3
+http://185.19.188.60:8090/ITV3/playlist.m3u8 
+#EXTINF:-1,ITV4
+http://185.19.188.60:8090/ITV4/playlist.m3u8 
+#EXTINF:-1,MAX
+http://185.19.188.60:8090/MAX/playlist.m3u8 
+#EXTINF:-1,MORE4
+http://185.19.188.60:8090/MORE4/playlist.m3u8 
+#EXTINF:-1,NATGEO
+http://185.19.188.60:8090/NATGEO/playlist.m3u8 
+#EXTINF:-1,NAT GEO WILD
+http://185.19.188.60:8090/NATGEOWILD/playlist.m3u8 
+#EXTINF:-1,SKY NEWS
+http://185.19.188.60:8090/SKYNEWS/playlist.m3u8 
+#EXTINF:-1,SPIKE
+http://185.19.188.60:8090/SPIKE/playlist.m3u8 
+#EXTINF:-1,SVT2
+http://185.19.188.60:8090/SVT2/playlist.m3u8 
+#EXTINF:-1,Trace Urban
+http://185.19.188.60:8090/TraceUrban/playlist.m3u8 
+#EXTINF:-1,TVN
+http://185.19.188.60:8090/TVN/playlist.m3u8 
+#EXTINF:-1,VH1
+http://185.19.188.60:8090/VH1/playlist.m3u8 
+#EXTINF:-1,VOX
+http://185.19.188.60:8090/VOX/playlist.m3u8
 
 
 
@@ -2742,7 +2827,81 @@ http://188.210.224.6:81/tv27/playlist.m3u8
 #EXTINF:-1,Infinity
 http://188.210.224.6:81/tv6/playlist.m3u8
 
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,==SERVER2==
+http://.....
 
+#EXTINF:-1,M. ACCI©N
+http://79.112.144.65:8999/play/a00h
+#EXTINF:-1,M. DCINE
+http://79.112.144.65:8999/play/a00j
+#EXTINF:-1,M. COMEDIA
+http://79.112.144.65:8999/play/a00i
+#EXTINF:-1,STAR TV HD
+http://79.112.144.65:8999/play/a015
+#EXTINF:-1,NTV
+http://79.112.144.65:8999/play/a013
+#EXTINF:-1,KRAL TV
+http://79.112.144.65:8999/play/a018
+#EXTINF:-1,LALIGATV BAR
+http://79.112.144.65:8999/play/a00v
+#EXTINF:-1,ATV
+http://79.112.144.65:8999/play/a01a
+#EXTINF:-1,M. GOLF
+http://79.112.144.65:8999/play/a00n
+#EXTINF:-1,STAR TV
+http://79.112.144.65:8999/play/a012
+#EXTINF:-1,AXN WHITE
+http://79.112.144.65:8999/play/a00l
+#EXTINF:-1,CALLE 13
+http://79.112.144.65:8999/play/a00u
+#EXTINF:-1,A SPOR HD
+http://79.112.144.65:8999/play/a01h
+#EXTINF:-1,A HABER HD
+http://79.112.144.65:8999/play/a01g
+#EXTINF:-1,SYFY
+http://79.112.144.65:8999/play/a00x
+#EXTINF:-1,NTV HD
+http://79.112.144.65:8999/play/a016
+#EXTINF:-1,A2
+http://79.112.144.65:8999/play/a01i
+#EXTINF:-1,NAT GEOGRAPH
+http://79.112.144.65:8999/play/a00r
+#EXTINF:-1,ATV HD
+http://79.112.144.65:8999/play/a01f
+#EXTINF:-1,NOVA
+http://79.112.144.65:8999/play/a00e
+#EXTINF:-1,FOX LIFE
+http://79.112.144.65:8999/play/a00d
+#EXTINF:-1,CANAL ODISEA
+http://79.112.144.65:8999/play/a00o
+#EXTINF:-1,minikaGO
+http://79.112.144.65:8999/play/a01e
+#EXTINF:-1,minikaCOCUK
+http://79.112.144.65:8999/play/a01d
+#EXTINF:-1,A SPOR
+http://79.112.144.65:8999/play/a01c
+#EXTINF:-1,A HABER
+http://79.112.144.65:8999/play/a01b
+#EXTINF:-1,M. DEP 1
+http://79.112.144.65:8999/play/a00t
+#EXTINF:-1,CANAL DECASA
+http://79.112.144.65:8999/play/a00w
+#EXTINF:-1,M.
+http://79.112.144.65:8999/play/a00s
+#EXTINF:-1,DISNEY JR
+http://79.112.144.65:8999/play/a00g
+#EXTINF:-1,BEIN LALIGA
+http://79.112.144.65:8999/play/a00q
+#EXTINF:-1,NTV SPOR
+http://79.112.144.65:8999/play/a014
+#EXTINF:-1,AXN
+http://79.112.144.65:8999/play/a00m
+#EXTINF:-1,FOX
+http://79.112.144.65:8999/play/a00k
+#EXTINF:-1,IBERALIA TV
+http://79.112.144.65:8999/play/a00f
+#EXTINF:-1,KRAL POP TV
+http://79.112.144.65:8999/play/a017
 
 
 
@@ -4101,13 +4260,502 @@ http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1351.ts
 
 
 
-
-
-#EXTINF:8 group-title=”France-PREMIUM-Wuffy_Player”,
+#EXTINF:6 group-title=”France3-LOOP_ONE”,
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
 http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1, 13EME RUE HD
+http://tv2iptv.com:8000/live/pierre/12345678/5216.ts
+#EXTINF:-1, 6ter
+http://tv2iptv.com:8000/live/pierre/12345678/5215.ts
+#EXTINF:-1, AB1
+http://tv2iptv.com:8000/live/pierre/12345678/5214.ts
+#EXTINF:-1, ACTION
+http://tv2iptv.com:8000/live/pierre/12345678/5213.ts
+#EXTINF:-1, ARTE HD
+http://tv2iptv.com:8000/live/pierre/12345678/5212.ts
+#EXTINF:-1, BFM TV
+http://tv2iptv.com:8000/live/pierre/12345678/5211.ts
+#EXTINF:-1, C8
+http://tv2iptv.com:8000/live/pierre/12345678/5210.ts
+#EXTINF:-1, CANAL GOLF
+http://tv2iptv.com:8000/live/pierre/12345678/5209.ts
+#EXTINF:-1, CANAL CINEMA HD
+http://tv2iptv.com:8000/live/pierre/12345678/5208.ts
+#EXTINF:-1, CANAL DECALE HD
+http://tv2iptv.com:8000/live/pierre/12345678/5207.ts
+#EXTINF:-1, CANAL FAMILY HD
+http://tv2iptv.com:8000/live/pierre/12345678/5206.ts
+#EXTINF:-1, CANAL HD
+http://tv2iptv.com:8000/live/pierre/12345678/5205.ts
+#EXTINF:-1, CANAL SERIES HD
+http://tv2iptv.com:8000/live/pierre/12345678/5204.ts
+#EXTINF:-1, ANIMAUX
+http://tv2iptv.com:8000/live/pierre/12345678/5397.ts
+#EXTINF:-1, CHERIE 25
+http://tv2iptv.com:8000/live/pierre/12345678/5203.ts
+#EXTINF:-1, CINE CLASSIC HD
+http://tv2iptv.com:8000/live/pierre/12345678/5202.ts
+#EXTINF:-1, CINE EMOTION HD
+http://tv2iptv.com:8000/live/pierre/12345678/5201.ts
+#EXTINF:-1, CINE FAMIZ HD
+http://tv2iptv.com:8000/live/pierre/12345678/5200.ts
+#EXTINF:-1, CINE FRISSON HD
+http://tv2iptv.com:8000/live/pierre/12345678/5199.ts
+#EXTINF:-1, CINE FX
+http://tv2iptv.com:8000/live/pierre/12345678/5198.ts
+#EXTINF:-1, CINE POLAR
+http://tv2iptv.com:8000/live/pierre/12345678/5197.ts
+#EXTINF:-1, CINE PREMIER HD
+http://tv2iptv.com:8000/live/pierre/12345678/5196.ts
+#EXTINF:-1, COMEDIE
+http://tv2iptv.com:8000/live/pierre/12345678/5195.ts
+#EXTINF:-1, CSTAR
+http://tv2iptv.com:8000/live/pierre/12345678/5194.ts
+#EXTINF:-1, E ENTERTAINMENT
+http://tv2iptv.com:8000/live/pierre/12345678/5193.ts
+#EXTINF:-1, FRANCE 2
+http://tv2iptv.com:8000/live/pierre/12345678/5192.ts
+#EXTINF:-1, FRANCE 4
+http://tv2iptv.com:8000/live/pierre/12345678/5190.ts
+#EXTINF:-1, FRANCE 5
+http://tv2iptv.com:8000/live/pierre/12345678/5189.ts
+#EXTINF:-1, FRANCE O
+http://tv2iptv.com:8000/live/pierre/12345678/5188.ts
+#EXTINF:-1, HD1
+http://tv2iptv.com:8000/live/pierre/12345678/5187.ts
+#EXTINF:-1, M6
+http://tv2iptv.com:8000/live/pierre/12345678/5186.ts
+#EXTINF:-1, NRJ 12
+http://tv2iptv.com:8000/live/pierre/12345678/5185.ts
+#EXTINF:-1, NT1
+http://tv2iptv.com:8000/live/pierre/12345678/5184.ts
+#EXTINF:-1, NUMERO 23
+http://tv2iptv.com:8000/live/pierre/12345678/5183.ts
+#EXTINF:-1, OCS CHOC HD
+http://tv2iptv.com:8000/live/pierre/12345678/5182.ts
+#EXTINF:-1, OCS CITY
+http://tv2iptv.com:8000/live/pierre/12345678/5181.ts
+#EXTINF:-1, OCS GEANTS
+http://tv2iptv.com:8000/live/pierre/12345678/5180.ts
+#EXTINF:-1, OCS MAX
+http://tv2iptv.com:8000/live/pierre/12345678/5179.ts
+#EXTINF:-1, PARAMOUNT HD
+http://tv2iptv.com:8000/live/pierre/12345678/5178.ts
+#EXTINF:-1, PARIS PREMIERE HD
+http://tv2iptv.com:8000/live/pierre/12345678/5177.ts
+#EXTINF:-1, RTL 9
+http://tv2iptv.com:8000/live/pierre/12345678/5176.ts
+#EXTINF:-1, SERIE CLUB HD
+http://tv2iptv.com:8000/live/pierre/12345678/5175.ts
+#EXTINF:-1, SYFY HD
+http://tv2iptv.com:8000/live/pierre/12345678/5174.ts
+#EXTINF:-1, CANALCINEMA
+http://tv2iptv.com:8000/live/pierre/12345678/5400.ts
+#EXTINF:-1, CANALDECALE
+http://tv2iptv.com:8000/live/pierre/12345678/5403.ts
+#EXTINF:-1, CANALFAMILY
+http://tv2iptv.com:8000/live/pierre/12345678/5401.ts
+#EXTINF:-1, CANALHD
+http://tv2iptv.com:8000/live/pierre/12345678/5398.ts
+#EXTINF:-1, CANALSERIES
+http://tv2iptv.com:8000/live/pierre/12345678/5402.ts
+#EXTINF:-1, CANALSPORT
+http://tv2iptv.com:8000/live/pierre/12345678/5399.ts
+#EXTINF:-1, DISNEYJUNIOR
+http://tv2iptv.com:8000/live/pierre/12345678/5404.ts
+#EXTINF:-1, TCM CINEMA
+http://tv2iptv.com:8000/live/pierre/12345678/5173.ts
+#EXTINF:-1, TEVA
+http://tv2iptv.com:8000/live/pierre/12345678/5172.ts
+#EXTINF:-1, TF1
+http://tv2iptv.com:8000/live/pierre/12345678/5171.ts
+#EXTINF:-1, TMC
+http://tv2iptv.com:8000/live/pierre/12345678/5170.ts
+#EXTINF:-1, TV BREIZH
+http://tv2iptv.com:8000/live/pierre/12345678/5169.ts
+#EXTINF:-1, W9
+http://tv2iptv.com:8000/live/pierre/12345678/5168.ts
+#EXTINF:-1, ABMOTEUR
+http://tv2iptv.com:8000/live/pierre/12345678/5329.ts
+#EXTINF:-1, BEINSPORT-MAX4
+http://tv2iptv.com:8000/live/pierre/12345678/5319.ts
+#EXTINF:-1, BEINSPORT-MAX5
+http://tv2iptv.com:8000/live/pierre/12345678/5320.ts
+#EXTINF:-1, BEINSPORT-MAX6
+http://tv2iptv.com:8000/live/pierre/12345678/5321.ts
+#EXTINF:-1, BEINSPORT-MAX7
+http://tv2iptv.com:8000/live/pierre/12345678/5322.ts
+#EXTINF:-1, BEINSPORT-MAX8
+http://tv2iptv.com:8000/live/pierre/12345678/5323.ts
+#EXTINF:-1, BEINSPORT1
+http://tv2iptv.com:8000/live/pierre/12345678/5366.ts
+#EXTINF:-1, BEINSPORT2
+http://tv2iptv.com:8000/live/pierre/12345678/5367.ts
+#EXTINF:-1, BEINSPORT3
+http://tv2iptv.com:8000/live/pierre/12345678/5368.ts
+#EXTINF:-1, BFM-BUSINESS
+http://tv2iptv.com:8000/live/pierre/12345678/5358.ts
+#EXTINF:-1, BFM-SPORT
+http://tv2iptv.com:8000/live/pierre/12345678/5331.ts
+#EXTINF:-1, CANAL-J
+http://tv2iptv.com:8000/live/pierre/12345678/5351.ts
+#EXTINF:-1, CARTOON-NETWORK
+http://tv2iptv.com:8000/live/pierre/12345678/5344.ts
+#EXTINF:-1, CHASSE&PECHE
+http://tv2iptv.com:8000/live/pierre/12345678/5340.ts
+#EXTINF:-1, DISNEY-CINEMA
+http://tv2iptv.com:8000/live/pierre/12345678/5354.ts
+#EXTINF:-1, DISNEY-CINEMAGIC
+http://tv2iptv.com:8000/live/pierre/12345678/5355.ts
+#EXTINF:-1, DISNEYXD
+http://tv2iptv.com:8000/live/pierre/12345678/5353.ts
+#EXTINF:-1, ENORME-TV
+http://tv2iptv.com:8000/live/pierre/12345678/5359.ts
+#EXTINF:-1, EQUIDIA
+http://tv2iptv.com:8000/live/pierre/12345678/5327.ts
+#EXTINF:-1, EQUIDIA-LIVE
+http://tv2iptv.com:8000/live/pierre/12345678/5328.ts
+#EXTINF:-1, EUROFR1
+http://tv2iptv.com:8000/live/pierre/12345678/5324.ts
+#EXTINF:-1, EUROFR2
+http://tv2iptv.com:8000/live/pierre/12345678/5325.ts
+#EXTINF:-1, EURONEWS
+http://tv2iptv.com:8000/live/pierre/12345678/5356.ts
+#EXTINF:-1, GOLF-PLUS
+http://tv2iptv.com:8000/live/pierre/12345678/5318.ts
+#EXTINF:-1, GONG
+http://tv2iptv.com:8000/live/pierre/12345678/5335.ts
+#EXTINF:-1, GULLI
+http://tv2iptv.com:8000/live/pierre/12345678/5348.ts
+#EXTINF:-1, KOMBAT-SPORT
+http://tv2iptv.com:8000/live/pierre/12345678/5330.ts
+#EXTINF:-1, L'EQUIPE21
+http://tv2iptv.com:8000/live/pierre/12345678/5326.ts
+#EXTINF:-1, LCI
+http://tv2iptv.com:8000/live/pierre/12345678/5357.ts
+#EXTINF:-1, MANGAS
+http://tv2iptv.com:8000/live/pierre/12345678/5352.ts
+#EXTINF:-1, MTV-DANCE
+http://tv2iptv.com:8000/live/pierre/12345678/5361.ts
+#EXTINF:-1, NATGEO-WILD
+http://tv2iptv.com:8000/live/pierre/12345678/5338.ts
+#EXTINF:-1, NICKELEODEON-JR
+http://tv2iptv.com:8000/live/pierre/12345678/5350.ts
+#EXTINF:-1, NICKJR
+http://tv2iptv.com:8000/live/pierre/12345678/5347.ts
+#EXTINF:-1, ORANGE-CINE
+http://tv2iptv.com:8000/live/pierre/12345678/5360.ts
+#EXTINF:-1, PARAMOUNT
+http://tv2iptv.com:8000/live/pierre/12345678/5332.ts
+#EXTINF:-1, SCIENCE&VIE
+http://tv2iptv.com:8000/live/pierre/12345678/5341.ts
+#EXTINF:-1, TELETOON-PLUS1
+http://tv2iptv.com:8000/live/pierre/12345678/5345.ts
+#EXTINF:-1, TIJI
+http://tv2iptv.com:8000/live/pierre/12345678/5346.ts
+#EXTINF:-1, TOUTELHISTOIRE
+http://tv2iptv.com:8000/live/pierre/12345678/5339.ts
+#EXTINF:-1, TV5-MONDE-info
+http://tv2iptv.com:8000/live/pierre/12345678/5342.ts
+#EXTINF:-1, TV7-BORDEAUX
+http://tv2iptv.com:8000/live/pierre/12345678/5343.ts
+#EXTINF:-1, USHUAIATV
+http://tv2iptv.com:8000/live/pierre/12345678/5317.ts
+#EXTINF:-1, VIRGIN
+http://tv2iptv.com:8000/live/pierre/12345678/5336.ts
+#EXTINF:-1, VOYAGE
+http://tv2iptv.com:8000/live/pierre/12345678/5337.ts
+#EXTINF:-1, WEO
+http://tv2iptv.com:8000/live/pierre/12345678/5334.ts
+#EXTINF:-1, ZOUZOU
+http://tv2iptv.com:8000/live/pierre/12345678/5349.ts
+#EXTINF:-1,  E
+http://tv2iptv.com:8000/live/pierre/12345678/5333.ts
+#EXTINF:-1, A LACART1
+http://tv2iptv.com:8000/live/pierre/12345678/5387.ts
+#EXTINF:-1, ALACART10
+http://tv2iptv.com:8000/live/pierre/12345678/5396.ts
+#EXTINF:-1, ALACART2
+http://tv2iptv.com:8000/live/pierre/12345678/5388.ts
+#EXTINF:-1, ALACART3
+http://tv2iptv.com:8000/live/pierre/12345678/5389.ts
+#EXTINF:-1, ALACART4
+http://tv2iptv.com:8000/live/pierre/12345678/5390.ts
+#EXTINF:-1, ALACART5
+http://tv2iptv.com:8000/live/pierre/12345678/5391.ts
+#EXTINF:-1, ALACART6
+http://tv2iptv.com:8000/live/pierre/12345678/5392.ts
+#EXTINF:-1, ALACART7
+http://tv2iptv.com:8000/live/pierre/12345678/5393.ts
+#EXTINF:-1, ALACART8
+http://tv2iptv.com:8000/live/pierre/12345678/5394.ts
+#EXTINF:-1, ALACART9
+http://tv2iptv.com:8000/live/pierre/12345678/5395.ts
+#EXTINF:-1, CANALPLAY1
+http://tv2iptv.com:8000/live/pierre/12345678/5374.ts
+#EXTINF:-1, CANALPLAY10
+http://tv2iptv.com:8000/live/pierre/12345678/5382.ts
+#EXTINF:-1, CANALPLAY11
+http://tv2iptv.com:8000/live/pierre/12345678/5383.ts
+#EXTINF:-1, CANALPLAY12
+http://tv2iptv.com:8000/live/pierre/12345678/5384.ts
+#EXTINF:-1, CANALPLAY13
+http://tv2iptv.com:8000/live/pierre/12345678/5385.ts
+#EXTINF:-1, CANALPLAY14
+http://tv2iptv.com:8000/live/pierre/12345678/5386.ts
+#EXTINF:-1, CANALPLAY2
+http://tv2iptv.com:8000/live/pierre/12345678/5375.ts
+#EXTINF:-1, CANALPLAY3
+http://tv2iptv.com:8000/live/pierre/12345678/5376.ts
+#EXTINF:-1, CANALPLAY4
+http://tv2iptv.com:8000/live/pierre/12345678/5377.ts
+#EXTINF:-1, CANALPLAY5
+http://tv2iptv.com:8000/live/pierre/12345678/5378.ts
+#EXTINF:-1, CANALPLAY7
+http://tv2iptv.com:8000/live/pierre/12345678/5379.ts
+#EXTINF:-1, CANALPLAY8
+http://tv2iptv.com:8000/live/pierre/12345678/5380.ts
+#EXTINF:-1, CANALPLAY9
+http://tv2iptv.com:8000/live/pierre/12345678/5381.ts
+#EXTINF:-1, FRANCE2
+http://tv2iptv.com:8000/live/pierre/12345678/5369.ts
+#EXTINF:-1, FRANCE3
+http://tv2iptv.com:8000/live/pierre/12345678/5370.ts
+#EXTINF:-1, FRANCE4
+http://tv2iptv.com:8000/live/pierre/12345678/5371.ts
+#EXTINF:-1, FRANCE5
+http://tv2iptv.com:8000/live/pierre/12345678/5372.ts
+#EXTINF:-1, PIWI
+http://tv2iptv.com:8000/live/pierre/12345678/5373.ts
+#EXTINF:-1, 6ter hd
+http://tv2iptv.com:8000/live/pierre/12345678/7451.ts
+#EXTINF:-1, ALACARTE-1
+http://tv2iptv.com:8000/live/pierre/12345678/7477.ts
+#EXTINF:-1, ALACARTE-10
+http://tv2iptv.com:8000/live/pierre/12345678/7468.ts
+#EXTINF:-1, ALACARTE-2
+http://tv2iptv.com:8000/live/pierre/12345678/7476.ts
+#EXTINF:-1, ALACARTE-3
+http://tv2iptv.com:8000/live/pierre/12345678/7475.ts
+#EXTINF:-1, ALACARTE-4
+http://tv2iptv.com:8000/live/pierre/12345678/7474.ts
+#EXTINF:-1, ALACARTE 5
+http://tv2iptv.com:8000/live/pierre/12345678/7473.ts
+#EXTINF:-1, ALACARTE 6
+http://tv2iptv.com:8000/live/pierre/12345678/7472.ts
+#EXTINF:-1, ALACARTE 7
+http://tv2iptv.com:8000/live/pierre/12345678/7471.ts
+#EXTINF:-1, ALACARTE 8
+http://tv2iptv.com:8000/live/pierre/12345678/7470.ts
+#EXTINF:-1, ALACARTE 9
+http://tv2iptv.com:8000/live/pierre/12345678/7469.ts
+#EXTINF:-1, ANIMAUX HD
+http://tv2iptv.com:8000/live/pierre/12345678/7450.ts
+#EXTINF:-1, ARTE HD
+http://tv2iptv.com:8000/live/pierre/12345678/7449.ts
+#EXTINF:-1, CANAL DECALE
+http://tv2iptv.com:8000/live/pierre/12345678/7448.ts
+#EXTINF:-1, CANAL FAMILY
+http://tv2iptv.com:8000/live/pierre/12345678/7447.ts
+#EXTINF:-1, CANAL SERIES
+http://tv2iptv.com:8000/live/pierre/12345678/7446.ts
+#EXTINF:-1, CANALPLAY-1
+http://tv2iptv.com:8000/live/pierre/12345678/7467.ts
+#EXTINF:-1, CANALPLAY-10
+http://tv2iptv.com:8000/live/pierre/12345678/7458.ts
+#EXTINF:-1, CANALPLAY-11
+http://tv2iptv.com:8000/live/pierre/12345678/7457.ts
+#EXTINF:-1, CANALPLAY-12
+http://tv2iptv.com:8000/live/pierre/12345678/7456.ts
+#EXTINF:-1, CANALPLAY-13
+http://tv2iptv.com:8000/live/pierre/12345678/7455.ts
+#EXTINF:-1, CANALPLAY-14
+http://tv2iptv.com:8000/live/pierre/12345678/7454.ts
+#EXTINF:-1, CANALPLAY-15
+http://tv2iptv.com:8000/live/pierre/12345678/7453.ts
+#EXTINF:-1, CANALPLAY-16
+http://tv2iptv.com:8000/live/pierre/12345678/7452.ts
+#EXTINF:-1, CANALPLAY-2
+http://tv2iptv.com:8000/live/pierre/12345678/7466.ts
+#EXTINF:-1, CANALPLAY-3
+http://tv2iptv.com:8000/live/pierre/12345678/7465.ts
+#EXTINF:-1, CANALPLAY-4
+http://tv2iptv.com:8000/live/pierre/12345678/7464.ts
+#EXTINF:-1, CANALPLAY-5
+http://tv2iptv.com:8000/live/pierre/12345678/7463.ts
+#EXTINF:-1, CANALPLAY-6
+http://tv2iptv.com:8000/live/pierre/12345678/7462.ts
+#EXTINF:-1, CANALPLAY-7
+http://tv2iptv.com:8000/live/pierre/12345678/7461.ts
+#EXTINF:-1, CANALPLAY-8
+http://tv2iptv.com:8000/live/pierre/12345678/7460.ts
+#EXTINF:-1, CANALPLAY-9
+http://tv2iptv.com:8000/live/pierre/12345678/7459.ts
+#EXTINF:-1, CANAL CINEMA
+http://tv2iptv.com:8000/live/pierre/12345678/7445.ts
+#EXTINF:-1, CANAL HD
+http://tv2iptv.com:8000/live/pierre/12345678/7444.ts
+#EXTINF:-1, Canal Plus Cinema HD
+http://tv2iptv.com:8000/live/pierre/12345678/7443.ts
+#EXTINF:-1, Canal Plus Decale HD
+http://tv2iptv.com:8000/live/pierre/12345678/7442.ts
+#EXTINF:-1, Canal Plus Series HD
+http://tv2iptv.com:8000/live/pierre/12345678/7441.ts
+#EXTINF:-1, CANAL SPORT
+http://tv2iptv.com:8000/live/pierre/12345678/7440.ts
+#EXTINF:-1, Chasse & Peche HD
+http://tv2iptv.com:8000/live/pierre/12345678/7439.ts
+#EXTINF:-1, CHASSE ET PECHE
+http://tv2iptv.com:8000/live/pierre/12345678/7438.ts
+#EXTINF:-1, CHERIE25
+http://tv2iptv.com:8000/live/pierre/12345678/7437.ts
+#EXTINF:-1, CINE EMOTION
+http://tv2iptv.com:8000/live/pierre/12345678/7436.ts
+#EXTINF:-1, CINE FAMIZ
+http://tv2iptv.com:8000/live/pierre/12345678/7435.ts
+#EXTINF:-1, CINE FRISSON
+http://tv2iptv.com:8000/live/pierre/12345678/7434.ts
+#EXTINF:-1, CINE CLASSIC
+http://tv2iptv.com:8000/live/pierre/12345678/7433.ts
+#EXTINF:-1, Cine Plus Emotion HD
+http://tv2iptv.com:8000/live/pierre/12345678/7432.ts
+#EXTINF:-1, Cine Plus Famiz HD
+http://tv2iptv.com:8000/live/pierre/12345678/7431.ts
+#EXTINF:-1, Cine Plus Frisson HD
+http://tv2iptv.com:8000/live/pierre/12345678/7430.ts
+#EXTINF:-1, Cine Plus Premier HD
+http://tv2iptv.com:8000/live/pierre/12345678/7429.ts
+#EXTINF:-1, CINE PREMIER
+http://tv2iptv.com:8000/live/pierre/12345678/7428.ts
+#EXTINF:-1, CSTAR HD
+http://tv2iptv.com:8000/live/pierre/12345678/7427.ts
+#EXTINF:-1, D8 HD
+http://tv2iptv.com:8000/live/pierre/12345678/7426.ts
+#EXTINF:-1, DiscoverySciences
+http://tv2iptv.com:8000/live/pierre/12345678/7424.ts
+#EXTINF:-1, Discovery HD
+http://tv2iptv.com:8000/live/pierre/12345678/7425.ts
+#EXTINF:-1, FRANCE2
+http://tv2iptv.com:8000/live/pierre/12345678/7423.ts
+#EXTINF:-1, FRANCE3
+http://tv2iptv.com:8000/live/pierre/12345678/7422.ts
+#EXTINF:-1, FRANCE4
+http://tv2iptv.com:8000/live/pierre/12345678/7421.ts
+#EXTINF:-1, FRANCE5
+http://tv2iptv.com:8000/live/pierre/12345678/7420.ts
+#EXTINF:-1, FRANCEQ
+http://tv2iptv.com:8000/live/pierre/12345678/7419.ts
+#EXTINF:-1, HD1
+http://tv2iptv.com:8000/live/pierre/12345678/7418.ts
+#EXTINF:-1, M6
+http://tv2iptv.com:8000/live/pierre/12345678/7417.ts
+#EXTINF:-1, M6 MUSIC HD
+http://tv2iptv.com:8000/live/pierre/12345678/7416.ts
+#EXTINF:-1, NatGeoWild HD
+http://tv2iptv.com:8000/live/pierre/12345678/7414.ts
+#EXTINF:-1, NatGeo HD
+http://tv2iptv.com:8000/live/pierre/12345678/7415.ts
+#EXTINF:-1, NT1
+http://tv2iptv.com:8000/live/pierre/12345678/7413.ts
+#EXTINF:-1, OCS CHOC
+http://tv2iptv.com:8000/live/pierre/12345678/7412.ts
+#EXTINF:-1, OCS CITY
+http://tv2iptv.com:8000/live/pierre/12345678/7411.ts
+#EXTINF:-1, OCS Geants
+http://tv2iptv.com:8000/live/pierre/12345678/7410.ts
+#EXTINF:-1, OCS Max
+http://tv2iptv.com:8000/live/pierre/12345678/7409.ts
+#EXTINF:-1, PLANETE AE HD
+http://tv2iptv.com:8000/live/pierre/12345678/7408.ts
+#EXTINF:-1, PLANETE CI
+http://tv2iptv.com:8000/live/pierre/12345678/7407.ts
+#EXTINF:-1, PLANETE HD
+http://tv2iptv.com:8000/live/pierre/12345678/7406.ts
+#EXTINF:-1, RmcDecouverte
+http://tv2iptv.com:8000/live/pierre/12345678/7405.ts
+#EXTINF:-1, RTL 9 HD
+http://tv2iptv.com:8000/live/pierre/12345678/7404.ts
+#EXTINF:-1, RTS Deux
+http://tv2iptv.com:8000/live/pierre/12345678/7403.ts
+#EXTINF:-1, RTS Un
+http://tv2iptv.com:8000/live/pierre/12345678/7402.ts
+#EXTINF:-1, SCIENCES VIE TV
+http://tv2iptv.com:8000/live/pierre/12345678/7401.ts
+#EXTINF:-1, SFR SPORT 1HD
+http://tv2iptv.com:8000/live/pierre/12345678/7400.ts
+#EXTINF:-1, SFR SPORT 2HD
+http://tv2iptv.com:8000/live/pierre/12345678/7399.ts
+#EXTINF:-1, SFR SPORT 3HD
+http://tv2iptv.com:8000/live/pierre/12345678/7398.ts
+#EXTINF:-1, Syfy
+http://tv2iptv.com:8000/live/pierre/12345678/7397.ts
+#EXTINF:-1, TEVA HD
+http://tv2iptv.com:8000/live/pierre/12345678/7396.ts
+#EXTINF:-1, TF1
+http://tv2iptv.com:8000/live/pierre/12345678/7395.ts
+#EXTINF:-1, TOUTE Histoire
+http://tv2iptv.com:8000/live/pierre/12345678/7394.ts
+#EXTINF:-1, Ushuaia HD
+http://tv2iptv.com:8000/live/pierre/12345678/7393.ts
+#EXTINF:-1, Voyage HD
+http://tv2iptv.com:8000/live/pierre/12345678/7392.ts
+#EXTINF:-1, W9 HD
+http://tv2iptv.com:8000/live/pierre/12345678/7391.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”France-PREMIUM-Wuffy_Player//OFFLINE”,
+
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,OFFLINE
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
@@ -4781,208 +5429,6 @@ http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
 
 #EXTINF:8 group-title=”Germany2-LOOP_ONE”,
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,KABEL 1 HD
-http://185.73.239.23:8000/live/adam/123456/4643.ts
-#EXTINF:-1,ZDF
-http://185.73.239.23:8000/live/adam/123456/5842.ts
-#EXTINF:-1,ZDF INFO  HD
-http://185.73.239.23:8000/live/adam/123456/4636.ts
-#EXTINF:-1,ORF 1 HD
-http://185.73.239.23:8000/live/adam/123456/4638.ts
-#EXTINF:-1,ORF 2 HD
-http://185.73.239.23:8000/live/adam/123456/4639.ts
-#EXTINF:-1,PRO 7 HD
-http://185.73.239.23:8000/live/adam/123456/4651.ts
-#EXTINF:-1,Pro7 Maxx HD
-http://185.73.239.23:8000/live/adam/123456/4652.ts
-#EXTINF:-1,RTL NITRO
-http://185.73.239.23:8000/live/adam/123456/4646.ts
-#EXTINF:-1,RTL 2 HD
-http://185.73.239.23:8000/live/adam/123456/4645.ts
-#EXTINF:-1,RTL CRIME
-http://185.73.239.23:8000/live/adam/123456/4663.ts
-#EXTINF:-1,RTL HD
-http://185.73.239.23:8000/live/adam/123456/4644.ts
-#EXTINF:-1,RTL LIVING HD
-http://185.73.239.23:8000/live/adam/123456/4648.ts
-#EXTINF:-1,RTL PASSION HD
-http://185.73.239.23:8000/live/adam/123456/4662.ts
-#EXTINF:-1,SUPER RTL HD
-http://185.73.239.23:8000/live/adam/123456/4650.ts
-#EXTINF:-1,SYFY HD  (de)
-http://185.73.239.23:8000/live/adam/123456/4678.ts
-#EXTINF:-1,SAT1 HD
-http://185.73.239.23:8000/live/adam/123456/4642.ts
-#EXTINF:-1,Sixx HD
-http://185.73.239.23:8000/live/adam/123456/4640.ts
-#EXTINF:-1,TNT FILM  HD
-http://185.73.239.23:8000/live/adam/123456/7747.ts
-#EXTINF:-1,TNT Glitz HD
-http://185.73.239.23:8000/live/adam/123456/4655.ts
-#EXTINF:-1,TNT SERIES HD  (de)
-http://185.73.239.23:8000/live/adam/123456/4676.ts
-#EXTINF:-1,TNT SERIES  HD
-http://185.73.239.23:8000/live/adam/123456/7748.ts
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://185.73.239.23:8000/live/adam/123456/7741.ts
-#EXTINF:-1,VOX HD
-http://185.73.239.23:8000/live/adam/123456/4637.ts
-#EXTINF:-1,13th Street HD (de)
-http://185.73.239.23:8000/live/adam/123456/4677.ts
-#EXTINF:-1,Comedy Central (de)
-http://185.73.239.23:8000/live/adam/123456/4658.ts
-#EXTINF:-1,DAS ERSTE  HD
-http://185.73.239.23:8000/live/adam/123456/4657.ts
-#EXTINF:-1,DISNEY CINEMAGIC HD
-http://185.73.239.23:8000/live/adam/123456/4682.ts
-#EXTINF:-1,DISNEY JUNIOR HD (de)
-http://185.73.239.23:8000/live/adam/123456/4680.ts
-#EXTINF:-1,DISNEY XD HD  (de)
-http://185.73.239.23:8000/live/adam/123456/4681.ts
-#EXTINF:-1,FILME (de)
-http://185.73.239.23:8000/live/adam/123456/7780.ts
-#EXTINF:-1,FOX HD (de)
-http://185.73.239.23:8000/live/adam/123456/4660.ts
-#EXTINF:-1,KINO WELT TV HD
-http://185.73.239.23:8000/live/adam/123456/7744.ts
-#EXTINF:-1,MGM HD
-http://185.73.239.23:8000/live/adam/123456/4669.ts
-#EXTINF:-1,AUTO MOTOR SPORT HD
-http://185.73.239.23:8000/live/adam/123456/4666.ts
-#EXTINF:-1,N24 News HD
-http://185.73.239.23:8000/live/adam/123456/4656.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD (de)
-http://185.73.239.23:8000/live/adam/123456/4665.ts
-#EXTINF:-1,SKY NOSTALGIE HD (de)
-http://185.73.239.23:8000/live/adam/123456/7745.ts
-#EXTINF:-1,SKY  ACTION  HD(de)
-http://185.73.239.23:8000/live/adam/123456/4672.ts
-#EXTINF:-1,SKY COMEDY HD (de)
-http://185.73.239.23:8000/live/adam/123456/4673.ts
-#EXTINF:-1,SKY 1 HD
-http://185.73.239.23:8000/live/adam/123456/7726.ts
-#EXTINF:-1,SKY ATLANTIC HD  (de)
-http://185.73.239.23:8000/live/adam/123456/4675.ts
-#EXTINF:-1,SKY CINEMA 24 HD
-http://185.73.239.23:8000/live/adam/123456/4671.ts
-#EXTINF:-1,SKY CINEMA HD DE
-http://185.73.239.23:8000/live/adam/123456/4670.ts
-#EXTINF:-1,SKY EMOTION HD (de)
-http://185.73.239.23:8000/live/adam/123456/4674.ts
-#EXTINF:-1,SKY NOSTALGIE HD
-http://185.73.239.23:8000/live/adam/123456/4664.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://185.73.239.23:8000/live/adam/123456/4686.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://185.73.239.23:8000/live/adam/123456/4687.ts
-#EXTINF:-1,SKY SPORT NEWS HD
-http://185.73.239.23:8000/live/adam/123456/4685.ts
-#EXTINF:-1,SONY ENTERTAINMENT TV HD
-http://185.73.239.23:8000/live/adam/123456/7736.ts
-#EXTINF:-1,SPORT1 US HD
-http://185.73.239.23:8000/live/adam/123456/4684.ts
-#EXTINF:-1,SPORT DiGiTAL HD
-http://185.73.239.23:8000/live/adam/123456/7797.ts
-#EXTINF:-1,Boomerang HD (de)
-http://185.73.239.23:8000/live/adam/123456/7766.ts
-#EXTINF:-1,Cartoon Network HD (de)
-http://185.73.239.23:8000/live/adam/123456/7772.ts
-#EXTINF:-1,Eurosport (de)
-http://185.73.239.23:8000/live/adam/123456/7793.ts
-#EXTINF:-1,Eurosport 1HD
-http://185.73.239.23:8000/live/adam/123456/7792.ts
-#EXTINF:-1,HEIMAT KANAL
-http://185.73.239.23:8000/live/adam/123456/7762.ts
-#EXTINF:-1,Nick Jr. HD (de)
-http://185.73.239.23:8000/live/adam/123456/7770.ts
-#EXTINF:-1,SKY CINEMA HITS HD
-http://185.73.239.23:8000/live/adam/123456/7728.ts
-#EXTINF:-1,SKY KRIMI HD (de)
-http://185.73.239.23:8000/live/adam/123456/7746.ts
-#EXTINF:-1,TNT COMEDY  HD
-http://185.73.239.23:8000/live/adam/123456/7749.ts
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://185.73.239.23:8000/live/adam/123456/7729.ts
-#EXTINF:-1,DISCOVERY CHANNEL  HD
-http://185.73.239.23:8000/live/adam/123456/7754.ts
-#EXTINF:-1,Disney Channel HD (de)
-http://185.73.239.23:8000/live/adam/123456/7769.ts
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://185.73.239.23:8000/live/adam/123456/7751.ts
-#EXTINF:-1,PLANET A&E HD
-http://185.73.239.23:8000/live/adam/123456/7750.ts
-#EXTINF:-1,Animal Planet HD (de)
-http://185.73.239.23:8000/live/adam/123456/7758.ts
-#EXTINF:-1,HISTORY CHANNEL HD
-http://185.73.239.23:8000/live/adam/123456/7759.ts
-#EXTINF:-1,NAT GEO PEOPLE HD  (de)
-http://185.73.239.23:8000/live/adam/123456/7757.ts
-#EXTINF:-1,NAT GEO WILD  HD
-http://185.73.239.23:8000/live/adam/123456/7756.ts
-#EXTINF:-1,Sport 1 HD (de)
-http://185.73.239.23:8000/live/adam/123456/7800.ts
-#EXTINF:-1,Goldstar
-http://185.73.239.23:8000/live/adam/123456/7752.ts
-#EXTINF:-1,Planet HD
-http://185.73.239.23:8000/live/adam/123456/7753.ts
-#EXTINF:-1,SPIEGEL GESCHICTHE HD
-http://185.73.239.23:8000/live/adam/123456/7760.ts
-#EXTINF:-1,Spiegel TV Wissen HD
-http://185.73.239.23:8000/live/adam/123456/7763.ts
-#EXTINF:-1,WWE HD
-http://185.73.239.23:8000/live/adam/123456/7791.ts
-#EXTINF:-1,WWE Net Pak US
-http://185.73.239.23:8000/live/adam/123456/7790.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://185.73.239.23:8000/live/adam/123456/4683.ts
-#EXTINF:-1,SKY Select 1 HD
-http://185.73.239.23:8000/live/adam/123456/7781.ts
-#EXTINF:-1,SKY Select 2 HD
-http://185.73.239.23:8000/live/adam/123456/7782.ts
-#EXTINF:-1,SKY Select 3 HD
-http://185.73.239.23:8000/live/adam/123456/7783.ts
-#EXTINF:-1,SKY Select 4 HD
-http://185.73.239.23:8000/live/adam/123456/7784.ts
-#EXTINF:-1,SKY Select 5 HD
-http://185.73.239.23:8000/live/adam/123456/7785.ts
-#EXTINF:-1,SKY Select 6 HD
-http://185.73.239.23:8000/live/adam/123456/7786.ts
-#EXTINF:-1,SKY Select 7 HD
-http://185.73.239.23:8000/live/adam/123456/7787.ts
-#EXTINF:-1,SKY Select  8 HD
-http://185.73.239.23:8000/live/adam/123456/7788.ts
-#EXTINF:-1,SKY Select 9 HD
-http://185.73.239.23:8000/live/adam/123456/7789.ts
-#EXTINF:-1,Sky Select 10 HD
-http://185.73.239.23:8000/live/adam/123456/9665.ts
-
-
 
 
 
@@ -5104,263 +5550,263 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,DE:3SAT_HD
+#EXTINF:-1,3SAT HD
 http://tv2iptv.com:8000/live/pierre/12345678/7993.ts
-#EXTINF:-1,DE:ANIXE
+#EXTINF:-1,ANIXE
 http://tv2iptv.com:8000/live/pierre/12345678/7991.ts
-#EXTINF:-1,DE:ARD_1
+#EXTINF:-1,ARD 1
 http://tv2iptv.com:8000/live/pierre/12345678/7990.ts
-#EXTINF:-1,DE:Arte
+#EXTINF:-1,Arte
 http://tv2iptv.com:8000/live/pierre/12345678/7989.ts
-#EXTINF:-1,DE:ATV
+#EXTINF:-1,ATV
 http://tv2iptv.com:8000/live/pierre/12345678/7988.ts
-#EXTINF:-1,DE:ATV //
+#EXTINF:-1,ATV
 http://tv2iptv.com:8000/live/pierre/12345678/7987.ts
-#EXTINF:-1,DE:austria_24
+#EXTINF:-1,austria 24
 http://tv2iptv.com:8000/live/pierre/12345678/7986.ts
-#EXTINF:-1,DE:AXN
+#EXTINF:-1,AXN
 http://tv2iptv.com:8000/live/pierre/12345678/7985.ts
-#EXTINF:-1,DE:A_and_E
+#EXTINF:-1,A and E
 http://tv2iptv.com:8000/live/pierre/12345678/7992.ts
-#EXTINF:-1,DE:Boomerang
+#EXTINF:-1,Boomerang
 http://tv2iptv.com:8000/live/pierre/12345678/7984.ts
-#EXTINF:-1,DE:Cartoon_Network
+#EXTINF:-1,Cartoon Network
 http://tv2iptv.com:8000/live/pierre/12345678/7983.ts
-#EXTINF:-1,DE:DAS_ERSTE
+#EXTINF:-1,DAS ERSTE
 http://tv2iptv.com:8000/live/pierre/12345678/7982.ts
-#EXTINF:-1,DE:Deluxe-Music-hd
+#EXTINF:-1,Deluxe-Music-hd
 http://tv2iptv.com:8000/live/pierre/12345678/7981.ts
-#EXTINF:-1,DE:Discovery
+#EXTINF:-1,Discovery
 http://tv2iptv.com:8000/live/pierre/12345678/7980.ts
-#EXTINF:-1,DE:Disney_Channel_HD
+#EXTINF:-1,Disney Channel HD
 http://tv2iptv.com:8000/live/pierre/12345678/7979.ts
-#EXTINF:-1,DE:Disney_Cinemagic_HD
+#EXTINF:-1,Disney Cinemagic HD
 http://tv2iptv.com:8000/live/pierre/12345678/7978.ts
-#EXTINF:-1,DE:Disney_Junior_HD
+#EXTINF:-1,Disney Junior HD
 http://tv2iptv.com:8000/live/pierre/12345678/7977.ts
-#EXTINF:-1,DE:DMAX
+#EXTINF:-1,DMAX
 http://tv2iptv.com:8000/live/pierre/12345678/7976.ts
-#EXTINF:-1,DE:E! Entertainment
+#EXTINF:-1,E! Entertainment
 http://tv2iptv.com:8000/live/pierre/12345678/7975.ts
-#EXTINF:-1,DE:Eurosport 2 Xtra HD
+#EXTINF:-1,Eurosport 2 Xtra HD
 http://tv2iptv.com:8000/live/pierre/12345678/7974.ts
-#EXTINF:-1,DE:Eurosport_2_HD
+#EXTINF:-1,Eurosport 2 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7973.ts
-#EXTINF:-1,DE:Eurosport_HD
+#EXTINF:-1,Eurosport HD
 http://tv2iptv.com:8000/live/pierre/12345678/7972.ts
-#EXTINF:-1,DE:FILM GOLD 1
+#EXTINF:-1,FILM GOLD 1
 http://tv2iptv.com:8000/live/pierre/12345678/7970.ts
-#EXTINF:-1,DE:FILM GOLD 2
+#EXTINF:-1,FILM GOLD 2
 http://tv2iptv.com:8000/live/pierre/12345678/7969.ts
-#EXTINF:-1,DE:FILM GOLD 3
+#EXTINF:-1,FILM GOLD 3
 http://tv2iptv.com:8000/live/pierre/12345678/7968.ts
-#EXTINF:-1,DE:FILM GOLD 4
+#EXTINF:-1,FILM GOLD 4
 http://tv2iptv.com:8000/live/pierre/12345678/7967.ts
-#EXTINF:-1,DE:FILM GOLD 5
+#EXTINF:-1,FILM GOLD 5
 http://tv2iptv.com:8000/live/pierre/12345678/7966.ts
-#EXTINF:-1,DE:Folx Tv
+#EXTINF:-1,Folx Tv
 http://tv2iptv.com:8000/live/pierre/12345678/7965.ts
-#EXTINF:-1,DE:Fox_HD
+#EXTINF:-1,Fox HD
 http://tv2iptv.com:8000/live/pierre/12345678/7964.ts
-#EXTINF:-1,DE:GOLDSTAR TV
+#EXTINF:-1,GOLDSTAR TV
 http://tv2iptv.com:8000/live/pierre/12345678/7963.ts
-#EXTINF:-1,DE:Heimatkanal
+#EXTINF:-1,Heimatkanal
 http://tv2iptv.com:8000/live/pierre/12345678/7962.ts
-#EXTINF:-1,DE:History_HD
+#EXTINF:-1,History HD
 http://tv2iptv.com:8000/live/pierre/12345678/7961.ts
-#EXTINF:-1,DE:Hr HD
+#EXTINF:-1,Hr HD
 http://tv2iptv.com:8000/live/pierre/12345678/7960.ts
-#EXTINF:-1,DE:Jukebox HD
+#EXTINF:-1,Jukebox HD
 http://tv2iptv.com:8000/live/pierre/12345678/7959.ts
-#EXTINF:-1,DE:KABEL 1 Classics
+#EXTINF:-1,KABEL 1 Classics
 http://tv2iptv.com:8000/live/pierre/12345678/7958.ts
-#EXTINF:-1,DE:Kabel 1 Doku
+#EXTINF:-1,Kabel 1 Doku
 http://tv2iptv.com:8000/live/pierre/12345678/7957.ts
-#EXTINF:-1,DE:KABEL1_HD
+#EXTINF:-1,KABEL1 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7956.ts
-#EXTINF:-1,DE:Kika_HD
+#EXTINF:-1,Kika HD
 http://tv2iptv.com:8000/live/pierre/12345678/7955.ts
-#EXTINF:-1,DE:Kinowelt_Tv
+#EXTINF:-1,Kinowelt Tv
 http://tv2iptv.com:8000/live/pierre/12345678/7954.ts
-#EXTINF:-1,DE:Motorvision_TV
+#EXTINF:-1,Motorvision TV
 http://tv2iptv.com:8000/live/pierre/12345678/7953.ts
-#EXTINF:-1,DE:N-TV
+#EXTINF:-1,N-TV
 http://tv2iptv.com:8000/live/pierre/12345678/7952.ts
-#EXTINF:-1,DE:N24_HD
+#EXTINF:-1,N24 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7951.ts
-#EXTINF:-1,DE:National_Geo_HD
+#EXTINF:-1,National Geo HD
 http://tv2iptv.com:8000/live/pierre/12345678/7948.ts
-#EXTINF:-1,DE:Nat_Geo_People
+#EXTINF:-1,Nat Geo People
 http://tv2iptv.com:8000/live/pierre/12345678/7950.ts
-#EXTINF:-1,DE:Nat_Geo_Wild
+#EXTINF:-1,Nat Geo Wild
 http://tv2iptv.com:8000/live/pierre/12345678/7949.ts
-#EXTINF:-1,DE:NDR_HD
+#EXTINF:-1,NDR HD
 http://tv2iptv.com:8000/live/pierre/12345678/7947.ts
-#EXTINF:-1,DE:Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://tv2iptv.com:8000/live/pierre/12345678/7946.ts
-#EXTINF:-1,DE:ORF EINS
+#EXTINF:-1,ORF EINS
 http://tv2iptv.com:8000/live/pierre/12345678/7945.ts
-#EXTINF:-1,DE:ORF_1
+#EXTINF:-1,ORF 1
 http://tv2iptv.com:8000/live/pierre/12345678/7944.ts
-#EXTINF:-1,DE:ORF_2_HD
+#EXTINF:-1,ORF 2 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7943.ts
-#EXTINF:-1,DE:ORF_3
+#EXTINF:-1,ORF 3
 http://tv2iptv.com:8000/live/pierre/12345678/7942.ts
-#EXTINF:-1,DE:ORF_Sport
+#EXTINF:-1,ORF Sport
 http://tv2iptv.com:8000/live/pierre/12345678/7941.ts
-#EXTINF:-1,DE:Pro7
+#EXTINF:-1,Pro7
 http://tv2iptv.com:8000/live/pierre/12345678/7940.ts
-#EXTINF:-1,DE:Pro7_Fun_HD
+#EXTINF:-1,Pro7 Fun HD
 http://tv2iptv.com:8000/live/pierre/12345678/7939.ts
-#EXTINF:-1,DE:Pro7_Maxx_HD
+#EXTINF:-1,Pro7 Maxx HD
 http://tv2iptv.com:8000/live/pierre/12345678/7938.ts
-#EXTINF:-1,DE:Puls_4
+#EXTINF:-1,Puls 4
 http://tv2iptv.com:8000/live/pierre/12345678/7937.ts
-#EXTINF:-1,DE:Romance_TV_HD
+#EXTINF:-1,Romance TV HD
 http://tv2iptv.com:8000/live/pierre/12345678/7936.ts
-#EXTINF:-1,DE:RTL
+#EXTINF:-1,RTL
 http://tv2iptv.com:8000/live/pierre/12345678/7935.ts
-#EXTINF:-1,DE:RTL2_HD
+#EXTINF:-1,RTL2 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7930.ts
-#EXTINF:-1,DE:RTL_Crime_HD
+#EXTINF:-1,RTL Crime HD
 http://tv2iptv.com:8000/live/pierre/12345678/7934.ts
-#EXTINF:-1,DE:RTL_LIVING
+#EXTINF:-1,RTL LIVING
 http://tv2iptv.com:8000/live/pierre/12345678/7933.ts
-#EXTINF:-1,DE:RTL_Nitro
+#EXTINF:-1,RTL Nitro
 http://tv2iptv.com:8000/live/pierre/12345678/7932.ts
-#EXTINF:-1,DE:RTL_Passion
+#EXTINF:-1,RTL Passion
 http://tv2iptv.com:8000/live/pierre/12345678/7931.ts
-#EXTINF:-1,DE:Sat_1
+#EXTINF:-1,Sat 1
 http://tv2iptv.com:8000/live/pierre/12345678/7929.ts
-#EXTINF:-1,DE:Sat_1_Gold
+#EXTINF:-1,Sat 1 Gold
 http://tv2iptv.com:8000/live/pierre/12345678/7928.ts
-#EXTINF:-1,DE:Servus_TV
+#EXTINF:-1,Servus TV
 http://tv2iptv.com:8000/live/pierre/12345678/7927.ts
-#EXTINF:-1,DE:Sixx_HD
+#EXTINF:-1,Sixx HD
 http://tv2iptv.com:8000/live/pierre/12345678/7926.ts
-#EXTINF:-1,DE:Sky_1
+#EXTINF:-1,Sky 1
 http://tv2iptv.com:8000/live/pierre/12345678/7925.ts
-#EXTINF:-1,DE:Sky_3D
+#EXTINF:-1,Sky 3D
 http://tv2iptv.com:8000/live/pierre/12345678/7924.ts
-#EXTINF:-1,DE:Sky_Action
+#EXTINF:-1,Sky Action
 http://tv2iptv.com:8000/live/pierre/12345678/7923.ts
-#EXTINF:-1,DE:Sky_Arts
+#EXTINF:-1,Sky Arts
 http://tv2iptv.com:8000/live/pierre/12345678/7922.ts
-#EXTINF:-1,DE:Sky_Atlantic_HD
+#EXTINF:-1,Sky Atlantic HD
 http://tv2iptv.com:8000/live/pierre/12345678/7921.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_1_HD
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7920.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_2_HD
+#EXTINF:-1,SKY BUNDESLIGA 2 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7919.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_3_HD_(Match_Time_only)
+#EXTINF:-1,SKY BUNDESLIGA 3 HD (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7918.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_4_HD_(Match_Time_only)
+#EXTINF:-1,SKY BUNDESLIGA 4 HD (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7917.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_5_HD_(Match_Time_only)
+#EXTINF:-1,SKY BUNDESLIGA 5 HD (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7916.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_6_HD_(Match_Time_only)
+#EXTINF:-1,SKY BUNDESLIGA 6 HD (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7915.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_7_HD_(Match_Time_only)
+#EXTINF:-1,SKY BUNDESLIGA 7 HD (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7914.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_8_HD_(Match_Time_only)
+#EXTINF:-1,SKY BUNDESLIGA 8 HD (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7913.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_9_HD_(Match_Time_only)
+#EXTINF:-1,SKY BUNDESLIGA 9 HD (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7912.ts
-#EXTINF:-1,DE:Sky_Cinema
+#EXTINF:-1,Sky Cinema
 http://tv2iptv.com:8000/live/pierre/12345678/7911.ts
-#EXTINF:-1,DE:Sky_Cinema-24
+#EXTINF:-1,Sky Cinema-24
 http://tv2iptv.com:8000/live/pierre/12345678/7910.ts
-#EXTINF:-1,DE:Sky_Comedy
+#EXTINF:-1,Sky Comedy
 http://tv2iptv.com:8000/live/pierre/12345678/7909.ts
-#EXTINF:-1,DE:Sky_Emotion
+#EXTINF:-1,Sky Emotion
 http://tv2iptv.com:8000/live/pierre/12345678/7908.ts
-#EXTINF:-1,DE:Sky_Hits_HD
+#EXTINF:-1,Sky Hits HD
 http://tv2iptv.com:8000/live/pierre/12345678/7907.ts
-#EXTINF:-1,DE:Sky_Krimi
+#EXTINF:-1,Sky Krimi
 http://tv2iptv.com:8000/live/pierre/12345678/7906.ts
-#EXTINF:-1,DE:Sky_Nostalgie
+#EXTINF:-1,Sky Nostalgie
 http://tv2iptv.com:8000/live/pierre/12345678/7905.ts
-#EXTINF:-1,DE:Sky_Planet_HD
+#EXTINF:-1,Sky Planet HD
 http://tv2iptv.com:8000/live/pierre/12345678/7904.ts
-#EXTINF:-1,DE:SKY_SELECT_1_HD
+#EXTINF:-1,SKY SELECT 1 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7903.ts
-#EXTINF:-1,DE:SKY_SELECT_2_HD
+#EXTINF:-1,SKY SELECT 2 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7902.ts
-#EXTINF:-1,DE:SKY_SELECT_3_HD
+#EXTINF:-1,SKY SELECT 3 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7901.ts
-#EXTINF:-1,DE:SKY_SELECT_4_HD
+#EXTINF:-1,SKY SELECT 4 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7900.ts
-#EXTINF:-1,DE:SKY_SELECT_5_HD
+#EXTINF:-1,SKY SELECT 5 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7899.ts
-#EXTINF:-1,DE:SKY_SELECT_6_HD
+#EXTINF:-1,SKY SELECT 6 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7898.ts
-#EXTINF:-1,DE:SKY_SELECT_7_HD
+#EXTINF:-1,SKY SELECT 7 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7897.ts
-#EXTINF:-1,DE:SKY_SELECT_8_HD
+#EXTINF:-1,SKY SELECT 8 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7896.ts
-#EXTINF:-1,DE:Sky_Sports_HD_1
+#EXTINF:-1,Sky Sports HD 1
 http://tv2iptv.com:8000/live/pierre/12345678/7892.ts
-#EXTINF:-1,DE:Sky_Sports_HD_3_(Match_Time_only)
+#EXTINF:-1,Sky Sports HD 3 (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7890.ts
-#EXTINF:-1,DE:Sky_Sports_HD_4_(Match_Time_only)
+#EXTINF:-1,Sky Sports HD 4 (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7889.ts
-#EXTINF:-1,DE:Sky_Sports_HD_5_(Match_Time_only)
+#EXTINF:-1,Sky Sports HD 5 (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7888.ts
-#EXTINF:-1,DE:Sky_Sports_HD_6_(Match_Time_only)
+#EXTINF:-1,Sky Sports HD 6 (Match Time only)
 http://tv2iptv.com:8000/live/pierre/12345678/7887.ts
-#EXTINF:-1,DE:Sky_Sport_Austria_HD
+#EXTINF:-1,Sky Sport Austria HD
 http://tv2iptv.com:8000/live/pierre/12345678/7895.ts
-#EXTINF:-1,DE:SKY_Sport_News_HD
+#EXTINF:-1,SKY Sport News HD
 http://tv2iptv.com:8000/live/pierre/12345678/7894.ts
-#EXTINF:-1,DE:Sky_Sport_Plus_1_HD
+#EXTINF:-1,Sky Sport Plus 1 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7893.ts
-#EXTINF:-1,DE:Sky_TNT_Serie_HD
+#EXTINF:-1,Sky TNT Serie HD
 http://tv2iptv.com:8000/live/pierre/12345678/7886.ts
-#EXTINF:-1,DE:Sony HD
+#EXTINF:-1,Sony HD
 http://tv2iptv.com:8000/live/pierre/12345678/7885.ts
-#EXTINF:-1,DE:Spiegel_Geschichte_HD
+#EXTINF:-1,Spiegel Geschichte HD
 http://tv2iptv.com:8000/live/pierre/12345678/7884.ts
-#EXTINF:-1,DE:Sport-DigitaL_HD
+#EXTINF:-1,Sport-DigitaL HD
 http://tv2iptv.com:8000/live/pierre/12345678/7883.ts
-#EXTINF:-1,DE:Sport1_US_HD
+#EXTINF:-1,Sport1 US HD
 http://tv2iptv.com:8000/live/pierre/12345678/7882.ts
-#EXTINF:-1,DE:SRF_1_HD
+#EXTINF:-1,SRF 1 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7881.ts
-#EXTINF:-1,DE:SRF_2_HD
+#EXTINF:-1,SRF 2 HD
 http://tv2iptv.com:8000/live/pierre/12345678/7880.ts
-#EXTINF:-1,DE:SUPER_RTL
+#EXTINF:-1,SUPER RTL
 http://tv2iptv.com:8000/live/pierre/12345678/7879.ts
-#EXTINF:-1,DE:SWR
+#EXTINF:-1,SWR
 http://tv2iptv.com:8000/live/pierre/12345678/7878.ts
-#EXTINF:-1,DE:Syfy_HD
+#EXTINF:-1,Syfy HD
 http://tv2iptv.com:8000/live/pierre/12345678/7877.ts
-#EXTINF:-1,DE:Tele-5-hd
+#EXTINF:-1,Tele-5-hd
 http://tv2iptv.com:8000/live/pierre/12345678/7876.ts
-#EXTINF:-1,DE:Tlc-hd
+#EXTINF:-1,Tlc-hd
 http://tv2iptv.com:8000/live/pierre/12345678/7875.ts
-#EXTINF:-1,DE:TNT_Comedy
+#EXTINF:-1,TNT Comedy
 http://tv2iptv.com:8000/live/pierre/12345678/7874.ts
-#EXTINF:-1,DE:TNT_Film
+#EXTINF:-1,TNT Film
 http://tv2iptv.com:8000/live/pierre/12345678/7873.ts
-#EXTINF:-1,DE:TOGGO_Plus
+#EXTINF:-1,TOGGO Plus
 http://tv2iptv.com:8000/live/pierre/12345678/7872.ts
-#EXTINF:-1,DE:Universal_HD
+#EXTINF:-1,Universal HD
 http://tv2iptv.com:8000/live/pierre/12345678/7871.ts
-#EXTINF:-1,DE:VH1
+#EXTINF:-1,VH1
 http://tv2iptv.com:8000/live/pierre/12345678/7870.ts
-#EXTINF:-1,DE:Viva_and_Comedy_Central
+#EXTINF:-1,Viva and Comedy Central
 http://tv2iptv.com:8000/live/pierre/12345678/7869.ts
-#EXTINF:-1,DE:VOX
+#EXTINF:-1,VOX
 http://tv2iptv.com:8000/live/pierre/12345678/7868.ts
-#EXTINF:-1,DE:WDR
+#EXTINF:-1,WDR
 http://tv2iptv.com:8000/live/pierre/12345678/7867.ts
-#EXTINF:-1,DE:ZDF
+#EXTINF:-1,ZDF
 http://tv2iptv.com:8000/live/pierre/12345678/7866.ts
-#EXTINF:-1,DE:ZDF_Info
+#EXTINF:-1,ZDF Info
 http://tv2iptv.com:8000/live/pierre/12345678/7865.ts
-#EXTINF:-1,DE:ZDF_Neo
+#EXTINF:-1,ZDF Neo
 http://tv2iptv.com:8000/live/pierre/12345678/7864.ts
-#EXTINF:-1,DE:ZEE_ONE
+#EXTINF:-1,ZEE ONE
 http://tv2iptv.com:8000/live/pierre/12345678/7863.ts
 
 
@@ -5463,11 +5909,13 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/60.ts|use
 
 
 
-#EXTINF:8 group-title=”Germany2-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Germany2-PREMIUM-Wuffy_Player//OFFLINE”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
 http://..........
 
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,OFFLINE
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
@@ -6080,174 +6528,7 @@ http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8
 
 
 
-
-
 #EXTINF:8 group-title=”Spain2”,
-
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,CANAL COCINA
-http://185.184.90.129:8000/play/a01w
-#EXTINF:-1,#0 HD
-http://185.184.90.129:8000/play/a016
-#EXTINF:-1,CANAL DECASA
-http://185.184.90.129:8000/play/a028
-#EXTINF:-1,M. GOLF
-http://185.184.90.129:8000/play/a01z
-#EXTINF:-1,AXN WHITE HD
-http://185.184.90.129:8000/play/a01l
-#EXTINF:-1,M. GOLF HD
-http://185.184.90.129:8000/play/a01c
-#EXTINF:-1,M.MOTOGPHD
-http://185.184.90.129:8000/play/a00m
-#EXTINF:-1,M. ACCIÂ©N HD
-http://185.184.90.129:8000/play/a00g
-#EXTINF:-1,SYFY HD
-http://185.184.90.129:8000/play/a01g
-#EXTINF:-1,TNT HD
-http://185.184.90.129:8000/play/a013
-#EXTINF:-1,TELEDEPORTE
-http://185.184.90.129:8000/play/a01v
-#EXTINF:-1,BEIN LALIGA
-http://185.184.90.129:8000/play/a02a
-#EXTINF:-1,AMC HD
-http://185.184.90.129:8000/play/a00n
-#EXTINF:-1,PLAYBOY TV
-http://185.184.90.129:8000/play/a021
-#EXTINF:-1,VIAJAR
-http://185.184.90.129:8000/play/a01t
-#EXTINF:-1,NAT GEOGRAPH
-http://185.184.90.129:8000/play/a023
-#EXTINF:-1,M. DCINE HD
-http://185.184.90.129:8000/play/a00h
-#EXTINF:-1,M. F.TBOL HD
-http://185.184.90.129:8000/play/a00d
-#EXTINF:-1,M. DEP 2 HD
-http://185.184.90.129:8000/play/a01j
-#EXTINF:-1,MEZZO LIVE HD
-http://185.184.90.129:8000/play/a00u
-#EXTINF:-1,M. SeriesXtraHD
-http://185.184.90.129:8000/play/a01b
-#EXTINF:-1,HOLLYWOODHD
-http://185.184.90.129:8000/play/a00i
-#EXTINF:-1,CANAL ODISEA
-http://185.184.90.129:8000/play/a020
-#EXTINF:-1,LALIGATV BAR
-http://185.184.90.129:8000/play/a027
-#EXTINF:-1,FOX LIFE HD
-http://185.184.90.129:8000/play/a01a
-#EXTINF:-1,M. F.TBOL
-http://185.184.90.129:8000/play/a024
-#EXTINF:-1,CALLE 13
-http://185.184.90.129:8000/play/a026
-#EXTINF:-1,BEIN LALIGA
-http://185.184.90.129:8000/play/a022
-#EXTINF:-1,M. SERIESXTRA
-http://185.184.90.129:8000/play/a01u
-#EXTINF:-1,M. ESTRENOS
-http://185.184.90.129:8000/play/a01n
-#EXTINF:-1,NICKELODEONHD
-http://185.184.90.129:8000/play/a00t
-#EXTINF:-1,DISNEY CH.
-http://185.184.90.129:8000/play/a01p
-#EXTINF:-1,TCM HD
-http://185.184.90.129:8000/play/a012
-#EXTINF:-1,MULTIDEP. 6
-http://185.184.90.129:8000/play/a01o
-#EXTINF:-1,NAT GEO HD
-http://185.184.90.129:8000/play/a00y
-#EXTINF:-1,M. DEP 1 HD
-http://185.184.90.129:8000/play/a00x
-#EXTINF:-1,FOX HD
-http://185.184.90.129:8000/play/a00f
-#EXTINF:-1,SYFY
-http://185.184.90.129:8000/play/a029
-#EXTINF:-1,TCM
-http://185.184.90.129:8000/play/a01r
-#EXTINF:-1,COMEDYCENTRALHD
-http://185.184.90.129:8000/play/a01e
-#EXTINF:-1,TOROS TV HD
-http://185.184.90.129:8000/play/a00z
-#EXTINF:-1,AMC
-http://185.184.90.129:8000/play/a01x
-#EXTINF:-1,COSMO HD
-http://185.184.90.129:8000/play/a01d
-#EXTINF:-1,DISNEY CH HD
-http://185.184.90.129:8000/play/a015
-#EXTINF:-1,M. DEP 1
-http://185.184.90.129:8000/play/a025
-#EXTINF:-1,VIAJAR HD
-http://185.184.90.129:8000/play/a01h
-#EXTINF:-1,M. XTRA HD
-http://185.184.90.129:8000/play/a01k
-#EXTINF:-1,NG WILD HD
-http://185.184.90.129:8000/play/a014
-#EXTINF:-1,LA SEXTA HD
-http://185.184.90.129:8000/play/a00r
-#EXTINF:-1,CALLE 13 HD
-http://185.184.90.129:8000/play/a00v
-#EXTINF:-1,COMEDY CENTRAL
-http://185.184.90.129:8000/play/a01s
-#EXTINF:-1,BEIN LALIGA
-http://185.184.90.129:8000/play/a00e
-#EXTINF:-1,ANTENA 3 HD
-http://185.184.90.129:8000/play/a00o
-#EXTINF:-1,M. SERIES HD
-http://185.184.90.129:8000/play/a011
-#EXTINF:-1,M. eSports
-http://185.184.90.129:8000/play/a01q
-#EXTINF:-1,BEIN LALIGA
-http://185.184.90.129:8000/play/a00j
-#EXTINF:-1,CAZAyPESCA HD
-http://185.184.90.129:8000/play/a017
-#EXTINF:-1,M.FORMULA1HD
-http://185.184.90.129:8000/play/a00l
-#EXTINF:-1,CUATRO HD
-http://185.184.90.129:8000/play/a00p
-#EXTINF:-1,TELECINCO HD
-http://185.184.90.129:8000/play/a00q
-#EXTINF:-1,EUROSPORT1HD
-http://185.184.90.129:8000/play/a00w
-#EXTINF:-1,M.ESTRENOSHD
-http://185.184.90.129:8000/play/a01i
-#EXTINF:-1,BEIN SPORTS
-http://185.184.90.129:8000/play/a019
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”Spain3”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
 http://..........
@@ -6318,175 +6599,13 @@ http://37.135.99.69:8000/play/a09g
 
 
 
-#EXTINF:8 group-title=”Spain4”,
-
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,CANAL COCINA
-http://spanish.iptvsat4k.net:8000/play/a01w
-#EXTINF:-1,#0 HD
-http://spanish.iptvsat4k.net:8000/play/a016
-#EXTINF:-1,CANAL DECASA
-http://spanish.iptvsat4k.net:8000/play/a028
-#EXTINF:-1,M. GOLF
-http://spanish.iptvsat4k.net:8000/play/a01z
-#EXTINF:-1,AXN WHITE HD
-http://spanish.iptvsat4k.net:8000/play/a01l
-#EXTINF:-1,M. GOLF HD
-http://spanish.iptvsat4k.net:8000/play/a01c
-#EXTINF:-1,M.MOTOGPHD
-http://spanish.iptvsat4k.net:8000/play/a00m
-#EXTINF:-1,M. ACCIÂ©N HD
-http://spanish.iptvsat4k.net:8000/play/a00g
-#EXTINF:-1,SYFY HD
-http://spanish.iptvsat4k.net:8000/play/a01g
-#EXTINF:-1,TNT HD
-http://spanish.iptvsat4k.net:8000/play/a013
-#EXTINF:-1,TELEDEPORTE
-http://spanish.iptvsat4k.net:8000/play/a01v
-#EXTINF:-1,BEIN LALIGA
-http://spanish.iptvsat4k.net:8000/play/a02a
-#EXTINF:-1,AMC HD
-http://spanish.iptvsat4k.net:8000/play/a00n
-#EXTINF:-1,PLAYBOY TV
-http://spanish.iptvsat4k.net:8000/play/a021
-#EXTINF:-1,VIAJAR
-http://spanish.iptvsat4k.net:8000/play/a01t
-#EXTINF:-1,NAT GEOGRAPH
-http://spanish.iptvsat4k.net:8000/play/a023
-#EXTINF:-1,M. DCINE HD
-http://spanish.iptvsat4k.net:8000/play/a00h
-#EXTINF:-1,M. F.TBOL HD
-http://spanish.iptvsat4k.net:8000/play/a00d
-#EXTINF:-1,M. DEP 2 HD
-http://spanish.iptvsat4k.net:8000/play/a01j
-#EXTINF:-1,MEZZO LIVE HD
-http://spanish.iptvsat4k.net:8000/play/a00u
-#EXTINF:-1,M. SeriesXtraHD
-http://spanish.iptvsat4k.net:8000/play/a01b
-#EXTINF:-1,HOLLYWOODHD
-http://spanish.iptvsat4k.net:8000/play/a00i
-#EXTINF:-1,CANAL ODISEA
-http://spanish.iptvsat4k.net:8000/play/a020
-#EXTINF:-1,LALIGATV BAR
-http://spanish.iptvsat4k.net:8000/play/a027
-#EXTINF:-1,FOX LIFE HD
-http://spanish.iptvsat4k.net:8000/play/a01a
-#EXTINF:-1,M. F.TBOL
-http://spanish.iptvsat4k.net:8000/play/a024
-#EXTINF:-1,CALLE 13
-http://spanish.iptvsat4k.net:8000/play/a026
-#EXTINF:-1,BEIN LALIGA
-http://spanish.iptvsat4k.net:8000/play/a022
-#EXTINF:-1,M. SERIESXTRA
-http://spanish.iptvsat4k.net:8000/play/a01u
-#EXTINF:-1,M. ESTRENOS
-http://spanish.iptvsat4k.net:8000/play/a01n
-#EXTINF:-1,NICKELODEONHD
-http://spanish.iptvsat4k.net:8000/play/a00t
-#EXTINF:-1,DISNEY CH.
-http://spanish.iptvsat4k.net:8000/play/a01p
-#EXTINF:-1,TCM HD
-http://spanish.iptvsat4k.net:8000/play/a012
-#EXTINF:-1,MULTIDEP. 6
-http://spanish.iptvsat4k.net:8000/play/a01o
-#EXTINF:-1,NAT GEO HD
-http://spanish.iptvsat4k.net:8000/play/a00y
-#EXTINF:-1,M. DEP 1 HD
-http://spanish.iptvsat4k.net:8000/play/a00x
-#EXTINF:-1,FOX HD
-http://spanish.iptvsat4k.net:8000/play/a00f
-#EXTINF:-1,SYFY
-http://spanish.iptvsat4k.net:8000/play/a029
-#EXTINF:-1,TCM
-http://spanish.iptvsat4k.net:8000/play/a01r
-#EXTINF:-1,COMEDYCENTRALHD
-http://spanish.iptvsat4k.net:8000/play/a01e
-#EXTINF:-1,TOROS TV HD
-http://spanish.iptvsat4k.net:8000/play/a00z
-#EXTINF:-1,AMC
-http://spanish.iptvsat4k.net:8000/play/a01x
-#EXTINF:-1,COSMO HD
-http://spanish.iptvsat4k.net:8000/play/a01d
-#EXTINF:-1,DISNEY CH HD
-http://spanish.iptvsat4k.net:8000/play/a015
-#EXTINF:-1,M. DEP 1
-http://spanish.iptvsat4k.net:8000/play/a025
-#EXTINF:-1,VIAJAR HD
-http://spanish.iptvsat4k.net:8000/play/a01h
-#EXTINF:-1,M. XTRA HD
-http://spanish.iptvsat4k.net:8000/play/a01k
-#EXTINF:-1,NG WILD HD
-http://spanish.iptvsat4k.net:8000/play/a014
-#EXTINF:-1,LA SEXTA HD
-http://spanish.iptvsat4k.net:8000/play/a00r
-#EXTINF:-1,CALLE 13 HD
-http://spanish.iptvsat4k.net:8000/play/a00v
-#EXTINF:-1,COMEDY CENTRAL
-http://spanish.iptvsat4k.net:8000/play/a01s
-#EXTINF:-1,BEIN LALIGA
-http://spanish.iptvsat4k.net:8000/play/a00e
-#EXTINF:-1,ANTENA 3 HD
-http://spanish.iptvsat4k.net:8000/play/a00o
-#EXTINF:-1,M. SERIES HD
-http://spanish.iptvsat4k.net:8000/play/a011
-#EXTINF:-1,M. eSports
-http://spanish.iptvsat4k.net:8000/play/a01q
-#EXTINF:-1,BEIN LALIGA
-http://spanish.iptvsat4k.net:8000/play/a00j
-#EXTINF:-1,CAZAyPESCA HD
-http://spanish.iptvsat4k.net:8000/play/a017
-#EXTINF:-1,M.FORMULA1HD
-http://spanish.iptvsat4k.net:8000/play/a00l
-#EXTINF:-1,CUATRO HD
-http://spanish.iptvsat4k.net:8000/play/a00p
-#EXTINF:-1,TELECINCO HD
-http://spanish.iptvsat4k.net:8000/play/a00q
-#EXTINF:-1,EUROSPORT1HD
-http://spanish.iptvsat4k.net:8000/play/a00w
-#EXTINF:-1,M.ESTRENOSHD
-http://spanish.iptvsat4k.net:8000/play/a01i
-#EXTINF:-1,BEIN SPORTS
-http://spanish.iptvsat4k.net:8000/play/a019
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”Spain5”,
+#EXTINF:8 group-title=”Spain3”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
 http://..........
@@ -6527,6 +6646,112 @@ http://flus0.sanpedrowifi.com/live/antena3.SD.IRD/mono.m3u8
 http://flus0.sanpedrowifi.com/live/cuatro.SD.IRD/mono.m3u8
 #EXTINF:-1,Telecinco 
 http://flus0.sanpedrowifi.com/live/ telecinco.SD.IRD/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”Spain4”,
+
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,TLC HD
+http://178.156.80.185:8090/TLC/playlist.m3u8
+#EXTINF:-1,TV12 HD
+http://178.156.80.185:8090/TV12/playlist.m3u8
+#EXTINF:-1,TV10
+http://178.156.80.185:8090/TV10/playlist.m3u8
+#EXTINF:-1,MTV
+http://178.156.80.185:8090/MTV/playlist.m3u8
+#EXTINF:-1,Eurosport2 HD
+http://178.156.80.185:8090/Eurosport2/playlist.m3u8
+#EXTINF:-1,Eurosport1 HD
+http://178.156.80.185:8090/Eurosport1/playlist.m3u8
+#EXTINF:-1,CartoonNetwork
+http://178.156.80.185:8090/CartoonNetwork/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”Spain5”,
+
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,TLC HD
+http://185.19.190.14:8090/TLC/playlist.m3u8
+#EXTINF:-1,TV12 HD
+http://185.19.190.14:8090/TV12/playlist.m3u8
+#EXTINF:-1,TV10
+http://185.19.190.14:8090/TV10/playlist.m3u8
+#EXTINF:-1,MTV
+http://185.19.190.14:8090/MTV/playlist.m3u8
+#EXTINF:-1,Eurosport2 HD
+http://185.19.190.14:8090/Eurosport2/playlist.m3u8
+#EXTINF:-1,Eurosport1 HD
+http://185.19.190.14:8090/Eurosport1/playlist.m3u8
+#EXTINF:-1,CartoonNetwork
+http://185.19.190.14:8090/CartoonNetwork/playlist.m3u8
+
+
 
 
 
@@ -7607,11 +7832,13 @@ http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/725.ts|us
 
 
 
-#EXTINF:8 group-title=”Portugal2-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Portugal2-PREMIUM-Wuffy_Player//OFFLINE”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
 http://..........
 
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,OFFLINE
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
@@ -7974,23 +8201,6 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,ESKA TV
-http://185.119.148.55:10001/bysid/27
-#EXTINF:-1,TTV
-http://185.119.148.55:10001/bysid/28
-#EXTINF:-1,Polo TV
-http://185.119.148.55:10001/bysid/29
-#EXTINF:-1,ATM Rozrywka
-http://185.119.148.55:10001/bysid/30
-#EXTINF:-1,TV Trwam
-http://185.119.148.55:10001/bysid/50
-#EXTINF:-1,TVP ABC
-http://185.119.148.55:10001/bysid/51
-#EXTINF:-1,Stopklatka TV
-http://185.119.148.55:10001/bysid/52
-#EXTINF:-1,Fokus TV
-http://185.119.148.55:10001/bysid/53
-
 #EXTINF:-1,TVP1 
 rtmp://192.99.31.176/standard/tvp1hd 
 #EXTINF:-1,TVP2 
@@ -8129,6 +8339,83 @@ mms://62.162.58.55/TVKanal21
 #EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif ,==Albania==
 http://..........
 
+#EXTINF:-1,Tring Max
+http://130.0.24.6:8888/udp/239.101.101.3:2345
+#EXTINF:-1,TRING Super
+http://130.0.24.6:8888/udp/239.101.101.2:2345
+#EXTINF:-1,Vizion +
+http://130.0.24.6:8888/udp/239.101.101.1:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.4:2345
+#EXTINF:-1,Comedy
+http://130.0.24.6:8888/udp/239.101.101.5:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.6:2345
+#EXTINF:-1,Kanali7
+http://130.0.24.6:8888/udp/239.101.101.7:2345
+#EXTINF:-1,Tring Planet
+http://130.0.24.6:8888/udp/239.101.101.9:2345
+#EXTINF:-1,Tring Shqip
+http://130.0.24.6:8888/udp/239.101.101.8:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.10:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.12:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.13:2345
+#EXTINF:-1,Tirana Tv
+http://130.0.24.6:8888/udp/239.101.101.14:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.15:2345
+#EXTINF:-1,Desire_1
+http://130.0.24.6:8888/udp/239.101.101.17:2345
+#EXTINF:-1,Kids
+http://130.0.24.6:8888/udp/239.101.101.16:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.18:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.19:2345
+#EXTINF:-1,N/A https://iptv.zone
+http://130.0.24.6:8888/udp/239.101.101.20:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.25:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.26:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.31:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.32:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.41:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.42:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.43:2345
+#EXTINF:-1,N/A
+http://130.0.24.6:8888/udp/239.101.101.45:2345
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,==Server2==
+http://....
+#EXTINF:-1,Supersport 1 
+http://91.205.173.193/hls/sports/ss1/stream.m3u8 
+#EXTINF:-1,Supersport 2 
+http://91.205.173.193/hls/sports/ss2/stream.m3u8 
+#EXTINF:-1,Supersport 3 
+http://91.205.173.193/hls/sports/ss3/stream.m3u8 
+#EXTINF:-1,Supersport 4 
+http://91.205.173.193/hls/sports/ss4/stream.m3u8 
+#EXTINF:-1,Supersport 1 
+http://91.205.173.193/hls/sports/ks1/stream.m3u8 
+#EXTINF:-1,Supersport 2 
+http://91.205.173.193/hls/sports/ks2/stream.m3u8 
+#EXTINF:-1,tring sport 1 
+http://91.205.173.193/hls/sports/ts1/stream.m3u8 
+#EXTINF:-1,tring sport 2 
+http://91.205.173.193/hls/sports/ts2/stream.m3u8 
+
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,==Server3==
+http://....
 #EXTINF:-1,rtv 21 mix
 http://5.135.92.130:5749/out/u/343_1.m3u8
 #EXTINF:-1,nat-geo channel
@@ -9377,6 +9664,134 @@ http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/436.ts|User-A
 
 
 
+#EXTINF:9 group-title=”India2-premium-MXPLAYER”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png ,==India==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,EPIC CHANNEL
+http://69.30.251.42:25461/live/image/old/3999.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,INVEST DISCOVERY HINDI
+http://69.30.251.42:25461/live/image/old/3681.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,DISCOVERY SCIENCE HINDI
+http://69.30.251.42:25461/live/image/old/3677.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,ANIMAL PLANET HINDI
+http://69.30.251.42:25461/live/image/old/3674.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,HISTORY 18 HINDI
+http://69.30.251.42:25461/live/image/old/3678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,ZEE TV
+http://69.30.251.42:25461/live/image/old/138.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,MANORAMA NEWS
+http://69.30.251.42:25461/live/image/old/352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,SAHARA FILMY
+http://69.30.251.42:25461/live/image/old/3683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,HOUSEFULL ACTION
+http://69.30.251.42:25461/live/image/old/3679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,HOUSEFULL MOVIES
+http://69.30.251.42:25461/live/image/old/3680.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,BHOJPURI CINEMA
+http://69.30.251.42:25461/live/image/old/3675.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,DESI BEATS
+http://69.30.251.42:25461/live/image/old/415.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,MUSIC XPRESS
+http://69.30.251.42:25461/live/image/old/424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,SAHARA SAMAY AALAMI
+http://69.30.251.42:25461/live/image/old/442.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,REPUBLIC NEWS TV
+http://69.30.251.42:25461/live/image/old/887.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,AAJ TAK UK
+http://69.30.251.42:25461/live/image/old/3643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,DESI FUSION
+http://69.30.251.42:25461/live/image/old/3623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,HEADLINE TODAY (NEWS)
+http://69.30.251.42:25461/live/image/old/3666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,NDTV INDIA (NEWS)
+http://69.30.251.42:25461/live/image/old/3654.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,NDTV PROFIT (NEWS)
+http://69.30.251.42:25461/live/image/old/3653.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,NEWS X (NEWS)
+http://69.30.251.42:25461/live/image/old/3664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,KHABRAIN ABHI TAK (NEWS)
+http://69.30.251.42:25461/live/image/old/3662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,KHABAR FAST (NEWS)
+http://69.30.251.42:25461/live/image/old/3663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,JANATA TV (NEWS)
+http://69.30.251.42:25461/live/image/old/3665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,AASTHA BHAJAN (BHAKTI)
+http://69.30.251.42:25461/live/image/old/3672.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,AASTHA TV (BHAKTI)
+http://69.30.251.42:25461/live/image/old/3671.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,ARIHANT (BHAKTI)
+http://69.30.251.42:25461/live/image/old/3670.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,BHAKTI SAGAR
+http://69.30.251.42:25461/live/image/old/3669.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,LAKSHYA TV
+http://69.30.251.42:25461/live/image/old/3667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,PEACE OF MIND
+http://69.30.251.42:25461/live/image/old/3673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,SANSKAR TV (BHAKTI)
+http://69.30.251.42:25461/live/image/old/3668.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,CNBC TV18 PRIME HD
+http://69.30.251.42:25461/live/image/old/3676.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,MTV BEATS HD /
+http://69.30.251.42:25461/live/image/old/3682.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,SONY EARTH HINDI HD /
+http://69.30.251.42:25461/live/image/old/3684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,SONY ROX HD
+http://69.30.251.42:25461/live/image/old/3685.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+#EXTINF:-1,TEN 1 HD
+http://69.30.251.42:25461/live/image/old/176.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=ksa123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9471,122 +9886,26 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-
-
-#EXTINF:-1,beIN SPORTS NEWS HD
-http://abc.myplay.live:8000/live/1223/1223/4029.ts
-#EXTINF:-1,beIN SPORTS 1HD
-http://abc.myplay.live:8000/live/1223/1223/50.ts
-#EXTINF:-1,beIN SPORTS 1HD
-http://abc.myplay.live:8000/live/1223/1223/4039.ts
-#EXTINF:-1,beIN SPORTS 2HD
-http://abc.myplay.live:8000/live/1223/1223/49.ts
-#EXTINF:-1,beIN SPORTS 2HD
-http://abc.myplay.live:8000/live/1223/1223/4038.ts
-#EXTINF:-1,beIN SPORTS 3HD
-http://abc.myplay.live:8000/live/1223/1223/48.ts
-#EXTINF:-1,beIN SPORTS 3HD
-http://abc.myplay.live:8000/live/1223/1223/4037.ts
-#EXTINF:-1,beIN SPORTS 4HD
-http://abc.myplay.live:8000/live/1223/1223/47.ts
-#EXTINF:-1,beIN SPORTS 4HD
-http://abc.myplay.live:8000/live/1223/1223/4036.ts
-#EXTINF:-1,beIN SPORTS 5HD
-http://abc.myplay.live:8000/live/1223/1223/46.ts
-#EXTINF:-1,beIN SPORTS 5HD
-http://abc.myplay.live:8000/live/1223/1223/4035.ts
-#EXTINF:-1,beIN SPORTS 6HD
-http://abc.myplay.live:8000/live/1223/1223/45.ts
-#EXTINF:-1,beIN SPORTS 6HD
-http://abc.myplay.live:8000/live/1223/1223/4034.ts
-#EXTINF:-1,beIN SPORTS 7HD
-http://abc.myplay.live:8000/live/1223/1223/44.ts
-#EXTINF:-1,beIN SPORTS 7HD
-http://abc.myplay.live:8000/live/1223/1223/4033.ts
-#EXTINF:-1,beIN SPORTS 8HD
-http://abc.myplay.live:8000/live/1223/1223/43.ts
-#EXTINF:-1,beIN SPORTS 8HD
-http://abc.myplay.live:8000/live/1223/1223/4032.ts
-#EXTINF:-1,beIN SPORTS 9HD
-http://abc.myplay.live:8000/live/1223/1223/42.ts
-#EXTINF:-1,beIN SPORTS 9HD
-http://abc.myplay.live:8000/live/1223/1223/4031.ts
-#EXTINF:-1,beIN SPORTS 10HD
-http://abc.myplay.live:8000/live/1223/1223/41.ts
-#EXTINF:-1,beIN SPORTS 10HD
-http://abc.myplay.live:8000/live/1223/1223/4030.ts
-#EXTINF:-1,beIN SPORTS 11HD EN
-http://abc.myplay.live:8000/live/1223/1223/40.ts
-#EXTINF:-1,beIN SPORTS 12HD EN
-http://abc.myplay.live:8000/live/1223/1223/39.ts
-#EXTINF:-1,beIN SPORTS 13HD EN
-http://abc.myplay.live:8000/live/1223/1223/38.ts
-#EXTINF:-1,beIN SPORTS 14HD
-http://abc.myplay.live:8000/live/1223/1223/37.ts
-#EXTINF:-1,beIN SPORTS NBA
-http://abc.myplay.live:8000/live/1223/1223/28.ts
-#EXTINF:-1,beIN MAX 1HD
-http://abc.myplay.live:8000/live/1223/1223/2626.ts
-#EXTINF:-1,beIN MAX 2HD
-http://abc.myplay.live:8000/live/1223/1223/2627.ts
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,==beIN MOVIES==
-http://.....
-#EXTINF:-1,beIN MOVIES 1 HD
-http://abc.myplay.live:8000/live/1223/1223/33.ts
-#EXTINF:-1,beIN MOVIES 2 HD
-http://abc.myplay.live:8000/live/1223/1223/32.ts
-#EXTINF:-1,beIN MOVIES 3 HD
-http://abc.myplay.live:8000/live/1223/1223/31.ts
-#EXTINF:-1,beIN MOVIES 4 HD
-http://abc.myplay.live:8000/live/1223/1223/30.ts
-#EXTINF:-1,beIN Fox Movies HD
-http://abc.myplay.live:8000/live/1223/1223/27.ts
-#EXTINF:-1,beIN Fox Action Movies HD
-http://abc.myplay.live:8000/live/1223/1223/2914.ts
-#EXTINF:-1,beIN Fox Family Movies HD
-http://abc.myplay.live:8000/live/1223/1223/2915.ts
-#EXTINF:-1,beIN Star Movies HD
-http://abc.myplay.live:8000/live/1223/1223/29.ts
-#EXTINF:-1,beIN Star World HD
-http://abc.myplay.live:8000/live/1223/1223/14.ts
-#EXTINF:-1,beIN SERIES HD
-http://abc.myplay.live:8000/live/1223/1223/2695.ts
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,==BeIN BoxOffice==
-http://.....
-#EXTINF:-1,beIN Box Office 1HD
-http://abc.myplay.live:8000/live/1223/1223/2741.ts
-#EXTINF:-1,beIN Box Office 2HD
-http://abc.myplay.live:8000/live/1223/1223/2740.ts
-#EXTINF:-1,beIN Box Office 3HD
-http://abc.myplay.live:8000/live/1223/1223/2739.ts
-#EXTINF:-1,beIN Box Office 4HD
-http://abc.myplay.live:8000/live/1223/1223/2738.ts
-#EXTINF:-1,beIN Box Office 5HD
-http://abc.myplay.live:8000/live/1223/1223/2737.ts
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,==beIN Ente==
-http://.....
-#EXTINF:-1,beIN Fatafeat HD
-http://abc.myplay.live:8000/live/1223/1223/13.ts
-#EXTINF:-1,beIN Nat Geo Wild HD
-http://abc.myplay.live:8000/live/1223/1223/2.ts
-#EXTINF:-1,beIN Animal Planet HD
-http://abc.myplay.live:8000/live/1223/1223/6.ts
-#EXTINF:-1,beIN DMAX
-http://abc.myplay.live:8000/live/1223/1223/12.ts
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,==beIN Kids==
-http://.....
-#EXTINF:-1,beIN Jeem HD
-http://abc.myplay.live:8000/live/1223/1223/5.ts
-#EXTINF:-1,beIN beJunir
-http://abc.myplay.live:8000/live/1223/1223/2622.ts
-#EXTINF:-1,beIN Baraem
-http://abc.myplay.live:8000/live/1223/1223/19.ts
-#EXTINF:-1,beIN Baby Tv
-http://abc.myplay.live:8000/live/1223/1223/1528.ts
-
-
-
-
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2171.ts
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2170.ts
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2169.ts
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2168.ts
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2167.ts
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2166.ts
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2165.ts
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2164.ts
+#EXTINF:-1,BEIN SPORTS 10 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2172.ts
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://bestvision.selfip.biz:10051/live/cobra/cobra/2163.ts
 
 
 
@@ -9608,7 +9927,7 @@ http://abc.myplay.live:8000/live/1223/1223/1528.ts
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
 
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -9625,26 +9944,159 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2171.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2170.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2169.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2168.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2167.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2166.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2165.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2164.m3u8
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2172.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2163.m3u8
+#EXTINF:-1,zoom HD
+http://193.70.44.53:80/zoom/playlist.m3u8
+#EXTINF:-1,test
+http://193.70.44.53:80/test/playlist.m3u8
+#EXTINF:-1,jim_jam HD
+http://193.70.44.53:80/jim_jam/playlist.m3u8
+#EXTINF:-1,disney HD
+http://193.70.44.53:80/disney/playlist.m3u8
+#EXTINF:-1,baby
+http://193.70.44.53:80/baby/playlist.m3u8
+#EXTINF:-1,channel 1 hd
+http://193.70.44.53:80/channel_1/playlist.m3u8
+#EXTINF:-1,channel 10
+http://193.70.44.53:80/channel_10/playlist.m3u8
+#EXTINF:-1,channel 2
+http://193.70.44.53:80/channel_2/playlist.m3u8
+#EXTINF:-1,disney junior
+http://193.70.44.53:80/disney_jr/playlist.m3u8
+#EXTINF:-1,nick
+http://193.70.44.53:80/nick/playlist.m3u8
+#EXTINF:-1,nick jr
+http://193.70.44.53:80/nick_jr/playlist.m3u8
+#EXTINF:-1,sport 1 hd
+http://193.70.44.53:80/sport_1/playlist.m3u8
+#EXTINF:-1,sport 2 hd
+http://193.70.44.53:80/sport_2/playlist.m3u8
+#EXTINF:-1,viva
+http://193.70.44.53:80/viva/playlist.m3u8
+#EXTINF:-1,Sport 3 HD
+http://193.70.44.53:80/sport_3/playlist.m3u8
+#EXTINF:-1,Sport 4 HD
+http://193.70.44.53:80/sport_4/playlist.m3u8
+#EXTINF:-1,Viva plus
+http://193.70.44.53:80/viva_plus/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title=”United.Arab.Emirates4”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN SPORTS Group1=======
+http://.....
+#EXTINF:-1,BEIN SPORT NEW HD
+http://bein1.jan-beryan.giize.com/41.m3u8
+#EXTINF:-1,BEIN:BEIN.SPORTS
+http://bein1.jan-beryan.giize.com/3.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS1HD
+http://bein1.jan-beryan.giize.com/5.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS2HD
+http://bein1.jan-beryan.giize.com/8.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS3HD
+http://bein1.jan-beryan.giize.com/11.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS4HD
+http://bein1.jan-beryan.giize.com/14.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS5HD
+http://bein1.jan-beryan.giize.com/17.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS6HD
+http://bein1.jan-beryan.giize.com/20.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS7HD
+http://bein1.jan-beryan.giize.com/23.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS8HD
+http://bein1.jan-beryan.giize.com/26.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS9HD
+http://bein1.jan-beryan.giize.com/29.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS10HD
+http://bein1.jan-beryan.giize.com/32.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS11HD
+http://bein1.jan-beryan.giize.com/35.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS12HD
+http://bein1.jan-beryan.giize.com/36.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS13HD
+http://bein1.jan-beryan.giize.com/37.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS14HD
+http://bein1.jan-beryan.giize.com/38.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS15HD
+http://bein1.jan-beryan.giize.com/39.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS16HD
+http://bein1.jan-beryan.giize.com/40.m3u8
+
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN SPORTS Group2=======
+http://....
+#EXTINF:-1,bein sport1 
+http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=04267
+#EXTINF:-1,bein sport2 
+http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00199
+#EXTINF:-1,bein sport3 
+http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00201
+#EXTINF:-1,bein sport4
+http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00202
+#EXTINF:-1,bein sport5 
+http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00203
+#EXTINF:-1,bein sport6 
+http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00204
+#EXTINF:-1,bein sport7 
+http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00205
+#EXTINF:-1,bein sport8 
+http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00206
+
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN MOVIES =======
+http://....
+#EXTINF:-1,BEIN MOVIES 1HD
+http://bein1.jan-beryan.giize.com/46.m3u8
+#EXTINF:-1,BEIN MOVIES 2HD
+http://bein1.jan-beryan.giize.com/43.m3u8
+#EXTINF:-1,BEIN MOVIES 3HD
+http://bein1.jan-beryan.giize.com/44.m3u8
+#EXTINF:-1,BEIN MOVIES 4HD
+http://bein1.jan-beryan.giize.com/45.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
