@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,1/11/17 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,2/11/17 
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -53,12 +53,12 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:1 tvg-logo=http://www.parikiaki.com/wp-content/uploads/Cyprus1.png ,===Cyprus===
 http://..........
 
-#EXTINF:-1 tvg-name="Rik1" epg-id=Rik1 tvg-logo=https://goo.gl/7X3mcE ,RIKSAT
-http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/eq473601t9w8.m3u8
+#EXTINF:-1 tvg-name="Rik1" epg-id=Rik1 tvg-logo=http://www.riknews.com.cy/images/stories/icons/logo-2.png ,RIKSAT
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
-http://master.cystreams.com:25461/live/greek/sofronisl/12.ts
+http://master.cystreams.com:25461/live/greek/sofronis/12.ts
 #EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital
 http://master.cystreams.com:25461/live/greek/sofronis/14.ts
 #EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA
@@ -135,7 +135,7 @@ http://zglive1.mdc.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
 #EXTINF:0 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,E
 https://s2.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
-http://master.cystreams.com:25461/live/digital/sofronis/40.ts
+http://master.cystreams.com:25461/live/greek/sofronis/40.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/m1ZYJB ,VOULI
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/nnsott ,ART TV (Youtube)
@@ -6646,50 +6646,6 @@ http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8
 
 #EXTINF:8 group-title=”Spain2”,
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-
-#EXTINF:-1,DISNEY XD
-http://37.135.99.69:8000/play/a095
-#EXTINF:-1,CAZA Y PESCA
-http://37.135.99.69:8000/play/a096
-#EXTINF:-1,A&E
-http://37.135.99.69:8000/play/a097
-#EXTINF:-1,NONSTOPEOPLE
-http://37.135.99.69:8000/play/a098
-#EXTINF:-1,DISCOVERY
-http://37.135.99.69:8000/play/a099
-#EXTINF:-1,COSMO
-http://37.135.99.69:8000/play/a09a
-#EXTINF:-1,HISTORIA
-http://37.135.99.69:8000/play/a09b
-#EXTINF:-1,CRIMEN+INVES
-http://37.135.99.69:8000/play/a09c
-#EXTINF:-1,M. Cine Espanol
-http://37.135.99.69:8000/play/a09d
-#EXTINF:-1,24 HORAS
-http://37.135.99.69:8000/play/a09f
-#EXTINF:-1,M. MOTOGP
-http://37.135.99.69:8000/play/a09g
-
-
-
 
 
 
@@ -10310,6 +10266,112 @@ http://bein1.jan-beryan.giize.com/45.m3u8
 
 
 
+#EXTINF:9 group-title=”United.Arab.Emirates5”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,Travel
+http://85.159.216.58:10001/bysid/426
+#EXTINF:-1,C & I
+http://85.159.216.58:10001/bysid/427
+#EXTINF:-1,Fine Living
+http://85.159.216.58:10001/bysid/428
+#EXTINF:-1,CNBC Europe
+http://85.159.216.58:10001/bysid/429
+#EXTINF:-1,Discovery Family HD
+http://85.159.216.58:10001/bysid/430
+#EXTINF:-1,BBC First HD
+http://85.159.216.58:10001/bysid/431
+#EXTINF:-1,Disney Junior
+http://85.159.216.58:10001/bysid/433
+#EXTINF:-1,VH1
+http://85.159.216.58:10001/bysid/434
+#EXTINF:-1,E! HD
+http://85.159.216.58:10001/bysid/435
+#EXTINF:-1,Animal Planet HD
+http://85.159.216.58:10001/bysid/436
+#EXTINF:-1,Nat Geo Wild HD
+http://85.159.216.58:10002/bysid/4601
+#EXTINF:-1,Nat Geo People HD
+http://85.159.216.58:10002/bysid/4602
+#EXTINF:-1,Nat Geo HD
+http://85.159.216.58:10002/bysid/4603
+#EXTINF:-1,Star Movies HD
+http://85.159.216.58:10002/bysid/4604
+#EXTINF:-1,Star World HD
+http://85.159.216.58:10002/bysid/4605
+#EXTINF:-1,OSN Ya Hala HD
+http://85.159.216.58:10002/bysid/4606
+#EXTINF:-1,Ginx TV
+http://85.159.216.58:10002/bysid/4607
+#EXTINF:-1,OSN Sports 4 HD
+http://85.159.216.58:10002/bysid/4608
+#EXTINF:-1,OSN Kid Zone TV
+http://85.159.216.58:10003/bysid/204
+#EXTINF:-1,OSN Movies +2h
+http://85.159.216.58:10003/bysid/206
+#EXTINF:-1,OSN Mov Thriller +2h
+http://85.159.216.58:10003/bysid/207
+#EXTINF:-1,OSN News
+http://85.159.216.58:10003/bysid/210
+#EXTINF:-1,Disney XD
+http://85.159.216.58:10003/bysid/211
+#EXTINF:-1,OSN YH Al Oula +2h
+http://85.159.216.58:10003/bysid/212
+#EXTINF:-1,Fuel TV
+http://85.159.216.58:10003/bysid/213
+#EXTINF:-1,OSN Series Com +2h
+http://85.159.216.58:10003/bysid/222
+#EXTINF:-1,OSN Movies First HD
+http://85.159.216.58:10004/bysid/301
+#EXTINF:-1,OSN Movies Action HD
+http://85.159.216.58:10004/bysid/302
+#EXTINF:-1,OSN Series First HD
+http://85.159.216.58:10004/bysid/304
+#EXTINF:-1,OSN Sp Action 2 HD
+http://85.159.216.58:10004/bysid/305
+#EXTINF:-1,OSN YH Cinema HD
+http://85.159.216.58:10004/bysid/306
+#EXTINF:-1,TLC HD
+http://85.159.216.58:10004/bysid/308
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11474,7 +11536,75 @@ http://38.99.146.36:7777/Hannibal_HD.m3u8
 
 #EXTINF:10 group-title=”SERBIA”,
 
-
+#EXTINF:0,O2
+http://82.114.79.3:8000/play/a005
+#EXTINF:0,HRT-TV1
+http://82.114.79.3:8000/play/a002
+#EXTINF:0,info-kanali
+http://82.114.79.3:8000/play/a00f
+#EXTINF:0,NTV HAYAT
+http://82.114.79.3:8000/play/a00b
+#EXTINF:0,PINK
+http://82.114.79.3:8000/play/a008
+#EXTINF:0,Pink 2
+http://82.114.79.3:8000/play/a00a
+#EXTINF:0,Pink kids
+http://82.114.79.3:8000/play/a007
+#EXTINF:0,Prva
+http://82.114.79.3:8000/play/a006
+#EXTINF:0,Rts 1
+http://82.114.79.3:8000/play/a003
+#EXTINF:0,Rts 2
+http://82.114.79.3:8000/play/a004
+#EXTINF:0,TV PRIZRENI
+http://82.114.79.3:8000/play/a00e
+#EXTINF:0,HAPPY
+http://82.114.79.3:8000/play/a009
+#EXTINF:0, Arena Sport 1
+http://212.200.112.94:8000/play/a00l
+#EXTINF:0, Arena Sport 2
+http://212.200.112.94:8000/play/a00m
+#EXTINF:0, Arena Sport 3
+http://212.200.112.94:8000/play/a00n
+#EXTINF:0, Arena Sport 4
+http://212.200.112.94:8000/play/a00o
+#EXTINF:0, Arena Sport 5
+http://212.200.112.94:8000/play/a00y
+#EXTINF:0, AXN Adria
+http://212.200.112.94:8000/play/a00p
+#EXTINF:0, Comedy Central Extra
+http://212.200.112.94:8000/play/a01g
+#EXTINF:0, Discovery Serbia
+http://212.200.112.94:8000/play/a00q
+#EXTINF:0, DM sat —- Milos
+http://212.200.112.94:8000/play/a01r
+#EXTINF:0, Ekids
+http://212.200.112.94:8000/play/a00w
+#EXTINF:0, esp
+http://212.200.112.94:8000/play/a01q
+#EXTINF:0, H2
+http://212.200.112.94:8000/play/a011
+#EXTINF:0, KCN Kopernikus 1
+http://212.200.112.94:8000/play/a00r
+#EXTINF:0, MTV Europe
+http://212.200.112.94:8000/play/a01h
+#EXTINF:0, MTV Hits
+http://212.200.112.94:8000/play/a01d
+#EXTINF:0, National Geographic
+http://212.200.112.94:8000/play/a00b
+#EXTINF:0, Nickelodeon Europe.
+http://212.200.112.94:8000/play/a01s
+#EXTINF:0, OBN
+http://212.200.112.94:8000/play/a00x
+#EXTINF:0, RTV PULS HD
+http://212.200.112.94:8000/play/a001
+#EXTINF:0, RTV PULS SD
+http://212.200.112.94:8000/play/a007
+#EXTINF:0, RTV PULS SD
+http://212.200.112.94:8000/play/a01l
+#EXTINF:0, VH1
+http://212.200.112.94:8000/play/a01c
+more stream
 
 
 
