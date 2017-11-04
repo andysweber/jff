@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,21/10/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,4/11/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -80,8 +80,6 @@ http://37.194.121.4:1234/udp/239.1.2.8:1234
 http://91.149.172.100:80/channel?id=136&u=demo&p=demo 
 #EXTINF:-1,History
 http://93.91.113.8:9999/play/a06z
-#EXTINF:-1,HISTORY
-http://174.36.155.34:4000/live/287/287.m3u8
 #EXTINF:-1,History HD 
 http://194.28.88.2:8022/ch22
 #EXTINF:-1,FOX
@@ -158,12 +156,10 @@ http://91.149.172.100:80/channel?id=119&u=demo&p=demo
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
-#EXTINF:0,Cartoon Network
-http://188.68.162.146:81/udp/239.2.100.159:4321
-#EXTINF:0,Cartoon Network
-http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Cartoon Network
 http://194.28.88.3:8033/ch33
+#EXTINF:0,Cartoon Network
+http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Disney Channel (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Disney Channel 
@@ -227,7 +223,7 @@ http://37.194.121.4:1234/udp/239.1.15.12:1234
 #EXTINF:3 group-title=”MUSIC”, 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV GR
-http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
+mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:0,Zougla TV (Gr)
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 #EXTINF:0,VH1 Classic
@@ -244,8 +240,6 @@ http://persik.by/stream/1417/252987/10227.m3u8
 http://91.149.172.100:80/channel?id=134&u=demo&p=demo 
 #EXTINF:-1 ,MTV Dance 
 http://91.149.172.100:80/channel?id=20&u=demo&p=demo 
-#EXTINF:-1,MTV Dance
-http://185.162.141.69:9014/mtvdance
 #EXTINF:-1 ,MTV HD 
 http://91.149.172.100:80/channel?id=4&u=demo&p=demo 
 #EXTINF:-1,Music Box
@@ -320,7 +314,7 @@ mmsh://streaming.cmusic.tv/cmusicworld-tv
 http://www.electrosound.tv:1935/public/stream/chunklist.m3u8
 #EXTINF:0,ESKA TV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:-1, Deluxe Music
+#EXTINF:-1,Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 #EXTINF:0,KroneHIT Music
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
@@ -360,7 +354,7 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1,ADSport 2HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
 
-#EXTINF:-1, SPORTS TV
+#EXTINF:-1,SPORTS TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1,ALL Sports 
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
@@ -368,26 +362,14 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1,Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:0,Eurosport France
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8?time=1472128612790
-#EXTINF:0,EUROSPORT1
-http://u.to/WXHoCA
-#EXTINF:0,EUROSPORT1
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0,Eurosport 1 HD
-http://0E9B00ECD326CCAC:@t.kraslan.ru/eurosporthd
+#EXTINF:-1,Eurosport 1 (MXPlayer)
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/50.ts|user-agent=wSsS
+#EXTINF:-1,Eurosport 2 (MXPlayer)
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/51.ts|user-agent=wSsS
 #EXTINF:-1,Eurosport 2 HD (Po/EN)
 http://195.206.253.157:8001/eurosport2hd
-#EXTINF:-1,Eurosport 2
-http://185.53.163.216:3104
-#EXTINF:0,Eurosport News
-http://0E9B00ECD326CCAC:@t.kraslan.ru/eurosport_news
-#EXTINF:-1,Eurosport News
-http://83.79.134.18:9000/play/a065
 #EXTINF:-1,Versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1,NFL NETWORK 2
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF: 0,PAC-12 Bay
 http://www.xrxs.net/video/live-p12baya-4728.m3u8
 #EXTINF: 0,PAC-12 Bay
@@ -406,12 +388,8 @@ http://xrxs.net/video/live-p12moun-1164.m3u8
 http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1,POLSKI:Sport Poland
-http://212.79.96.134:8014/
-#EXTINF:-1 tvg-logo=https://goo.gl/nnsott ,ART Sportzone
-http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/0Ovqq2f.png ,TILESPORT
-rtmp://78.47.151.114/tilesport/movie1
+
+
 
 
 
@@ -564,9 +542,9 @@ http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 http://rm-edge-8.cdn2.streamago.tv/streamagoedge/1917/810/playlist.m3u8
 
 #EXTINF:-1,sky News
-https://www.youtube.com/watch?v=y60wDzZt8yg
+https://www.youtube.com/watch?v=XOacA3RYrXk
 #EXTINF:-1,I24 News
-https://www.youtube.com/watch?v=Msgo-R3zZuM
+https://stream-02.sg1.dailymotion.com/50/dm/3/x29atae/live-1.m3u8
 #EXTINF:0, MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, DW
