@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,08/11/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,09/11/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -4282,10 +4282,276 @@ http://..........
 
 
 
-#EXTINF:4 group-title=”Romania3”,
+#EXTINF:4 group-title=”Romania3/UK”,
 
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg/250px-Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg.png ,=ROMANIA=
+http://..........
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
-
+#EXTM3U
+#EXTINF:-1,HISTORY CHANNEL HD
+http://62.210.203.110:9000/play/a02k
+#EXTINF:-1,DTX RO
+http://62.210.203.110:9000/play/a02m
+#EXTINF:-1,ETNO TV
+http://62.210.203.110:9000/play/a01m
+#EXTINF:-1,BOOMERANG
+http://62.210.203.110:9000/play/a022
+#EXTINF:-1,PRO 2 HD
+http://62.210.203.110:9000/play/a00w
+#EXTINF:-1,FILMBOX
+http://62.210.203.110:9000/play/a02i
+#EXTINF:-1,VIASAT NATURE
+http://62.210.203.110:9000/play/a01k
+#EXTINF:-1,HISTORY CHANNEL
+http://62.210.203.110:9000/play/a01h
+#EXTINF:-1,DIGI SPORT 2 HD
+http://62.210.203.110:9000/play/a03a
+#EXTINF:-1,VIASAT HISTORY
+http://62.210.203.110:9000/play/a01j
+#EXTINF:-1,PRO CINEMA
+http://62.210.203.110:9000/play/a00u
+#EXTINF:-1,Realitatea Plus
+http://62.210.203.110:9000/play/a02r
+#EXTINF:-1,FAVORIT TV
+http://62.210.203.110:9000/play/a01n
+#EXTINF:-1,TARAF TV
+http://62.210.203.110:9000/play/a01o
+#EXTINF:-1,PRO X
+http://62.210.203.110:9000/play/a00k
+#EXTINF:-1,TVR HD
+http://62.210.203.110:9000/play/a01l
+#EXTINF:-1,ANTENA 1 HD
+http://62.210.203.110:9000/play/a03b
+#EXTINF:-1,TELEKOM SPORT 6
+http://62.210.203.110:9000/play/a00g
+#EXTINF:-1,MOOZ DANCE
+http://62.210.203.110:9000/play/a015
+#EXTINF:-1,MEGAMAX
+http://62.210.203.110:9000/play/a01v
+#EXTINF:-1,MOOZ RO
+http://62.210.203.110:9000/play/a016
+#EXTINF:-1,DIGI WORLD
+http://62.210.203.110:9000/play/a02z
+#EXTINF:-1,PRO GOLD
+http://62.210.203.110:9000/play/a00y
+#EXTINF:-1,TV5 MONDE
+http://62.210.203.110:9000/play/a02u
+#EXTINF:-1,TV 1000
+http://62.210.203.110:9000/play/a00q
+#EXTINF:-1,DIGI SPORT 1
+http://62.210.203.110:9000/play/a024
+#EXTINF:-1,ANTENA 3 HD
+http://62.210.203.110:9000/play/a02p
+#EXTINF:-1,TV PAPRIKA
+http://62.210.203.110:9000/play/a01d
+#EXTINF:-1,TARAF TV HD
+http://62.210.203.110:9000/play/a03i
+#EXTINF:-1,DQ
+http://62.210.203.110:9000/play/a03c
+#EXTINF:-1,test
+http://62.210.203.110:9000/play/a027
+#EXTINF:-1,SPERANTA TV
+http://62.210.203.110:9000/play/a02t
+#EXTINF:-1,KANAL D
+http://62.210.203.110:9000/play/a008
+#EXTINF:-1,ETNO TV HD
+http://62.210.203.110:9000/play/a03h
+#EXTINF:-1,DISCOVERY SCIENCE
+http://62.210.203.110:9000/play/a01b
+#EXTINF:-1,TELEKOM 2
+http://62.210.203.110:9000/play/a035
+#EXTINF:-1,REALITATEA TV
+http://62.210.203.110:9000/play/a00c
+#EXTINF:-1,B1
+http://62.210.203.110:9000/play/a009
+#EXTINF:-1,VH1
+http://62.210.203.110:9000/play/a03d
+#EXTINF:-1,HAPPY CHANNEL RO
+http://62.210.203.110:9000/play/a00r
+#EXTINF:-1,Discovery HD Showcase
+http://62.210.203.110:9000/play/a03l
+#EXTINF:-1,ANTENA 3
+http://62.210.203.110:9000/play/a00b
+#EXTINF:-1,Fashion TV
+http://62.210.203.110:9000/play/a032
+#EXTINF:-1,PROTV HD
+http://62.210.203.110:9000/play/a001
+#EXTINF:-1,BOLLYWOOD TV
+http://62.210.203.110:9000/play/a03m
+#EXTINF:-1,FilmBox Family
+http://62.210.203.110:9000/play/a03f
+#EXTINF:-1,ROMANIA TV
+http://62.210.203.110:9000/play/a00d
+#EXTINF:-1,ZU TV
+http://62.210.203.110:9000/play/a017
+#EXTINF:-1,EUROSPORT RO
+http://62.210.203.110:9000/play/a02h
+#EXTINF:-1,DISCOVERY ID XTRA
+http://62.210.203.110:9000/play/a02l
+#EXTINF:-1,DIGI 24 HD
+http://62.210.203.110:9000/play/a00a
+#EXTINF:-1,AXN BLACK RO
+http://62.210.203.110:9000/play/a00o
+#EXTINF:-1,HBO
+http://62.210.203.110:9000/play/a028
+#EXTINF:-1,IMPACT MANELE
+http://62.210.203.110:9000/play/a02w
+#EXTINF:-1,TLC
+http://62.210.203.110:9000/play/a00s
+#EXTINF:-1,CBS Reality
+http://62.210.203.110:9000/play/a03g
+#EXTINF:-1,EUROSPORT 2 RO
+http://62.210.203.110:9000/play/a00i
+#EXTINF:-1,MINIMAX
+http://62.210.203.110:9000/play/a01t
+#EXTINF:-1,TVR 2
+http://62.210.203.110:9000/play/a005
+#EXTINF:-1,MTV Dance
+http://62.210.203.110:9000/play/a02x
+#EXTINF:-1,ALFA OMEGA TV
+http://62.210.203.110:9000/play/a02s
+#EXTINF:-1,EUROSPORT 1 HD
+http://62.210.203.110:9000/play/a00h
+#EXTINF:-1,DISNEY CHANNEL
+http://62.210.203.110:9000/play/a01p
+#EXTINF:-1,DIGI ANIMAL WORD
+http://62.210.203.110:9000/play/a030
+#EXTINF:-1,Music Channel
+http://62.210.203.110:9000/play/a033
+#EXTINF:-1,DAVINCI LEARNING
+http://62.210.203.110:9000/play/a01f
+#EXTINF:-1,VH1 CLASSIC
+http://62.210.203.110:9000/play/a02y
+#EXTINF:-1,eSTRADA
+http://62.210.203.110:9000/play/a02n
+#EXTINF:-1,COMEDY CENTRAL RO
+http://62.210.203.110:9000/play/a01x
+#EXTINF:-1,HOT
+http://62.210.203.110:9000/play/a03j
+#EXTINF:-1,AXN WITH RO
+http://62.210.203.110:9000/play/a00n
+#EXTINF:-1,HAPPY CHANNEL HD
+http://62.210.203.110:9000/play/a023
+#EXTINF:-1,ZU TV HD
+http://62.210.203.110:9000/play/a03k
+#EXTINF:-1,CINEMAX
+http://62.210.203.110:9000/play/a02b
+#EXTINF:-1,ANIMAL PLANET
+http://62.210.203.110:9000/play/a01c
+#EXTINF:-1,TELEKOM 3
+http://62.210.203.110:9000/play/a036
+#EXTINF:-1,HBO 2
+http://62.210.203.110:9000/play/a029
+#EXTINF:-1,NAT. GEO
+http://62.210.203.110:9000/play/a01e
+#EXTINF:-1,DISNEY JUNIOR
+http://62.210.203.110:9000/play/a01q
+#EXTINF:-1,PRO TV
+http://62.210.203.110:9000/play/a003
+#EXTINF:-1,N 24
+http://62.210.203.110:9000/play/a010
+#EXTINF:-1,FILM CAFE
+http://62.210.203.110:9000/play/a00t
+#EXTINF:-1,PRIMA TV RO
+http://62.210.203.110:9000/play/a007
+#EXTINF:-1,LOOK TV
+http://62.210.203.110:9000/play/a02j
+#EXTINF:-1,DIGI LIFE
+http://62.210.203.110:9000/play/a031
+#EXTINF:-1,KISS TV
+http://62.210.203.110:9000/play/a018
+#EXTINF:-1,NAT GEO WILD
+http://62.210.203.110:9000/play/a01g
+#EXTINF:-1,CINEMAX 2
+http://62.210.203.110:9000/play/a02c
+#EXTINF:-1,Paramount Channel RO
+http://62.210.203.110:9000/play/a02f
+#EXTINF:-1,FilmBox PLUS
+http://62.210.203.110:9000/play/a03e
+#EXTINF:-1,CNN
+http://62.210.203.110:9000/play/a02v
+#EXTINF:-1,KANAL D HD
+http://62.210.203.110:9000/play/a021
+#EXTINF:-1,Extreme Sport RO
+http://62.210.203.110:9000/play/a02g
+#EXTINF:-1,NICKELODEON
+http://62.210.203.110:9000/play/a01s
+#EXTINF:-1,DUCK TV
+http://62.210.203.110:9000/play/a01u
+#EXTINF:-1,LOOK PLUS
+http://62.210.203.110:9000/play/a012
+#EXTINF:-1,TELEKOM 1
+http://62.210.203.110:9000/play/a034
+#EXTINF:-1,TELEKOM SPORT 5
+http://62.210.203.110:9000/play/a00e
+#EXTINF:-1,FISHING & HUNTING
+http://62.210.203.110:9000/play/a01z
+#EXTINF:-1,PRO 2
+http://62.210.203.110:9000/play/a00v
+#EXTINF:-1,EUROSPORT 2 HD
+http://62.210.203.110:9000/play/a00j
+#EXTINF:-1,TVR 1
+http://62.210.203.110:9000/play/a004
+#EXTINF:-1,HBO 3
+http://62.210.203.110:9000/play/a02a
+#EXTINF:-1,AXN RO
+http://62.210.203.110:9000/play/a00m
+#EXTINF:-1,TRINITAS TV
+http://62.210.203.110:9000/play/a02q
+#EXTINF:-1,U TV
+http://62.210.203.110:9000/play/a038
+#EXTINF:-1,TNT HD
+http://62.210.203.110:9000/play/a00p
+#EXTINF:-1,TVR 3
+http://62.210.203.110:9000/play/a006
+#EXTINF:-1,NAT. GEO WILD HD
+http://62.210.203.110:9000/play/a019
+#EXTINF:-1,VIASAT EXPORER
+http://62.210.203.110:9000/play/a01i
+#EXTINF:-1,CARTOON NETWORK
+http://62.210.203.110:9000/play/a01r
+#EXTINF:-1,TELEKOM 4
+http://62.210.203.110:9000/play/a037
+#EXTINF:-1,ANTENA STARS
+http://62.210.203.110:9000/play/a013
+#EXTINF:-1,AGRO TV
+http://62.210.203.110:9000/play/a02o
+#EXTINF:-1,ANTENA 1
+http://62.210.203.110:9000/play/a002
+#EXTINF:-1,DIGI FILM
+http://62.210.203.110:9000/play/a02e
+#EXTINF:-1,DIGI SPORT 1 HD
+http://62.210.203.110:9000/play/a039
+#EXTINF:-1,DIVA
+http://62.210.203.110:9000/play/a00x
+#EXTINF:-1,DIGI SPORT 2
+http://62.210.203.110:9000/play/a025
+#EXTINF:-1,DISCOVERY RO
+http://62.210.203.110:9000/play/a01a
+#EXTINF:-1,PRO X HD
+http://62.210.203.110:9000/play/a00l
+#EXTINF:-1,DIGI SPORT 3
+http://62.210.203.110:9000/play/a026
+#EXTINF:-1,DIGI SPORT 4
+http://62.210.203.110:9000/play/a02d
+#EXTINF:-1,NATIONAL TV
+http://62.210.203.110:9000/play/a00z
+#EXTINF:-1,TV H
+http://62.210.203.110:9000/play/a01w
 
 
 
@@ -10595,6 +10861,101 @@ http://188.62.240.200:9000/play/a01p
 
 
 
+#EXTINF:4 group-title=”Portugal4”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,RTP 1 HD
+http://213.146.212.33:8001/play/a01r
+#EXTINF:-1,Odisseia
+http://213.146.212.33:8001/play/a01j
+#EXTINF:-1,SIC Notícias
+http://213.146.212.33:8001/play/a01u
+#EXTINF:-1,Eurosport 1 HD
+http://213.146.212.33:8001/play/a01z
+#EXTINF:-1,Hollywood
+http://213.146.212.33:8001/play/a02g
+#EXTINF:-1,FOX Movies
+http://213.146.212.33:8001/play/a02b
+#EXTINF:-1,Trace TV
+http://213.146.212.33:8001/play/a02n
+#EXTINF:-1,AXN HD
+http://213.146.212.33:8001/play/a00m
+#EXTINF:-1,FOX Crime
+http://213.146.212.33:8001/play/a02d
+#EXTINF:-1,AXN White
+http://213.146.212.33:8001/play/a011
+#EXTINF:-1,TVI
+http://213.146.212.33:8001/play/a01v
+#EXTINF:-1,TV Record
+http://213.146.212.33:8001/play/a01e
+#EXTINF:-1,TLC
+http://213.146.212.33:8001/play/a014
+#EXTINF:-1,National Geographic
+http://213.146.212.33:8001/play/a01i
+#EXTINF:-1,SIC Mulher
+http://213.146.212.33:8001/play/a027
+#EXTINF:-1,FOX HD
+http://213.146.212.33:8001/play/a00j
+#EXTINF:-1,FOX Life
+http://213.146.212.33:8001/play/a02r
+#EXTINF:-1,RTP 2
+http://213.146.212.33:8001/play/a01s
+#EXTINF:-1,A Bola TV
+http://213.146.212.33:8001/play/a00k
+#EXTINF:-1,CMTV HD
+http://213.146.212.33:8001/play/a00e
+#EXTINF:-1,Discovery Channel
+http://213.146.212.33:8001/play/a01m
+#EXTINF:-1,TVI 24
+http://213.146.212.33:8001/play/a022
+#EXTINF:-1,AXN Black
+http://213.146.212.33:8001/play/a012
+#EXTINF:-1,RTP 3
+http://213.146.212.33:8001/play/a01w
+#EXTINF:-1,SIC
+http://213.146.212.33:8001/play/a00a
+#EXTINF:-1,NBA TV HD
+http://213.146.212.33:8001/play/a02s
+#EXTINF:-1,Cinemundo
+http://213.146.212.33:8001/play/a00y
+#EXTINF:-1,NBA TV HD
+http://213.146.212.33:8001/play/a02t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:4 group-title=”Portugal1-Loop_one”,
@@ -12599,203 +12960,6 @@ http://183.252.176.10/PLTV/88888888/224/3221225907/index.m3u8
 http://183.252.176.10/PLTV/88888888/224/3221225912/index.m3u8
 #EXTINF:-1,BestTV7
 http://183.252.176.10/PLTV/88888888/224/3221225906/index.m3u8
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SERVER4=
-http://......
-#EXTINF:-1,CCTV-10高清
-http://171.113.35.59:9981/stream/channelid/1788934032
-#EXTINF:-1,CCTV-12高清
-http://171.113.35.59:9981/stream/channelid/1497815347
-#EXTINF:-1,CCTV-14高清
-http://171.113.35.59:9981/stream/channelid/1975881091
-#EXTINF:-1,CCTV-1高清
-http://171.113.35.59:9981/stream/channelid/263811213
-#EXTINF:-1,CCTV-2高清
-http://171.113.35.59:9981/stream/channelid/1082356375
-#EXTINF:-1,CCTV-3高清
-http://171.113.35.59:9981/stream/channelid/1456370922
-#EXTINF:-1,CCTV-5+高清
-http://171.113.35.59:9981/stream/channelid/1713528508
-#EXTINF:-1,CCTV-5高清
-http://171.113.35.59:9981/stream/channelid/1176731600
-#EXTINF:-1,CCTV-6高清
-http://171.113.35.59:9981/stream/channelid/656692452
-#EXTINF:-1,CCTV-7高清
-http://171.113.35.59:9981/stream/channelid/992207990
-#EXTINF:-1,CCTV-8高清
-http://171.113.35.59:9981/stream/channelid/1438092592
-#EXTINF:-1,CCTV-9高清
-http://171.113.35.59:9981/stream/channelid/1554140080
-#EXTINF:-1,CCTV-少儿
-http://171.113.35.59:9981/stream/channelid/542135770
-#EXTINF:-1,CCTV-新闻
-http://171.113.35.59:9981/stream/channelid/1124402630
-#EXTINF:-1,CCTV-音乐
-http://171.113.35.59:9981/stream/channelid/2079816850
-#EXTINF:-1,CHC家庭影院
-http://171.113.35.59:9981/stream/channelid/578185118
-#EXTINF:-1,CHC高清电影
-http://171.113.35.59:9981/stream/channelid/1836201724
-#EXTINF:-1,DOXTV
-http://171.113.35.59:9981/stream/channelid/2054991363
-#EXTINF:-1,Eve高清频道
-http://171.113.35.59:9981/stream/channelid/934345139
-#EXTINF:-1,FOX ACTION HD
-http://171.113.35.59:9981/stream/channelid/388285673
-#EXTINF:-1,FOX FAMILY HD
-http://171.113.35.59:9981/stream/channelid/530650370
-#EXTINF:-1,FOX PREMIUM HD
-http://171.113.35.59:9981/stream/channelid/724702071
-#EXTINF:-1,FOX SPORTS 3 HD
-http://171.113.35.59:9981/stream/channelid/791274976
-#EXTINF:-1,GOLF HD
-http://171.113.35.59:9981/stream/channelid/1191394562
-#EXTINF:-1,HBO HD
-http://171.113.35.59:9981/stream/channelid/1188337726
-#EXTINF:-1,HITS高清频道
-http://171.113.35.59:9981/stream/channelid/236068667
-#EXTINF:-1,NG WILD HD
-http://171.113.35.59:9981/stream/channelid/344050704
-#EXTINF:-1,WHTV1高清
-http://171.113.35.59:9981/stream/channelid/2131183787
-#EXTINF:-1,WHTV2高清
-http://171.113.35.59:9981/stream/channelid/547566209
-#EXTINF:-1,{name-not-set}
-http://171.113.35.59:9981/stream/channelid/1271213266
-#EXTINF:-1,东方卫视高清
-http://171.113.35.59:9981/stream/channelid/17676505
-#EXTINF:-1,中国教育高清
-http://171.113.35.59:9981/stream/channelid/1375214540
-#EXTINF:-1,优优宝贝
-http://171.113.35.59:9981/stream/channelid/1629785226
-#EXTINF:-1,全纪实HD
-http://171.113.35.59:9981/stream/channelid/732219105
-#EXTINF:-1,凤凰中文高清
-http://171.113.35.59:9981/stream/channelid/444679170
-#EXTINF:-1,凤凰资讯高清
-http://171.113.35.59:9981/stream/channelid/1593713878
-#EXTINF:-1,动漫秀场HD
-http://171.113.35.59:9981/stream/channelid/2067728304
-#EXTINF:-1,动物星球台湾
-http://171.113.35.59:9981/stream/channelid/1129033345
-#EXTINF:-1,动物星球日本
-http://171.113.35.59:9981/stream/channelid/1381472133
-#EXTINF:-1,动物星球高清
-http://171.113.35.59:9981/stream/channelid/1671502177
-#EXTINF:-1,劲爆体育HD
-http://171.113.35.59:9981/stream/channelid/1108491456
-#EXTINF:-1,北京卫视高清
-http://171.113.35.59:9981/stream/channelid/1220577462
-#EXTINF:-1,四川卫视高清
-http://171.113.35.59:9981/stream/channelid/22281826
-#EXTINF:-1,天津卫视高清
-http://171.113.35.59:9981/stream/channelid/1638764121
-#EXTINF:-1,安徽卫视高清
-http://171.113.35.59:9981/stream/channelid/702461633
-#EXTINF:-1,家有购物高清
-http://171.113.35.59:9981/stream/channelid/1343798302
-#EXTINF:-1,少儿动漫
-http://171.113.35.59:9981/stream/channelid/28910705
-#EXTINF:-1,山东卫视高清
-http://171.113.35.59:9981/stream/channelid/576767843
-#EXTINF:-1,幸福彩HD
-http://171.113.35.59:9981/stream/channelid/682551405
-#EXTINF:-1,广东卫视高清
-http://171.113.35.59:9981/stream/channelid/939596575
-#EXTINF:-1,快乐购高清
-http://171.113.35.59:9981/stream/channelid/1556374796
-#EXTINF:-1,探索世界高清
-http://171.113.35.59:9981/stream/channelid/1156199600
-#EXTINF:-1,探索动力高清
-http://171.113.35.59:9981/stream/channelid/462740910
-#EXTINF:-1,探索科学高清
-http://171.113.35.59:9981/stream/channelid/2032181818
-#EXTINF:-1,探索高清台湾
-http://171.113.35.59:9981/stream/channelid/2070581998
-#EXTINF:-1,探索高清日本
-http://171.113.35.59:9981/stream/channelid/36226120
-#EXTINF:-1,探索高清频道
-http://171.113.35.59:9981/stream/channelid/1942127602
-#EXTINF:-1,新视觉HD
-http://171.113.35.59:9981/stream/channelid/1786073803
-#EXTINF:-1,旅游生活台湾
-http://171.113.35.59:9981/stream/channelid/1238732786
-#EXTINF:-1,旅游生活高清
-http://171.113.35.59:9981/stream/channelid/1369940012
-#EXTINF:-1,极速汽车HD
-http://171.113.35.59:9981/stream/channelid/522535188
-#EXTINF:-1,极速汽车HD
-http://171.113.35.59:9981/stream/channelid/783118334
-#EXTINF:-1,欢笑剧场HD
-http://171.113.35.59:9981/stream/channelid/1710636043
-#EXTINF:-1,欧洲体育新闻
-http://171.113.35.59:9981/stream/channelid/1826694443
-#EXTINF:-1,欧洲体育高清
-http://171.113.35.59:9981/stream/channelid/2011807156
-#EXTINF:-1,欧美影院
-http://171.113.35.59:9981/stream/channelid/1641160954
-#EXTINF:-1,求索纪录
-http://171.113.35.59:9981/stream/channelid/1597047554
-#EXTINF:-1,江苏卫视高清
-http://171.113.35.59:9981/stream/channelid/1972369094
-#EXTINF:-1,江西卫视高清
-http://171.113.35.59:9981/stream/channelid/541567148
-#EXTINF:-1,浙江卫视高清
-http://171.113.35.59:9981/stream/channelid/190055510
-#EXTINF:-1,深圳卫视高清
-http://171.113.35.59:9981/stream/channelid/2038434659
-#EXTINF:-1,游戏风云HD
-http://171.113.35.59:9981/stream/channelid/1334284482
-#EXTINF:-1,湖北公共新闻高清
-http://171.113.35.59:9981/stream/channelid/1633962455
-#EXTINF:-1,湖北卫视高清
-http://171.113.35.59:9981/stream/channelid/1305568499
-#EXTINF:-1,湖北经视高清
-http://171.113.35.59:9981/stream/channelid/194099218
-#EXTINF:-1,湖北综合高清
-http://171.113.35.59:9981/stream/channelid/489513416
-#EXTINF:-1,湖南卫视高清
-http://171.113.35.59:9981/stream/channelid/949672774
-#EXTINF:-1,环球奇观
-http://171.113.35.59:9981/stream/channelid/229090449
-#EXTINF:-1,环球购物高清
-http://171.113.35.59:9981/stream/channelid/1170903350
-#EXTINF:-1,生活时尚HD
-http://171.113.35.59:9981/stream/channelid/968616508
-#EXTINF:-1,电子竞技
-http://171.113.35.59:9981/stream/channelid/78640985
-#EXTINF:-1,睛彩武汉
-http://171.113.35.59:9981/stream/channelid/1557732094
-#EXTINF:-1,福建东南卫视高清
-http://171.113.35.59:9981/stream/channelid/424578504
-#EXTINF:-1,精品剧场
-http://171.113.35.59:9981/stream/channelid/395729627
-#EXTINF:-1,精彩影视
-http://171.113.35.59:9981/stream/channelid/895607170
-#EXTINF:-1,贵州卫视高清
-http://171.113.35.59:9981/stream/channelid/112400854
-#EXTINF:-1,辽宁卫视高清
-http://171.113.35.59:9981/stream/channelid/111605346
-#EXTINF:-1,都市剧场HD
-http://171.113.35.59:9981/stream/channelid/104795327
-#EXTINF:-1,重庆卫视高清
-http://171.113.35.59:9981/stream/channelid/1475047390
-#EXTINF:-1,金鹰纪实
-http://171.113.35.59:9981/stream/channelid/1419071171
-#EXTINF:-1,金鹰纪实HD
-http://171.113.35.59:9981/stream/channelid/1357890383
-#EXTINF:-1,风云音乐
-http://171.113.35.59:9981/stream/channelid/1112971803
-#EXTINF:-1,风尚购物
-http://171.113.35.59:9981/stream/channelid/328351276
-#EXTINF:-1,高清娱乐
-http://171.113.35.59:9981/stream/channelid/1954923397
-#EXTINF:-1,高清探秘
-http://171.113.35.59:9981/stream/channelid/1070590070
-#EXTINF:-1,魅力音乐HD
-http://171.113.35.59:9981/stream/channelid/1767082077
-#EXTINF:-1,黑龙江卫视高清
-http://171.113.35.59:9981/stream/channelid/1567810888
 
 
 
@@ -16444,7 +16608,90 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-
+#EXTINF:-1,Первый Канал 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/1.m3u8 
+#EXTINF:-1,Россия 1 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/2.m3u8 
+#EXTINF:-1,Матч! 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/3.m3u8 
+#EXTINF:-1,НТВ 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/4.m3u8 
+#EXTINF:-1,Пятый Канал 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/5.m3u8 
+#EXTINF:-1,ТВ3 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/27.m3u8 
+#EXTINF:-1,Россия К 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/6.m3u8 
+#EXTINF:-1,Россия 24 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/7.m3u8 
+#EXTINF:-1,Карусель 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/8.m3u8 
+#EXTINF:-1,О2ТВ 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/9.m3u8 
+#EXTINF:-1,ТВ Центр 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/10.m3u8 
+#EXTINF:-1,РЕН ТВ 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/11.m3u8 
+#EXTINF:-1,СТС 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/12.m3u8 
+#EXTINF:-1,TDK 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/13.m3u8 
+#EXTINF:-1,Пятница 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/14.m3u8 
+#EXTINF:-1,Звезда 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/15.m3u8 
+#EXTINF:-1,Мир 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/16.m3u8 
+#EXTINF:-1,ТНТ 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/17.m3u8 
+#EXTINF:-1,ТНТ4 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/24.m3u8 
+#EXTINF:-1,Москва 24 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/18.m3u8 
+#EXTINF:-1,Мир 24 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/19.m3u8 
+#EXTINF:-1,Известия 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/20.m3u8 
+#EXTINF:-1,Че 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/21.m3u8 
+#EXTINF:-1,РБК 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/22.m3u8 
+#EXTINF:-1,СТС Love 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/23.m3u8 
+#EXTINF:-1,Первый Ярославский 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/26.m3u8 
+#EXTINF:-1,Amedia 1 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/31.m3u8 
+#EXTINF:-1,Amedia 2 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/32.m3u8 
+#EXTINF:-1,Amedia Premium HD 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/38.m3u8 
+#EXTINF:-1,TV1000 Action 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/29.m3u8 
+#EXTINF:-1,TV1000 Comedy 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/30.m3u8 
+#EXTINF:-1,Наше новое кино 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/42.m3u8 
+#EXTINF:-1,Кинокомедия ТВ 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/36.m3u8 
+#EXTINF:-1,Кинохит 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/40.m3u8 
+#EXTINF:-1,Мужское кино 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/41.m3u8 
+#EXTINF:-1,Иллюзион+ 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/33.m3u8 
+#EXTINF:-1,Кинопоказ 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/34.m3u8 
+#EXTINF:-1,Киномикс 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/43.m3u8 
+#EXTINF:-1,Еврокино 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/28.m3u8 
+#EXTINF:-1,Дом Кино 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/39.m3u8 
+#EXTINF:-1,Кино ТВ 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/35.m3u8 
+#EXTINF:-1,НСТ 
+http://92.223.103.92:8080/live/v0owmu81XY/dnSU4n8lBA/37.m3u8
 
 
 
