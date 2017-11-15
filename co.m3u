@@ -8082,7 +8082,36 @@ http://94.43.239.178:8080/CHANNEL752/BITRATE0/playlist.m3u8
 #EXTINF:0,TV11
 http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 
-
+#EXTINF:-1,silk universal 720
+http://188.93.94.141/silk_sport4/index.m3u8
+#EXTINF:-1,rustavi 2
+http://188.93.94.141/rustavi2hqnew/index.m3u8
+#EXTINF:-1,axali arxi
+http://188.93.94.141/axali2hq/index.m3u8
+#EXTINF:-1,pirveli TV 720
+http://188.93.94.141/pirvelitv/index.m3u8
+#EXTINF:-1,maestro
+http://188.93.94.141/maestro/index.m3u8
+#EXTINF:-1,afxazetis xma 1080
+http://188.93.94.141/abkhaz/index.m3u8
+#EXTINF:-1,maestro 24
+http://188.93.94.141/maestro24/index.m3u8
+#EXTINF:-1,kavkasia
+http://188.93.94.141/caucasia/index.m3u8
+#EXTINF:-1,marao
+http://188.93.94.141/marao/index.m3u8
+#EXTINF:-1,meore arxi
+http://188.93.94.141/meore/index.m3u8
+#EXTINF:-1,basti bubu
+http://188.93.94.141/bbb/index.m3u8
+#EXTINF:-1,ertsulovneba
+http://188.93.94.141/ertsulovneba/index.m3u8
+#EXTINF:-1,qartuli 1080
+http://188.93.94.141/qartuli/index.m3u8
+#EXTINF:-1,obieqtivi
+http://188.93.94.141/obiektivi/index.m3u8
+#EXTINF:-1,1GEORGIA HD
+http://188.93.94.141/gpb/index.m3u8
 
 
 
@@ -11944,28 +11973,6 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Server1
-http://.....
-#EXTINF:0,TVM
-http://94.228.201.117:8000/play/a002
-#EXTINF:0,ПроБизнес
-http://94.228.201.117:8000/play/a001
-#EXTINF:0,PIKTV
-http://94.228.201.117:8000/play/a004
-#EXTINF:0,Gamanoid
-http://94.228.201.117:8000/play/a003
-#EXTINF:0,О2
-http://94.228.201.117:8000/play/a00h
-#EXTINF:0,Univer
-http://94.228.201.117:8000/play/a008
-#EXTINF:0,Buy-home
-http://94.228.201.117:8000/play/a00a
-#EXTINF:0,Nebiset
-http://94.228.201.117:8000/play/a00b
-
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Server2
-http://.....
-
 #EXTINF:-1,Беларусь 1 
 http://91.149.172.100:80/channel?id=45&u=demo&p=demo 
 #EXTINF:-1,Беларусь 2 
@@ -12545,7 +12552,74 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-
+#EXTINF:-1,O'ZBEKISTON 24 
+http://tv.kinolenta.uz/uz24.m3u8 
+#EXTINF:-1,MY 5 MENING YURTIM 
+http://tv.kinolenta.uz/my.m3u8 
+#EXTINF:-1,ZO'R-TV 
+http://tv.kinolenta.uz/zor_tv.m3u8 
+#EXTINF:-1,UZPEPORT 
+http://tv.kinolenta.uz/uzreport.m3u8 
+#EXTINF:-1,KARAVAN TV 
+http://tv.kinolenta.uz/caravan.m3u8 
+#EXTINF:-1,FUTBOL TV 
+http://tv.kinolenta.uz/futbol_tv.m3u8 
+#EXTINF:-1,Pervyj kanal 
+http://tv.kinolenta.uz/perviy.m3u8 
+#EXTINF:-1,ROSSIA 1 
+http://tv.kinolenta.uz/rossiya1.m3u8 
+#EXTINF:-1,ROSSIA 24 
+http://tv.kinolenta.uz/rossiya24.m3u8 
+#EXTINF:-1,NTV 
+http://tv.kinolenta.uz/ntv.m3u8 
+#EXTINF:-1,MATCH-FOOTBALL-1 
+http://tv.kinolenta.uz/futbol1.m3u8 
+#EXTINF:-1,MATCH ARENA 
+http://tv.kinolenta.uz/arena.m3u8 
+#EXTINF:-1,MATCH IGRA 
+http://tv.kinolenta.uz/igra.m3u8 
+#EXTINF:-1,EVROSPORT 1 
+http://tv.kinolenta.uz/eurosport.m3u8 
+#EXTINF:-1,MUZIKA_PERVOGO 
+http://tv.kinolenta.uz/muzika.m3u8 
+#EXTINF:-1,NATIONAL GEOGRAPHIC 
+http://tv.kinolenta.uz/natgeo.m3u8 
+#EXTINF:-1,NAT GEO VILD 
+http://tv.kinolenta.uz/natgeo_wild.m3u8 
+#EXTINF:-1,DISCOVERY SCIENCE 
+http://tv.kinolenta.uz/discovery_science.m3u8 
+#EXTINF:-1,KLUB PUTESHESTVENNIKOV 
+http://tv.kinolenta.uz/klub_puteshestvenikov.m3u8 
+#EXTINF:-1,24 TEHNO 
+http://tv.kinolenta.uz/24techno.m3u8 
+#EXTINF:-1,hunting_and_fishing 
+http://tv.kinolenta.uz/hunting_and_fishing.m3u8 
+#EXTINF:-1,DISNEY 
+http://tv.kinolenta.uz/disney.m3u8 
+#EXTINF:-1,Pervyj kanal HD 
+http://tv.kinolenta.uz/perviy_hd.m3u8 
+#EXTINF:-1,KINOHIT 
+http://tv.kinolenta.uz/kinohit.m3u8 
+#EXTINF:-1,KINOPOKAZ 
+http://tv.kinolenta.uz/kinopokaz.m3u8 
+#EXTINF:-1,KINOSVIDANIE 
+http://tv.kinolenta.uz/kinosvidanie.m3u8 
+#EXTINF:-1,KINOPREMERA 
+http://tv.kinolenta.uz/kinopremera.m3u8 
+#EXTINF:-1,NASHE NOVOE KINO 
+http://tv.kinolenta.uz/nashe_kino.m3u8 
+#EXTINF:-1,TV 1000 ru 
+http://tv.kinolenta.uz/tv1000ru.m3u8 
+#EXTINF:-1,TELEKAFE 
+http://tv.kinolenta.uz/telecafe.m3u8 
+#EXTINF:-1,AVTO PLUS 
+http://tv.kinolenta.uz/avtoplus.m3u8 
+#EXTINF:-1,H VIASAT 
+http://tv.kinolenta.uz/viasat_explore.m3u8 
+#EXTINF:-1,tv 3 
+http://tv.kinolenta.uz/tv3.m3u8 
+#EXTINF:-1,TV 1000 
+http://tv.kinolenta.uz/tv1000.m3u8
 
 
 
