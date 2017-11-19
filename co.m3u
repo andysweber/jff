@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/11/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,19/11/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -58,13 +58,13 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
-http://master.cystreams.com:25461/live/greek/coffee/12.ts
+http://master.cystreams.com:25461/live/greek/redwine/12.ts
 #EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital
-http://master.cystreams.com:25461/live/greek/coffee/14.ts
+http://master.cystreams.com:25461/live/greek/redwine/14.ts
 #EXTINF:0 tvg-logo=https://assets.extratv.com/extratv.com/main/default/img/extra-newlogo-1200x630.jpg ,EXTRA
-http://master.cystreams.com:25461/live/greek/coffee/15.ts
+http://master.cystreams.com:25461/live/greek/redwine/15.ts
 #EXTINF:0 tvg-logo=http://www.lakatamia.tv/media/images/banners/348d2c4feecfee8be4cef04e45c0b312-1505304062.jpg ,SMILE TV
-http://master.cystreams.com:25461/live/greek/coffee/119.ts
+http://master.cystreams.com:25461/live/greek/redwine/119.ts
 #EXTINF:0 tvg-logo=http://www.tvmall.com.cy/images/logo2.png ,TV Mall
 https://www.youtube.com/watch?v=46k1mMe_DYE
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
@@ -117,13 +117,13 @@ http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (Youtube)
 https://www.youtube.com/watch?v=tug1qABlQ-M
 #EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA 
-http://master.cystreams.com:25461/live/greek/coffee/43.ts
+http://master.cystreams.com:25461/live/greek/redwine/43.ts
 #EXTINF:0 tvg-logo=http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
-http://master.cystreams.com:25461/live/greek/coffee/42.ts
+http://master.cystreams.com:25461/live/greek/redwine/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=N4zmSVjcKxE
+https://www.youtube.com/watch?v=UkaREi9U5Bk
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/6/63/Alpha_Sat.png ,ALPHA SAT
@@ -135,7 +135,7 @@ http://zglive1.mdc.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
 #EXTINF:0 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,E
 https://s2.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
-http://master.cystreams.com:25461/live/greek/coffee/40.ts
+http://master.cystreams.com:25461/live/greek/redwine/40.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/m1ZYJB ,VOULI
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/nnsott ,ART TV (Youtube)
@@ -1957,103 +1957,103 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,3E
-http://69.30.251.42:25461/live/newf1/old12/591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,4E
-http://69.30.251.42:25461/live/newf1/old12/592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,5 STAR
-http://69.30.251.42:25461/live/newf1/old12/593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ALIBI
-http://69.30.251.42:25461/live/newf1/old12/594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BABY TV
-http://69.30.251.42:25461/live/newf1/old12/595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BBC 1
-http://69.30.251.42:25461/live/newf1/old12/596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BBC 2
-http://69.30.251.42:25461/live/newf1/old12/597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BBC 3
-http://69.30.251.42:25461/live/newf1/old12/598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BBC 4
-http://69.30.251.42:25461/live/newf1/old12/599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BBC NEWS
-http://69.30.251.42:25461/live/newf1/old12/600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BLOOMBERG
-http://69.30.251.42:25461/live/newf1/old12/601.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/601.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CARTOON NETWORK
-http://69.30.251.42:25461/live/newf1/old12/602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CBS ACTION
-http://69.30.251.42:25461/live/newf1/old12/603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CBS DRAMA
-http://69.30.251.42:25461/live/newf1/old12/604.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/604.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CBS REALITY
-http://69.30.251.42:25461/live/newf1/old12/605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CHANNEL 4
-http://69.30.251.42:25461/live/newf1/old12/607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CHANNEL 5
-http://69.30.251.42:25461/live/newf1/old12/606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CNBC
-http://69.30.251.42:25461/live/newf1/old12/608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CNN EUROPE
-http://69.30.251.42:25461/live/newf1/old12/609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,COMEDY CENTRAL
-http://69.30.251.42:25461/live/newf1/old12/610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DAVE
-http://69.30.251.42:25461/live/newf1/old12/611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISCOVERY HISTORY
-http://69.30.251.42:25461/live/newf1/old12/613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISCOVERY SCIENCE
-http://69.30.251.42:25461/live/newf1/old12/614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISCOVERY
-http://69.30.251.42:25461/live/newf1/old12/612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY CHANNEL
-http://69.30.251.42:25461/live/newf1/old12/616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY JR
-http://69.30.251.42:25461/live/newf1/old12/617.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/617.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY XD
-http://69.30.251.42:25461/live/newf1/old12/618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FILM 4
-http://69.30.251.42:25461/live/newf1/old12/619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,GOLD
-http://69.30.251.42:25461/live/newf1/old12/620.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/620.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ITV 2+
-http://69.30.251.42:25461/live/newf1/old12/622.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/622.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ITV 3+
-http://69.30.251.42:25461/live/newf1/old12/623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ITV 4
-http://69.30.251.42:25461/live/newf1/old12/624.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/624.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ITV
-http://69.30.251.42:25461/live/newf1/old12/621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MAGIC
-http://69.30.251.42:25461/live/newf1/old12/625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MORE 4
-http://69.30.251.42:25461/live/newf1/old12/626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MTV BASE
-http://69.30.251.42:25461/live/newf1/old12/627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MTV DANCE
-http://69.30.251.42:25461/live/newf1/old12/629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MTV MUSIC
-http://69.30.251.42:25461/live/newf1/old12/631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NAT GEO CHANNEL
-http://69.30.251.42:25461/live/newf1/old12/633.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/633.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NAT GEO WILD
-http://69.30.251.42:25461/live/newf1/old12/632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NICK JR TOO
-http://69.30.251.42:25461/live/newf1/old12/635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NICK JR
-http://69.30.251.42:25461/live/newf1/old12/634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NICKELODEON
-http://69.30.251.42:25461/live/newf1/old12/637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NICKTOONS
-http://69.30.251.42:25461/live/newf1/old12/636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PICK TV
-http://69.30.251.42:25461/live/newf1/old12/638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,QUEST
-http://69.30.251.42:25461/live/newf1/old12/639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RT NEWS
-http://69.30.251.42:25461/live/newf1/old12/640.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/640.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTE 1
-http://69.30.251.42:25461/live/newf1/old12/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTE 2
-http://69.30.251.42:25461/live/newf1/old12/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 
 
 
@@ -3667,72 +3667,71 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,AXN HD
-http://69.30.251.42:25461/live/newf1/old12/790.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/790.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BOING
-http://69.30.251.42:25461/live/newf1/old12/863.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/863.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANALE 5
-http://69.30.251.42:25461/live/newf1/old12/793.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/793.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CARTOON NETWORK
-http://69.30.251.42:25461/live/newf1/old12/806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY JR
-http://69.30.251.42:25461/live/newf1/old12/815.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/815.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,LA5
-http://69.30.251.42:25461/live/newf1/old12/820.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/820.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,LA7
-http://69.30.251.42:25461/live/newf1/old12/821.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/821.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MEDIASAT EXTRA
-http://69.30.251.42:25461/live/newf1/old12/822.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/822.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NICKELODEON
-http://69.30.251.42:25461/live/newf1/old12/826.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/826.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PREMIUM ACTION 24
-http://69.30.251.42:25461/live/newf1/old12/833.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/833.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PREMIUM CINEMA 2 HD
-http://69.30.251.42:25461/live/newf1/old12/834.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/834.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PREMIUM JOI
-http://69.30.251.42:25461/live/newf1/old12/836.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/836.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI 1
-http://69.30.251.42:25461/live/newf1/old12/838.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/838.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI 2
-http://69.30.251.42:25461/live/newf1/old12/839.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/839.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI 4
-http://69.30.251.42:25461/live/newf1/old12/840.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/840.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI 5
-http://69.30.251.42:25461/live/newf1/old12/841.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/841.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI GULP
-http://69.30.251.42:25461/live/newf1/old12/842.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
-#EXTINF:-1,RAI MOVIE
-http://69.30.251.42:25461/live/newf1/old12/843.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/842.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:-1,RAI host
+http://69.30.251.42:25461/live/newapk/onew/843.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI NEWS 24
-http://69.30.251.42:25461/live/newf1/old12/844.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/844.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI PREMIUM
-http://69.30.251.42:25461/live/newf1/old12/845.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/845.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI SCUOLA
-http://69.30.251.42:25461/live/newf1/old12/846.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/846.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI STORIA
-http://69.30.251.42:25461/live/newf1/old12/847.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/847.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RAI YOYO
-http://69.30.251.42:25461/live/newf1/old12/848.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/848.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RETE 4
-http://69.30.251.42:25461/live/newf1/old12/849.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/849.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RSI LA1 HD
-http://69.30.251.42:25461/live/newf1/old12/850.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/850.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RSI LA2 HD 
-http://69.30.251.42:25461/live/newf1/old12/851.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/851.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY ATLANTIC 1HD
-http://69.30.251.42:25461/live/newf1/old12/855.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/855.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY ATLANTIC HD
-http://69.30.251.42:25461/live/newf1/old12/854.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/854.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA 1 HD
-http://69.30.251.42:25461/live/newf1/old12/858.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/858.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA CLASSIC HD
-http://69.30.251.42:25461/live/newf1/old12/859.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/859.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA FAMILY HD
-http://69.30.251.42:25461/live/newf1/old12/860.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/860.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA MAX HD
-http://69.30.251.42:25461/live/newf1/old12/861.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/861.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,STUDIO UNIVERSAL
-http://69.30.251.42:25461/live/newf1/old12/837.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
-
+http://69.30.251.42:25461/live/newapk/onew/837.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 
 
 
@@ -4365,66 +4364,65 @@ http://.....
 
 
 #EXTINF:-1,ANIMUX
-http://69.30.251.42:25461/live/newf1/old12/789.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/789.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL CINEMA
-http://69.30.251.42:25461/live/newf1/old12/791.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/791.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL DECALE
-http://69.30.251.42:25461/live/newf1/old12/792.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/792.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL FAMILY
-http://69.30.251.42:25461/live/newf1/old12/794.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/794.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV 1
-http://69.30.251.42:25461/live/newf1/old12/796.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/796.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV 2
-http://69.30.251.42:25461/live/newf1/old12/797.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/797.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV3 /
-http://69.30.251.42:25461/live/newf1/old12/799.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/799.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV4
-http://69.30.251.42:25461/live/newf1/old12/800.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/800.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV5
-http://69.30.251.42:25461/live/newf1/old12/801.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/801.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV6
-http://69.30.251.42:25461/live/newf1/old12/802.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/802.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV7
-http://69.30.251.42:25461/live/newf1/old12/803.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/803.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV8
-http://69.30.251.42:25461/live/newf1/old12/804.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/804.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV9
-http://69.30.251.42:25461/live/newf1/old12/805.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/805.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PPV10
-http://69.30.251.42:25461/live/newf1/old12/798.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/798.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL SERIES
-http://69.30.251.42:25461/live/newf1/old12/795.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/795.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CHASSE E PECHE
-http://69.30.251.42:25461/live/newf1/old12/807.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/807.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CINE CLASSIC
-http://69.30.251.42:25461/live/newf1/old12/809.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/809.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CINE FAMIZ
-http://69.30.251.42:25461/live/newf1/old12/810.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/810.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CINE FX
-http://69.30.251.42:25461/live/newf1/old12/812.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/812.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISCOVERY SCIENCE
-http://69.30.251.42:25461/live/newf1/old12/814.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/814.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISCOVERY
-http://69.30.251.42:25461/live/newf1/old12/813.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/813.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FRANCE 2
-http://69.30.251.42:25461/live/newf1/old12/817.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/817.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FRANCE 3
-http://69.30.251.42:25461/live/newf1/old12/818.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/818.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FRANCE 5
-http://69.30.251.42:25461/live/newf1/old12/819.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/819.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NAT GEO CHANNEL
-http://69.30.251.42:25461/live/newf1/old12/824.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/824.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NAT GEO WILD
-http://69.30.251.42:25461/live/newf1/old12/825.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/825.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NRJ12
-http://69.30.251.42:25461/live/newf1/old12/827.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/827.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PLANETE PLUS CI
-http://69.30.251.42:25461/live/newf1/old12/832.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/832.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PLANETE PLUS
-http://69.30.251.42:25461/live/newf1/old12/831.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/831.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,W9 HD
-http://69.30.251.42:25461/live/newf1/old12/862.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
-
+http://69.30.251.42:25461/live/newapk/onew/862.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 
 
 
@@ -5254,144 +5252,143 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,AXN HD
-http://69.30.251.42:25461/live/newf1/old12/526.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/526.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BOOMERANG
-http://69.30.251.42:25461/live/newf1/old12/527.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/527.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CARTOON NETWORK
-http://69.30.251.42:25461/live/newf1/old12/528.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/528.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISCOVERY HD
-http://69.30.251.42:25461/live/newf1/old12/529.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/529.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY CHANNEL
-http://69.30.251.42:25461/live/newf1/old12/530.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/530.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY CINEMAGIC
-http://69.30.251.42:25461/live/newf1/old12/531.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/531.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY JUNIOR
-http://69.30.251.42:25461/live/newf1/old12/532.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/532.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY XD
-http://69.30.251.42:25461/live/newf1/old12/533.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/533.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DMAX
-http://69.30.251.42:25461/live/newf1/old12/534.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/534.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FOX HD
-http://69.30.251.42:25461/live/newf1/old12/537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,HISTORY HD
-http://69.30.251.42:25461/live/newf1/old12/538.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/538.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,KABEL EINS
-http://69.30.251.42:25461/live/newf1/old12/539.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/539.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,KIKA
-http://69.30.251.42:25461/live/newf1/old12/540.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/540.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,KINO WELT HD
-http://69.30.251.42:25461/live/newf1/old12/541.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/541.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NAT GEO CHANNEL HD
-http://69.30.251.42:25461/live/newf1/old12/543.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/543.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NAT GEO WILD HD
-http://69.30.251.42:25461/live/newf1/old12/544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PRO 7
-http://69.30.251.42:25461/live/newf1/old12/545.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/545.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PRO SIEBEN MAXX HD
-http://69.30.251.42:25461/live/newf1/old12/546.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/546.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ROMANCE TV
-http://69.30.251.42:25461/live/newf1/old12/547.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/547.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTL 2 HD
-http://69.30.251.42:25461/live/newf1/old12/548.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/548.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTL CRIME HD
-http://69.30.251.42:25461/live/newf1/old12/549.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/549.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTL HD
-http://69.30.251.42:25461/live/newf1/old12/550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTL LIVING HD
-http://69.30.251.42:25461/live/newf1/old12/551.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/551.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTL NITRO HD
-http://69.30.251.42:25461/live/newf1/old12/552.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/552.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTL PASSION HD
-http://69.30.251.42:25461/live/newf1/old12/553.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/553.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTL PLUS HD
-http://69.30.251.42:25461/live/newf1/old12/554.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/554.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SAT.1 HD
-http://69.30.251.42:25461/live/newf1/old12/555.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/555.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SIXX HD
-http://69.30.251.42:25461/live/newf1/old12/556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY ATLANTIC HD
-http://69.30.251.42:25461/live/newf1/old12/577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA 24 HD
-http://69.30.251.42:25461/live/newf1/old12/559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA ACTION HD
-http://69.30.251.42:25461/live/newf1/old12/557.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/557.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA COMEDY HD
-http://69.30.251.42:25461/live/newf1/old12/563.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/563.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA EMOTION HD
-http://69.30.251.42:25461/live/newf1/old12/560.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/560.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA FAMILY HD
-http://69.30.251.42:25461/live/newf1/old12/561.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/561.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA HD
-http://69.30.251.42:25461/live/newf1/old12/562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA HITS HD
-http://69.30.251.42:25461/live/newf1/old12/565.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/565.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,13th STREET HD
-http://69.30.251.42:25461/live/newf1/old12/564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY KIRIMI
-http://69.30.251.42:25461/live/newf1/old12/542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY SELECT 1 HD
-http://69.30.251.42:25461/live/newf1/old12/566.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/566.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY SELECT 2 HD
-http://69.30.251.42:25461/live/newf1/old12/567.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/567.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY SELECT 3 HD
-http://69.30.251.42:25461/live/newf1/old12/568.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/568.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY SELECT 4 HD
-http://69.30.251.42:25461/live/newf1/old12/569.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/569.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY SELECT 5 HD
-http://69.30.251.42:25461/live/newf1/old12/570.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/570.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY SELECT 6 HD
-http://69.30.251.42:25461/live/newf1/old12/571.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/571.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY SELECT 7 HD
-http://69.30.251.42:25461/live/newf1/old12/572.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/572.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY SELECT 8 HD
-http://69.30.251.42:25461/live/newf1/old12/573.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/573.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SONY CHANNEL HD
-http://69.30.251.42:25461/live/newf1/old12/579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SPIEGEL TV
-http://69.30.251.42:25461/live/newf1/old12/580.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/580.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SPORT 1 HD
-http://69.30.251.42:25461/live/newf1/old12/581.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/581.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SUPER RTL HD
-http://69.30.251.42:25461/live/newf1/old12/582.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/582.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SYFY HD
-http://69.30.251.42:25461/live/newf1/old12/578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TLC HD
-http://69.30.251.42:25461/live/newf1/old12/583.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/583.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TNT COMEDY HD
-http://69.30.251.42:25461/live/newf1/old12/584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TNT FILM HD
-http://69.30.251.42:25461/live/newf1/old12/585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TNT SERIES HD
-http://69.30.251.42:25461/live/newf1/old12/586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-http://69.30.251.42:25461/live/newf1/old12/587.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/587.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,VOX HD
-http://69.30.251.42:25461/live/newf1/old12/588.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/588.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ZDF HD
-http://69.30.251.42:25461/live/newf1/old12/589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ZEE ONE HD
-http://69.30.251.42:25461/live/newf1/old12/590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DELUX MUSIC
-http://69.30.251.42:25461/live/newf1/old12/788.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/788.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,EURO NEWS
-http://69.30.251.42:25461/live/newf1/old12/816.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/816.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,N24 HD
-http://69.30.251.42:25461/live/newf1/old12/823.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/823.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NTV HD
-http://69.30.251.42:25461/live/newf1/old12/828.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/828.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ORF 2 HD
-http://69.30.251.42:25461/live/newf1/old12/830.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/830.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ORF EINS HD
-http://69.30.251.42:25461/live/newf1/old12/829.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/829.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY 3D
-http://69.30.251.42:25461/live/newf1/old12/852.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/852.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY ACTION
-http://69.30.251.42:25461/live/newf1/old12/853.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/853.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY BUNDESLIGA 2HD-SP
-http://69.30.251.42:25461/live/newf1/old12/856.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/856.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SKY CINEMA 1 HD
-http://69.30.251.42:25461/live/newf1/old12/857.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
-
+http://69.30.251.42:25461/live/newapk/onew/857.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 
 
 
@@ -6216,35 +6213,35 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,24 H
-http://69.30.251.42:25461/live/newf1/old12/447.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/447.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,40 TV
-http://69.30.251.42:25461/live/newf1/old12/449.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/449.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,A&E
-http://69.30.251.42:25461/live/newf1/old12/450.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/450.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,AMC HD
-http://69.30.251.42:25461/live/newf1/old12/451.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/451.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ANTENA 3 HD
-http://69.30.251.42:25461/live/newf1/old12/448.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/448.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,AXN HD
-http://69.30.251.42:25461/live/newf1/old12/452.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/452.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,AXN WHITE HD
-http://69.30.251.42:25461/live/newf1/old12/453.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/453.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BABY TV
-http://69.30.251.42:25461/live/newf1/old12/454.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/454.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BARCA TV
-http://69.30.251.42:25461/live/newf1/old12/455.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/455.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BOING
-http://69.30.251.42:25461/live/newf1/old12/457.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/457.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CALLE 13
-http://69.30.251.42:25461/live/newf1/old12/458.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/458.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL ACCION HD
-http://69.30.251.42:25461/live/newf1/old12/461.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/461.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL COCINA
-http://69.30.251.42:25461/live/newf1/old12/460.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/460.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL COMEDIA HD
-http://69.30.251.42:25461/live/newf1/old12/462.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/462.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL+ DEPORTES 2
-http://69.30.251.42:25461/live/newf1/old12/459.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/459.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 
 
 
@@ -7092,148 +7089,147 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,24 KITCHEN
-http://69.30.251.42:25461/live/newf1/old12/463.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/463.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,A BOLA TV
-http://69.30.251.42:25461/live/newf1/old12/465.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/465.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,A&E
-http://69.30.251.42:25461/live/newf1/old12/464.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/464.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,AFRO MUSIC
-http://69.30.251.42:25461/live/newf1/old12/466.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/466.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,AMC
-http://69.30.251.42:25461/live/newf1/old12/467.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/467.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,AXN BLACK HD
-http://69.30.251.42:25461/live/newf1/old12/468.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/468.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,AXN HD
-http://69.30.251.42:25461/live/newf1/old12/469.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/469.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,AXN WHITE HD
-http://69.30.251.42:25461/live/newf1/old12/470.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/470.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BABY TV
-http://69.30.251.42:25461/live/newf1/old12/471.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/471.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BIGGS KIDS
-http://69.30.251.42:25461/live/newf1/old12/473.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/473.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CACA E PESCA
-http://69.30.251.42:25461/live/newf1/old12/474.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/474.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CACAVISION
-http://69.30.251.42:25461/live/newf1/old12/475.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/475.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL HISTORIA
-http://69.30.251.42:25461/live/newf1/old12/476.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/476.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL PANDA KIDS
-http://69.30.251.42:25461/live/newf1/old12/477.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/477.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CANAL Q
-http://69.30.251.42:25461/live/newf1/old12/478.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/478.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CARTOON NETWORK
-http://69.30.251.42:25461/live/newf1/old12/643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CBS REALITY
-http://69.30.251.42:25461/live/newf1/old12/479.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/479.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CINE MUNDO
-http://69.30.251.42:25461/live/newf1/old12/481.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/481.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CM TV
-http://69.30.251.42:25461/live/newf1/old12/482.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/482.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISCOVERY SHOWCASE HD
-http://69.30.251.42:25461/live/newf1/old12/484.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/484.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISCOVERY
-http://69.30.251.42:25461/live/newf1/old12/483.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/483.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY CHANNEL
-http://69.30.251.42:25461/live/newf1/old12/644.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/644.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DISNEY JUNIOR
-http://69.30.251.42:25461/live/newf1/old12/645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,E! ENTERTAINMENT
-http://69.30.251.42:25461/live/newf1/old12/646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,EURO NEWS
-http://69.30.251.42:25461/live/newf1/old12/647.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/647.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FASHION TV
-http://69.30.251.42:25461/live/newf1/old12/648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FOX COMEDY
-http://69.30.251.42:25461/live/newf1/old12/649.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/649.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FOX CRIME HD
-http://69.30.251.42:25461/live/newf1/old12/650.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/650.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FOX HD
-http://69.30.251.42:25461/live/newf1/old12/651.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/651.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,FOX LIFE HD
-http://69.30.251.42:25461/live/newf1/old12/652.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
-#EXTINF:-1,FOX MOVIES
-http://69.30.251.42:25461/live/newf1/old12/653.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/652.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
+#EXTINF:-1,FOX hostS
+http://69.30.251.42:25461/live/newapk/onew/653.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,HWD HOLLYWOOD
-http://69.30.251.42:25461/live/newf1/old12/654.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/654.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,JIM JAM KIDS
-http://69.30.251.42:25461/live/newf1/old12/655.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/655.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MCS EXTREME
-http://69.30.251.42:25461/live/newf1/old12/656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MOV HD
-http://69.30.251.42:25461/live/newf1/old12/657.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/657.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MTV
-http://69.30.251.42:25461/live/newf1/old12/658.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/658.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NAT GEO CHANNEL HD
-http://69.30.251.42:25461/live/newf1/old12/659.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/659.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NAT GEO WILD
-http://69.30.251.42:25461/live/newf1/old12/660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NICKELODEON
-http://69.30.251.42:25461/live/newf1/old12/661.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/661.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ODISSEIA TV
-http://69.30.251.42:25461/live/newf1/old12/662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PORTO CANAL
-http://69.30.251.42:25461/live/newf1/old12/663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RECORD NEWS
-http://69.30.251.42:25461/live/newf1/old12/664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTP 1
-http://69.30.251.42:25461/live/newf1/old12/665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTP 2
-http://69.30.251.42:25461/live/newf1/old12/666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTP 3
-http://69.30.251.42:25461/live/newf1/old12/669.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/669.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTP AÇORES
-http://69.30.251.42:25461/live/newf1/old12/692.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/692.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTP ÁFRICA
-http://69.30.251.42:25461/live/newf1/old12/693.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/693.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTP MADERIA
-http://69.30.251.42:25461/live/newf1/old12/667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTP MEMORIA
-http://69.30.251.42:25461/live/newf1/old12/668.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/668.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SBT BRASIL
-http://69.30.251.42:25461/live/newf1/old12/694.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/694.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SIC CARAS
-http://69.30.251.42:25461/live/newf1/old12/671.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/671.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SIC KIDS
-http://69.30.251.42:25461/live/newf1/old12/672.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/672.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SIC MULHER
-http://69.30.251.42:25461/live/newf1/old12/673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SIC NOTÍCIAS
-http://69.30.251.42:25461/live/newf1/old12/674.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/674.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SIC RADICAL
-http://69.30.251.42:25461/live/newf1/old12/675.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/675.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SIC
-http://69.30.251.42:25461/live/newf1/old12/670.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/670.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SYFY HD
-http://69.30.251.42:25461/live/newf1/old12/677.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/677.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TLC
-http://69.30.251.42:25461/live/newf1/old12/678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TOROS TV
-http://69.30.251.42:25461/live/newf1/old12/679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TRACE URBAN
-http://69.30.251.42:25461/live/newf1/old12/680.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/680.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TRAVEL CHANNEL HD
-http://69.30.251.42:25461/live/newf1/old12/681.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/681.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TV GLOBO PREMIUM
-http://69.30.251.42:25461/live/newf1/old12/682.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/682.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TVCINE 1 HD
-http://69.30.251.42:25461/live/newf1/old12/683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TVCINE 2 HD
-http://69.30.251.42:25461/live/newf1/old12/684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TVCINE 3 HD
-http://69.30.251.42:25461/live/newf1/old12/685.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/685.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TVCINE 4 HD
-http://69.30.251.42:25461/live/newf1/old12/686.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/686.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TVCINE SERIES HD
-http://69.30.251.42:25461/live/newf1/old12/687.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/687.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TVI 24
-http://69.30.251.42:25461/live/newf1/old12/689.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/689.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TVI FICCAO
-http://69.30.251.42:25461/live/newf1/old12/690.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/690.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TVI
-http://69.30.251.42:25461/live/newf1/old12/688.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/688.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,VH1
-http://69.30.251.42:25461/live/newf1/old12/691.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
-
+http://69.30.251.42:25461/live/newapk/onew/691.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 
 
 
@@ -8719,50 +8715,49 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,24 CHANNEL
-http://69.30.251.42:25461/live/newf1/old12/3330.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3330.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ATN MUSIC TV
-http://69.30.251.42:25461/live/newf1/old12/3331.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3331.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ATN NEWS
-http://69.30.251.42:25461/live/newf1/old12/3332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,BOISHAKHI TV
-http://69.30.251.42:25461/live/newf1/old12/3333.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3333.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DESH TV
-http://69.30.251.42:25461/live/newf1/old12/3334.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3334.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DESHE BIDESHE TV
-http://69.30.251.42:25461/live/newf1/old12/3335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DIGI BANGLA HD /
-http://69.30.251.42:25461/live/newf1/old12/3329.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3329.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DOOM MUSIC
-http://69.30.251.42:25461/live/newf1/old12/3336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,EKATTOR TV
-http://69.30.251.42:25461/live/newf1/old12/3337.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3337.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,G TV
-http://69.30.251.42:25461/live/newf1/old12/3338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,GAAN BANGLA
-http://69.30.251.42:25461/live/newf1/old12/3339.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3339.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,INDEPENDENT TV
-http://69.30.251.42:25461/live/newf1/old12/3340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,JAMUNA TV
-http://69.30.251.42:25461/live/newf1/old12/3341.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3341.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MAGIC BANGLA TV
-http://69.30.251.42:25461/live/newf1/old12/3342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MASRANGA TV
-http://69.30.251.42:25461/live/newf1/old12/3343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MOHONA TV
-http://69.30.251.42:25461/live/newf1/old12/3345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MY CINEMA TV
-http://69.30.251.42:25461/live/newf1/old12/3328.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3328.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NRB TV
-http://69.30.251.42:25461/live/newf1/old12/3346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NTV UK
-http://69.30.251.42:25461/live/newf1/old12/3348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,NTV
-http://69.30.251.42:25461/live/newf1/old12/3347.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3347.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,R PLUS
-http://69.30.251.42:25461/live/newf1/old12/3349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,RTV
-http://69.30.251.42:25461/live/newf1/old12/3350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
-
+http://69.30.251.42:25461/live/newapk/onew/3350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 
 
 
@@ -9285,36 +9280,35 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,EPIC CHANNEL
-http://69.30.251.42:25461/live/newf1/old12/3999.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3999.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,ZEE TV
-http://69.30.251.42:25461/live/newf1/old12/138.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/138.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MANORAMA NEWS
-http://69.30.251.42:25461/live/newf1/old12/352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SAHARA FILMY
-http://69.30.251.42:25461/live/newf1/old12/3683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,MUSIC XPRESS
-http://69.30.251.42:25461/live/newf1/old12/424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,AAJ TAK UK
-http://69.30.251.42:25461/live/newf1/old12/3643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,DESI FUSION
-http://69.30.251.42:25461/live/newf1/old12/3623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,KHABRAIN ABHI TAK (NEWS)
-http://69.30.251.42:25461/live/newf1/old12/3662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,KHABAR FAST (NEWS)
-http://69.30.251.42:25461/live/newf1/old12/3663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,JANATA TV (NEWS)
-http://69.30.251.42:25461/live/newf1/old12/3665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,LAKSHYA TV
-http://69.30.251.42:25461/live/newf1/old12/3667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,PEACE OF MIND
-http://69.30.251.42:25461/live/newf1/old12/3673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,CNBC TV18 PRIME HD
-http://69.30.251.42:25461/live/newf1/old12/3676.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3676.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,SONY EARTH HINDI HD /
-http://69.30.251.42:25461/live/newf1/old12/3684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
+http://69.30.251.42:25461/live/newapk/onew/3684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 #EXTINF:-1,TEN 1 HD
-http://69.30.251.42:25461/live/newf1/old12/176.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=movie
-
+http://69.30.251.42:25461/live/newapk/onew/176.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=host
 
 
 
