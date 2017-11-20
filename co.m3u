@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,19/11/17 !!
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,20/11/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -941,23 +941,18 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,Arena Sport 6 
-http://premium.tvshqip.us:8880/live/mega/iptv/169.ts|User-Agent=25634
-#EXTINF:-1,Arena Sport 5 
-http://premium.tvshqip.us:8880/live/mega/iptv/168.ts|User-Agent=25634
-#EXTINF:-1,Arena Sport 4 
-http://premium.tvshqip.us:8880/live/mega/iptv/166.ts|User-Agent=25634
-#EXTINF:-1,Arena Sport 3 
-http://premium.tvshqip.us:8880/live/mega/iptv/167.ts|User-Agent=25634
-#EXTINF:-1,Arena Sport 2 
-http://premium.tvshqip.us:8880/live/mega/iptv/165.ts|User-Agent=25634
 #EXTINF:-1,Arena Sport 1 
 http://premium.tvshqip.us:8880/live/mega/iptv/164.ts|User-Agent=25634
-
-
-
-
-
+#EXTINF:-1,Arena Sport 2 
+http://premium.tvshqip.us:8880/live/mega/iptv/165.ts|User-Agent=25634
+#EXTINF:-1,Arena Sport 3 
+http://premium.tvshqip.us:8880/live/mega/iptv/167.ts|User-Agent=25634
+#EXTINF:-1,Arena Sport 4 
+http://premium.tvshqip.us:8880/live/mega/iptv/166.ts|User-Agent=25634
+#EXTINF:-1,Arena Sport 5 
+http://premium.tvshqip.us:8880/live/mega/iptv/168.ts|User-Agent=25634
+#EXTINF:-1,Arena Sport 6 
+http://premium.tvshqip.us:8880/live/mega/iptv/169.ts|User-Agent=25634
 
 
 
@@ -1730,7 +1725,7 @@ http://93.158.220.163:2000/play/a023
 http://93.158.220.163:2000/play/a02b
 #EXTINF:-1,More 4
 http://93.158.220.163:2000/play/a02p
-#EXTINF:-1,51125
+#EXTINF:-1,eir Sport 1
 http://93.158.220.163:2000/play/a01w
 #EXTINF:-1,eir Sport 2
 http://93.158.220.163:2000/play/a01v
@@ -2556,57 +2551,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1191.m3u8$http-refferer
 #EXTINF:8 group-title=”UK3-PREMIUM_MXPLAYER”,
 
 
-#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,SkySports 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/38.ts|User-Agent=star5
-#EXTINF:-1,SkySports 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/39.ts|User-Agent=star5
-#EXTINF:-1,SkySports 3HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/40.ts|User-Agent=star5
-#EXTINF:-1,SkySports 4HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/41.ts|User-Agent=star5
-#EXTINF:-1,SkySports 5HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/42.ts|User-Agent=star5
-#EXTINF:-1,BtSports 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/45.ts|User-Agent=star5
-#EXTINF:-1,BtSports 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/43.ts|User-Agent=star5
-#EXTINF:-1,BtSports 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/46.ts|User-Agent=star5
-#EXTINF:-1,BtSports 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/44.ts|User-Agent=star5
-#EXTINF:-1,BtSportExtra HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/49.ts|User-Agent=star5
-#EXTINF:-1,BtSportEurope HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/48.ts|User-Agent=star5
-#EXTINF:-1,BtSportEurope 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/47.ts|User-Agent=star5
-
-
-
 
 
 
@@ -2822,41 +2766,6 @@ http://..........
 
 
 #EXTINF:4 group-title=”Romania-PREMIUM_MXPLAYER”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg/250px-Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg.png ,=ROMANIA=
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,DigiSport 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/34.ts|User-Agent=star5
-#EXTINF:-1,DigiSport 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/35.ts|User-Agent=star5
-#EXTINF:-1,DigiSport 3HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/36.ts|User-Agent=star5
-#EXTINF:-1,DigiSport 4HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/37.ts|User-Agent=star5
-
-
 
 
 
@@ -4451,170 +4360,6 @@ http://69.30.251.42:25461/live/newapk/onew/862.ts|refferer=http://solidstreamz.c
 
 #EXTINF:8 group-title=”France4-PREMIUM_MXPLAYER”,
 
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
-http://..........
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,beinSport 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/50.ts|User-Agent=star5
-#EXTINF:-1,beinSport 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/51.ts|User-Agent=star5
-#EXTINF:-1,beinSport 3HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/52.ts|User-Agent=star5
-#EXTINF:-1,BeinMax 4HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/53.ts|User-Agent=star5
-#EXTINF:-1,BeinMax 5HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/54.ts|User-Agent=star5
-#EXTINF:-1,BeinMax 6HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/55.ts|User-Agent=star5
-#EXTINF:-1,BeinMax 7HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/56.ts|User-Agent=star5
-#EXTINF:-1,BeinMax 8HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/57.ts|User-Agent=star5
-#EXTINF:-1,BeinMax 9HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/58.ts|User-Agent=star5
-#EXTINF:-1,BeinMax 10HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/59.ts|User-Agent=star5
-#EXTINF:-1,National Geogra
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/89.ts|User-Agent=star5
-#EXTINF:-1,Nat Geo Wild
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/90.ts|User-Agent=star5
-#EXTINF:-1,Ushuaia TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/94.ts|User-Agent=star5
-#EXTINF:-1,Season
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/96.ts|User-Agent=star5
-#EXTINF:-1,Discovry
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/91.ts|User-Agent=star5
-#EXTINF:-1,Discovry Sci
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/92.ts|User-Agent=star5
-#EXTINF:-1,Animaux
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/93.ts|User-Agent=star5
-#EXTINF:-1,Chasse Peche
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/95.ts|User-Agent=star5
-#EXTINF:-1,France O
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/69.ts|User-Agent=star5
-#EXTINF:-1,France 2
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/65.ts|User-Agent=star5
-#EXTINF:-1,France 3
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/66.ts|User-Agent=star5
-#EXTINF:-1,France 4
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/67.ts|User-Agent=star5
-#EXTINF:-1,France 5
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/68.ts|User-Agent=star5
-#EXTINF:-1,France 24
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/97.ts|User-Agent=star5
-#EXTINF:-1,TF1
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/63.ts|User-Agent=star5
-#EXTINF:-1,M6
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/64.ts|User-Agent=star5
-#EXTINF:-1,Lci
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/99.ts|User-Agent=star5
-#EXTINF:-1,Teletoon
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/108.ts|User-Agent=star5
-#EXTINF:-1,Foot 24HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/116.ts|User-Agent=star5
-#EXTINF:-1,InfoSport HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/117.ts|User-Agent=star5
-#EXTINF:-1,Ocs Max
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/86.ts|User-Agent=star5
-#EXTINF:-1,Ocs Geant
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/84.ts|User-Agent=star5
-#EXTINF:-1,Ocs City
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/85.ts|User-Agent=star5
-#EXTINF:-1,Ocs Choc
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/83.ts|User-Agent=star5
-#EXTINF:-1,Cine Premier
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/75.ts|User-Agent=star5
-#EXTINF:-1,Cine Polar
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/81.ts|User-Agent=star5
-#EXTINF:-1,Cine Fx
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/82.ts|User-Agent=star5
-#EXTINF:-1,Cine Frisson
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/76.ts|User-Agent=star5
-#EXTINF:-1,Cine Famiz
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/80.ts|User-Agent=star5
-#EXTINF:-1,Cine Emotion
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/77.ts|User-Agent=star5
-#EXTINF:-1,Cine Club
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/79.ts|User-Agent=star5
-#EXTINF:-1,Cine Classic
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/78.ts|User-Agent=star5
-#EXTINF:-1,Canal Play 1
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/118.ts|User-Agent=star5
-#EXTINF:-1,Canal Play 2
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/119.ts|User-Agent=star5
-#EXTINF:-1,Canal Play 3
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/120.ts|User-Agent=star5
-#EXTINF:-1,Canal Play 4
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/121.ts|User-Agent=star5
-#EXTINF:-1,Canal Play 5
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/122.ts|User-Agent=star5
-#EXTINF:-1,Canal J
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/106.ts|User-Agent=star5
-#EXTINF:-1,Canal Sport HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/115.ts|User-Agent=star5
-#EXTINF:-1,C News
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/98.ts|User-Agent=star5
-#EXTINF:-1,Action
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/88.ts|User-Agent=star5
-#EXTINF:-1,Canal
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/70.ts|User-Agent=star5
-#EXTINF:-1,Canal Comedie
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/87.ts|User-Agent=star5
-#EXTINF:-1,Canal Series
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/74.ts|User-Agent=star5
-#EXTINF:-1,Canal Family
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/73.ts|User-Agent=star5
-#EXTINF:-1,Canal Decale
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/72.ts|User-Agent=star5
-#EXTINF:-1,Canal Cinema
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/71.ts|User-Agent=star5
-#EXTINF:-1,Carton Net
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/103.ts|User-Agent=star5
-#EXTINF:-1,Boomerang
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/102.ts|User-Agent=star5
-#EXTINF:-1,Boing
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/107.ts|User-Agent=star5
-#EXTINF:-1,Gulli
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/104.ts|User-Agent=star5
-#EXTINF:-1,Piwi
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/100.ts|User-Agent=star5
-#EXTINF:-1,Nickelodeon Junior
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/110.ts|User-Agent=star5
-#EXTINF:-1,Nickelodeon
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/109.ts|User-Agent=star5
-#EXTINF:-1,Mangas
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/105.ts|User-Agent=star5
-#EXTINF:-1,Tiji
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/101.ts|User-Agent=star5
-#EXTINF:-1,Disney XD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/114.ts|User-Agent=star5
-#EXTINF:-1,Disney Junior
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/111.ts|User-Agent=star5
-#EXTINF:-1,Disney Cinema
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/113.ts|User-Agent=star5
-#EXTINF:-1,Disney Channel
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/112.ts|User-Agent=star5
-
 
 
 
@@ -4910,14 +4655,12 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,Sky Sport 3 HD
-http://premium.tvshqip.us:8880/live/mega/iptv/153.ts|User-Agent=25634
-#EXTINF:-1,Sky Sport 2 HD
-http://premium.tvshqip.us:8880/live/mega/iptv/152.ts|User-Agent=25634
 #EXTINF:-1,Sky Sport 1 HD
 http://premium.tvshqip.us:8880/live/mega/iptv/151.ts|User-Agent=25634
-
-
+#EXTINF:-1,Sky Sport 2 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/152.ts|User-Agent=25634
+#EXTINF:-1,Sky Sport 3 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/153.ts|User-Agent=25634
 
 
 
@@ -5890,35 +5633,140 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,DISCOVERY CHANNEL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/index.m3u8
 #EXTINF:-1,DISCOVERY H&H
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/index.m3u8
 #EXTINF:-1,ID
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
 #EXTINF:-1,A&E
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/index.m3u8
 #EXTINF:-1,FOX LIFE
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/index.m3u8
 #EXTINF:-1,FOX SERIES
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/index.m3u8
 #EXTINF:-1,HBO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/index.m3u8
 #EXTINF:-1,HBO 2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/index.m3u8
 #EXTINF:-1,HBO PLUS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/index.m3u8
 #EXTINF:-1,HBO FAMILY
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/index.m3u8
 #EXTINF:-1,DISNEY JUNIOR
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/index.m3u8
 #EXTINF:-1,NATGEO KIDS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/index.m3u8
 #EXTINF:-1,TOONCAST
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/index.m3u8
 #EXTINF:-1,CARTOON NETWORT
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8
+#EXTINF:-1,De Pelicula HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/index.m3u8
+#EXTINF:-1,Golden PLus
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,CINELATINO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/index.m3u8
+#EXTINF:-1,Cinemax
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/index.m3u8
+#EXTINF:-1,TNT_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1,FOXMOVIES_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/index.m3u8
+#EXTINF:-1,FOX_ACTION
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/index.m3u8
+#EXTINF:-1,FOX_CINEMA_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+#EXTINF:-1,FOX_CLASSICS_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+#EXTINF:-1,SPACE_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/index.m3u8
+#EXTINF:-1,FOXMOVIES_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8
+#EXTINF:-1,ISAT
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8
+#EXTINF:-1,H2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
+#EXTINF:-1,NATGEO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/index.m3u8
+#EXTINF:-1,TLC
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/index.m3u8
+#EXTINF:-1,AXN_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8
+#EXTINF:-1,AZCORAZON_HD
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/index.m3u8
+#EXTINF:-1,SONY_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/index.m3u8
+#EXTINF:-1,FOX HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/index.m3u8
+#EXTINF:-1,FX_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8
+#EXTINF:-1,UNIVERSAL_CHANNEL_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/index.m3u8
+#EXTINF:-1,WARNER_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/index.m3u8
+#EXTINF:-1,BOOMERANG
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/index.m3u8
+#EXTINF:-1,NICK_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1,DISNEY_XD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/index.m3u8
+#EXTINF:-1,CNN INTERNACIONAL
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/index.m3u8
+#EXTINF:-1,GLIZ
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/index.m3u8
+#EXTINF:-1,CINE CANAL
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/index.m3u8
+#EXTINF:-1,CINEMA PLUS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8
+#EXTINF:-1,CONCERT CHANEL HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8
+#EXTINF:-1,DISCOVERY CIVIZATION
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_THEATER_HD)/index.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_TURBO)/index.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/index.m3u8
+#EXTINF:-1,DISNEY CHANEL HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/index.m3u8
+#EXTINF:-1,DISNEY XD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
+#EXTINF:-1,FOX ACTION
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXACTION_HD)/index.m3u8
+#EXTINF:-1,FOX COMEDY
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/index.m3u8
+#EXTINF:-1,FOX FAMILY
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/index.m3u8
+#EXTINF:-1,FOX SPORTS2 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
+#EXTINF:-1,FOX SPORTS3 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
+#EXTINF:-1,HBO PLUS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS)/index.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+#EXTINF:-1,HTV
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HTV)/index.m3u8
+#EXTINF:-1,MASCHIC HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MASCHIC_HD)/index.m3u8
+#EXTINF:-1,MTV HITS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HITS)/index.m3u8
+#EXTINF:-1,MULIPREMIER
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:-1,PASIONES HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/index.m3u8
+#EXTINF:-1,RADIOLA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RADIOLA)/index.m3u8
+#EXTINF:-1,VH1 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_HD)/index.m3u8
+#EXTINF:-1,WINSPORTS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
+
 
 
 
@@ -7480,40 +7328,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 
 #EXTINF:8 group-title=”Portugal3-PREMIUM_MXPLAYER”,
 
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,Sport TV 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/29.ts|User-Agent=star5
-#EXTINF:-1,Sport TV 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/30.ts|User-Agent=star5
-#EXTINF:-1,Sport TV 3HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/31.ts|User-Agent=star5
-#EXTINF:-1,Sport TV 4HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/32.ts|User-Agent=star5
-#EXTINF:-1,Sport TV 5HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/33.ts|User-Agent=star5
 
 
 
@@ -8632,35 +8446,6 @@ http://61.58.60.247:9000/live/236.m3u8
 
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SERVER2=
 http://......
-#EXTINF:-1,CCTV-01 HD
-http://111.13.42.8/PLTV/88888888/224/3221225851/index.m3u8
-#EXTINF:-1,CCTV-01 HD
-http://111.13.42.8/PLTV/88888888/224/3221225852/index.m3u8
-#EXTINF:-1,CCTV-01 HD
-http://111.13.42.8/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1,CCTV-03 HD
-http://111.13.42.8/PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:-1,CCTV-03 HD
-http://111.13.42.8/PLTV/88888888/224/3221225963/index.m3u8
-#EXTINF:-1,CCTV-05 HD
-http://111.13.42.8/PLTV/88888888/224/3221225937/index.m3u8
-#EXTINF:-1,CCTV-05+ HD
-http://111.13.42.8/PLTV/88888888/224/3221225938/index.m3u8
-#EXTINF:-1,CCTV-05 HD
-http://111.13.42.8/PLTV/88888888/224/3221226039/index.m3u8
-#EXTINF:-1,CCTV-05+ HD
-http://111.13.42.8/PLTV/88888888/224/3221226064/index.m3u8
-#EXTINF:-1,CCTV-06 HD
-http://111.13.42.8/PLTV/88888888/224/3221226043/index.m3u8
-#EXTINF:-1,CCTV-06 HD
-http://111.13.42.8/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:-1,CCTV-08 HD
-http://111.13.42.8/PLTV/88888888/224/3221225864/index.m3u8
-#EXTINF:-1,CCTV-08 HD
-http://111.13.42.8/PLTV/88888888/224/3221226035/index.m3u8
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SERVER3=
-http://......
 #EXTINF:-1,BestTV1
 http://183.252.176.10/PLTV/88888888/224/3221225908/index.m3u8
 #EXTINF:-1,BestTV2
@@ -8675,7 +8460,32 @@ http://183.252.176.10/PLTV/88888888/224/3221225912/index.m3u8
 http://183.252.176.10/PLTV/88888888/224/3221225906/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SERVER3=
+http://......
+#EXTINF:-1,澳视澳门
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1,澳门资讯
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1,澳視葡語
+http://live4.tdm.com.mo:80/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:-1,澳門Macau
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:-1,澳卫澳门
+http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
+#EXTINF:-1,澳卫澳门
+http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:-1,澳门Macau
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:-1,港台频道-澳视高清
+http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
+#EXTINF:-1,港台频道-澳视资讯
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
+#EXTINF:-1,港台频道-澳视卫星
+http://live3.tdm.com.mo:1935/ch3/ch3.live/media_w30461384.m3u8
+#EXTINF:-1,澳视体育
+http://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1,澳视卫星
+http://live3.tdm.com.mo:1935/ch3/ch3.live/chunklist_w935270855.m3u8
 
 
 
@@ -9374,8 +9184,8 @@ http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,BEIN SPORT NEWS HD
 https://www.youtube.com/watch?v=Ram-J4i1QHQ
-#EXTINF:-1,BEIN SPORTs HD
-https://www.youtube.com/watch?v=cfmTbXgR_K0
+#EXTINF:-1,BEIN SPORTs NEW HD
+https://www.youtube.com/watch?v=k9A3O-Kc_PQ
 #EXTINF:-1,DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 #EXTINF:-1,DUBAI SPORTS
@@ -9434,26 +9244,8 @@ http://.....
 
 
 
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=BEIN SPORTS Group1=
-http://....
-#EXTINF:-1,bein sport1 
-http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=04267
-#EXTINF:-1,bein sport2 
-http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00199
-#EXTINF:-1,bein sport3 
-http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00201
-#EXTINF:-1,bein sport4
-http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00202
-#EXTINF:-1,bein sport5 
-http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00203
-#EXTINF:-1,bein sport6 
-http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00204
-#EXTINF:-1,bein sport7 
-http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00205
-#EXTINF:-1,bein sport8 
-http://www.elahmad.com/tv/m3u8/l_7.m3u8?id=00206
 
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=BEIN SPORTS Group2=
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=BEIN SPORTS Group=
 http://.....
 #EXTINF:-1,BEIN SPORT NEW HD
 http://bein1.jan-beryan.giize.com/41.m3u8
@@ -9654,40 +9446,6 @@ http://85.159.216.58:10004/bysid/308
 
 
 #EXTINF:9 group-title=”United.Arab.Emirates1-LOOP_ONE”,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:9 group-title=”United.Arab.Emirates2-LOOP_ONE”,
-
-
-
-
-
-
-
-
-
 
 
 
@@ -10530,13 +10288,12 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,beINSports 3 HD
-http://premium.tvshqip.us:8880/live/mega/iptv/159.ts|User-Agent=25634
-#EXTINF:-1,beINSports 2 HD
-http://premium.tvshqip.us:8880/live/mega/iptv/158.ts|User-Agent=25634
 #EXTINF:-1,beINSports 1 HD
 http://premium.tvshqip.us:8880/live/mega/iptv/157.ts|User-Agent=25634
-
+#EXTINF:-1,beINSports 2 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/158.ts|User-Agent=25634
+#EXTINF:-1,beINSports 3 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/159.ts|User-Agent=25634
 
 
 
@@ -10927,335 +10684,6 @@ http://38.99.146.36:7777/Hannibal_HD.m3u8
 
 
 #EXTINF:9 group-title=”United.Arab.Emirates4_PREMIUM_MXPLAYER”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-
-#EXTINF:-1,beinSports 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/1.ts|User-Agent=star5
-#EXTINF:-1,beinSports 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/2.ts|User-Agent=star5
-#EXTINF:-1,beinSports 3HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/3.ts|User-Agent=star5
-#EXTINF:-1,beinSports 4HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/4.ts|User-Agent=star5
-#EXTINF:-1,beinSports 5HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/5.ts|User-Agent=star5
-#EXTINF:-1,beinSports 6HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/6.ts|User-Agent=star5
-#EXTINF:-1,beinSports 7HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/7.ts|User-Agent=star5
-#EXTINF:-1,beinSports 8HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/8.ts|User-Agent=star5
-#EXTINF:-1,beinSports 9HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/9.ts|User-Agent=star5
-#EXTINF:-1,beinSports 10HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/10.ts|User-Agent=star5
-#EXTINF:-1,beinSports 11HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/11.ts|User-Agent=star5
-#EXTINF:-1,beinSports 12HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/12.ts|User-Agent=star5
-#EXTINF:-1,beinSports News
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/14.ts|User-Agent=star5
-#EXTINF:-1,beinSports HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/13.ts|User-Agent=star5
-#EXTINF:-1,AbuDhabiSports 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/20.ts|User-Agent=star5
-#EXTINF:-1,AbuDhabiSports 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/21.ts|User-Agent=star5
-#EXTINF:-1,AbuDhabiSports 3HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/22.ts|User-Agent=star5
-#EXTINF:-1,AbuDhabiSports 4HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/23.ts|User-Agent=star5
-#EXTINF:-1,AbuDhabiSports 5HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/24.ts|User-Agent=star5
-#EXTINF:-1,AbuDhabiSports 6HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/25.ts|User-Agent=star5
-#EXTINF:-1,MBC Sport 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/245.ts|User-Agent=star5
-#EXTINF:-1,MBC Sport 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/246.ts|User-Agent=star5
-#EXTINF:-1,MBC Sport 3HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/247.ts|User-Agent=star5
-#EXTINF:-1,MBC Sport 4HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/248.ts|User-Agent=star5
-
-#EXTINF:-1,Osn Cinema 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/219.ts|User-Agent=star5
-#EXTINF:-1,Osn Cinema 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/220.ts|User-Agent=star5
-#EXTINF:-1,Osn Officebox 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/203.ts|User-Agent=star5
-#EXTINF:-1,Osn Officebox 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/204.ts|User-Agent=star5
-#EXTINF:-1,Osn Officebox 3HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/205.ts|User-Agent=star5
-#EXTINF:-1,Osn Movies HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/206.ts|User-Agent=star5
-#EXTINF:-1,Osn Movies 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/207.ts|User-Agent=star5
-#EXTINF:-1,Osn Movies Action
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/208.ts|User-Agent=star5
-#EXTINF:-1,Osn Movies Premiere
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/210.ts|User-Agent=star5
-#EXTINF:-1,Osn Movies Premiere 2
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/211.ts|User-Agent=star5
-#EXTINF:-1,Osn Movies Comedy HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/212.ts|User-Agent=star5
-#EXTINF:-1,Osn Movies Action 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/209.ts|User-Agent=star5
-#EXTINF:-1,Osn Ondemand HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/213.ts|User-Agent=star5
-#EXTINF:-1,Osn Ondemend Extra HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/214.ts|User-Agent=star5
-#EXTINF:-1,Osn Yahala HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/215.ts|User-Agent=star5
-#EXTINF:-1,Osn Yahala Cinema HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/218.ts|User-Agent=star5
-#EXTINF:-1,Osn Yahala Drama HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/216.ts|User-Agent=star5
-#EXTINF:-1,Osn Yahala Shabab HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/217.ts|User-Agent=star5
-#EXTINF:-1,Osn SeeVii Aloula HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/222.ts|User-Agent=star5
-#EXTINF:-1,Osn SeeVii Drama HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/221.ts|User-Agent=star5
-#EXTINF:-1,Osn SeeVii Beelink HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/224.ts|User-Agent=star5
-#EXTINF:-1,Osn SeeVii Shamia
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/223.ts|User-Agent=star5
-#EXTINF:-1,BeinMovies 1HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/195.ts|User-Agent=star5
-#EXTINF:-1,BeinMovies 2HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/196.ts|User-Agent=star5
-#EXTINF:-1,BeinMovies 3HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/197.ts|User-Agent=star5
-#EXTINF:-1,BeinMovies 4HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/198.ts|User-Agent=star5
-#EXTINF:-1,BeinFoxAction
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/201.ts|User-Agent=star5
-#EXTINF:-1,BeinSeries HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/199.ts|User-Agent=star5
-#EXTINF:-1,BeinDMAX
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/200.ts|User-Agent=star5
-#EXTINF:-1,beinJunior
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/19.ts|User-Agent=star5
-#EXTINF:-1,beinJeem HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/18.ts|User-Agent=star5
-#EXTINF:-1,beinGroummet
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/17.ts|User-Agent=star5
-#EXTINF:-1,Bein Fatafeat
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/161.ts|User-Agent=star5
-#EXTINF:-1,beinDiscovery HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/16.ts|User-Agent=star5
-#EXTINF:-1,beinBaraim HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/15.ts|User-Agent=star5
-#EXTINF:-1,MBC 1
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/230.ts|User-Agent=star5
-#EXTINF:-1,MBC 2
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/231.ts|User-Agent=star5
-#EXTINF:-1,MBC 3
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/232.ts|User-Agent=star5
-#EXTINF:-1,MBC 4
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/233.ts|User-Agent=star5
-#EXTINF:-1,MBC Action
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/234.ts|User-Agent=star5
-#EXTINF:-1,MBC Max
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/235.ts|User-Agent=star5
-#EXTINF:-1,MBC Masr 1
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/236.ts|User-Agent=star5
-#EXTINF:-1,MBC Masr 2
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/237.ts|User-Agent=star5
-#EXTINF:-1,MBC Drama
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/238.ts|User-Agent=star5
-#EXTINF:-1,MBC Drama HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/239.ts|User-Agent=star5
-#EXTINF:-1,MBC Zee Alwan
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/242.ts|User-Agent=star5
-#EXTINF:-1,MBC Zee Aflam
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/243.ts|User-Agent=star5
-#EXTINF:-1,MBC Bollywood
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/241.ts|User-Agent=star5
-#EXTINF:-1,MBC B4u Aflam
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/244.ts|User-Agent=star5
-#EXTINF:-1,MBC Variety HD
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/240.ts|User-Agent=star5
-#EXTINF:-1,Art Cinema
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/229.ts|User-Agent=star5
-#EXTINF:-1,Art Aflam 1
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/225.ts|User-Agent=star5
-#EXTINF:-1,Art Aflam 2
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/226.ts|User-Agent=star5
-#EXTINF:-1,Art Hekayat 2
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/228.ts|User-Agent=star5
-#EXTINF:-1,Art Hekayat 1
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/227.ts|User-Agent=star5
-#EXTINF:-1,Tunesia 1
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/162.ts|User-Agent=star5
-#EXTINF:-1,Tunesia 2
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/163.ts|User-Agent=star5
-#EXTINF:-1,Tonesna
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/164.ts|User-Agent=star5
-#EXTINF:-1,Zitouna
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/168.ts|User-Agent=star5
-#EXTINF:-1,Telvaza
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/170.ts|User-Agent=star5
-#EXTINF:-1,Nessma
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/167.ts|User-Agent=star5
-#EXTINF:-1,Hannibal
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/166.ts|User-Agent=star5
-#EXTINF:-1,ElHiwar Ettounsi
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/165.ts|User-Agent=star5
-#EXTINF:-1,Attasiaa
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/169.ts|User-Agent=star5
-#EXTINF:-1,AlJanoubia
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/171.ts|User-Agent=star5
-#EXTINF:-1,Samira Tv
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/160.ts|User-Agent=star5
-#EXTINF:-1,Programme National
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/141.ts|User-Agent=star5
-#EXTINF:-1,Kbc Algeria
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/150.ts|User-Agent=star5
-#EXTINF:-1,Ennahar TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/145.ts|User-Agent=star5
-#EXTINF:-1,Ennahar Laki
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/146.ts|User-Agent=star5
-#EXTINF:-1,Eljazairia TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/153.ts|User-Agent=star5
-#EXTINF:-1,Elhaddaf TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/152.ts|User-Agent=star5
-#EXTINF:-1,Elbilad
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/151.ts|User-Agent=star5
-#EXTINF:-1,Echorouk TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/139.ts|User-Agent=star5
-#EXTINF:-1,Echorouk NEWS
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/138.ts|User-Agent=star5
-#EXTINF:-1,Echorouk Benna
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/140.ts|User-Agent=star5
-#EXTINF:-1,Dzai News
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/148.ts|User-Agent=star5
-#EXTINF:-1,Dzair TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/149.ts|User-Agent=star5
-#EXTINF:-1,Canal Algerie
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/142.ts|User-Agent=star5
-#EXTINF:-1,Beur TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/156.ts|User-Agent=star5
-#EXTINF:-1,Berbere TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/157.ts|User-Agent=star5
-#EXTINF:-1,Berbere Music
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/158.ts|User-Agent=star5
-#EXTINF:-1,Berbere Jeuness
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/159.ts|User-Agent=star5
-#EXTINF:-1,Bahia TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/147.ts|User-Agent=star5
-#EXTINF:-1,Magharibia 1
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/154.ts|User-Agent=star5
-#EXTINF:-1,Magharibia 2
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/155.ts|User-Agent=star5
-#EXTINF:-1,Algeria 3
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/143.ts|User-Agent=star5
-#EXTINF:-1,Algeria 5
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/144.ts|User-Agent=star5
-#EXTINF:-1,Tele Maroc
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/128.ts|User-Agent=star5
-#EXTINF:-1,Medi1 TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/129.ts|User-Agent=star5
-#EXTINF:-1,Al Aoula Inter
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/130.ts|User-Agent=star5
-#EXTINF:-1,2M Monde
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/131.ts|User-Agent=star5
-#EXTINF:-1,Arriadia
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/136.ts|User-Agent=star5
-#EXTINF:-1,Arrabia
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/134.ts|User-Agent=star5
-#EXTINF:-1,Al Maghribia
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/132.ts|User-Agent=star5
-#EXTINF:-1,Assadisa
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/135.ts|User-Agent=star5
-#EXTINF:-1,Tamazight
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/133.ts|User-Agent=star5
-#EXTINF:-1,SUD24 TV
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/137.ts|User-Agent=star5
-#EXTINF:-1,Toyour ElJannah
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/186.ts|User-Agent=star5
-#EXTINF:-1,Toyour Baby
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/187.ts|User-Agent=star5
-#EXTINF:-1,Space Toon
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/184.ts|User-Agent=star5
-#EXTINF:-1,CartooNet Ar
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/183.ts|User-Agent=star5
-#EXTINF:-1,Baraeem
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/185.ts|User-Agent=star5
-#EXTINF:-1,RT
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/178.ts|User-Agent=star5
-#EXTINF:-1,Quest Arabia
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/182.ts|User-Agent=star5
-#EXTINF:-1,National Geo Abd
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/181.ts|User-Agent=star5
-#EXTINF:-1,Iqraa
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/193.ts|User-Agent=star5
-#EXTINF:-1,AlMajd
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/190.ts|User-Agent=star5
-#EXTINF:-1,AlMajd Quran
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/188.ts|User-Agent=star5
-#EXTINF:-1,AlMajd Hadith
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/189.ts|User-Agent=star5
-#EXTINF:-1,Alresalah
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/194.ts|User-Agent=star5
-#EXTINF:-1,Alrahma
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/191.ts|User-Agent=star5
-#EXTINF:-1,Alnas
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/192.ts|User-Agent=star5
-#EXTINF:-1,Aljazeera Doc
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/180.ts|User-Agent=star5
-#EXTINF:-1,Aljazeera
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/172.ts|User-Agent=star5
-#EXTINF:-1,Alhadath
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/174.ts|User-Agent=star5
-#EXTINF:-1,Alarabiyia
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/173.ts|User-Agent=star5
-#EXTINF:-1,France 24
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/177.ts|User-Agent=star5
-#EXTINF:-1,AlEkhbariya
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/176.ts|User-Agent=star5
-#EXTINF:-1,Skynews
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/175.ts|User-Agent=star5
-#EXTINF:-1,BBC
-http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/179.ts|User-Agent=star5
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -12259,7 +11687,7 @@ http://tv.kinolenta.uz/eurosport.m3u8
 http://tv.kinolenta.uz/muzika.m3u8 
 #EXTINF:-1,NATIONAL GEOGRAPHIC 
 http://tv.kinolenta.uz/natgeo.m3u8 
-#EXTINF:-1,NAT GEO VILD 
+#EXTINF:-1,NAT GEO WILD 
 http://tv.kinolenta.uz/natgeo_wild.m3u8 
 #EXTINF:-1,DISCOVERY SCIENCE 
 http://tv.kinolenta.uz/discovery_science.m3u8 
