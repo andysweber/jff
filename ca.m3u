@@ -138,6 +138,8 @@ http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/L
 mmsh://wpso.com:200/kids?MSWMExt=.asf
 #EXTINF:-1 ,Cartoon World (GR)
 http://bit.ly/2rvaV7Q
+#EXTINF:-1,BabyTV 
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
 #EXTINF:0,JimJam
 http://93.91.113.8:9999/play/a06n
 #EXTINF:-1,JimJam
