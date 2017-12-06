@@ -955,7 +955,7 @@ http://premium.tvshqip.us:8880/live/mega/iptv/169.ts|User-Agent=25634
 
 
 
-#EXTINF:8 group-title=”OFFLINE/USA2-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”USA2-PREMIUM-Wuffy_Player”,
 
 #EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
 http://..........
@@ -2074,7 +2074,7 @@ http://69.30.251.42:25461/live/newapk12/onew12/642.ts|refferer=http://solidstrea
 
 
 
-#EXTINF:8 group-title=”OFFLINE/UK2-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”UK2-PREMIUM-Wuffy_Player”,
 
 #EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
 http://..........
@@ -3498,7 +3498,7 @@ http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
 
 
-#EXTINF:8 group-title=”OFFLINE-Italy1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Italy1-PREMIUM-Wuffy_Player”,
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
 http://..........
@@ -4292,7 +4292,7 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 
 
-#EXTINF:8 group-title=”OFFLINE/France1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”France1-PREMIUM-Wuffy_Player”,
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
 http://..........
@@ -5599,7 +5599,7 @@ http://premium.tvshqip.us:8880/live/mega/iptv/153.ts|User-Agent=25634
 
 
 
-#EXTINF:8 group-title=”OFFLINE/Germany2-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Germany2-PREMIUM-Wuffy_Player”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
 http://..........
@@ -7634,7 +7634,7 @@ http://81.32.124.54:4022/udp/239.0.0.98:8208
 
 
 
-#EXTINF:8 group-title=”OFFLINE/Spain1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Spain1-PREMIUM-Wuffy_Player”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
 http://..........
@@ -9091,7 +9091,7 @@ http://69.30.251.42:25461/live/newapk12/onew12/691.ts|refferer=http://solidstrea
 
 
 
-#EXTINF:8 group-title=”OFFLINE/Portugal2-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Portugal2-PREMIUM-Wuffy_Player”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
 http://..........
