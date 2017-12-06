@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,05/12/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,06/12/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -123,7 +123,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/easymedia/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=ln0eHoYLnsw
+https://www.youtube.com/watch?v=3yb7kRcOOAk
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/6/63/Alpha_Sat.png ,ALPHA SAT
@@ -711,25 +711,6 @@ http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet (Wuffy Player)
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,Arena Sport 1
-rtmp://139.59.120.168:1935/live/arenasport1.stream
-#EXTINF:-1,Arena Sport 2
-rtmp://139.59.120.168:1935/live/arenasport2.stream
-#EXTINF:-1,Arena Sport 3
-rtmp://139.59.120.168:1935/live/arenasport3.stream
-#EXTINF:-1,Arena Sport 4
-rtmp://139.59.120.168:1935/live/arenasport4.stream
-#EXTINF:-1,Arena Sport 5
-rtmp://139.59.120.168:1935/live/arenasport5.stream
-#EXTINF:-1,SKY SPORT2
-rtmp://139.59.120.168:1935/live/teleclub2sw.stream
-#EXTINF:-1,TELECLUB SPORT1
-rtmp://139.59.120.168:1935/live/teleclub1sw.stream
-#EXTINF:-1,SKY BUNDESLIGA
-rtmp://139.59.120.168:1935/live/skybundesliga1.stream
-#EXTINF:-1,SPORT24
-rtmp://139.59.120.168:1935/live/docle1.stream
 
 #EXTINF:-1,ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
@@ -1676,28 +1657,6 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
  
 
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1795,107 +1754,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_H
 
 #EXTINF:3 group-title=”UK3”, 
 
-#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
-http://..........
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,BT Sport 1
-http://93.158.220.153:1300/play/a00z
-#EXTINF:-1,BT Sport 3
-http://93.158.220.153:1300/play/a012
-#EXTINF:-1,Eden
-http://93.158.220.153:1300/play/a01c
-#EXTINF:-1,alibi
-http://93.158.220.153:1300/play/a01g
-#EXTINF:-1,Good Food
-http://93.158.220.153:1300/play/a01e
-#EXTINF:-1,MTV HITS
-http://93.158.220.153:1300/play/a01x
-#EXTINF:-1,Magic
-http://93.158.220.153:1300/play/a01h
-#EXTINF:-1,7000
-http://93.158.220.153:1300/play/a01s
-#EXTINF:-1,GOLD
-http://93.158.220.153:1300/play/a01d
-#EXTINF:-1,KISS
-http://93.158.220.153:1300/play/a01j
-#EXTINF:-1,Dave
-http://93.158.220.153:1300/play/a017
-#EXTINF:-1,MTV DANCE
-http://93.158.220.153:1300/play/a023
-#EXTINF:-1,55251
-http://93.158.220.153:1300/play/a010
-#EXTINF:-1,horror channel
-http://93.158.220.153:1300/play/a00n
-#EXTINF:-1,50342
-http://93.158.220.153:1300/play/a013
-#EXTINF:-1,E4+1
-http://93.158.220.153:1300/play/a01q
-#EXTINF:-1,S4C
-http://93.158.220.153:1300/play/a00u
-#EXTINF:-1,Box Hits
-http://93.158.220.153:1300/play/a01l
-#EXTINF:-1,CBS Reality
-http://93.158.220.153:1300/play/a00q
-#EXTINF:-1,Kerrang!
-http://93.158.220.153:1300/play/a01k
-#EXTINF:-1,BT Sport 1 SD
-http://93.158.220.153:1300/play/a026
-#EXTINF:-1,MTV ROCKS
-http://93.158.220.153:1300/play/a01v
-#EXTINF:-1,Drama
-http://93.158.220.153:1300/play/a01a
-#EXTINF:-1,YESTERDAY
-http://93.158.220.153:1300/play/a016
-#EXTINF:-1,W
-http://93.158.220.153:1300/play/a01f
-#EXTINF:-1,VIVA
-http://93.158.220.153:1300/play/a024
-#EXTINF:-1,VH1
-http://93.158.220.153:1300/play/a01u
-#EXTINF:-1,The Box
-http://93.158.220.153:1300/play/a01i
-#EXTINF:-1,BT Sport 3
-http://93.158.220.153:1300/play/a00x
-#EXTINF:-1,50368
-http://93.158.220.153:1300/play/a011
-#EXTINF:-1,CBS Action
-http://93.158.220.153:1300/play/a00p
-#EXTINF:-1,CBS Drama
-http://93.158.220.153:1300/play/a00m
-#EXTINF:-1,MTV MUSIC
-http://93.158.220.153:1300/play/a021
-#EXTINF:-1,MTV
-http://93.158.220.153:1300/play/a020
-#EXTINF:-1,Home
-http://93.158.220.153:1300/play/a015
-#EXTINF:-1,Really
-http://93.158.220.153:1300/play/a01b
-#EXTINF:-1,Box Upfront
-http://93.158.220.153:1300/play/a01m
-#EXTINF:-1,More4
-http://93.158.220.153:1300/play/a01n
-#EXTINF:-1,MTV CLASSIC
-http://93.158.220.153:1300/play/a01z
-#EXTINF:-1,Channel 4 +1
-http://93.158.220.153:1300/play/a01p
-#EXTINF:-1,MTV BASE
-http://93.158.220.153:1300/play/a01y
-#EXTINF:-1,E4
-http://93.158.220.153:1300/play/a01r
 
 
 
@@ -1962,103 +1820,103 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,3E
-http://69.30.251.42:25461/live/newapk12/onew12/591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/591.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,4E
-http://69.30.251.42:25461/live/newapk12/onew12/592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/592.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,5 STAR
-http://69.30.251.42:25461/live/newapk12/onew12/593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/593.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ALIBI
-http://69.30.251.42:25461/live/newapk12/onew12/594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/594.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BABY TV
-http://69.30.251.42:25461/live/newapk12/onew12/595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/595.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BBC 1
-http://69.30.251.42:25461/live/newapk12/onew12/596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/596.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BBC 2
-http://69.30.251.42:25461/live/newapk12/onew12/597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/597.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BBC 3
-http://69.30.251.42:25461/live/newapk12/onew12/598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/598.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BBC 4
-http://69.30.251.42:25461/live/newapk12/onew12/599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/599.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BBC NEWS
-http://69.30.251.42:25461/live/newapk12/onew12/600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/600.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BLOOMBERG
-http://69.30.251.42:25461/live/newapk12/onew12/601.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/601.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CARTOON NETWORK
-http://69.30.251.42:25461/live/newapk12/onew12/602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/602.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CBS ACTION
-http://69.30.251.42:25461/live/newapk12/onew12/603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/603.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CBS DRAMA
-http://69.30.251.42:25461/live/newapk12/onew12/604.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/604.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CBS REALITY
-http://69.30.251.42:25461/live/newapk12/onew12/605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/605.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CHANNEL 4
-http://69.30.251.42:25461/live/newapk12/onew12/607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/607.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CHANNEL 5
-http://69.30.251.42:25461/live/newapk12/onew12/606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/606.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CNBC
-http://69.30.251.42:25461/live/newapk12/onew12/608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/608.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CNN EUROPE
-http://69.30.251.42:25461/live/newapk12/onew12/609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/609.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,COMEDY CENTRAL
-http://69.30.251.42:25461/live/newapk12/onew12/610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DAVE
-http://69.30.251.42:25461/live/newapk12/onew12/611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/611.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISCOVERY HISTORY
-http://69.30.251.42:25461/live/newapk12/onew12/613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/613.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISCOVERY SCIENCE
-http://69.30.251.42:25461/live/newapk12/onew12/614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/614.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISCOVERY
-http://69.30.251.42:25461/live/newapk12/onew12/612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/612.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY CHANNEL
-http://69.30.251.42:25461/live/newapk12/onew12/616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/616.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY JR
-http://69.30.251.42:25461/live/newapk12/onew12/617.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/617.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY XD
-http://69.30.251.42:25461/live/newapk12/onew12/618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FILM 4
-http://69.30.251.42:25461/live/newapk12/onew12/619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,GOLD
-http://69.30.251.42:25461/live/newapk12/onew12/620.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/620.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ITV 2+
-http://69.30.251.42:25461/live/newapk12/onew12/622.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/622.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ITV 3+
-http://69.30.251.42:25461/live/newapk12/onew12/623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ITV 4
-http://69.30.251.42:25461/live/newapk12/onew12/624.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/624.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ITV
-http://69.30.251.42:25461/live/newapk12/onew12/621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/621.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MAGIC
-http://69.30.251.42:25461/live/newapk12/onew12/625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/625.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MORE 4
-http://69.30.251.42:25461/live/newapk12/onew12/626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/626.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MTV BASE
-http://69.30.251.42:25461/live/newapk12/onew12/627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/627.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MTV DANCE
-http://69.30.251.42:25461/live/newapk12/onew12/629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/629.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MTV MUSIC
-http://69.30.251.42:25461/live/newapk12/onew12/631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/631.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NAT GEO CHANNEL
-http://69.30.251.42:25461/live/newapk12/onew12/633.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/633.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NAT GEO WILD
-http://69.30.251.42:25461/live/newapk12/onew12/632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/632.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NICK JR TOO
-http://69.30.251.42:25461/live/newapk12/onew12/635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/635.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NICK JR
-http://69.30.251.42:25461/live/newapk12/onew12/634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/634.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NICKELODEON
-http://69.30.251.42:25461/live/newapk12/onew12/637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/637.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NICKTOONS
-http://69.30.251.42:25461/live/newapk12/onew12/636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/636.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PICK TV
-http://69.30.251.42:25461/live/newapk12/onew12/638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/638.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,QUEST
-http://69.30.251.42:25461/live/newapk12/onew12/639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/639.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RT NEWS
-http://69.30.251.42:25461/live/newapk12/onew12/640.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/640.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTE 1
-http://69.30.251.42:25461/live/newapk12/onew12/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/641.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTE 2
-http://69.30.251.42:25461/live/newapk12/onew12/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/642.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 
 
 
@@ -3802,72 +3660,71 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,AXN HD
-http://69.30.251.42:25461/live/newapk12/onew12/790.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/790.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BOING
-http://69.30.251.42:25461/live/newapk12/onew12/863.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/863.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANALE 5
-http://69.30.251.42:25461/live/newapk12/onew12/793.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/793.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CARTOON NETWORK
-http://69.30.251.42:25461/live/newapk12/onew12/806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/806.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY JR
-http://69.30.251.42:25461/live/newapk12/onew12/815.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/815.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,LA5
-http://69.30.251.42:25461/live/newapk12/onew12/820.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/820.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,LA7
-http://69.30.251.42:25461/live/newapk12/onew12/821.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/821.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MEDIASAT EXTRA
-http://69.30.251.42:25461/live/newapk12/onew12/822.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/822.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NICKELODEON
-http://69.30.251.42:25461/live/newapk12/onew12/826.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/826.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PREMIUM ACTION 24
-http://69.30.251.42:25461/live/newapk12/onew12/833.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/833.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PREMIUM CINEMA 2 HD
-http://69.30.251.42:25461/live/newapk12/onew12/834.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/834.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PREMIUM JOI
-http://69.30.251.42:25461/live/newapk12/onew12/836.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/836.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI 1
-http://69.30.251.42:25461/live/newapk12/onew12/838.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/838.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI 2
-http://69.30.251.42:25461/live/newapk12/onew12/839.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/839.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI 4
-http://69.30.251.42:25461/live/newapk12/onew12/840.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/840.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI 5
-http://69.30.251.42:25461/live/newapk12/onew12/841.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/841.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI GULP
-http://69.30.251.42:25461/live/newapk12/onew12/842.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/842.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI host
-http://69.30.251.42:25461/live/newapk12/onew12/843.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/843.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI NEWS 24
-http://69.30.251.42:25461/live/newapk12/onew12/844.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/844.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI PREMIUM
-http://69.30.251.42:25461/live/newapk12/onew12/845.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/845.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI SCUOLA
-http://69.30.251.42:25461/live/newapk12/onew12/846.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/846.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI STORIA
-http://69.30.251.42:25461/live/newapk12/onew12/847.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/847.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RAI YOYO
-http://69.30.251.42:25461/live/newapk12/onew12/848.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/848.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RETE 4
-http://69.30.251.42:25461/live/newapk12/onew12/849.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/849.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RSI LA1 HD
-http://69.30.251.42:25461/live/newapk12/onew12/850.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/850.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RSI LA2 HD 
-http://69.30.251.42:25461/live/newapk12/onew12/851.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/851.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY ATLANTIC 1HD
-http://69.30.251.42:25461/live/newapk12/onew12/855.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/855.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY ATLANTIC HD
-http://69.30.251.42:25461/live/newapk12/onew12/854.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/854.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA 1 HD
-http://69.30.251.42:25461/live/newapk12/onew12/858.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/858.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA CLASSIC HD
-http://69.30.251.42:25461/live/newapk12/onew12/859.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/859.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA FAMILY HD
-http://69.30.251.42:25461/live/newapk12/onew12/860.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/860.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA MAX HD
-http://69.30.251.42:25461/live/newapk12/onew12/861.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/861.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,STUDIO UNIVERSAL
-http://69.30.251.42:25461/live/newapk12/onew12/837.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
-
+http://69.30.251.42:25461/live/apk/asd/837.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 
 
 
@@ -4735,65 +4592,65 @@ http://.....
 
 
 #EXTINF:-1,ANIMUX
-http://69.30.251.42:25461/live/newapk12/onew12/789.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/789.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL CINEMA
-http://69.30.251.42:25461/live/newapk12/onew12/791.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/791.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL DECALE
-http://69.30.251.42:25461/live/newapk12/onew12/792.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/792.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL FAMILY
-http://69.30.251.42:25461/live/newapk12/onew12/794.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/794.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV 1
-http://69.30.251.42:25461/live/newapk12/onew12/796.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/796.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV 2
-http://69.30.251.42:25461/live/newapk12/onew12/797.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/797.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV3 /
-http://69.30.251.42:25461/live/newapk12/onew12/799.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/799.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV4
-http://69.30.251.42:25461/live/newapk12/onew12/800.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/800.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV5
-http://69.30.251.42:25461/live/newapk12/onew12/801.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/801.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV6
-http://69.30.251.42:25461/live/newapk12/onew12/802.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/802.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV7
-http://69.30.251.42:25461/live/newapk12/onew12/803.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/803.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV8
-http://69.30.251.42:25461/live/newapk12/onew12/804.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/804.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV9
-http://69.30.251.42:25461/live/newapk12/onew12/805.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/805.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PPV10
-http://69.30.251.42:25461/live/newapk12/onew12/798.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/798.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL SERIES
-http://69.30.251.42:25461/live/newapk12/onew12/795.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/795.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CHASSE E PECHE
-http://69.30.251.42:25461/live/newapk12/onew12/807.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/807.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CINE CLASSIC
-http://69.30.251.42:25461/live/newapk12/onew12/809.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/809.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CINE FAMIZ
-http://69.30.251.42:25461/live/newapk12/onew12/810.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/810.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CINE FX
-http://69.30.251.42:25461/live/newapk12/onew12/812.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/812.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISCOVERY SCIENCE
-http://69.30.251.42:25461/live/newapk12/onew12/814.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/814.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISCOVERY
-http://69.30.251.42:25461/live/newapk12/onew12/813.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/813.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FRANCE 2
-http://69.30.251.42:25461/live/newapk12/onew12/817.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/817.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FRANCE 3
-http://69.30.251.42:25461/live/newapk12/onew12/818.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/818.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FRANCE 5
-http://69.30.251.42:25461/live/newapk12/onew12/819.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/819.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NAT GEO CHANNEL
-http://69.30.251.42:25461/live/newapk12/onew12/824.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/824.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NAT GEO WILD
-http://69.30.251.42:25461/live/newapk12/onew12/825.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/825.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NRJ12
-http://69.30.251.42:25461/live/newapk12/onew12/827.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/827.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PLANETE PLUS CI
-http://69.30.251.42:25461/live/newapk12/onew12/832.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/832.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PLANETE PLUS
-http://69.30.251.42:25461/live/newapk12/onew12/831.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/831.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,W9 HD
-http://69.30.251.42:25461/live/newapk12/onew12/862.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/862.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 
 
 
@@ -5905,144 +5762,143 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,AXN HD
-http://69.30.251.42:25461/live/newapk12/onew12/526.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/526.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BOOMERANG
-http://69.30.251.42:25461/live/newapk12/onew12/527.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/527.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CARTOON NETWORK
-http://69.30.251.42:25461/live/newapk12/onew12/528.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/528.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISCOVERY HD
-http://69.30.251.42:25461/live/newapk12/onew12/529.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/529.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY CHANNEL
-http://69.30.251.42:25461/live/newapk12/onew12/530.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/530.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY CINEMAGIC
-http://69.30.251.42:25461/live/newapk12/onew12/531.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/531.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY JUNIOR
-http://69.30.251.42:25461/live/newapk12/onew12/532.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/532.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY XD
-http://69.30.251.42:25461/live/newapk12/onew12/533.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/533.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DMAX
-http://69.30.251.42:25461/live/newapk12/onew12/534.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/534.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FOX HD
-http://69.30.251.42:25461/live/newapk12/onew12/537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/537.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,HISTORY HD
-http://69.30.251.42:25461/live/newapk12/onew12/538.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/538.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,KABEL EINS
-http://69.30.251.42:25461/live/newapk12/onew12/539.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/539.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,KIKA
-http://69.30.251.42:25461/live/newapk12/onew12/540.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/540.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,KINO WELT HD
-http://69.30.251.42:25461/live/newapk12/onew12/541.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/541.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NAT GEO CHANNEL HD
-http://69.30.251.42:25461/live/newapk12/onew12/543.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/543.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NAT GEO WILD HD
-http://69.30.251.42:25461/live/newapk12/onew12/544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PRO 7
-http://69.30.251.42:25461/live/newapk12/onew12/545.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/545.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PRO SIEBEN MAXX HD
-http://69.30.251.42:25461/live/newapk12/onew12/546.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/546.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ROMANCE TV
-http://69.30.251.42:25461/live/newapk12/onew12/547.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/547.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTL 2 HD
-http://69.30.251.42:25461/live/newapk12/onew12/548.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/548.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTL CRIME HD
-http://69.30.251.42:25461/live/newapk12/onew12/549.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/549.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTL HD
-http://69.30.251.42:25461/live/newapk12/onew12/550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/550.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTL LIVING HD
-http://69.30.251.42:25461/live/newapk12/onew12/551.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/551.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTL NITRO HD
-http://69.30.251.42:25461/live/newapk12/onew12/552.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/552.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTL PASSION HD
-http://69.30.251.42:25461/live/newapk12/onew12/553.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/553.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTL PLUS HD
-http://69.30.251.42:25461/live/newapk12/onew12/554.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/554.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SAT.1 HD
-http://69.30.251.42:25461/live/newapk12/onew12/555.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/555.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SIXX HD
-http://69.30.251.42:25461/live/newapk12/onew12/556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/556.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY ATLANTIC HD
-http://69.30.251.42:25461/live/newapk12/onew12/577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/577.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA 24 HD
-http://69.30.251.42:25461/live/newapk12/onew12/559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA ACTION HD
-http://69.30.251.42:25461/live/newapk12/onew12/557.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/557.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA COMEDY HD
-http://69.30.251.42:25461/live/newapk12/onew12/563.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/563.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA EMOTION HD
-http://69.30.251.42:25461/live/newapk12/onew12/560.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/560.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA FAMILY HD
-http://69.30.251.42:25461/live/newapk12/onew12/561.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/561.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA HD
-http://69.30.251.42:25461/live/newapk12/onew12/562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/562.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA HITS HD
-http://69.30.251.42:25461/live/newapk12/onew12/565.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/565.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,13th STREET HD
-http://69.30.251.42:25461/live/newapk12/onew12/564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/564.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY KIRIMI
-http://69.30.251.42:25461/live/newapk12/onew12/542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY SELECT 1 HD
-http://69.30.251.42:25461/live/newapk12/onew12/566.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/566.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY SELECT 2 HD
-http://69.30.251.42:25461/live/newapk12/onew12/567.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/567.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY SELECT 3 HD
-http://69.30.251.42:25461/live/newapk12/onew12/568.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/568.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY SELECT 4 HD
-http://69.30.251.42:25461/live/newapk12/onew12/569.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/569.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY SELECT 5 HD
-http://69.30.251.42:25461/live/newapk12/onew12/570.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/570.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY SELECT 6 HD
-http://69.30.251.42:25461/live/newapk12/onew12/571.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/571.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY SELECT 7 HD
-http://69.30.251.42:25461/live/newapk12/onew12/572.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/572.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY SELECT 8 HD
-http://69.30.251.42:25461/live/newapk12/onew12/573.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/573.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SONY CHANNEL HD
-http://69.30.251.42:25461/live/newapk12/onew12/579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/579.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SPIEGEL TV
-http://69.30.251.42:25461/live/newapk12/onew12/580.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/580.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SPORT 1 HD
-http://69.30.251.42:25461/live/newapk12/onew12/581.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/581.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SUPER RTL HD
-http://69.30.251.42:25461/live/newapk12/onew12/582.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/582.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SYFY HD
-http://69.30.251.42:25461/live/newapk12/onew12/578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/578.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TLC HD
-http://69.30.251.42:25461/live/newapk12/onew12/583.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/583.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TNT COMEDY HD
-http://69.30.251.42:25461/live/newapk12/onew12/584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/584.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TNT FILM HD
-http://69.30.251.42:25461/live/newapk12/onew12/585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/585.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TNT SERIES HD
-http://69.30.251.42:25461/live/newapk12/onew12/586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/586.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-http://69.30.251.42:25461/live/newapk12/onew12/587.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/587.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,VOX HD
-http://69.30.251.42:25461/live/newapk12/onew12/588.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/588.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ZDF HD
-http://69.30.251.42:25461/live/newapk12/onew12/589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/589.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ZEE ONE HD
-http://69.30.251.42:25461/live/newapk12/onew12/590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/590.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DELUX MUSIC
-http://69.30.251.42:25461/live/newapk12/onew12/788.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/788.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,EURO NEWS
-http://69.30.251.42:25461/live/newapk12/onew12/816.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/816.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,N24 HD
-http://69.30.251.42:25461/live/newapk12/onew12/823.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/823.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NTV HD
-http://69.30.251.42:25461/live/newapk12/onew12/828.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/828.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ORF 2 HD
-http://69.30.251.42:25461/live/newapk12/onew12/830.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/830.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ORF EINS HD
-http://69.30.251.42:25461/live/newapk12/onew12/829.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/829.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY 3D
-http://69.30.251.42:25461/live/newapk12/onew12/852.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/852.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY ACTION
-http://69.30.251.42:25461/live/newapk12/onew12/853.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/853.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY BUNDESLIGA 2HD-SP
-http://69.30.251.42:25461/live/newapk12/onew12/856.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/856.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SKY CINEMA 1 HD
-http://69.30.251.42:25461/live/newapk12/onew12/857.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
-
+http://69.30.251.42:25461/live/apk/asd/857.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 
 
 
@@ -7880,36 +7736,35 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,24 H
-http://69.30.251.42:25461/live/newapk12/onew12/447.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/447.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,40 TV
-http://69.30.251.42:25461/live/newapk12/onew12/449.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/449.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,A&E
-http://69.30.251.42:25461/live/newapk12/onew12/450.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/450.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,AMC HD
-http://69.30.251.42:25461/live/newapk12/onew12/451.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/451.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ANTENA 3 HD
-http://69.30.251.42:25461/live/newapk12/onew12/448.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/448.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,AXN HD
-http://69.30.251.42:25461/live/newapk12/onew12/452.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/452.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,AXN WHITE HD
-http://69.30.251.42:25461/live/newapk12/onew12/453.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/453.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BABY TV
-http://69.30.251.42:25461/live/newapk12/onew12/454.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/454.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BARCA TV
-http://69.30.251.42:25461/live/newapk12/onew12/455.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/455.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BOING
-http://69.30.251.42:25461/live/newapk12/onew12/457.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/457.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CALLE 13
-http://69.30.251.42:25461/live/newapk12/onew12/458.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/458.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL ACCION HD
-http://69.30.251.42:25461/live/newapk12/onew12/461.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/461.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL COCINA
-http://69.30.251.42:25461/live/newapk12/onew12/460.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/460.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL COMEDIA HD
-http://69.30.251.42:25461/live/newapk12/onew12/462.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/462.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL+ DEPORTES 2
-http://69.30.251.42:25461/live/newapk12/onew12/459.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
-
+http://69.30.251.42:25461/live/apk/asd/459.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 
 
 
@@ -8928,147 +8783,147 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,24 KITCHEN
-http://69.30.251.42:25461/live/newapk12/onew12/463.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/463.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,A BOLA TV
-http://69.30.251.42:25461/live/newapk12/onew12/465.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/465.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,A&E
-http://69.30.251.42:25461/live/newapk12/onew12/464.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/464.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,AFRO MUSIC
-http://69.30.251.42:25461/live/newapk12/onew12/466.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/466.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,AMC
-http://69.30.251.42:25461/live/newapk12/onew12/467.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/467.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,AXN BLACK HD
-http://69.30.251.42:25461/live/newapk12/onew12/468.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/468.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,AXN HD
-http://69.30.251.42:25461/live/newapk12/onew12/469.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/469.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,AXN WHITE HD
-http://69.30.251.42:25461/live/newapk12/onew12/470.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/470.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BABY TV
-http://69.30.251.42:25461/live/newapk12/onew12/471.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/471.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BIGGS KIDS
-http://69.30.251.42:25461/live/newapk12/onew12/473.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/473.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CACA E PESCA
-http://69.30.251.42:25461/live/newapk12/onew12/474.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/474.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CACAVISION
-http://69.30.251.42:25461/live/newapk12/onew12/475.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/475.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL HISTORIA
-http://69.30.251.42:25461/live/newapk12/onew12/476.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/476.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL PANDA KIDS
-http://69.30.251.42:25461/live/newapk12/onew12/477.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/477.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CANAL Q
-http://69.30.251.42:25461/live/newapk12/onew12/478.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/478.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CARTOON NETWORK
-http://69.30.251.42:25461/live/newapk12/onew12/643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CBS REALITY
-http://69.30.251.42:25461/live/newapk12/onew12/479.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/479.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CINE MUNDO
-http://69.30.251.42:25461/live/newapk12/onew12/481.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/481.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CM TV
-http://69.30.251.42:25461/live/newapk12/onew12/482.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/482.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISCOVERY SHOWCASE HD
-http://69.30.251.42:25461/live/newapk12/onew12/484.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/484.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISCOVERY
-http://69.30.251.42:25461/live/newapk12/onew12/483.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/483.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY CHANNEL
-http://69.30.251.42:25461/live/newapk12/onew12/644.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/644.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DISNEY JUNIOR
-http://69.30.251.42:25461/live/newapk12/onew12/645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/645.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,E! ENTERTAINMENT
-http://69.30.251.42:25461/live/newapk12/onew12/646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/646.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,EURO NEWS
-http://69.30.251.42:25461/live/newapk12/onew12/647.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/647.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FASHION TV
-http://69.30.251.42:25461/live/newapk12/onew12/648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/648.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FOX COMEDY
-http://69.30.251.42:25461/live/newapk12/onew12/649.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/649.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FOX CRIME HD
-http://69.30.251.42:25461/live/newapk12/onew12/650.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/650.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FOX HD
-http://69.30.251.42:25461/live/newapk12/onew12/651.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/651.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FOX LIFE HD
-http://69.30.251.42:25461/live/newapk12/onew12/652.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/652.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,FOX hostS
-http://69.30.251.42:25461/live/newapk12/onew12/653.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/653.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,HWD HOLLYWOOD
-http://69.30.251.42:25461/live/newapk12/onew12/654.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/654.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,JIM JAM KIDS
-http://69.30.251.42:25461/live/newapk12/onew12/655.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/655.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MCS EXTREME
-http://69.30.251.42:25461/live/newapk12/onew12/656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/656.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MOV HD
-http://69.30.251.42:25461/live/newapk12/onew12/657.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/657.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MTV
-http://69.30.251.42:25461/live/newapk12/onew12/658.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/658.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NAT GEO CHANNEL HD
-http://69.30.251.42:25461/live/newapk12/onew12/659.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/659.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NAT GEO WILD
-http://69.30.251.42:25461/live/newapk12/onew12/660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NICKELODEON
-http://69.30.251.42:25461/live/newapk12/onew12/661.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/661.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ODISSEIA TV
-http://69.30.251.42:25461/live/newapk12/onew12/662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PORTO CANAL
-http://69.30.251.42:25461/live/newapk12/onew12/663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RECORD NEWS
-http://69.30.251.42:25461/live/newapk12/onew12/664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTP 1
-http://69.30.251.42:25461/live/newapk12/onew12/665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTP 2
-http://69.30.251.42:25461/live/newapk12/onew12/666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTP 3
-http://69.30.251.42:25461/live/newapk12/onew12/669.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/669.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTP AÇORES
-http://69.30.251.42:25461/live/newapk12/onew12/692.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/692.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTP ÁFRICA
-http://69.30.251.42:25461/live/newapk12/onew12/693.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/693.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTP MADERIA
-http://69.30.251.42:25461/live/newapk12/onew12/667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTP MEMORIA
-http://69.30.251.42:25461/live/newapk12/onew12/668.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/668.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SBT BRASIL
-http://69.30.251.42:25461/live/newapk12/onew12/694.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/694.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SIC CARAS
-http://69.30.251.42:25461/live/newapk12/onew12/671.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/671.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SIC KIDS
-http://69.30.251.42:25461/live/newapk12/onew12/672.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/672.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SIC MULHER
-http://69.30.251.42:25461/live/newapk12/onew12/673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SIC NOTÍCIAS
-http://69.30.251.42:25461/live/newapk12/onew12/674.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/674.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SIC RADICAL
-http://69.30.251.42:25461/live/newapk12/onew12/675.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/675.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SIC
-http://69.30.251.42:25461/live/newapk12/onew12/670.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/670.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SYFY HD
-http://69.30.251.42:25461/live/newapk12/onew12/677.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/677.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TLC
-http://69.30.251.42:25461/live/newapk12/onew12/678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/678.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TOROS TV
-http://69.30.251.42:25461/live/newapk12/onew12/679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/679.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TRACE URBAN
-http://69.30.251.42:25461/live/newapk12/onew12/680.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/680.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TRAVEL CHANNEL HD
-http://69.30.251.42:25461/live/newapk12/onew12/681.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/681.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TV GLOBO PREMIUM
-http://69.30.251.42:25461/live/newapk12/onew12/682.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/682.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TVCINE 1 HD
-http://69.30.251.42:25461/live/newapk12/onew12/683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TVCINE 2 HD
-http://69.30.251.42:25461/live/newapk12/onew12/684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TVCINE 3 HD
-http://69.30.251.42:25461/live/newapk12/onew12/685.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/685.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TVCINE 4 HD
-http://69.30.251.42:25461/live/newapk12/onew12/686.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/686.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TVCINE SERIES HD
-http://69.30.251.42:25461/live/newapk12/onew12/687.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/687.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TVI 24
-http://69.30.251.42:25461/live/newapk12/onew12/689.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/689.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TVI FICCAO
-http://69.30.251.42:25461/live/newapk12/onew12/690.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/690.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TVI
-http://69.30.251.42:25461/live/newapk12/onew12/688.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/688.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,VH1
-http://69.30.251.42:25461/live/newapk12/onew12/691.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/691.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 
 
 
@@ -10302,49 +10157,49 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,24 CHANNEL
-http://69.30.251.42:25461/live/newapk12/onew12/3330.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3330.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ATN MUSIC TV
-http://69.30.251.42:25461/live/newapk12/onew12/3331.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3331.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ATN NEWS
-http://69.30.251.42:25461/live/newapk12/onew12/3332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3332.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,BOISHAKHI TV
-http://69.30.251.42:25461/live/newapk12/onew12/3333.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3333.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DESH TV
-http://69.30.251.42:25461/live/newapk12/onew12/3334.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3334.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DESHE BIDESHE TV
-http://69.30.251.42:25461/live/newapk12/onew12/3335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3335.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DIGI BANGLA HD /
-http://69.30.251.42:25461/live/newapk12/onew12/3329.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3329.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DOOM MUSIC
-http://69.30.251.42:25461/live/newapk12/onew12/3336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3336.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,EKATTOR TV
-http://69.30.251.42:25461/live/newapk12/onew12/3337.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3337.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,G TV
-http://69.30.251.42:25461/live/newapk12/onew12/3338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3338.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,GAAN BANGLA
-http://69.30.251.42:25461/live/newapk12/onew12/3339.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3339.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,INDEPENDENT TV
-http://69.30.251.42:25461/live/newapk12/onew12/3340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3340.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,JAMUNA TV
-http://69.30.251.42:25461/live/newapk12/onew12/3341.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3341.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MAGIC BANGLA TV
-http://69.30.251.42:25461/live/newapk12/onew12/3342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3342.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MASRANGA TV
-http://69.30.251.42:25461/live/newapk12/onew12/3343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3343.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MOHONA TV
-http://69.30.251.42:25461/live/newapk12/onew12/3345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3345.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MY CINEMA TV
-http://69.30.251.42:25461/live/newapk12/onew12/3328.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3328.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NRB TV
-http://69.30.251.42:25461/live/newapk12/onew12/3346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3346.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NTV UK
-http://69.30.251.42:25461/live/newapk12/onew12/3348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3348.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,NTV
-http://69.30.251.42:25461/live/newapk12/onew12/3347.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3347.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,R PLUS
-http://69.30.251.42:25461/live/newapk12/onew12/3349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3349.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,RTV
-http://69.30.251.42:25461/live/newapk12/onew12/3350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3350.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 
 
 
@@ -10866,36 +10721,35 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,EPIC CHANNEL
-http://69.30.251.42:25461/live/newapk12/onew12/3999.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3999.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,ZEE TV
-http://69.30.251.42:25461/live/newapk12/onew12/138.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/138.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MANORAMA NEWS
-http://69.30.251.42:25461/live/newapk12/onew12/352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/352.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SAHARA FILMY
-http://69.30.251.42:25461/live/newapk12/onew12/3683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3683.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,MUSIC XPRESS
-http://69.30.251.42:25461/live/newapk12/onew12/424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/424.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,AAJ TAK UK
-http://69.30.251.42:25461/live/newapk12/onew12/3643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3643.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,DESI FUSION
-http://69.30.251.42:25461/live/newapk12/onew12/3623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3623.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,KHABRAIN ABHI TAK (NEWS)
-http://69.30.251.42:25461/live/newapk12/onew12/3662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3662.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,KHABAR FAST (NEWS)
-http://69.30.251.42:25461/live/newapk12/onew12/3663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3663.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,JANATA TV (NEWS)
-http://69.30.251.42:25461/live/newapk12/onew12/3665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3665.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,LAKSHYA TV
-http://69.30.251.42:25461/live/newapk12/onew12/3667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3667.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,PEACE OF MIND
-http://69.30.251.42:25461/live/newapk12/onew12/3673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3673.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,CNBC TV18 PRIME HD
-http://69.30.251.42:25461/live/newapk12/onew12/3676.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3676.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,SONY EARTH HINDI HD /
-http://69.30.251.42:25461/live/newapk12/onew12/3684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
+http://69.30.251.42:25461/live/apk/asd/3684.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 #EXTINF:-1,TEN 1 HD
-http://69.30.251.42:25461/live/newapk12/onew12/176.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=123
-
+http://69.30.251.42:25461/live/apk/asd/176.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 
 
 
