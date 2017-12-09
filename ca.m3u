@@ -7,25 +7,18 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,20/11/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,09/12/17
 http://.....
-
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,IPTV LIST
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Powered by e-Doctor
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Download Official
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,app from Website.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
@@ -44,26 +37,24 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
+#EXTINF:-1,Animal Planet
+http://176.108.193.126:4022/udp/235.1.1.46:5678
 #EXTINF:0,National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1,National Geographic
-http://178.57.233.160:4022/udp/234.5.2.128:1234
-#EXTINF:-1,National Geographic HD 
-http://82.112.55.46:81/udp/239.255.0.145:1234 
+http://37.235.148.192:81/udp/225.50.64.69:1234
 #EXTINF:-1,National Geographic HD 
 http://91.149.172.100:80/channel?id=91&u=demo&p=demo 
-#EXTINF:-1,Nat GeoWild HD 
-http://91.149.172.100:80/channel?id=7&u=demo&p=demo 
-#EXTINF:-1,Nat Geo Wild
-http://178.57.233.160:4022/udp/234.5.2.114:1234
 #EXTINF:-1,Nat Geo Wild HD 
-http://82.112.55.46:81/udp/239.255.0.147:1234 
+http://91.149.172.100:80/channel?id=7&u=demo&p=demo 
 #EXTINF:-1,Discovery (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1269.m3u8$http-refferer=http://localhost
 #EXTINF:-1,DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
 #EXTINF:0,Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
+#EXTINF:0,Discovery Channel
+http://176.108.193.126:4022/udp/235.1.1.47:5678 
 #EXTINF:0,Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
 #EXTINF:-1,Discovery Science (Wuffy Player)
@@ -72,30 +63,32 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1271.m3u8$http-refferer
 http://69.39.239.166:5000/live/284/284.m3u8
 #EXTINF:0,Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
+#EXTINF:0,Discovery Science
+http://176.108.193.126:4022/udp/235.1.1.29:5678 
+#EXTINF: -1,DTX 
+http://176.108.193.126:4022/udp/235.1.1.28:5678
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:-1,History 
 http://91.149.172.100:80/channel?id=136&u=demo&p=demo 
 #EXTINF:-1,History
 http://93.91.113.8:9999/play/a06z
-#EXTINF:-1,HISTORY HD 
-http://82.112.55.46:81/udp/239.255.0.148:1234 
 #EXTINF:-1,FOX HD 
 http://91.149.172.100:80/channel?id=100&u=demo&p=demo 
 #EXTINF:-1,FOX
 http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
+#EXTINF:-1,Fox
+http://37.235.148.192:81/udp/225.50.64.22:1234
 #EXTINF:-1,Fox Life 
 http://91.149.172.100:80/channel?id=75&u=demo&p=demo 
 #EXTINF:-1,Fox Life
 http://95.82.241.148:81//udp/239.255.2.58:1234
-#EXTINF:-1,FOX Life
-http://178.57.233.160:4022/udp/234.5.2.70:1234
 #EXTINF:-1,Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
-#EXTINF:-1,FOX Life HD 
-http://82.112.55.46:81/udp/239.255.0.146:1234 
+#EXTINF:-1,Fox Life
+http://37.235.148.192:81/udp/225.50.64.23:1234
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1,Amazing Facts TV
@@ -142,10 +135,6 @@ http://bit.ly/2rvaV7Q
 http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
 #EXTINF:0,JimJam
 http://93.91.113.8:9999/play/a06n
-#EXTINF:-1,JimJam
-http://178.57.233.160:4022/udp/234.5.2.113:1234
-#EXTINF:-1,JIMJAM 
-http://82.112.55.46:81/udp/239.255.0.46:1234 
 #EXTINF:0,Jim Jam
 http://37.194.182.58:81/udp/239.1.3.2:1234
 #EXTINF:0,Jim Jam
@@ -154,14 +143,10 @@ http://37.192.132.113:81/udp/239.1.3.2:1234
 http://91.149.172.100:80/channel?id=25&u=demo&p=demo 
 #EXTINF:-1 ,Boomerang 
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo 
-#EXTINF:-1,BOOMERANG 
-http://82.112.55.46:81/udp/239.255.0.50:1234 
 #EXTINF:-1,boomerang (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Boomerang
 http://95.82.241.148:81//udp/239.255.2.144:1234
-#EXTINF:-1,Cartoon Network
-http://178.57.233.160:4022/udp/234.5.2.107:1234
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1,Disney Channel (Wuffy Player)
@@ -183,6 +168,8 @@ http://91.149.172.100:80/channel?id=76&u=demo&p=demo
 http://93.91.113.8:9999/play/a06l
 #EXTINF:0,Nick Jr
 http://37.49.213.11:81/udp/239.54.7.5:1224
+#EXTINF:0,Nick Jr
+http://176.108.193.126:4022/udp/235.1.1.84:5678
 #EXTINF:-1,Nick Jr.
 http://95.82.241.148:81//udp/239.255.2.218:1234
 #EXTINF:-1 ,Life Kids Network
@@ -224,20 +211,13 @@ http://37.194.121.4:1234/udp/239.1.15.12:1234
 
 #EXTINF:3 group-title=”MUSIC”, 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0U3LPSQ.png",ROCK TV GR
-mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:0,Zougla TV (Gr)
-http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+
 #EXTINF:0,VH1 Classic
 http://37.192.100.141:81/udp/239.1.8.7:1234
-#EXTINF:-1,MTV Hits
-http://persik.by/stream/1417/252987/10208.m3u8
 #EXTINF:-1,MTV Hits
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1 ,MTV Hits 
 http://91.149.172.100:80/channel?id=140&u=demo&p=demo 
-#EXTINF:-1,MTV Rocks
-http://persik.by/stream/1417/252987/10227.m3u8
 #EXTINF:-1 ,MTV Rocks 
 http://91.149.172.100:80/channel?id=134&u=demo&p=demo 
 #EXTINF:-1 ,MTV Dance 
@@ -587,8 +567,6 @@ http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 
 #EXTINF:-1 ,RELOAD Play
 http://bit.ly/2l0o6Os
-#EXTINF:-1,Cinema world
-http://live.gslb.letv.com/gslb?stream_id=pay_cinema_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 ,Paramount channel 
 http://91.149.172.100:80/channel?id=93&u=demo&p=demo 
 #EXTINF:-1 ,Paramount Comedy 
