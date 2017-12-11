@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,10/12/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,11/12/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -123,7 +123,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/ertogan/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=3yb7kRcOOAk
+https://www.youtube.com/watch?v=0daz69JJkrk
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/6/63/Alpha_Sat.png ,ALPHA SAT
@@ -2728,6 +2728,56 @@ http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
 
 
+#EXTINF:8 group-title=”Italy2”,
+
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,La5
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(03)/index.m3u8
+#EXTINF:-1,La5 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Top Crime
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Top Crime HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Rete 4
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Rete 4 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Canale 5
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Canale 5 HD
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 1
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Italia 1 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Mediaset Extra
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Mediaset Extra HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 2
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Italia 2 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
 
 
 
@@ -2739,7 +2789,9 @@ http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
 
 
-#EXTINF:8 group-title=”Italy1-LOOP_ONE”,
+
+
+#EXTINF:8 group-title=”Italy-LOOP_ONE”,
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
 http://..........
@@ -2767,150 +2819,130 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,Sportitalia
-http://bigiptv.ovh:8000/live/tech2/tech2/7985.ts
-#EXTINF:-1,Sky Uno HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7957.ts
-#EXTINF:-1,SKY TG 24
-http://bigiptv.ovh:8000/live/tech2/tech2/7958.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7984.ts
-#EXTINF:-1,SKY SPORT 3
-http://bigiptv.ovh:8000/live/tech2/tech2/7983.ts
-#EXTINF:-1,Sky Sport 24
-http://bigiptv.ovh:8000/live/tech2/tech2/7987.ts
-#EXTINF:-1,SKY SPORT 2
-http://bigiptv.ovh:8000/live/tech2/tech2/7982.ts
-#EXTINF:-1,SKY SPORT 1
-http://bigiptv.ovh:8000/live/tech2/tech2/7981.ts
-#EXTINF:-1,Sky Primafila1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7990.ts
-#EXTINF:-1,Sky Primafila 8
-http://bigiptv.ovh:8000/live/tech2/tech2/7997.ts
-#EXTINF:-1,Sky Primafila 6 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7995.ts
-#EXTINF:-1,Sky Primafila 3 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7992.ts
-#EXTINF:-1,Sky Primafila 10
-http://bigiptv.ovh:8000/live/tech2/tech2/7998.ts
-#EXTINF:-1,Sky Moto GP
-http://bigiptv.ovh:8000/live/tech2/tech2/7988.ts
-#EXTINF:-1,Sky Crime & Investigation
-http://bigiptv.ovh:8000/live/tech2/tech2/7966.ts
-#EXTINF:-1,Sky Cinema Uno
-http://bigiptv.ovh:8000/live/tech2/tech2/7959.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7967.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7960.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7968.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7969.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7961.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7962.ts
-#EXTINF:-1,SKY Cinema  24
-http://bigiptv.ovh:8000/live/tech2/tech2/7963.ts
-#EXTINF:-1,Sky Cinema  1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7964.ts
-#EXTINF:-1,SKY Atlantic HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7965.ts
-#EXTINF:-1,RSI LA 2
-http://bigiptv.ovh:8000/live/tech2/tech2/7925.ts
-#EXTINF:-1,RSI LA 1
-http://bigiptv.ovh:8000/live/tech2/tech2/7924.ts
-#EXTINF:-1,Rete 4 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7931.ts
-#EXTINF:-1,Rai YoYo
-http://bigiptv.ovh:8000/live/tech2/tech2/7936.ts
-#EXTINF:-1,Rai Sport 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7938.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7937.ts
-#EXTINF:-1,Rai Premium
-http://bigiptv.ovh:8000/live/tech2/tech2/7939.ts
-#EXTINF:-1,Rai Movie
-http://bigiptv.ovh:8000/live/tech2/tech2/7940.ts
+#EXTINF:-1,PremiumCalcio1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11432.ts
+#EXTINF:-1,SKY_PRIMAFILA5
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11441.ts
 #EXTINF:-1,Rai 5 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7930.ts
-#EXTINF:-1,[IT][VIP] RAI 4 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7929.ts
-#EXTINF:-1,[IT][VIP] RAI 3 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7928.ts
-#EXTINF:-1,[IT][VIP] RAI 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7927.ts
-#EXTINF:-1,[IT][VIP] RAI 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7926.ts
-#EXTINF:-1,Primafila 7
-http://bigiptv.ovh:8000/live/tech2/tech2/7996.ts
-#EXTINF:-1,Primafila 5
-http://bigiptv.ovh:8000/live/tech2/tech2/7994.ts
-#EXTINF:-1,Primafila 4
-http://bigiptv.ovh:8000/live/tech2/tech2/7993.ts
-#EXTINF:-1,Primafila 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7991.ts
-#EXTINF:-1,Premium Studio Universal
-http://bigiptv.ovh:8000/live/tech2/tech2/7974.ts
-#EXTINF:-1,Premium Stories
-http://bigiptv.ovh:8000/live/tech2/tech2/7975.ts
-#EXTINF:-1,Premium Joy
-http://bigiptv.ovh:8000/live/tech2/tech2/7970.ts
-#EXTINF:-1,Premium Energy
-http://bigiptv.ovh:8000/live/tech2/tech2/7976.ts
-#EXTINF:-1,Premium Emotion
-http://bigiptv.ovh:8000/live/tech2/tech2/7971.ts
-#EXTINF:-1,Premium Crime 24
-http://bigiptv.ovh:8000/live/tech2/tech2/7977.ts
-#EXTINF:-1,Premium Comedy
-http://bigiptv.ovh:8000/live/tech2/tech2/7978.ts
-#EXTINF:-1,Premium Cinema HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7972.ts
-#EXTINF:-1,Premium Cinema 24
-http://bigiptv.ovh:8000/live/tech2/tech2/7979.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7973.ts
-#EXTINF:-1,Premium Action +24
-http://bigiptv.ovh:8000/live/tech2/tech2/7980.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/3895.ts
+#EXTINF:-1,Rai Sport 2 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/3891.ts
+#EXTINF:-1,Rai Premium
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/3892.ts
+#EXTINF:-1,CANALE 5 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11458.ts
+#EXTINF:-1,CARTINITO
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11457.ts
+#EXTINF:-1,RAI 1HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11447.ts
+#EXTINF:-1,RAI 3HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11449.ts
+#EXTINF:-1,RAI 4HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11450.ts
+#EXTINF:-1,RAI 5HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11451.ts
+#EXTINF:-1,RAI SPORT 1HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11452.ts
+#EXTINF:-1,RSI LA 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11453.ts
+#EXTINF:-1,SUPER TENNIS HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11460.ts
+#EXTINF:-1,SKY Atlantic HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7355.ts
+#EXTINF:-1,BOING
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14762.ts
+#EXTINF:-1,Discovery Channel HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14766.ts
+#EXTINF:-1,History HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14774.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14764.ts
 #EXTINF:-1,National Geographic HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7948.ts
-#EXTINF:-1,NatGeo Wild HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7949.ts
-#EXTINF:-1,Nat Geo People HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7950.ts
-#EXTINF:-1,LA 7 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7933.ts
-#EXTINF:-1,Italia 2
-http://bigiptv.ovh:8000/live/tech2/tech2/7935.ts
-#EXTINF:-1,Italia 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7934.ts
-#EXTINF:-1,History Channel
-http://bigiptv.ovh:8000/live/tech2/tech2/7951.ts
-#EXTINF:-1,Fox Sports HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7943.ts
-#EXTINF:-1,Fox Life HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7941.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14765.ts
+#EXTINF:-1,Premium Action HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14768.ts
+#EXTINF:-1,Premium Cartoon Network
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14771.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14772.ts
+#EXTINF:-1,Premium Comedy
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14770.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14783.ts
+#EXTINF:-1,Premium Studio Universal
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14784.ts
+#EXTINF:-1,Prenium Cinema HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14769.ts
+#EXTINF:-1,Prenium Sport HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14767.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14763.ts
+#EXTINF:-1,SKY PRIMAFILA 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14775.ts
+#EXTINF:-1,SKY PRIMAFILA 2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14776.ts
+#EXTINF:-1,SKY PRIMAFILA 3
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14777.ts
+#EXTINF:-1,SKY PRIMAFILA 4
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14778.ts
+#EXTINF:-1,SKY PRIMAFILA 5
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14779.ts
+#EXTINF:-1,SKY PRIMAFILA 6
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14780.ts
+#EXTINF:-1,SKY PRIMAFILA 7
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14781.ts
+#EXTINF:-1,SKY PRIMAFILA 8
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14782.ts
+#EXTINF:-1,Top Crime
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14773.ts
+#EXTINF:-1,Sky Calcio 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14528.ts
+#EXTINF:-1,Sky Calcio 4
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14529.ts
+#EXTINF:-1,Eurosport HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14536.ts
+#EXTINF:-1,RSI LA 2 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14534.ts
+#EXTINF:-1,SKY SPORT 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14530.ts
+#EXTINF:-1,SKY SPORT 2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14531.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14532.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/3334.ts
+#EXTINF:-1,Premium Sport HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/3350.ts
 #EXTINF:-1,Fox HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7942.ts
-#EXTINF:-1,Fox Crime
-http://bigiptv.ovh:8000/live/tech2/tech2/7944.ts
-#EXTINF:-1,Fox Comedy HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7945.ts
-#EXTINF:-1,Fox Animation
-http://bigiptv.ovh:8000/live/tech2/tech2/7946.ts
-#EXTINF:-1,EuroSport 2
-http://bigiptv.ovh:8000/live/tech2/tech2/7952.ts
-#EXTINF:-1,EuroSport 1
-http://bigiptv.ovh:8000/live/tech2/tech2/7953.ts
-#EXTINF:-1,Dmax HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7954.ts
-#EXTINF:-1,Discovery Science HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7947.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/3354.ts
 #EXTINF:-1,Canal 5 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/7932.ts
-
-
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7414.ts
+#EXTINF:-1,Sky Fox
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7400.ts
+#EXTINF:-1,Cielo
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14520.ts
+#EXTINF:-1,Disney Channel
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14521.ts
+#EXTINF:-1,Iris
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14522.ts
+#EXTINF:-1,Italia 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14523.ts
+#EXTINF:-1,Premium Joi
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14524.ts
+#EXTINF:-1,RAI Movie
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14527.ts
+#EXTINF:-1,Sky Primafila 8
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7327.ts
+#EXTINF:-1,LA7 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14583.ts
+#EXTINF:-1,Rete 4 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14586.ts
+#EXTINF:-1,RSI LA 2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14595.ts
+#EXTINF:-1,SKY SPORT 3
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14584.ts
+#EXTINF:-1,SKY UNO HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14585.ts
 
 
 
@@ -3281,381 +3313,248 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,beIN SPORTS 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8041.ts
-#EXTINF:-1,beIN SPORTS 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8042.ts
-#EXTINF:-1,beIN SPORTS 3 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8043.ts
-#EXTINF:-1,M6 Full HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8044.ts
-#EXTINF:-1,TF1
-http://bigiptv.ovh:8000/live/tech2/tech2/1269.ts
-#EXTINF:-1,France 2
-http://bigiptv.ovh:8000/live/tech2/tech2/1270.ts
-#EXTINF:-1,FRANCE 3
-http://bigiptv.ovh:8000/live/tech2/tech2/1271.ts
-#EXTINF:-1,FRANCE 4
-http://bigiptv.ovh:8000/live/tech2/tech2/1272.ts
-#EXTINF:-1,FRANCE 5
-http://bigiptv.ovh:8000/live/tech2/tech2/1273.ts
-#EXTINF:-1,FRANCE O
-http://bigiptv.ovh:8000/live/tech2/tech2/1274.ts
-#EXTINF:-1,FRANCE 24
-http://bigiptv.ovh:8000/live/tech2/tech2/8676.ts
-#EXTINF:-1,ARTE
-http://bigiptv.ovh:8000/live/tech2/tech2/1276.ts
-#EXTINF:-1,C8
-http://bigiptv.ovh:8000/live/tech2/tech2/1277.ts
+#EXTINF:-1,TF1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/313.ts
+#EXTINF:-1,C8 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/315.ts
 #EXTINF:-1,M6 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1275.ts
-#EXTINF:-1,BFM TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1351.ts
-#EXTINF:-1,BFM Business
-http://bigiptv.ovh:8000/live/tech2/tech2/8681.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/314.ts
 #EXTINF:-1,W9
-http://bigiptv.ovh:8000/live/tech2/tech2/1279.ts
-#EXTINF:-1,NT1
-http://bigiptv.ovh:8000/live/tech2/tech2/1281.ts
-#EXTINF:-1,NRJ HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1661.ts
-#EXTINF:-1,KTO
-http://bigiptv.ovh:8000/live/tech2/tech2/8680.ts
-#EXTINF:-1,NRJ 12
-http://bigiptv.ovh:8000/live/tech2/tech2/1282.ts
-#EXTINF:-1,TMC
-http://bigiptv.ovh:8000/live/tech2/tech2/1280.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://bigiptv.ovh:8000/live/tech2/tech2/8678.ts
-#EXTINF:-1,CSTAR
-http://bigiptv.ovh:8000/live/tech2/tech2/1278.ts
-#EXTINF:-1,GULLI
-http://bigiptv.ovh:8000/live/tech2/tech2/1304.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/316.ts
 #EXTINF:-1,HD1
-http://bigiptv.ovh:8000/live/tech2/tech2/1640.ts
-#EXTINF:-1,EURONEWS
-http://bigiptv.ovh:8000/live/tech2/tech2/8682.ts
-#EXTINF:-1,Cherie25 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1670.ts
-#EXTINF:-1,RMC DECOUVERTE
-http://bigiptv.ovh:8000/live/tech2/tech2/1318.ts
-#EXTINF:-1, 6TER HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1669.ts
-#EXTINF:-1,AB1
-http://bigiptv.ovh:8000/live/tech2/tech2/1641.ts
-#EXTINF:-1,Gong HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1652.ts
-#EXTINF:-1,C NEWS / ITELE
-http://bigiptv.ovh:8000/live/tech2/tech2/8679.ts
-#EXTINF:-1,LCI HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8675.ts
-#EXTINF:-1,NUMERO 23
-http://bigiptv.ovh:8000/live/tech2/tech2/8677.ts
-#EXTINF:-1,¤¤¤¤¤ Chaines Canal ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/tech2/tech2/8667.ts
-#EXTINF:-1,CANAL HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8784.ts
-#EXTINF:-1,CANAL  Sport HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1325.ts
-#EXTINF:-1,CANAL SERIES HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1324.ts
-#EXTINF:-1,CANAL  Family
-http://bigiptv.ovh:8000/live/tech2/tech2/1306.ts
-#EXTINF:-1,CANAL  Decale HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1327.ts
-#EXTINF:-1,CANAL  Cinema HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1328.ts
-#EXTINF:-1,TCM CINEMA HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8683.ts
-#EXTINF:-1,CINE Premier
-http://bigiptv.ovh:8000/live/tech2/tech2/1287.ts
-#EXTINF:-1,CINE Polar
-http://bigiptv.ovh:8000/live/tech2/tech2/1288.ts
-#EXTINF:-1,CINE FX
-http://bigiptv.ovh:8000/live/tech2/tech2/1323.ts
-#EXTINF:-1,CINE Frisson
-http://bigiptv.ovh:8000/live/tech2/tech2/1289.ts
-#EXTINF:-1,CINE Famiz
-http://bigiptv.ovh:8000/live/tech2/tech2/1290.ts
-#EXTINF:-1,CINE Emotion
-http://bigiptv.ovh:8000/live/tech2/tech2/1291.ts
-#EXTINF:-1,CINE Classic
-http://bigiptv.ovh:8000/live/tech2/tech2/1292.ts
-#EXTINF:-1,OCS Max
-http://bigiptv.ovh:8000/live/tech2/tech2/1294.ts
-#EXTINF:-1,OCS Geants HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1295.ts
-#EXTINF:-1,OCS CITY
-http://bigiptv.ovh:8000/live/tech2/tech2/1296.ts
-#EXTINF:-1,OCS CHOC HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1297.ts
-#EXTINF:-1,¤¤¤¤¤ Decouverte ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/tech2/tech2/8666.ts
-#EXTINF:-1,TOUTE L'HISTOIRE
-http://bigiptv.ovh:8000/live/tech2/tech2/1320.ts
-#EXTINF:-1,VOYAGE HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1316.ts
-#EXTINF:-1,USHUAIA TV HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1315.ts
-#EXTINF:-1,SCIENCE ET VIE
-http://bigiptv.ovh:8000/live/tech2/tech2/1672.ts
-#EXTINF:-1,Planete+ HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1312.ts
-#EXTINF:-1,PLANETE CI HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1313.ts
-#EXTINF:-1,PARIS PREMIERE HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8686.ts
-#EXTINF:-1,Planete A&E HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1314.ts
-#EXTINF:-1,Season HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8685.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://bigiptv.ovh:8000/live/tech2/tech2/1319.ts
-#EXTINF:-1,TREK
-http://bigiptv.ovh:8000/live/tech2/tech2/8684.ts
-#EXTINF:-1,NAT GEO WILD
-http://bigiptv.ovh:8000/live/tech2/tech2/1317.ts
-#EXTINF:-1,DISCOVERY HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1321.ts
-#EXTINF:-1,Discovery Science HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1648.ts
-#EXTINF:-1,ANIMAUX HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1646.ts
-#EXTINF:-1,IL tV
-http://bigiptv.ovh:8000/live/tech2/tech2/1653.ts
-#EXTINF:-1,CHASSE & PECHE HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1647.ts
-#EXTINF:-1,HISTOIRE HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1644.ts
-#EXTINF:-1,¤¤¤¤¤ Series et divertissement ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/tech2/tech2/8668.ts
-#EXTINF:-1,SYFY HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1284.ts
-#EXTINF:-1,Serie club
-http://bigiptv.ovh:8000/live/tech2/tech2/1639.ts
-#EXTINF:-1,13 EME RUE
-http://bigiptv.ovh:8000/live/tech2/tech2/1283.ts
-#EXTINF:-1,ACTION
-http://bigiptv.ovh:8000/live/tech2/tech2/1286.ts
-#EXTINF:-1,BET
-http://bigiptv.ovh:8000/live/tech2/tech2/8689.ts
-#EXTINF:-1,TV BREIZH HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8688.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/317.ts
 #EXTINF:-1,RTL9 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1310.ts
-#EXTINF:-1,COMEDIE
-http://bigiptv.ovh:8000/live/tech2/tech2/1293.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/328.ts
+#EXTINF:-1,FRANCE O
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/324.ts
+#EXTINF:-1,FRANCE3 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/321.ts
+#EXTINF:-1,FRANCE4 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/322.ts
+#EXTINF:-1,FRANCE5 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/323.ts
+#EXTINF:-1,CHASSE ET PECHE
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8450.ts
+#EXTINF:-1,BEIN SPORTS 01HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/6960.ts
+#EXTINF:-1,BEIN SPORTS 02HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/6959.ts
+#EXTINF:-1,BEIN SPORTS 3HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/6958.ts
+#EXTINF:-1,Bein sport 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11040.ts
+#EXTINF:-1,Bein sport 2 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11039.ts
+#EXTINF:-1,bein sport 3 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11038.ts
+#EXTINF:-1,Bein Sports max 4 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11037.ts
+#EXTINF:-1,Bein Sports max 5 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11036.ts
+#EXTINF:-1,Bein Sports max 6 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11035.ts
+#EXTINF:-1,Bein Sports max 7 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11034.ts
+#EXTINF:-1,Bein Sports max 8 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11033.ts
+#EXTINF:-1,SFR SPORT 1HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/6954.ts
+#EXTINF:-1,EURO SPORT 1HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8087.ts
+#EXTINF:-1,EURO SPORT 2HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8088.ts
+#EXTINF:-1,EQUIDIA- Live HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/2235.ts
+#EXTINF:-1,LEQUIPE 21HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8086.ts
+#EXTINF:-1,D17
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/318.ts
+#EXTINF:-1,ACTION HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/2239.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/1057.ts
+#EXTINF:-1,USHUAIA TV HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/2252.ts
+#EXTINF:-1,SERIE CLUB HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/2228.ts
+#EXTINF:-1,VOYAGE HD 1280
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8391.ts
 #EXTINF:-1,TEVA HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1311.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8389.ts
+#EXTINF:-1,SCIENCE & VIE HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8390.ts
+#EXTINF:-1,RTS UN HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8373.ts
+#EXTINF:-1,BFMTV HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8382.ts
+#EXTINF:-1,AB1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8395.ts
+#EXTINF:-1,AB3 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8396.ts
+#EXTINF:-1,Planete CI
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8060.ts
+#EXTINF:-1,RTL-TVI
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8442.ts
+#EXTINF:-1,CSTAR
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8448.ts
+#EXTINF:-1,COMEDIE+
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8449.ts
+#EXTINF:-1,ANIMAUX
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8452.ts
+#EXTINF:-1,TREK HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8785.ts
+#EXTINF:-1,GULLI HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/4221.ts
+#EXTINF:-1,PIWI
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/4222.ts
+#EXTINF:-1,BOOMERANG
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/1052.ts
+#EXTINF:-1,TELETOON HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8386.ts
+#EXTINF:-1,DISNEY XD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8058.ts
+#EXTINF:-1,TIJI HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8788.ts
+#EXTINF:-1,A LA CARTE 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11525.ts
+#EXTINF:-1,A LA CARTE 3
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11527.ts
+#EXTINF:-1,M6-HD+
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11490.ts
+#EXTINF:-1,OCS MAX HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12154.ts
 #EXTINF:-1,PARAMOUNT CHANNEL HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1285.ts
-#EXTINF:-1,NICKELODEON
-http://bigiptv.ovh:8000/live/tech2/tech2/8687.ts
-#EXTINF:-1,¤¤¤¤¤ Sport ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/tech2/tech2/8669.ts
-#EXTINF:-1,L'EQUIPE 21 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1331.ts
-#EXTINF:-1,SFR SPORT 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1344.ts
-#EXTINF:-1,SFR SPORT 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1345.ts
-#EXTINF:-1,SFR SPORT 3 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1346.ts
-#EXTINF:-1,SFR SPORT 5 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1348.ts
-#EXTINF:-1,FOOT + 24/24 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1650.ts
-#EXTINF:-1,INFOSPORT
-http://bigiptv.ovh:8000/live/tech2/tech2/8691.ts
-#EXTINF:-1,GOLF Plus HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8690.ts
-#EXTINF:-1,INFO SPORT
-http://bigiptv.ovh:8000/live/tech2/tech2/1343.ts
-#EXTINF:-1,BFM SPORT
-http://bigiptv.ovh:8000/live/tech2/tech2/8699.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1349.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1350.ts
-#EXTINF:-1,Equidia Live
-http://bigiptv.ovh:8000/live/tech2/tech2/1649.ts
-#EXTINF:-1,EQUIDIA LIFE HD
-http://bigiptv.ovh:8000/live/tech2/tech2/8693.ts
-#EXTINF:-1,MOTORS TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1332.ts
-#EXTINF:-1,¤¤¤¤¤ BEIN Sport ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/tech2/tech2/8672.ts
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1333.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1334.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1335.ts
-#EXTINF:-1,BEIN SPORTS MAX 4
-http://bigiptv.ovh:8000/live/tech2/tech2/1336.ts
-#EXTINF:-1,BEIN SPORTS MAX 5
-http://bigiptv.ovh:8000/live/tech2/tech2/1337.ts
-#EXTINF:-1,BEIN SPORTS MAX 6
-http://bigiptv.ovh:8000/live/tech2/tech2/1338.ts
-#EXTINF:-1, BEIN SPORTS MAX 7
-http://bigiptv.ovh:8000/live/tech2/tech2/1339.ts
-#EXTINF:-1,BEIN SPORTS MAX 8
-http://bigiptv.ovh:8000/live/tech2/tech2/1340.ts
-#EXTINF:-1,BEIN SPORTS MAX 9
-http://bigiptv.ovh:8000/live/tech2/tech2/1341.ts
-#EXTINF:-1,BEIN SPORTS MAX 10
-http://bigiptv.ovh:8000/live/tech2/tech2/1342.ts
-#EXTINF:-1,¤¤¤¤¤ Enfants ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/tech2/tech2/8671.ts
-#EXTINF:-1,DISNEY CINEMA
-http://bigiptv.ovh:8000/live/tech2/tech2/1309.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12156.ts
+#EXTINF:-1,TCM
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12158.ts
+#EXTINF:-1,CINE EMOTION
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/2237.ts
+#EXTINF:-1,CINE CLASSIC HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/1051.ts
+#EXTINF:-1,CANAL CINEMA HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/336.ts
+#EXTINF:-1,CANAL DECALE HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/335.ts
+#EXTINF:-1,CANAL SERIES
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/1041.ts
 #EXTINF:-1,CANAL J
-http://bigiptv.ovh:8000/live/tech2/tech2/1307.ts
-#EXTINF:-1,ZOUZOU TV
-http://bigiptv.ovh:8000/live/tech2/tech2/8694.ts
-#EXTINF:-1,Boomerang
-http://bigiptv.ovh:8000/live/tech2/tech2/8695.ts
-#EXTINF:-1,TiJi
-http://bigiptv.ovh:8000/live/tech2/tech2/1298.ts
-#EXTINF:-1,Baby TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1662.ts
-#EXTINF:-1,MANGAS
-http://bigiptv.ovh:8000/live/tech2/tech2/1299.ts
-#EXTINF:-1,Piwi HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1671.ts
-#EXTINF:-1,GAME ONE
-http://bigiptv.ovh:8000/live/tech2/tech2/1300.ts
-#EXTINF:-1,Boing HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1645.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://bigiptv.ovh:8000/live/tech2/tech2/1308.ts
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8435.ts
+#EXTINF:-1,BOX OFFICE 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11016.ts
+#EXTINF:-1,BOX OFFICE 2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11015.ts
+#EXTINF:-1,BOX OFFICE 5
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/11012.ts
+#EXTINF:-1,CANAL PLAY 2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/4430.ts
+#EXTINF:-1,CANAL PLAY 6
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/4434.ts
+#EXTINF:-1,CANAL PLAY 7
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/4435.ts
+#EXTINF:-1,CANAL PLAY 8
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/4436.ts
+#EXTINF:-1,CANAL PLAY 9
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/4437.ts
+#EXTINF:-1,CANAL PLAY 10
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/4443.ts
+#EXTINF:-1,A LA CARTE 4
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/1246.ts
+#EXTINF:-1,A LA CARTE 5
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/1247.ts
+#EXTINF:-1,A LA CARTE 7
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/1249.ts
+#EXTINF:-1,MCM POP HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12875.ts
+#EXTINF:-1,VIRGIN HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12874.ts
+#EXTINF:-1,Canal Series HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12850.ts
+#EXTINF:-1,Cine Premier
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12847.ts
+#EXTINF:-1,DISNEY CINEMA HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12846.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12840.ts
+#EXTINF:-1,FR-NATIONALGEO-WILD-HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12839.ts
+#EXTINF:-1,13eme Rue HQ
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12871.ts
+#EXTINF:-1,Canal Sport HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12849.ts
+#EXTINF:-1,CHERIE 25 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12848.ts
+#EXTINF:-1,CINE FX HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12837.ts
 #EXTINF:-1,DISNEY JUNIOR HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1643.ts
-#EXTINF:-1,DISNEY CHANNEL +1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1642.ts
-#EXTINF:-1,CARTOON NETWORK
-http://bigiptv.ovh:8000/live/tech2/tech2/1305.ts
-#EXTINF:-1,Teletoon + HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1663.ts
-#EXTINF:-1,¤¤¤¤¤ Musique ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/tech2/tech2/8670.ts
-#EXTINF:-1,M6 MUSIC HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1656.ts
-#EXTINF:-1,MTV LIVE
-http://bigiptv.ovh:8000/live/tech2/tech2/1658.ts
-#EXTINF:-1,NRJ HITS
-http://bigiptv.ovh:8000/live/tech2/tech2/8701.ts
-#EXTINF:-1,MTV HITS
-http://bigiptv.ovh:8000/live/tech2/tech2/8697.ts
-#EXTINF:-1,MTV DANCE
-http://bigiptv.ovh:8000/live/tech2/tech2/8698.ts
-#EXTINF:-1,Virgin TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1667.ts
-#EXTINF:-1,¤¤¤¤¤ AUTRE ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/tech2/tech2/8674.ts
-#EXTINF:-1,RTS Un
-http://bigiptv.ovh:8000/live/tech2/tech2/1329.ts
-#EXTINF:-1,RTS Deux
-http://bigiptv.ovh:8000/live/tech2/tech2/1330.ts
-#EXTINF:-1,Weo
-http://bigiptv.ovh:8000/live/tech2/tech2/1668.ts
-#EXTINF:-1,VH 1
-http://bigiptv.ovh:8000/live/tech2/tech2/1666.ts
-#EXTINF:-1,TV 5 MOND HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1665.ts
-#EXTINF:-1,PLUG RTL
-http://bigiptv.ovh:8000/live/tech2/tech2/1673.ts
-#EXTINF:-1,Mirabelle TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1657.ts
-#EXTINF:-1,LA TELE HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1655.ts
-#EXTINF:-1,LA CHAINE NORMANDIE
-http://bigiptv.ovh:8000/live/tech2/tech2/1654.ts
-#EXTINF:-1,Golf
-http://bigiptv.ovh:8000/live/tech2/tech2/1651.ts
-#EXTINF:-1,ATV HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1674.ts
-#EXTINF:-1,MCM
-http://bigiptv.ovh:8000/live/tech2/tech2/9980.ts
-#EXTINF:-1,¤¤¤¤¤ CANAL PLAY FR & A LA CARTE ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/tech2/tech2/9225.ts
-#EXTINF:-1,Orange_Cine 1
-http://bigiptv.ovh:8000/live/tech2/tech2/9234.ts
-#EXTINF:-1,Orange_Cine 2
-http://bigiptv.ovh:8000/live/tech2/tech2/9235.ts
-#EXTINF:-1,Orange_Cine 3
-http://bigiptv.ovh:8000/live/tech2/tech2/9236.ts
-#EXTINF:-1,Orange Cine 4
-http://bigiptv.ovh:8000/live/tech2/tech2/9237.ts
-#EXTINF:-1,Orange_Cine 5
-http://bigiptv.ovh:8000/live/tech2/tech2/9238.ts
-#EXTINF:-1,Orange_Cine 6
-http://bigiptv.ovh:8000/live/tech2/tech2/9240.ts
-#EXTINF:-1,Orange_Cine 7
-http://bigiptv.ovh:8000/live/tech2/tech2/9241.ts
-#EXTINF:-1,Orange_Cine 8
-http://bigiptv.ovh:8000/live/tech2/tech2/9239.ts
-#EXTINF:-1,OCS_GO_CINE 1
-http://bigiptv.ovh:8000/live/tech2/tech2/9242.ts
-#EXTINF:-1,OCS_GO_CINE 2
-http://bigiptv.ovh:8000/live/tech2/tech2/9243.ts
-#EXTINF:-1,OCS_GO_CINE 3
-http://bigiptv.ovh:8000/live/tech2/tech2/9244.ts
-#EXTINF:-1,OCS_GO_CINE 4
-http://bigiptv.ovh:8000/live/tech2/tech2/9245.ts
-#EXTINF:-1,OCS_GO_CINE 5
-http://bigiptv.ovh:8000/live/tech2/tech2/9246.ts
-#EXTINF:-1,OCS_GO_CINE 6
-http://bigiptv.ovh:8000/live/tech2/tech2/9247.ts
-#EXTINF:-1,OCS_GO_CINE 7
-http://bigiptv.ovh:8000/live/tech2/tech2/9248.ts
-#EXTINF:-1,OCS_GO_CINE 8
-http://bigiptv.ovh:8000/live/tech2/tech2/9249.ts
-#EXTINF:-1,CANAL_PLAY_01
-http://bigiptv.ovh:8000/live/tech2/tech2/9250.ts
-#EXTINF:-1,CANAL_PLAY_02
-http://bigiptv.ovh:8000/live/tech2/tech2/9251.ts
-#EXTINF:-1,CANAL_PLAY_03
-http://bigiptv.ovh:8000/live/tech2/tech2/9252.ts
-#EXTINF:-1,CANAL_PLAY_04
-http://bigiptv.ovh:8000/live/tech2/tech2/9253.ts
-#EXTINF:-1,CANAL_PLAY_05
-http://bigiptv.ovh:8000/live/tech2/tech2/9254.ts
-#EXTINF:-1,CANAL_PLAY_06
-http://bigiptv.ovh:8000/live/tech2/tech2/9255.ts
-#EXTINF:-1,CANAL_PLAY_07
-http://bigiptv.ovh:8000/live/tech2/tech2/9256.ts
-#EXTINF:-1,CANAL_PLAY_08
-http://bigiptv.ovh:8000/live/tech2/tech2/9257.ts
-#EXTINF:-1,CANAL_PLAY_09
-http://bigiptv.ovh:8000/live/tech2/tech2/9258.ts
-#EXTINF:-1,CANAL_PLAY_10
-http://bigiptv.ovh:8000/live/tech2/tech2/9259.ts
-#EXTINF:-1,CANAL_PLAY_11
-http://bigiptv.ovh:8000/live/tech2/tech2/9260.ts
-#EXTINF:-1,CANAL_PLAY_12
-http://bigiptv.ovh:8000/live/tech2/tech2/9261.ts
-#EXTINF:-1,CANAL_PLAY_13
-http://bigiptv.ovh:8000/live/tech2/tech2/9262.ts
-#EXTINF:-1,CANAL_PLAY_14
-http://bigiptv.ovh:8000/live/tech2/tech2/9263.ts
-#EXTINF:-1,A_LA_CARTE_01
-http://bigiptv.ovh:8000/live/tech2/tech2/9226.ts
-#EXTINF:-1,A_LA_CARTE_02
-http://bigiptv.ovh:8000/live/tech2/tech2/9227.ts
-#EXTINF:-1,A_LA_CARTE_03
-http://bigiptv.ovh:8000/live/tech2/tech2/9228.ts
-#EXTINF:-1,A_LA_CARTE_04
-http://bigiptv.ovh:8000/live/tech2/tech2/9229.ts
-#EXTINF:-1,A_LA_CARTE_05
-http://bigiptv.ovh:8000/live/tech2/tech2/9230.ts
-#EXTINF:-1,A_LA_CARTE_06
-http://bigiptv.ovh:8000/live/tech2/tech2/9231.ts
-#EXTINF:-1,A_LA_CARTE_07
-http://bigiptv.ovh:8000/live/tech2/tech2/9232.ts
-#EXTINF:-1,A_LA_CARTE_08
-http://bigiptv.ovh:8000/live/tech2/tech2/9233.ts
-
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12845.ts
+#EXTINF:-1,L'Equipe 21
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12842.ts
+#EXTINF:-1,M6 Music
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12841.ts
+#EXTINF:-1,PLANETE A&E HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12838.ts
+#EXTINF:-1,EURONEWS
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12844.ts
+#EXTINF:-1,Foot 24
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12843.ts
+#EXTINF:-1,Orange Premium 4
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12861.ts
+#EXTINF:-1,Orange Premium 5
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12862.ts
+#EXTINF:-1,Orange Premium 6
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/12863.ts
+#EXTINF:-1,6TER
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14543.ts
+#EXTINF:-1,BFM TV
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14587.ts
+#EXTINF:-1,BOING
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14570.ts
+#EXTINF:-1,CARTON NETWORK
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14574.ts
+#EXTINF:-1,CHERIE 25
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14588.ts
+#EXTINF:-1,DISCOVERY HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14545.ts
+#EXTINF:-1,DiSCOVERY-SCIENCE HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14571.ts
+#EXTINF:-1,DISNEY CINEMA
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14572.ts
+#EXTINF:-1,E!
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14573.ts
+#EXTINF:-1,EQUIDIA LIVE HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14589.ts
+#EXTINF:-1,Fashion TV
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14590.ts
+#EXTINF:-1,GAME ONE
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14591.ts
+#EXTINF:-1,HISTOIRE
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14592.ts
+#EXTINF:-1,Kombat Sport HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14602.ts
+#EXTINF:-1,L EQUIPE 21 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14593.ts
+#EXTINF:-1,LCI
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14575.ts
+#EXTINF:-1,LCP
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14576.ts
+#EXTINF:-1,Motorsport.tv
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14594.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14601.ts
+#EXTINF:-1,NICKELEDEON HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14544.ts
+#EXTINF:-1,NT1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14600.ts
+#EXTINF:-1,NUMERO 23
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14567.ts
+#EXTINF:-1,SFR SPORT 2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14577.ts
+#EXTINF:-1,SFR SPORT 3
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14581.ts
+#EXTINF:-1,SFR SPORT 5
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14597.ts
+#EXTINF:-1,TOONAMI
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14596.ts
 
 
 
@@ -4128,6 +4027,208 @@ http://69.30.251.42:25461/live/apk/asd/4709.ts|refferer=http://solidstreamz.com/
 
 
 
+#EXTINF:8 group-title=”France4-PREMIUM”,
+
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
+http://..........
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+
+#EXTINF:-1,TF1
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1428.ts
+#EXTINF:-1,FRANCE 2
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1430.ts
+#EXTINF:-1,FRANCE 3
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1431.ts
+#EXTINF:-1,FRANCE 4
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1432.ts
+#EXTINF:-1,FRANCE 5
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1433.ts
+#EXTINF:-1,FRANCE O
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1434.ts
+#EXTINF:-1,M6
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1429.ts
+#EXTINF:-1,ACTION
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1453.ts
+#EXTINF:-1,CANAL
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1435.ts
+#EXTINF:-1,CANAL CINEMA
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1436.ts
+#EXTINF:-1,CANAL FAMILY
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1438.ts
+#EXTINF:-1,CANAL DECALE
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1437.ts
+#EXTINF:-1,CANAL SERIES
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1439.ts
+#EXTINF:-1,CINE PREMIER
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1440.ts
+#EXTINF:-1,CINE POLAR
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1446.ts
+#EXTINF:-1,CINE FX
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1447.ts
+#EXTINF:-1,CINE FRISSON
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1441.ts
+#EXTINF:-1,CINE FAMIZ
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1445.ts
+#EXTINF:-1,CINE EMOTION
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1442.ts
+#EXTINF:-1,CINE CLUB
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1444.ts
+#EXTINF:-1,CINE CLASSIC
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1443.ts
+#EXTINF:-1,OCS MAX
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1451.ts
+#EXTINF:-1,OCS GEANT
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1449.ts
+#EXTINF:-1,OCS CITY
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1450.ts
+#EXTINF:-1,OCS CHOC
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1448.ts
+#EXTINF:-1,COMEDIE
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1452.ts
+#EXTINF:-1,CANAL PLAY 1
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1390.ts
+#EXTINF:-1,CANAL PLAY 2
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1391.ts
+#EXTINF:-1,CANAL PLAY 3
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1392.ts
+#EXTINF:-1,CANAL PLAY 4
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1393.ts
+#EXTINF:-1,CANAL PLAY 5
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1394.ts
+#EXTINF:-1,ALACARTE 1
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1395.ts
+#EXTINF:-1,ALACARTE 2
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1396.ts
+#EXTINF:-1,ALACARTE 3
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1397.ts
+#EXTINF:-1,ALACARTE 4
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1398.ts
+#EXTINF:-1,ALACARTE 5
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1399.ts
+#EXTINF:-1,ANIMAUX
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1424.ts
+#EXTINF:-1,DISCOVRY-SCI
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1423.ts
+#EXTINF:-1,DISCOVRY
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1422.ts
+#EXTINF:-1,USHUAIA TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1425.ts
+#EXTINF:-1,SEASON
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1427.ts
+#EXTINF:-1,NATIONAL-GEO
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1420.ts
+#EXTINF:-1,NAT-GEO-WILD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1421.ts
+#EXTINF:-1,CHASSE PECHE
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1426.ts
+#EXTINF:-1,France 24
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1329.ts
+#EXTINF:-1,Euronews
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1330.ts
+#EXTINF:-1,LCI
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1401.ts
+#EXTINF:-1,ITELE
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1400.ts
+#EXTINF:-1,SFR Sport 1HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1464.ts
+#EXTINF:-1,SFR Sport 2HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1465.ts
+#EXTINF:-1,SFR Sport 3HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1466.ts
+#EXTINF:-1,CANAL SPORT
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1417.ts
+#EXTINF:-1,INFOSPORT
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1419.ts
+#EXTINF:-1,FOOT 24
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1418.ts
+#EXTINF:-1,PIWI
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1402.ts
+#EXTINF:-1,CARTON NET
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1405.ts
+#EXTINF:-1,BOOMERANG
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1404.ts
+#EXTINF:-1,TIJI
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1403.ts
+#EXTINF:-1,GULLI
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1406.ts
+#EXTINF:-1,TELETOON
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1410.ts
+#EXTINF:-1,CANAL J
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1408.ts
+#EXTINF:-1,NICKELODEON JUNIOR
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1412.ts
+#EXTINF:-1,NICKELODEON
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1411.ts
+#EXTINF:-1,MANGAS
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1407.ts
+#EXTINF:-1,DISNEY XD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1416.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1413.ts
+#EXTINF:-1,DISNEY CINEMA
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1415.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1414.ts
+#EXTINF:-1,BeINSPORTS 1HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1454.ts
+#EXTINF:-1,BeINSPORTS 2HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1455.ts
+#EXTINF:-1,BeINSPORTS 3HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1456.ts
+#EXTINF:-1,BeINMAX 04HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1457.ts
+#EXTINF:-1,BeINMAX 05HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1458.ts
+#EXTINF:-1,BeINMAX 06HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1459.ts
+#EXTINF:-1,BeINMAX 07HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1460.ts
+#EXTINF:-1,BeINMAX 08HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1461.ts
+#EXTINF:-1,BeINMAX 09HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1462.ts
+#EXTINF:-1,BeINMAX 10HD Fr
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1463.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4359,23 +4460,23 @@ http://.....
 http://85.144.43.35:9001/play/a042 
 #EXTINF:0,Motorvision TV 
 http://85.144.43.35:9001/play/a03l 
-#EXTINF:0, 
+#EXTINF:0,Nat Geo HD 
 http://85.144.43.35:9001/play/a02x 
 #EXTINF:0,Kinowelt TV 
 http://85.144.43.35:9001/play/a046 
-#EXTINF:0, 
+#EXTINF:0, Nat Geo Wild HD
 http://85.144.43.35:9001/play/a028 
 #EXTINF:0,3sat HD 
 http://85.144.43.35:9001/play/a02r 
-#EXTINF:0, 
+#EXTINF:0, SK_news
 http://85.144.43.35:9001/play/a02o 
 #EXTINF:0,TNT Comedy HD 
 http://85.144.43.35:9001/play/a022 
-#EXTINF:0, 
+#EXTINF:0,E!
 http://85.144.43.35:9001/play/a021 
 #EXTINF:0,Cartoon Network 
 http://85.144.43.35:9001/play/a03o 
-#EXTINF:0, 
+#EXTINF:0, SK_SPRT1 HD
 http://85.144.43.35:9001/play/a029 
 #EXTINF:0,DMAX HD 
 http://85.144.43.35:9001/play/a038 
@@ -4383,7 +4484,7 @@ http://85.144.43.35:9001/play/a038
 http://85.144.43.35:9001/play/a044 
 #EXTINF:0,TNT Film 
 http://85.144.43.35:9001/play/a03p 
-#EXTINF:0, 
+#EXTINF:0,Discovery HD
 http://85.144.43.35:9001/play/a02a 
 #EXTINF:0, 
 http://85.144.43.35:9001/play/a02m 
@@ -4391,7 +4492,7 @@ http://85.144.43.35:9001/play/a02m
 http://85.144.43.35:9001/play/a045 
 #EXTINF:0,Goldstar TV 
 http://85.144.43.35:9001/play/a03i 
-#EXTINF:0, 
+#EXTINF:0,EUROSPORT 1 HD
 http://85.144.43.35:9001/play/a035 
 #EXTINF:0,Sky Sport 2 
 http://85.144.43.35:9001/play/a047 
@@ -4401,17 +4502,17 @@ http://85.144.43.35:9001/play/a03m
 http://85.144.43.35:9001/play/a03n 
 #EXTINF:0,Disney Junior HD 
 http://85.144.43.35:9001/play/a02i 
-#EXTINF:0, 
+#EXTINF:0, 13th street hd
 http://85.144.43.35:9001/play/a02z 
 #EXTINF:0,Heimat Kanal 
 http://85.144.43.35:9001/play/a03g 
-#EXTINF:0, 
+#EXTINF:0,TNT HD
 http://85.144.43.35:9001/play/a034 
-#EXTINF:0, 
+#EXTINF:0, SK_SPRT2 HD
 http://85.144.43.35:9001/play/a02y 
 #EXTINF:0,RTL Passion 
 http://85.144.43.35:9001/play/a043 
-#EXTINF:0, 
+#EXTINF:0,History
 http://85.144.43.35:9001/play/a031 
 #EXTINF:0,Disney XD 
 http://85.144.43.35:9001/play/a03d 
@@ -4461,174 +4562,186 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,Zee One
-http://bigiptv.ovh:8000/live/tech2/tech2/873.ts
-#EXTINF:-1,ZDF HD
-http://bigiptv.ovh:8000/live/tech2/tech2/872.ts
-#EXTINF:-1,VOX HD
-http://bigiptv.ovh:8000/live/tech2/tech2/871.ts
-#EXTINF:-1,Universal Channel
-http://bigiptv.ovh:8000/live/tech2/tech2/870.ts
-#EXTINF:-1,TNT Comedy
-http://bigiptv.ovh:8000/live/tech2/tech2/825.ts
-#EXTINF:-1,TLC
-http://bigiptv.ovh:8000/live/tech2/tech2/869.ts
-#EXTINF:-1,Super Rtl
-http://bigiptv.ovh:8000/live/tech2/tech2/824.ts
-#EXTINF:-1,Sport1
-http://bigiptv.ovh:8000/live/tech2/tech2/868.ts
-#EXTINF:-1,Sport 1 US
-http://bigiptv.ovh:8000/live/tech2/tech2/867.ts
-#EXTINF:-1,Spiegel TV Geschichte
-http://bigiptv.ovh:8000/live/tech2/tech2/866.ts
-#EXTINF:-1,Sony HD
-http://bigiptv.ovh:8000/live/tech2/tech2/865.ts
-#EXTINF:-1,SKY TNT FILM
-http://bigiptv.ovh:8000/live/tech2/tech2/864.ts
-#EXTINF:-1,Sky Syfy
-http://bigiptv.ovh:8000/live/tech2/tech2/823.ts
-#EXTINF:-1,Sky Sport News
-http://bigiptv.ovh:8000/live/tech2/tech2/863.ts
-#EXTINF:-1,Sky Select 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/815.ts
-#EXTINF:-1,Sky Select 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/816.ts
-#EXTINF:-1,Sky Select 3 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/817.ts
-#EXTINF:-1,Sky Select 4 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/818.ts
-#EXTINF:-1,Sky Select 5 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/819.ts
-#EXTINF:-1,Sky Select 6 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/820.ts
-#EXTINF:-1,Sky Select 7 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/821.ts
-#EXTINF:-1,Sky Select 8 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/822.ts
-#EXTINF:-1,Sky Sport 3 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/856.ts
-#EXTINF:-1,Sky Sport 4 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/857.ts
-#EXTINF:-1,Sky Sport 5 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/858.ts
-#EXTINF:-1,Sky Sport 6 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/859.ts
-#EXTINF:-1,Sky Sport 7 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/860.ts
-#EXTINF:-1,Sky Sport 8 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/861.ts
-#EXTINF:-1,Sky Sport 9 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/862.ts
-#EXTINF:-1,Sky Sport 10 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/854.ts
-#EXTINF:-1,Sky Sport 11 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/855.ts
-#EXTINF:-1,Sky Germany TNT Serie HD
-http://bigiptv.ovh:8000/live/tech2/tech2/853.ts
-#EXTINF:-1,Sky Germany Sport 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/813.ts
-#EXTINF:-1,Sky Germany Sport 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/814.ts
-#EXTINF:-1,Sky Germany NatGeo Wild HD
-http://bigiptv.ovh:8000/live/tech2/tech2/812.ts
-#EXTINF:-1,Sky Germany Krimi
-http://bigiptv.ovh:8000/live/tech2/tech2/811.ts
-#EXTINF:-1,Sky Germany History Channel HD
-http://bigiptv.ovh:8000/live/tech2/tech2/810.ts
-#EXTINF:-1,Sky Germany Comedy
-http://bigiptv.ovh:8000/live/tech2/tech2/809.ts
-#EXTINF:-1,Sky Germany Cinema HD
-http://bigiptv.ovh:8000/live/tech2/tech2/808.ts
-#EXTINF:-1,Sky Germany Cinema Family
-http://bigiptv.ovh:8000/live/tech2/tech2/852.ts
-#EXTINF:-1,Sky Germany Cinema  Emotion
-http://bigiptv.ovh:8000/live/tech2/tech2/807.ts
-#EXTINF:-1,Sky Germany Cinema   24 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/806.ts
-#EXTINF:-1,Sky Germany Bundesliga 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/799.ts
-#EXTINF:-1,Sky Germany Bundesliga 2 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/800.ts
-#EXTINF:-1,Sky Germany Bundesliga 3 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/801.ts
-#EXTINF:-1,Sky Germany Bundesliga 4 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/802.ts
-#EXTINF:-1,Sky Germany Bundesliga 5 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/803.ts
-#EXTINF:-1,Sky Germany Bundesliga 6 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/804.ts
-#EXTINF:-1,Sky Germany Bundesliga 7 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/tech2/tech2/805.ts
-#EXTINF:-1,Sky Germany Action HD
-http://bigiptv.ovh:8000/live/tech2/tech2/798.ts
-#EXTINF:-1,Sky Germany 13 TH HD
-http://bigiptv.ovh:8000/live/tech2/tech2/797.ts
-#EXTINF:-1,Sky Atlantic
-http://bigiptv.ovh:8000/live/tech2/tech2/851.ts
-#EXTINF:-1,Sky  Hits HD
-http://bigiptv.ovh:8000/live/tech2/tech2/796.ts
-#EXTINF:-1,Sixx HD
-http://bigiptv.ovh:8000/live/tech2/tech2/850.ts
-#EXTINF:-1,Sat 1
-http://bigiptv.ovh:8000/live/tech2/tech2/795.ts
-#EXTINF:-1,RTL Plus
-http://bigiptv.ovh:8000/live/tech2/tech2/849.ts
-#EXTINF:-1,Rtl passion
-http://bigiptv.ovh:8000/live/tech2/tech2/794.ts
-#EXTINF:-1,RTL Nitro
-http://bigiptv.ovh:8000/live/tech2/tech2/848.ts
-#EXTINF:-1,Rtl Living
-http://bigiptv.ovh:8000/live/tech2/tech2/847.ts
-#EXTINF:-1,RTL HD
-http://bigiptv.ovh:8000/live/tech2/tech2/793.ts
-#EXTINF:-1,RTL Crime
-http://bigiptv.ovh:8000/live/tech2/tech2/846.ts
-#EXTINF:-1,RTL 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/845.ts
-#EXTINF:-1,Romance TV HD
-http://bigiptv.ovh:8000/live/tech2/tech2/844.ts
-#EXTINF:-1,Pro 7 Maxx
-http://bigiptv.ovh:8000/live/tech2/tech2/843.ts
-#EXTINF:-1,National Geographic HD
-http://bigiptv.ovh:8000/live/tech2/tech2/842.ts
-#EXTINF:-1,Kino Welt
-http://bigiptv.ovh:8000/live/tech2/tech2/841.ts
-#EXTINF:-1,Kika
-http://bigiptv.ovh:8000/live/tech2/tech2/840.ts
-#EXTINF:-1,Kabel 1
-http://bigiptv.ovh:8000/live/tech2/tech2/839.ts
-#EXTINF:-1,Junior
-http://bigiptv.ovh:8000/live/tech2/tech2/838.ts
-#EXTINF:-1,FOX HD
-http://bigiptv.ovh:8000/live/tech2/tech2/837.ts
-#EXTINF:-1,Eurosport 2
-http://bigiptv.ovh:8000/live/tech2/tech2/836.ts
-#EXTINF:-1,Eurosport 1
-http://bigiptv.ovh:8000/live/tech2/tech2/835.ts
-#EXTINF:-1,Dmax
-http://bigiptv.ovh:8000/live/tech2/tech2/834.ts
-#EXTINF:-1,Disney Xd
-http://bigiptv.ovh:8000/live/tech2/tech2/833.ts
-#EXTINF:-1,Disney Junior
-http://bigiptv.ovh:8000/live/tech2/tech2/832.ts
-#EXTINF:-1,Disney Cinemagic
-http://bigiptv.ovh:8000/live/tech2/tech2/831.ts
-#EXTINF:-1,Disney Channel
-http://bigiptv.ovh:8000/live/tech2/tech2/830.ts
-#EXTINF:-1,Discovery Channel HD
-http://bigiptv.ovh:8000/live/tech2/tech2/829.ts
-#EXTINF:-1,DE: Pro 7
-http://bigiptv.ovh:8000/live/tech2/tech2/792.ts
-#EXTINF:-1,Cartoon Network
-http://bigiptv.ovh:8000/live/tech2/tech2/828.ts
-#EXTINF:-1,Boomerang
-http://bigiptv.ovh:8000/live/tech2/tech2/827.ts
-#EXTINF:-1,Axn HD
-http://bigiptv.ovh:8000/live/tech2/tech2/791.ts
-#EXTINF:-1,ARD
-http://bigiptv.ovh:8000/live/tech2/tech2/826.ts
-
-
+#EXTINF:-1,  TNT Comedy HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14211.ts
+#EXTINF:-1, 13 TH STREET
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14212.ts
+#EXTINF:-1, AXN HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14214.ts
+#EXTINF:-1, BOOMERANG
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14193.ts
+#EXTINF:-1, CARTOON NETWORK
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14194.ts
+#EXTINF:-1, DISCOVERY HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14181.ts
+#EXTINF:-1, DISNEY CHANNEL HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14195.ts
+#EXTINF:-1, DISNEY CINEMAGIC
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14196.ts
+#EXTINF:-1, DISNEY XD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14197.ts
+#EXTINF:-1, DMAX
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14191.ts
+#EXTINF:-1, E! ENTERTAINMENT HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14190.ts
+#EXTINF:-1, ELIT ANIMATION 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14158.ts
+#EXTINF:-1, ELIT ANIMATION 2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14157.ts
+#EXTINF:-1, ELIT ANIMATION 3
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14156.ts
+#EXTINF:-1, ELIT CINEMA 2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14162.ts
+#EXTINF:-1, ELIT CINEMA 3
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14161.ts
+#EXTINF:-1, ELIT CINEMA 4
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14160.ts
+#EXTINF:-1, ELIT CINEMA 5
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14159.ts
+#EXTINF:-1, ELIT SELECT 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14171.ts
+#EXTINF:-1, ELIT SELECT 2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14170.ts
+#EXTINF:-1, ELIT SELECT 3
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14169.ts
+#EXTINF:-1, ELIT SELECT 4
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14168.ts
+#EXTINF:-1, ELIT SELECT 5
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14167.ts
+#EXTINF:-1, ELIT SELECT 6
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14166.ts
+#EXTINF:-1, ELIT SELECT 7
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14165.ts
+#EXTINF:-1, ELIT SELECT 8
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14164.ts
+#EXTINF:-1, ELIT SELECT HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14172.ts
+#EXTINF:-1, EUROSPORT 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14176.ts
+#EXTINF:-1, FOX TV HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14213.ts
+#EXTINF:-1, HISTORY HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14182.ts
+#EXTINF:-1, KABEL EINS
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14218.ts
+#EXTINF:-1, KIKA
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14198.ts
+#EXTINF:-1, KINO WELT.TV
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14215.ts
+#EXTINF:-1, N-TV HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14199.ts
+#EXTINF:-1, N24
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14200.ts
+#EXTINF:-1, NAT GEO WILD HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14180.ts
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14179.ts
+#EXTINF:-1, NDR
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14230.ts
+#EXTINF:-1, PRO 7 MAXX HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14216.ts
+#EXTINF:-1, PRO SIEBEN
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14217.ts
+#EXTINF:-1, RTL 2 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14223.ts
+#EXTINF:-1, RTL CRIME HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14222.ts
+#EXTINF:-1, RTL HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14224.ts
+#EXTINF:-1, RTL LIVING HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14221.ts
+#EXTINF:-1, RTL PASSION
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14219.ts
+#EXTINF:-1, SAT 1 GOLD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14225.ts
+#EXTINF:-1, SAT 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14226.ts
+#EXTINF:-1, SAT1  EMOTION
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14207.ts
+#EXTINF:-1, SIXX HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14189.ts
+#EXTINF:-1, SKY ACTION
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14201.ts
+#EXTINF:-1, SKY ATLANTIC
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14202.ts
+#EXTINF:-1, SKY BUNDESLIGA 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14175.ts
+#EXTINF:-1, SKY CINEMA
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14203.ts
+#EXTINF:-1, SKY CINEMA  1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14204.ts
+#EXTINF:-1, SKY COMEDY
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14206.ts
+#EXTINF:-1, SKY HITS
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14208.ts
+#EXTINF:-1, SKY KRIMI
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14209.ts
+#EXTINF:-1, SKY NOSTALGIE
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14210.ts
+#EXTINF:-1, SKY SPORT 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14174.ts
+#EXTINF:-1, SKY SPORT 2 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14173.ts
+#EXTINF:-1, SKY SPORT NEWS HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14177.ts
+#EXTINF:-1, SPIEGEL GESCHICHTE
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14183.ts
+#EXTINF:-1, SPORT 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14178.ts
+#EXTINF:-1, SUPER RTL
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14227.ts
+#EXTINF:-1, SYFY HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14188.ts
+#EXTINF:-1, TNT COMEDY HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14187.ts
+#EXTINF:-1, TNT FILM HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14186.ts
+#EXTINF:-1, TNT SERIE HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14185.ts
+#EXTINF:-1, UNIVERSAL HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14184.ts
+#EXTINF:-1, VOX HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14228.ts
+#EXTINF:-1, SKY SPORT 1 FHD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14538.ts
+#EXTINF:-1, SKY SPORT 2 FHD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14539.ts
+#EXTINF:-1, SKY SPORT 3 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14540.ts
+#EXTINF:-1, SKY SPORT AUSTRIA HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14541.ts
+#EXTINF:-1, WDR
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14231.ts
+#EXTINF:-1, ZDF HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14232.ts
+#EXTINF:-1,ARD HD*
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14569.ts
+#EXTINF:-1,ARTE HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14564.ts
+#EXTINF:-1,CLASSICA
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14563.ts
+#EXTINF:-1,HEIMATKANAL HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14566.ts
+#EXTINF:-1,Nickelodeon HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14580.ts
+#EXTINF:-1,noa4 Norderstedt FHD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14670.ts
+#EXTINF:-1,ORF 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14561.ts
+#EXTINF:-1,ORF 2HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14562.ts
+#EXTINF:-1,PHOENIX HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14559.ts
+#EXTINF:-1,RTL NITRO HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14557.ts
+#EXTINF:-1,SILVERLINE TV HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14558.ts
+#EXTINF:-1,SKY 13TH STREET HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14565.ts
+#EXTINF:-1,SPIEGEL GESCHICHTE HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14560.ts
+#EXTINF:-1,ZEE ONE
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14676.ts
 
 
 
@@ -4749,7 +4862,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/313.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/314.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Bundesliga 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/315.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Cartoon Network Germany
+#EXTINF:-1,Cartoon Network
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/316.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Classica
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/317.m3u8$http-refferer=http://localhost
@@ -4759,13 +4872,13 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/307.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/318.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Discovery HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/319.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney Channel HD Germany
+#EXTINF:-1,Disney Channel HD 
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/320.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Disney Cinemagic HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/321.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Disney Junior
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/322.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney XD Deutschland
+#EXTINF:-1,Disney XD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/323.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Kabel 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/324.m3u8$http-refferer=http://localhost
@@ -4828,61 +4941,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”Germany3-PREMIUM_MXPLAYER”,
-
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,DISNEY XD
-http://69.30.251.42:25461/live/apk/asd/4720.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
 
 
 
@@ -5695,63 +5753,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=
 
 
 
-
-
-
-
 #EXTINF:8 group-title=”Spain2-Premium_MXPlayer”,
-
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,CANAL PANDA
-http://69.30.251.42:25461/live/apk/asd/4722.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=qwqewrr
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title=”Spain3-Premium_MXPlayer”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
 http://..........
@@ -6562,201 +6564,126 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,VH1 CLASSIC
-http://bigiptv.ovh:8000/live/tech2/tech2/1769.ts
-#EXTINF:-1,VH1
-http://bigiptv.ovh:8000/live/tech2/tech2/1768.ts
-#EXTINF:-1,TV Series
-http://bigiptv.ovh:8000/live/tech2/tech2/1711.ts
-#EXTINF:-1,TVI24
-http://bigiptv.ovh:8000/live/tech2/tech2/1683.ts
-#EXTINF:-1,TVI REALITY
-http://bigiptv.ovh:8000/live/tech2/tech2/1685.ts
-#EXTINF:-1,TVI HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1682.ts
-#EXTINF:-1,TVI Ficcao
-http://bigiptv.ovh:8000/live/tech2/tech2/1684.ts
-#EXTINF:-1,TV RECORD
-http://bigiptv.ovh:8000/live/tech2/tech2/1716.ts
-#EXTINF:-1,TV CINE 4 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1722.ts
-#EXTINF:-1,TV CINE 3 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1721.ts
-#EXTINF:-1,TV CINE 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1720.ts
-#EXTINF:-1,TV CINE 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1719.ts
-#EXTINF:-1,Travel Channel
-http://bigiptv.ovh:8000/live/tech2/tech2/1698.ts
-#EXTINF:-1,Touros TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1695.ts
-#EXTINF:-1,TLC
-http://bigiptv.ovh:8000/live/tech2/tech2/1699.ts
-#EXTINF:-1,SYFY HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1707.ts
-#EXTINF:-1,SPORTING TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1743.ts
-#EXTINF:-1,SPORT TV4 FULL HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1751.ts
-#EXTINF:-1,SPORT TV1 HD FULL HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1745.ts
-#EXTINF:-1,SPORT TV 5 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1754.ts
-#EXTINF:-1,SPORT TV 5 FULL HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1753.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1752.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1750.ts
-#EXTINF:-1,SPORT TV 3 FULL HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1749.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1748.ts
-#EXTINF:-1,SPORT TV 2 FULL HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1747.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1746.ts
-#EXTINF:-1,SPORT TV+
-http://bigiptv.ovh:8000/live/tech2/tech2/1744.ts
-#EXTINF:-1,SIC RADICAL
-http://bigiptv.ovh:8000/live/tech2/tech2/1687.ts
-#EXTINF:-1,SIC Noticias
-http://bigiptv.ovh:8000/live/tech2/tech2/1688.ts
-#EXTINF:-1,SIC MULHER
-http://bigiptv.ovh:8000/live/tech2/tech2/1689.ts
-#EXTINF:-1,SIC Kids
-http://bigiptv.ovh:8000/live/tech2/tech2/1691.ts
-#EXTINF:-1,SIC HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1686.ts
-#EXTINF:-1,Sic Caras
-http://bigiptv.ovh:8000/live/tech2/tech2/1690.ts
-#EXTINF:-1,RTP Memoria
-http://bigiptv.ovh:8000/live/tech2/tech2/1680.ts
-#EXTINF:-1,RTP Madeira
-http://bigiptv.ovh:8000/live/tech2/tech2/1678.ts
-#EXTINF:-1,RTP AFRICA
-http://bigiptv.ovh:8000/live/tech2/tech2/1681.ts
-#EXTINF:-1,RTP Acores
-http://bigiptv.ovh:8000/live/tech2/tech2/1679.ts
-#EXTINF:-1,RTP 3
-http://bigiptv.ovh:8000/live/tech2/tech2/1677.ts
-#EXTINF:-1,RTP 2 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1676.ts
-#EXTINF:-1,RTP 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1675.ts
-#EXTINF:-1,Real Madrid
-http://bigiptv.ovh:8000/live/tech2/tech2/1742.ts
-#EXTINF:-1,Porto Canal
-http://bigiptv.ovh:8000/live/tech2/tech2/1692.ts
-#EXTINF:-1,PFC
-http://bigiptv.ovh:8000/live/tech2/tech2/1696.ts
-#EXTINF:-1,Panda Bigss
-http://bigiptv.ovh:8000/live/tech2/tech2/1759.ts
-#EXTINF:-1,Odisseia
-http://bigiptv.ovh:8000/live/tech2/tech2/1730.ts
-#EXTINF:-1,Nickelodeon
-http://bigiptv.ovh:8000/live/tech2/tech2/1760.ts
-#EXTINF:-1,National Geographic HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1723.ts
-#EXTINF:-1,Nat Geo Wild
-http://bigiptv.ovh:8000/live/tech2/tech2/1724.ts
-#EXTINF:-1,MTV PORTUGAL
-http://bigiptv.ovh:8000/live/tech2/tech2/1764.ts
-#EXTINF:-1,mov HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1708.ts
-#EXTINF:-1,Motorvision HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1736.ts
-#EXTINF:-1,MOTOR TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1735.ts
-#EXTINF:-1,MCM TOP
-http://bigiptv.ovh:8000/live/tech2/tech2/1767.ts
-#EXTINF:-1,MCM POP
-http://bigiptv.ovh:8000/live/tech2/tech2/1766.ts
-#EXTINF:-1,KOMBAT SPORT
-http://bigiptv.ovh:8000/live/tech2/tech2/1739.ts
-#EXTINF:-1,JimJam
-http://bigiptv.ovh:8000/live/tech2/tech2/1761.ts
-#EXTINF:-1,HOLLYWOOD HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1709.ts
-#EXTINF:-1,HISTORIA
-http://bigiptv.ovh:8000/live/tech2/tech2/1727.ts
+#EXTINF:-1, TVI REALITY
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8554.ts
+#EXTINF:-1, SPORT TV 1HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8546.ts
+#EXTINF:-1, NATIONAL GEOGRAPHIC HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8562.ts
+#EXTINF:-1, NAT GEO WILD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8563.ts
+#EXTINF:-1, CANAL HISTORIA
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8569.ts
+#EXTINF:-1, BENFICA TV 1HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8545.ts
+#EXTINF:-1, AXN HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/8580.ts
+#EXTINF:-1, VH1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7667.ts
+#EXTINF:-1, TVI  REALITY
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7637.ts
+#EXTINF:-1, Tvi  24
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7636.ts
+#EXTINF:-1, TVI.
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7635.ts
+#EXTINF:-1, Sport  TV  2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7604.ts
+#EXTINF:-1, Sport  TV  1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7605.ts
+#EXTINF:-1, SIC  Radical
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7632.ts
+#EXTINF:-1, SIC  Noticias
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7633.ts
+#EXTINF:-1, SIC
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7634.ts
+#EXTINF:-1, SIC.
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7630.ts
+#EXTINF:-1, RTP  3
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7650.ts
+#EXTINF:-1, RTP  2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7648.ts
+#EXTINF:-1, PORTO  CANAL
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7606.ts
+#EXTINF:-1, FOX MOVIES  HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7619.ts
+#EXTINF:-1, FOX
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7623.ts
+#EXTINF:-1, DISCOVERY  HD  SHOWCASE
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7639.ts
+#EXTINF:-1, Discovery  Channel
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7641.ts
+#EXTINF:-1, CINEMUNDO  HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7620.ts
+#EXTINF:-1, Canal  Panda
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7645.ts
+#EXTINF:-1, BTV 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7629.ts
+#EXTINF:-1, Benfica  TV  2
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7603.ts
+#EXTINF:-1, AMC
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7671.ts
+#EXTINF:-1, FoxLifeHD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/3868.ts
+#EXTINF:-1, Fox-Comedy
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/3871.ts
+#EXTINF:-1, Disney-Channel
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/3872.ts
+#EXTINF:-1, TV  GLOBO  PREMIUN
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7244.ts
+#EXTINF:-1, TV  GLOBO
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7245.ts
+#EXTINF:-1, TV  Cine  1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7232.ts
+#EXTINF:-1, SYFY
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7237.ts
+#EXTINF:-1, Sport  TV  5
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7234.ts
+#EXTINF:-1, Sport  TV  4
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7235.ts
+#EXTINF:-1, Sport  TV  3
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7246.ts
+#EXTINF:-1, Sport  TV1  HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7233.ts
+#EXTINF:-1, SPORTING  TV
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7238.ts
+#EXTINF:-1, Sport   TV2  HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7228.ts
+#EXTINF:-1, FOX  MOVIES  HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/7240.ts
+#EXTINF:-1,Biggs
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14582.ts
 #EXTINF:-1,GLOBO PREMIUM
-http://bigiptv.ovh:8000/live/tech2/tech2/1694.ts
-#EXTINF:-1,Globo
-http://bigiptv.ovh:8000/live/tech2/tech2/1693.ts
-#EXTINF:-1,Fuel TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1737.ts
-#EXTINF:-1,Fox Life HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1703.ts
-#EXTINF:-1,Fox Movies
-http://bigiptv.ovh:8000/live/tech2/tech2/1705.ts
-#EXTINF:-1,Fox HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1702.ts
-#EXTINF:-1,Fox Crime HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1704.ts
-#EXTINF:-1,FOX COMEDY
-http://bigiptv.ovh:8000/live/tech2/tech2/1706.ts
-#EXTINF:-1,FOOD NETWORK
-http://bigiptv.ovh:8000/live/tech2/tech2/1717.ts
-#EXTINF:-1,Fight Box
-http://bigiptv.ovh:8000/live/tech2/tech2/1738.ts
-#EXTINF:-1,Eurosport News
-http://bigiptv.ovh:8000/live/tech2/tech2/1734.ts
-#EXTINF:-1,Eurosport 2
-http://bigiptv.ovh:8000/live/tech2/tech2/1733.ts
-#EXTINF:-1,Eurosport 1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1732.ts
-#EXTINF:-1,E! Entertainment
-http://bigiptv.ovh:8000/live/tech2/tech2/1700.ts
-#EXTINF:-1,Disney Junior
-http://bigiptv.ovh:8000/live/tech2/tech2/1757.ts
-#EXTINF:-1,Discovery Showcase HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1726.ts
-#EXTINF:-1,Discovery Channel
-http://bigiptv.ovh:8000/live/tech2/tech2/1725.ts
-#EXTINF:-1,CMTV HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1715.ts
-#EXTINF:-1,CINEMUNDO HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1701.ts
-#EXTINF:-1,CBS REALITY
-http://bigiptv.ovh:8000/live/tech2/tech2/1718.ts
-#EXTINF:-1,Cartoon Network
-http://bigiptv.ovh:8000/live/tech2/tech2/1756.ts
-#EXTINF:-1,Canal Panda
-http://bigiptv.ovh:8000/live/tech2/tech2/1758.ts
-#EXTINF:-1,CaÃ§aVision
-http://bigiptv.ovh:8000/live/tech2/tech2/1728.ts
-#EXTINF:-1,CaÃ§a e Pesca
-http://bigiptv.ovh:8000/live/tech2/tech2/1729.ts
-#EXTINF:-1,BTV 1 FULL HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1740.ts
-#EXTINF:-1,BENEFICA TV1 HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1741.ts
-#EXTINF:-1,BABY TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1762.ts
-#EXTINF:-1,BABY  FIRST
-http://bigiptv.ovh:8000/live/tech2/tech2/1763.ts
-#EXTINF:-1,Axn White HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1713.ts
-#EXTINF:-1,AXN HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1712.ts
-#EXTINF:-1,Axn Black HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1714.ts
-#EXTINF:-1,AMC
-http://bigiptv.ovh:8000/live/tech2/tech2/1710.ts
-#EXTINF:-1,Afro Music
-http://bigiptv.ovh:8000/live/tech2/tech2/1765.ts
-#EXTINF:-1,A&E
-http://bigiptv.ovh:8000/live/tech2/tech2/1731.ts
-#EXTINF:-1,A BOLA TV
-http://bigiptv.ovh:8000/live/tech2/tech2/1697.ts
-#EXTINF:-1,24 KITCHEN HD
-http://bigiptv.ovh:8000/live/tech2/tech2/1755.ts
-#EXTINF:-1, MCS EXTREME
-http://bigiptv.ovh:8000/live/tech2/tech2/10078.ts
-#EXTINF:-1,MCS Lifestyle
-http://bigiptv.ovh:8000/live/tech2/tech2/10079.ts
-
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14603.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14671.ts
+#EXTINF:-1,Odisseia
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14699.ts
+#EXTINF:-1,Panda BIGGS
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14698.ts
+#EXTINF:-1,Porto Canal
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14697.ts
+#EXTINF:-1,Real Madrid
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14696.ts
+#EXTINF:-1,RTP 1
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14675.ts
+#EXTINF:-1,RTP 1 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14604.ts
+#EXTINF:-1,RTP 2 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14605.ts
+#EXTINF:-1,RTP 3 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14606.ts
+#EXTINF:-1,TVCINE 1 FHD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14678.ts
+#EXTINF:-1,TVCINE 2 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14673.ts
+#EXTINF:-1,TVCINE 3 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14672.ts
+#EXTINF:-1,TVCINE 4 HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14674.ts
+#EXTINF:-1,TVI FHD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14679.ts
+#EXTINF:-1,PT:TVSERIES HD
+http://s1.smartview.live:5210/live/yqjvwwfx/almultaka/14695.ts
 
 
 
@@ -7911,22 +7838,6 @@ http://61.58.60.247:9000/live/236.m3u8
 
 
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SERVER2=
-http://......
-#EXTINF:-1,BestTV1
-http://183.252.176.10/PLTV/88888888/224/3221225908/index.m3u8
-#EXTINF:-1,BestTV2
-http://183.252.176.10/PLTV/88888888/224/3221225909/index.m3u8
-#EXTINF:-1,BestTV3
-http://183.252.176.10/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1,BestTV4
-http://183.252.176.10/PLTV/88888888/224/3221225907/index.m3u8
-#EXTINF:-1,BestTV5
-http://183.252.176.10/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1,BestTV7
-http://183.252.176.10/PLTV/88888888/224/3221225906/index.m3u8
-
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SERVER3=
 http://......
 
 #EXTINF:-1,CCTV1综合
@@ -11536,6 +11447,289 @@ http://premium.tvshqip.us:8880/live/mega/iptv/157.ts|User-Agent=25634
 http://premium.tvshqip.us:8880/live/mega/iptv/158.ts|User-Agent=25634
 #EXTINF:-1,beINSports 3 HD
 http://premium.tvshqip.us:8880/live/mega/iptv/159.ts|User-Agent=25634
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title=”United.Arab.Emirates3_PREMIUM”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+http://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+http://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+http://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+http://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+http://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+http://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+http://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTM3U
+#EXTINF:-1,BeINSPORTS News
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1496.ts
+#EXTINF:-1,BeINSPORTS Global
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1495.ts
+#EXTINF:-1,BeINSPORTS 1HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1494.ts
+#EXTINF:-1,BeINSPORTS 2HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1493.ts
+#EXTINF:-1,BeINSPORTS 3HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1492.ts
+#EXTINF:-1,BeINSPORTS 4HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1491.ts
+#EXTINF:-1,BeINSPORTS 5HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1490.ts
+#EXTINF:-1,BeINSPORTS 6HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1489.ts
+#EXTINF:-1,BeINSPORTS 7HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1488.ts
+#EXTINF:-1,BeINSPORTS 8HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1487.ts
+#EXTINF:-1,BeINSPORTS 9HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1486.ts
+#EXTINF:-1,BeINSPORTS 10HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1485.ts
+#EXTINF:-1,BeINSPORTS 11HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1484.ts
+#EXTINF:-1,beINSPORTS 12HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1483.ts
+#EXTINF:-1,BeIN Movies 1HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1473.ts
+#EXTINF:-1,BeIN Movies 2HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1474.ts
+#EXTINF:-1,BeIN Movies 3HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1475.ts
+#EXTINF:-1,BeIN Movies 4HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1476.ts
+#EXTINF:-1,BeIN Discovery HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1478.ts
+#EXTINF:-1,BeIN GROUMMET
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1477.ts
+#EXTINF:-1,BeIN Jeem_HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1482.ts
+#EXTINF:-1,BeIN Baraim_HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1480.ts
+#EXTINF:-1,BeIN Fatafeat
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1479.ts
+#EXTINF:-1,BeIN JUNIOR
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1481.ts
+#EXTINF:-1,BOING
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1409.ts
+#EXTINF:-1,AD Sports 1HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1467.ts
+#EXTINF:-1,AD Sports 2HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1468.ts
+#EXTINF:-1,AD Sports 3HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1469.ts
+#EXTINF:-1,AD Sports 4HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1470.ts
+#EXTINF:-1,AD Sports 5HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1471.ts
+#EXTINF:-1,AD Sports 6HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1472.ts
+#EXTINF:-1,Al-Aoula-Inter
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1382.ts
+#EXTINF:-1,2M-Monde
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1383.ts
+#EXTINF:-1,Medi-1-TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1381.ts
+#EXTINF:-1,Al-Maghribia
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1384.ts
+#EXTINF:-1,Tele-Maroc
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1380.ts
+#EXTINF:-1,Tamazight
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1385.ts
+#EXTINF:-1,Arriadia
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1388.ts
+#EXTINF:-1,SUD24-TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1389.ts
+#EXTINF:-1,Samira-Tv
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1379.ts
+#EXTINF:-1,Programme.National
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1360.ts
+#EXTINF:-1,Canal-Algerie
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1361.ts
+#EXTINF:-1,Algeria 3
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1362.ts
+#EXTINF:-1,Algeria 5
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1363.ts
+#EXTINF:-1,Echorouk TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1358.ts
+#EXTINF:-1,Echorouk news
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1357.ts
+#EXTINF:-1,Echorouk Benna
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1359.ts
+#EXTINF:-1,Kbc Algeria
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1369.ts
+#EXTINF:-1,Eljazairia-TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1372.ts
+#EXTINF:-1,EnnahLaki
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1365.ts
+#EXTINF:-1,EnnahTV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1364.ts
+#EXTINF:-1,Elhaddaf-TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1371.ts
+#EXTINF:-1,Elbilad
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1370.ts
+#EXTINF:-1,Dzair TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1368.ts
+#EXTINF:-1,Dzai News
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1367.ts
+#EXTINF:-1,Al Magharibia-1
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1373.ts
+#EXTINF:-1,Al Magharibia-2
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1374.ts
+#EXTINF:-1,Berbere-TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1376.ts
+#EXTINF:-1,Berbere-Music
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1377.ts
+#EXTINF:-1,Berbere-Jeuness
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1378.ts
+#EXTINF:-1,Beur-TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1375.ts
+#EXTINF:-1,BAHIA TV
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1366.ts
+#EXTINF:-1,Tonesna
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1349.ts
+#EXTINF:-1,Tunesia 1
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1347.ts
+#EXTINF:-1,Tunesia 2
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1348.ts
+#EXTINF:-1,Nessma
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1352.ts
+#EXTINF:-1,Hannibal
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1351.ts
+#EXTINF:-1,Telvaza
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1355.ts
+#EXTINF:-1,Zitouna
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1353.ts
+#EXTINF:-1,El-HiwEttounsi
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1350.ts
+#EXTINF:-1,Attasiaa
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1354.ts
+#EXTINF:-1,Al-Janoubia
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1356.ts
+#EXTINF:-1,Alrahma
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1343.ts
+#EXTINF:-1,Alnas
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1344.ts
+#EXTINF:-1,Al Majd Quran
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1340.ts
+#EXTINF:-1,Al Majd Hadith
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1341.ts
+#EXTINF:-1,Al Majd
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1342.ts
+#EXTINF:-1,Alresalah
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1346.ts
+#EXTINF:-1,IQRAA
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1345.ts
+#EXTINF:-1,Aljazeera
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1324.ts
+#EXTINF:-1,Alarabiyia
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1325.ts
+#EXTINF:-1,Alhadath
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1326.ts
+#EXTINF:-1,Al Ekhbariya
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1328.ts
+#EXTINF:-1,BBC
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1331.ts
+#EXTINF:-1,Skynews
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1327.ts
+#EXTINF:-1,CN Arabia
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1335.ts
+#EXTINF:-1,Baraeem
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1337.ts
+#EXTINF:-1,Toyour ElJannah
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1338.ts
+#EXTINF:-1,Toyour Baby
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1339.ts
+#EXTINF:-1,Space Toon
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1336.ts
+#EXTINF:-1,Quest-Arabia
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1334.ts
+#EXTINF:-1,National Geo-Abudhabi
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1333.ts
+#EXTINF:-1,Aljazeera Doc
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1332.ts
+#EXTINF:-1,Assadisa
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1387.ts
+#EXTINF:-1,Arrabia
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1386.ts
+#EXTINF:-1,Aflam 1
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1319.ts
+#EXTINF:-1,Aflam 2
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1320.ts
+#EXTINF:-1,Hekayat 1
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1321.ts
+#EXTINF:-1,Hekayat 2
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1322.ts
+#EXTINF:-1,Cinema
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1323.ts
+#EXTINF:-1,MBC 1
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1278.ts
+#EXTINF:-1,MBC 2
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1279.ts
+#EXTINF:-1,MBC 3
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1280.ts
+#EXTINF:-1,MBC 4
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1281.ts
+#EXTINF:-1,MBC MAX
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1283.ts
+#EXTINF:-1,MBC ACTION
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1282.ts
+#EXTINF:-1,MBC DRAMA
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1286.ts
+#EXTINF:-1,MBC DRAMA HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1287.ts
+#EXTINF:-1,MBC BOLLYWOOD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1289.ts
+#EXTINF:-1,MBC MASR 1
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1284.ts
+#EXTINF:-1,MBC MASR 2
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1285.ts
+#EXTINF:-1,MBC B4U AFLAM
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1292.ts
+#EXTINF:-1,MBC ZEE Alwan
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1290.ts
+#EXTINF:-1,MBC ZEE Aflam
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1291.ts
+#EXTINF:-1,MBC VARIETY HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1288.ts
+#EXTINF:-1,MBC SPORT 4HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1296.ts
+#EXTINF:-1,MBC SPORT 3HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1295.ts
+#EXTINF:-1,MBC SPORT 2HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1294.ts
+#EXTINF:-1,MBC SPORT 1HD
+http://rmd.primatv.club:8899/live/jZLNVNncksdlk/l8Dt4vUqZC/1293.ts
+
+
+
+
 
 
 
