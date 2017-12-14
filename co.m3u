@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,13/12/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/12/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -2731,55 +2731,464 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,CANALE 5
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5397.ts
-#EXTINF:-1,DMAX
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3843.ts
-#EXTINF:-1,FOX
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3846.ts
-#EXTINF:-1,ITALIA 1
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3848.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3845.ts
-#EXTINF:-1,PREMIUM CINEMA ACTION
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3823.ts
-#EXTINF:-1,SKY CINEMA COMEDY
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3826.ts
-#EXTINF:-1,PREMIUM CINEMA EMOTION
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3821.ts
-#EXTINF:-1,PREMIUM CINEMA ENERGY
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3822.ts
-#EXTINF:-1,PREMIUM CRIME
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3844.ts
-#EXTINF:-1,PREMIUM STORIES
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3820.ts
-#EXTINF:-1,RAI 1
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3811.ts
-#EXTINF:-1,RAI 2
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3812.ts
-#EXTINF:-1,RAI 3
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3814.ts
-#EXTINF:-1,RAI 4
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3815.ts
-#EXTINF:-1,RAI 5
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3816.ts
-#EXTINF:-1,RAI GULP
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3817.ts
-#EXTINF:-1,RAI PREMIUM
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3623.ts
-#EXTINF:-1,RETE 4
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/6540.ts
-#EXTINF:-1,RAI SPORT 1
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3818.ts
-#EXTINF:-1,RAI SPORT 2
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3819.ts
-#EXTINF:-1,SKY SPORTS 1
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/4386.ts
-#EXTINF:-1,SKY SPORTS 2
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/4385.ts
-#EXTINF:-1,SKY SPORTS 3
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/4384.ts
-
+#EXTINF:-1,Rai 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1.ts
+#EXTINF:-1,Rai 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2.ts
+#EXTINF:-1,Rai 3 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/3.ts
+#EXTINF:-1,Rete 4 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/4.ts
+#EXTINF:-1,Canale 5 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5.ts
+#EXTINF:-1,Italia 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6.ts
+#EXTINF:-1,Italia 2
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/7.ts
+#EXTINF:-1,La7 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/8.ts
+#EXTINF:-1,La 5
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/14.ts
+#EXTINF:-1,La7d HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/9.ts
+#EXTINF:-1,IRIS
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/16.ts
+#EXTINF:-1,TopCrime
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/15.ts
+#EXTINF:-1,Rai 4 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/10.ts
+#EXTINF:-1,Rai 5 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/11.ts
+#EXTINF:-1,Rai Premium HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/13.ts
+#EXTINF:-1,Rai Movie HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/12.ts
+#EXTINF:-1,Rai 1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1632.ts
+#EXTINF:-1,Rai 2
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1633.ts
+#EXTINF:-1,Rai 3
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1634.ts
+#EXTINF:-1,Rete 4
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1635.ts
+#EXTINF:-1,Canale 5
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1636.ts
+#EXTINF:-1,Italia 1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1637.ts
+#EXTINF:-1,Videolina
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/189.ts
+#EXTINF:-1,Mediaset Extra
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/17.ts
+#EXTINF:-1,=====News=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/226.ts
+#EXTINF:-1,Sky TG 24 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/19.ts
+#EXTINF:-1,TGCom 24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/20.ts
+#EXTINF:-1,Rai News 24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/18.ts
+#EXTINF:-1,TG Norba 24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2170.ts
+#EXTINF:-1,=====Musica=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/227.ts
+#EXTINF:-1,MTV Live HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5775.ts
+#EXTINF:-1,MTV 8
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/215.ts
+#EXTINF:-1,MTV Hits HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5294.ts
+#EXTINF:-1,MTV Dance HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5297.ts
+#EXTINF:-1,MTV Rocks HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5296.ts
+#EXTINF:-1,MTV Base HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5295.ts
+#EXTINF:-1,MTV Music UK
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5252.ts
+#EXTINF:-1,MTV Classic UK
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5248.ts
+#EXTINF:-1,MTV Base UK
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5249.ts
+#EXTINF:-1,MTV Dance UK
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5253.ts
+#EXTINF:-1,MTV Hits UK
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5250.ts
+#EXTINF:-1,MTV Rocks UK
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5251.ts
+#EXTINF:-1,M2O
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1086.ts
+#EXTINF:-1,Deejay TV NOVE
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/21.ts
+#EXTINF:-1,Rtl 102.5 TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/223.ts
+#EXTINF:-1,Radio Italia TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/580.ts
+#EXTINF:-1,Virgin Radio
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/258.ts
+#EXTINF:-1,Radio 105 TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/224.ts
+#EXTINF:-1,Radio Montecarlo
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/222.ts
+#EXTINF:-1,Radio Radio TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1664.ts
+#EXTINF:-1,ViVa The Hits
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2310.ts
+#EXTINF:-1,=====Svizzeri=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1095.ts
+#EXTINF:-1,[CH] Rsi LA1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/243.ts
+#EXTINF:-1,[CH] Rsi LA2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/244.ts
+#EXTINF:-1,[CH] SRF HD 2
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/106.ts
+#EXTINF:-1,[CH] SRF HD 1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/105.ts
+#EXTINF:-1,[CH] TeleTicino HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/246.ts
+#EXTINF:-1,[CH] TeleClub Star
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1432.ts
+#EXTINF:-1,[CH] TeleClub Prime HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1431.ts
+#EXTINF:-1,[CH] TeleClub Cinema HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1430.ts
+#EXTINF:-1,[CH] TeleClub Sport 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/671.ts
+#EXTINF:-1,[CH] TeleClub Sport 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/672.ts
+#EXTINF:-1,[CH] TeleClub Sport 3 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/673.ts
+#EXTINF:-1,##### Sky Italia #####
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/886.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/22.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/555.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/24.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/25.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/26.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/27.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/28.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/29.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/30.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/31.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/32.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/33.ts
+#EXTINF:-1,=====Intrattenimento=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/229.ts
+#EXTINF:-1,Sky 3D
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/34.ts
+#EXTINF:-1,Sky UNO HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/35.ts
+#EXTINF:-1,Sky UNO +1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/36.ts
+#EXTINF:-1,Sky Atlantic HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/37.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/38.ts
+#EXTINF:-1,Fox HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/39.ts
+#EXTINF:-1,Fox +1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/40.ts
+#EXTINF:-1,Fox Life HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/41.ts
+#EXTINF:-1,Fox Life +1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/42.ts
+#EXTINF:-1,Fox Crime HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/43.ts
+#EXTINF:-1,Fox Crime +1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/112.ts
+#EXTINF:-1,Fox Animation HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/114.ts
+#EXTINF:-1,Fox Comedy HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/113.ts
+#EXTINF:-1,Comedy Central
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/180.ts
+#EXTINF:-1,Paramount Channel HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5155.ts
+#EXTINF:-1,Giallo
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/123.ts
+#EXTINF:-1,Real Time HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/119.ts
+#EXTINF:-1,Cielo HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/117.ts
+#EXTINF:-1,Lei
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/118.ts
+#EXTINF:-1,Fine Living
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/121.ts
+#EXTINF:-1,Alice
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/122.ts
+#EXTINF:-1,=====Sky Sport=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/230.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/124.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5610.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/125.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5608.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/126.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/129.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/139.ts
+#EXTINF:-1,Super Tennis HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/128.ts
+#EXTINF:-1,EuroSport HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/136.ts
+#EXTINF:-1,EuroSport 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/135.ts
+#EXTINF:-1,Bike Channel
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/134.ts
+#EXTINF:-1,AutoMoto TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5800.ts
+#EXTINF:-1,Sport Italia
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/140.ts
+#EXTINF:-1,Top Calcio 24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6342.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/132.ts
+#EXTINF:-1,Rai Sport 2
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/133.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/130.ts
+#EXTINF:-1,Sky Sport MotoGP SD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5611.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/127.ts
+#EXTINF:-1,Sky Sport F1 SD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5612.ts
+#EXTINF:-1,=====Sky Calcio=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/231.ts
+#EXTINF:-1,Fox Sports HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/144.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/131.ts
+#EXTINF:-1,Sky Supercalcio SD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5609.ts
+#EXTINF:-1,Milan Channel
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/142.ts
+#EXTINF:-1,Lazio Channel
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/148.ts
+#EXTINF:-1,Roma Channel
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/168.ts
+#EXTINF:-1,Juventus TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/143.ts
+#EXTINF:-1,Inter Channel
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/147.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/141.ts
+#EXTINF:-1,Sky Calcio 1 SD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6623.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/149.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/150.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/151.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/145.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/152.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/146.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/153.ts
+#EXTINF:-1,Sky Calcio 9
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2163.ts
+#EXTINF:-1,Sky Calcio 10
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2171.ts
+#EXTINF:-1,=====Sportube=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6707.ts
+#EXTINF:-1,Mosaico Sportube
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6696.ts
+#EXTINF:-1,Sportube 1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6697.ts
+#EXTINF:-1,Sportube 2
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6698.ts
+#EXTINF:-1,Sportube 3
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6699.ts
+#EXTINF:-1,Sportube 4
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6700.ts
+#EXTINF:-1,Sportube 5
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6701.ts
+#EXTINF:-1,Sportube 6
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6702.ts
+#EXTINF:-1,Sportube 7
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6703.ts
+#EXTINF:-1,Sportube 8
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6704.ts
+#EXTINF:-1,Sportube 9
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6705.ts
+#EXTINF:-1,Sportube 10
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6706.ts
+#EXTINF:-1,=====Cultura=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/232.ts
+#EXTINF:-1,Discovery HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/155.ts
+#EXTINF:-1,Discovery Science HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/154.ts
+#EXTINF:-1,Discovery Travel e Living
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/162.ts
+#EXTINF:-1,National Geo HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/159.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/158.ts
+#EXTINF:-1,Nat Geo People HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/157.ts
+#EXTINF:-1,History Channel HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/156.ts
+#EXTINF:-1,Gambero Rosso HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/166.ts
+#EXTINF:-1,DMAX HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1500.ts
+#EXTINF:-1,Nuvolari
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/248.ts
+#EXTINF:-1,Marco Polo
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/249.ts
+#EXTINF:-1,Focus Tv
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/165.ts
+#EXTINF:-1,Animal Planet
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/170.ts
+#EXTINF:-1,CI Crime+Investigation HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/161.ts
+#EXTINF:-1,Sky Arte HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/169.ts
+#EXTINF:-1,Classica HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2138.ts
+#EXTINF:-1,Class Horse
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2146.ts
+#EXTINF:-1,Italian Fishing TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5781.ts
+#EXTINF:-1,Pesca e Caccia
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/167.ts
+#EXTINF:-1,Caccia e Pesca
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/160.ts
+#EXTINF:-1,##### Mediaset Premium #####
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/234.ts
+#EXTINF:-1,Premium Cinema HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/199.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/200.ts
+#EXTINF:-1,Premium Cinema +24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/202.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/201.ts
+#EXTINF:-1,Premium Action HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/209.ts
+#EXTINF:-1,Premium Action +24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/210.ts
+#EXTINF:-1,Premium Crime HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/196.ts
+#EXTINF:-1,Premium Crime +24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/197.ts
+#EXTINF:-1,Premium Investigation
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5778.ts
+#EXTINF:-1,Premium Joy
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/193.ts
+#EXTINF:-1,Premium Joy +24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/4456.ts
+#EXTINF:-1,Premium Energy HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/194.ts
+#EXTINF:-1,Premium Energy +24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5779.ts
+#EXTINF:-1,Premium Cinema Emotion
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/195.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/198.ts
+#EXTINF:-1,Premium Stories
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/191.ts
+#EXTINF:-1,Premium Stories +24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/4455.ts
+#EXTINF:-1,Studio Universal
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/190.ts
+#EXTINF:-1,=====Premium Calcio=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/235.ts
+#EXTINF:-1,Premium Sport HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/192.ts
+#EXTINF:-1,Premium Sport HD 2
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1514.ts
+#EXTINF:-1,Premium Sport SD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5665.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/4454.ts
+#EXTINF:-1,Premium Sport 2 SD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6017.ts
+#EXTINF:-1,Premium Calcio 1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/207.ts
+#EXTINF:-1,Premium Calcio 2
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/213.ts
+#EXTINF:-1,Premium Calcio 3
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/206.ts
+#EXTINF:-1,Premium Calcio 4
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/205.ts
+#EXTINF:-1,Premium Calcio 5
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/204.ts
+#EXTINF:-1,premium calcio 6
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/203.ts
+#EXTINF:-1,Premium Calcio 7
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5664.ts
+#EXTINF:-1,=====Bambini=====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/233.ts
+#EXTINF:-1,Disney Channel HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/178.ts
+#EXTINF:-1,Disney Channel +1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/177.ts
+#EXTINF:-1,Disney-Junior
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/176.ts
+#EXTINF:-1,Disney Junior +1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2141.ts
+#EXTINF:-1,Disney XD HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/187.ts
+#EXTINF:-1,Super!
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/171.ts
+#EXTINF:-1,Rai YoYo HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/214.ts
+#EXTINF:-1,Rai Gulp HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/172.ts
+#EXTINF:-1,Nick Junior
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/174.ts
+#EXTINF:-1,Frisbee
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/336.ts
+#EXTINF:-1,DeAKids
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/179.ts
+#EXTINF:-1,Baby TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1587.ts
+#EXTINF:-1,K2 Kids Tv
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/251.ts
+#EXTINF:-1,Cartoon Network
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/181.ts
+#EXTINF:-1,Cartonito
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/183.ts
+#EXTINF:-1,Boomerang
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/184.ts
+#EXTINF:-1,Boing
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/185.ts
+#EXTINF:-1,Man-GA
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1349.ts
+#EXTINF:-1,Peppa Pig TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2142.ts
+#EXTINF:-1,Tom & Jerry TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/299.ts
+#EXTINF:-1,Tom & Jerry +1 TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1700.ts
+#EXTINF:-1,La Casa di Topolino TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1702.ts
+#EXTINF:-1,Sofia la Principessa TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1703.ts
+#EXTINF:-1,Masha e Orso TV
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1704.ts
 
 
 
@@ -3148,47 +3557,6 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
-
-#EXTINF:-1,BEIN SPORT 1 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1452.ts
-#EXTINF:-1,BEIN SPORT 2 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1453.ts
-#EXTINF:-1,BEIN SPORT 3 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1454.ts
-#EXTINF:-1,CANAL SPORT (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1486.ts
-#EXTINF:-1,SFR SPORT 1
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1872.ts
-#EXTINF:-1,SFR SPORT 2
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1873.ts
-#EXTINF:-1,SFR SPORT 3
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1874.ts
-#EXTINF:-1,SFR SPORT 5
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1875.ts
-#EXTINF:-1,TF1 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1365.ts
-#EXTINF:-1,FRANCE 2 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1366.ts
-#EXTINF:-1,FRANCE 3
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1499.ts
-#EXTINF:-1,CANAL+
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1498.ts
-#EXTINF:-1,FRANCE 5
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1500.ts
-#EXTINF:-1,M6 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1405.ts
-#EXTINF:-1,C8
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1676.ts
-#EXTINF:-1,W9 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1406.ts
-#EXTINF:-1,BFMTV (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1367.ts
-#EXTINF:-1,L'EQUIPE 21 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1364.ts
-#EXTINF:-1,COMEDIE+
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1368.ts
-#EXTINF:-1,CARTOON NETWORK
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3888.ts
 
 
 
@@ -4115,7 +4483,7 @@ http://85.144.43.35:9001/play/a044
 http://85.144.43.35:9001/play/a03p 
 #EXTINF:0,Discovery HD
 http://85.144.43.35:9001/play/a02a 
-#EXTINF:0, 
+#EXTINF:0, Sky Sport Bundesliga 1 
 http://85.144.43.35:9001/play/a02m 
 #EXTINF:0,Sky Sport Bundesliga 1 
 http://85.144.43.35:9001/play/a045 
@@ -4165,104 +4533,6 @@ http://85.144.43.35:9001/play/a02s
 
 
 
-#EXTINF:8 group-title=”Germany3”,
-
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,Das Erste HD
-http://87.187.239.141:9981/stream/channelid/485323264
-#EXTINF:-1,ZDF HD
-http://87.187.239.141:9981/stream/channelid/1526428425
-#EXTINF:-1,ZDF NEO HD
-http://87.187.239.141:9981/stream/channelid/1247797626
-#EXTINF:-1,ONE HD
-http://87.187.239.141:9981/stream/channelid/151728834
-#EXTINF:-1,RTL Television
-http://87.187.239.141:9981/stream/channelid/183589371
-#EXTINF:-1,SAT.1
-http://87.187.239.141:9981/stream/channelid/487022648
-#EXTINF:-1,ProSieben
-http://87.187.239.141:9981/stream/channelid/1776728710
-#EXTINF:-1,Pro7 MAXX
-http://87.187.239.141:9981/stream/channelid/1966371350
-#EXTINF:-1,NDR HD
-http://87.187.239.141:9981/stream/channelid/2054379295
-#EXTINF:-1,VOX
-http://87.187.239.141:9981/stream/channelid/1083529533
-#EXTINF:-1,Kabel 1
-http://87.187.239.141:9981/stream/channelid/1472169943
-#EXTINF:-1,3sat HD
-http://87.187.239.141:9981/stream/channelid/1560339197
-#EXTINF:-1,WDR HD
-http://87.187.239.141:9981/stream/channelid/1945298624
-#EXTINF:-1,kabel eins
-http://87.187.239.141:9981/stream/channelid/2086592968
-#EXTINF:-1,DMAX
-http://87.187.239.141:9981/stream/channelid/2089074403
-#EXTINF:-1,ZDFinfo HD
-http://87.187.239.141:9981/stream/channelid/1736577218
-#EXTINF:-1,SPORT1
-http://87.187.239.141:9981/stream/channelid/1589117121
-#EXTINF:-1,RTL2
-http://87.187.239.141:9981/stream/channelid/1945178056
-#EXTINF:-1,Eurosport 1 Deutschland
-http://87.187.239.141:9981/stream/channelid/1457808769
-#EXTINF:-1,rbb HD
-http://87.187.239.141:9981/stream/channelid/1415238671
-#EXTINF:-1,NITRO
-http://87.187.239.141:9981/stream/channelid/1302124435
-#EXTINF:-1,hr-fernsehen HD
-http://87.187.239.141:9981/stream/channelid/1114930412
-#EXTINF:-1,SWR BW HD
-http://87.187.239.141:9981/stream/channelid/904515506
-#EXTINF:-1,TLC
-http://87.187.239.141:9981/stream/channelid/843172237
-#EXTINF:-1,RTL NITRO
-http://87.187.239.141:9981/stream/channelid/832344691
-#EXTINF:-1,N24
-http://87.187.239.141:9981/stream/channelid/784960049
-#EXTINF:-1,MDR HD
-http://87.187.239.141:9981/stream/channelid/561009652
-#EXTINF:-1,arte HD
-http://87.187.239.141:9981/stream/channelid/539686896
-#EXTINF:-1,SIXX
-http://87.187.239.141:9981/stream/channelid/325407549
-#EXTINF:-1,SAT.1 Gold
-http://87.187.239.141:9981/stream/channelid/78713689
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4298,50 +4568,178 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,SKY BUNDESLIGA 1
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1381.ts
-#EXTINF:-1,SKY BUNDESLIGA 1 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3098.ts
-#EXTINF:-1,SKY BUNDESLIGA 2 (GAMES ONLY)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1411.ts
-#EXTINF:-1,SKY BUNDESLIGA 3 (GAMES ONLY)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1412.ts
-#EXTINF:-1,SKY BUNDESLIGA 4 (GAMES ONLY)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1413.ts
-#EXTINF:-1,SKY BUNDESLIGA 5 (GAMES ONLY)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1414.ts
-#EXTINF:-1,SKY BUNDESLIGA 6 (GAMES ONLY)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1415.ts
-#EXTINF:-1,SKY SPORTS 1 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1845.ts
-#EXTINF:-1,SKY SPORTS 2 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1847.ts
-#EXTINF:-1,SPORT DIGITAL
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/4643.ts
-#EXTINF:-1,ARD (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1400.ts
-#EXTINF:-1,FOX HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1844.ts
-#EXTINF:-1,N-TV (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1301.ts
-#EXTINF:-1,PRO7 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1300.ts
-#EXTINF:-1,RTL (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1298.ts
-#EXTINF:-1,SAT1 (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1299.ts
-#EXTINF:-1,SKY CINEMA HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1852.ts
-#EXTINF:-1,SKY SELECT 1 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1848.ts
-#EXTINF:-1,SKY SELECT 2 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1849.ts
-#EXTINF:-1,SKY SELECT 3 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1850.ts
-#EXTINF:-1,SKY SELECT 4 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1851.ts
-#EXTINF:-1,ZDF (TEST)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1399.ts
+#EXTINF:-1,[DE] Ard HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/44.ts
+#EXTINF:-1,[DE] Zdf HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/45.ts
+#EXTINF:-1,[DE] Zdf Neo HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1560.ts
+#EXTINF:-1,[DE] Wdr HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/46.ts
+#EXTINF:-1,[DE] Rtl HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/47.ts
+#EXTINF:-1,[DE] Rtl 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/48.ts
+#EXTINF:-1,[DE] Rtl Nitro
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/49.ts
+#EXTINF:-1,[DE] Rtl Crime
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/2149.ts
+#EXTINF:-1,[DE] Rtl Passion
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/3554.ts
+#EXTINF:-1,[DE] Pro 7 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/50.ts
+#EXTINF:-1,[DE] Pro 7 Maxx
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/51.ts
+#EXTINF:-1,[DE] Kabel 1
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/54.ts
+#EXTINF:-1,[DE] Sat 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1006.ts
+#EXTINF:-1,[DE] Vox HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/55.ts
+#EXTINF:-1,[DE] Sixx HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/57.ts
+#EXTINF:-1,[DE] TLC
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6361.ts
+#EXTINF:-1,[DE] N-TV HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/59.ts
+#EXTINF:-1,[DE] N24 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/581.ts
+#EXTINF:-1,[DE] HR
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6355.ts
+#EXTINF:-1,[DE] SWR HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6354.ts
+#EXTINF:-1,[DE] 3Sat HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/67.ts
+#EXTINF:-1,[DE] DeLuxe Music
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/71.ts
+#EXTINF:-1,[DE] Super Rtl
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/70.ts
+#EXTINF:-1,[DE] Disney Channel
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6362.ts
+#EXTINF:-1,[DE] Disney XD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/69.ts
+#EXTINF:-1,[DE] Disney Cinematic
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1559.ts
+#EXTINF:-1,[DE] Disney Junior HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1558.ts
+#EXTINF:-1,##### Sky Deutschland #####
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/237.ts
+#EXTINF:-1,[DE] Sky Cinema HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/73.ts
+#EXTINF:-1,[DE] Sky Cinema +1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/887.ts
+#EXTINF:-1,[DE] Sky Cinema +24
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6360.ts
+#EXTINF:-1,[DE] Sky Cinema Family HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5802.ts
+#EXTINF:-1,[DE] Sky Action HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/76.ts
+#EXTINF:-1,[DE] Sky Comedy
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/77.ts
+#EXTINF:-1,[DE] Sky Emotion
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/78.ts
+#EXTINF:-1,[DE] Sky 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5803.ts
+#EXTINF:-1,[DE] Sky Hits HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/79.ts
+#EXTINF:-1,[DE] Sky Atlantic HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/82.ts
+#EXTINF:-1,[DE] Fox HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/83.ts
+#EXTINF:-1,[DE] AXN HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/84.ts
+#EXTINF:-1,[DE] Planet HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1556.ts
+#EXTINF:-1,[DE] Sky SyFy HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/85.ts
+#EXTINF:-1,[DE] Sky Krimi
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/87.ts
+#EXTINF:-1,[DE] 13thStreet HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/88.ts
+#EXTINF:-1,[DE] TNT Serie HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/86.ts
+#EXTINF:-1,[DE] TNT Film HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/583.ts
+#EXTINF:-1,[DE] TNT Comedy HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5425.ts
+#EXTINF:-1,[DE] Universal HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5424.ts
+#EXTINF:-1,[DE] E! Entertainment HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5423.ts
+#EXTINF:-1,[DE] Sky Discovery Channel HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/92.ts
+#EXTINF:-1,[DE] Sky Nat Geo HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/90.ts
+#EXTINF:-1,[DE] Sky NatGeo Wild HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/89.ts
+#EXTINF:-1,[DE] History Channel
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/91.ts
+#EXTINF:-1,[DE] Animal Planet
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/3555.ts
+#EXTINF:-1,[DE] Spiegel Geschichte HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1578.ts
+#EXTINF:-1,[DE] DMAX
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/97.ts
+#EXTINF:-1,[DE] Motorvision
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5801.ts
+#EXTINF:-1,[DE] Eurosport
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/96.ts
+#EXTINF:-1,[DE] Eurosport 2
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6603.ts
+#EXTINF:-1,[DE] Eurosport 2 Xtra HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6604.ts
+#EXTINF:-1,[DE] Sport 1+ HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/93.ts
+#EXTINF:-1,[DE] Sport 1 US HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1506.ts
+#EXTINF:-1,[DE] Sportdigital HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1548.ts
+#EXTINF:-1,[DE] Sky Sport News HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/322.ts
+#EXTINF:-1,[DE] Sky Sport 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/94.ts
+#EXTINF:-1,[DE] Sky Sport 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/95.ts
+#EXTINF:-1,[DE] Sky Sport 3 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1507.ts
+#EXTINF:-1,[DE] Sky Sport 4 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1508.ts
+#EXTINF:-1,[DE] Sky Sport 5 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1520.ts
+#EXTINF:-1,[DE] Sky Sport 6 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6597.ts
+#EXTINF:-1,[DE] Sky Sport 7 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6598.ts
+#EXTINF:-1,[DE] Sky Sport 8 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6599.ts
+#EXTINF:-1,[DE] Sky Sport 9 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6600.ts
+#EXTINF:-1,[DE] Sky Sport 10 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6601.ts
+#EXTINF:-1,[DE] Sky Sport 11 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6602.ts
+#EXTINF:-1,===== Sky Bundesliga =====
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6605.ts
+#EXTINF:-1,[DE] Sky Bundesliga 1 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/98.ts
+#EXTINF:-1,[DE] Sky Bundesliga 2 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/99.ts
+#EXTINF:-1,[DE] Sky Bundesliga 3 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/100.ts
+#EXTINF:-1,[DE] Sky Bundesliga 4 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/101.ts
+#EXTINF:-1,[DE] Sky Bundesliga 5 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/102.ts
+#EXTINF:-1,[DE] Sky Bundesliga 6 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/4330.ts
+#EXTINF:-1,[DE] Sky Bundesliga 7 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6593.ts
+#EXTINF:-1,[DE] Sky Bundesliga 8 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6594.ts
+#EXTINF:-1,[DE] Sky Bundesliga 9 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6595.ts
+#EXTINF:-1,[DE] Sky Bundesliga 10 HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6596.ts
 
 
 
@@ -6172,164 +6570,6 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,RTP 1
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1741.ts
-#EXTINF:-1,RTP 2
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1742.ts
-#EXTINF:-1,SIC
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/4397.ts
-#EXTINF:-1,TVI
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1733.ts
-#EXTINF:-1,SIC NOTICIAS
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1731.ts
-#EXTINF:-1,SIC MULHER
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1732.ts
-#EXTINF:-1,TVI 24
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1734.ts
-#EXTINF:-1,CM TV
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1767.ts
-#EXTINF:-1,RTP 3
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1743.ts
-#EXTINF:-1,SIC RADICAL
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1730.ts
-#EXTINF:-1,GLOBO
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1738.ts
-#EXTINF:-1,RTP MEMORIA
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1744.ts
-#EXTINF:-1,TVI REALITY
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1735.ts
-#EXTINF:-1,TVI FICÇAO
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5442.ts
-#EXTINF:-1,A BOLA TV
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5409.ts
-#EXTINF:-1,PORTO CANAL
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1777.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1773.ts
-#EXTINF:-1,NICKLEODEON
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1754.ts
-#EXTINF:-1,CANAL PANDA
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1757.ts
-#EXTINF:-1,PANDA BIGGS
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5422.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1774.ts
-#EXTINF:-1,JIM JAM
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/3813.ts
-#EXTINF:-1,BABY TV
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1756.ts
-#EXTINF:-1,CARTOON NETWORK
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1755.ts
-#EXTINF:-1,SIC KIDS
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5406.ts
-#EXTINF:-1,TV CINE 1 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1768.ts
-#EXTINF:-1,TV CINE 2 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1769.ts
-#EXTINF:-1,TV CINE 3 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1770.ts
-#EXTINF:-1,TV CINE 4 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1771.ts
-#EXTINF:-1,TV SERIES
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1772.ts
-#EXTINF:-1,CINE MUNDO
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5413.ts
-#EXTINF:-1,HOLLYWOOD HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1759.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5418.ts
-#EXTINF:-1,AXN BLACK HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1749.ts
-#EXTINF:-1,AXN HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1747.ts
-#EXTINF:-1,MOV HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1750.ts
-#EXTINF:-1,FOX LIFE HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1746.ts
-#EXTINF:-1,FOX HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1752.ts
-#EXTINF:-1,FOX CRIME HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1751.ts
-#EXTINF:-1,FOX MOVIES
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5412.ts
-#EXTINF:-1,AXN WHITE HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1748.ts
-#EXTINF:-1,TLC
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1761.ts
-#EXTINF:-1,MTV PORTUGAL
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5421.ts
-#EXTINF:-1,SYFY
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5414.ts
-#EXTINF:-1,CBS REALITY
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1736.ts
-#EXTINF:-1,24 KITCHEN
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1753.ts
-#EXTINF:-1,GLOBO PREMIUM
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1739.ts
-#EXTINF:-1,DISCOVERY
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1763.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5093.ts
-#EXTINF:-1,NAT GEO WILD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5420.ts
-#EXTINF:-1,ODISSEIA
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1758.ts
-#EXTINF:-1,CANAL HISTORIA
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1760.ts
-#EXTINF:-1,A and E
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1762.ts
-#EXTINF:-1,MCM TOP
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5441.ts
-#EXTINF:-1,DISCOVERY SHOWCASE
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1764.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1780.ts
-#EXTINF:-1,MOTORSPORT
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5411.ts
-#EXTINF:-1,PFC
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1740.ts
-#EXTINF:-1,AMC
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5417.ts
-#EXTINF:-1,RECORD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5407.ts
-#EXTINF:-1,RECORD NEWS
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/5408.ts
-#EXTINF:-1,RTP ACORES
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1765.ts
-#EXTINF:-1,RTP AFRICA
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1745.ts
-#EXTINF:-1,RTP MADERIA
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1766.ts
-#EXTINF:-1,REAL MADRID
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1779.ts
-#EXTINF:-1,BENFICA TV
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1710.ts
-#EXTINF:-1,BENFICA TV (BACKUP)
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/6647.ts
-#EXTINF:-1,SPORTING HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1778.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1492.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1493.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1494.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1495.ts
-#EXTINF:-1,SPORT TV 5 HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1496.ts
-#EXTINF:-1,SPORT TV+ HD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1497.ts
-#EXTINF:-1,SPORT TV 1 FHD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1838.ts
-#EXTINF:-1,SPORT TV 2 FHD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1840.ts
-#EXTINF:-1,SPORT TV 3 FHD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1839.ts
-#EXTINF:-1,SPORT TV 4 FHD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1841.ts
-#EXTINF:-1,SPORT TV 5 FHD
-http://ace-tv.xyz:8080/live/johnlawrence/johnlawrence/1842.ts
 
 
 
@@ -9993,411 +10233,411 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF: -1,VTV1
-http://113.181.99.31:4022/rtp/232.84.1.27:8136
+http://14.167.68.235:4022/rtp/232.84.1.27:8136
 #EXTINF: -1,VTV1 HD
-http://113.181.99.31:4022/rtp/232.84.1.117:10254
+http://14.167.68.235:4022/rtp/232.84.1.117:10254
 #EXTINF: -1,VTV2
-http://113.181.99.31:4022/rtp/232.84.1.39:8208
+http://14.167.68.235:4022/rtp/232.84.1.39:8208
 #EXTINF: -1,VTV3
-http://113.181.99.31:4022/rtp/232.84.1.28:8142
+http://14.167.68.235:4022/rtp/232.84.1.28:8142
 #EXTINF: -1,VTV3 HD
-http://113.181.99.31:4022/rtp/232.84.1.118:10260
+http://14.167.68.235:4022/rtp/232.84.1.118:10260
 #EXTINF: -1,VTV4
-http://113.181.99.31:4022/rtp/232.84.1.40:8214
+http://14.167.68.235:4022/rtp/232.84.1.40:8214
 #EXTINF: -1,VTV5
-http://113.181.99.31:4022/rtp/232.84.1.41:8220
+http://14.167.68.235:4022/rtp/232.84.1.41:8220
 #EXTINF: -1,VTV6
-http://113.181.99.31:4022/rtp/232.84.1.42:8226
+http://14.167.68.235:4022/rtp/232.84.1.42:8226
 #EXTINF: -1,VTV6 HD
-http://113.181.99.31:4022/rtp/232.84.1.119:10266
+http://14.167.68.235:4022/rtp/232.84.1.119:10266
 #EXTINF: -1,VTV8
-http://113.181.99.31:4022/rtp/232.84.1.148:8862
+http://14.167.68.235:4022/rtp/232.84.1.148:8862
 #EXTINF: -1,VTV9
-http://113.181.99.31:4022/rtp/232.84.1.241:9420
+http://14.167.68.235:4022/rtp/232.84.1.241:9420
 #EXTINF: -1,HTV Thể thao
-http://113.181.99.31:4022/rtp/232.84.1.24:8118
+http://14.167.68.235:4022/rtp/232.84.1.24:8118
 #EXTINF: -1,HTV1
-http://113.181.99.31:4022/rtp/232.84.1.35:8184
+http://14.167.68.235:4022/rtp/232.84.1.35:8184
 #EXTINF: -1,HTV2
-http://113.181.99.31:4022/rtp/232.84.1.36:8190
-#EXTINF:-1,HTV2 HD
-http://113.181.99.31:4022/rtp/232.84.1.222:9306
+http://14.167.68.235:4022/rtp/232.84.1.36:8190
+#EXTINF: -1,HTV2 HD
+http://14.167.68.235:4022/rtp/232.84.1.222:9306
 #EXTINF:-1,HTV3
-http://113.181.99.31:4022/rtp/232.84.1.104:8598
+http://14.167.68.235:4022/rtp/232.84.1.104:8598
 #EXTINF:-1,HTV4
-http://113.181.99.31:4022/rtp/232.84.1.25:8124
+http://14.167.68.235:4022/rtp/232.84.1.25:8124
 #EXTINF:-1,HTV7
-http://113.181.99.31:4022/rtp/232.84.1.21:8100
+http://14.167.68.235:4022/rtp/232.84.1.21:8100
 #EXTINF:-1,HTV7 HD https://iptv.zone
-http://113.181.99.31:4022/rtp/232.84.1.223:9312
+http://14.167.68.235:4022/rtp/232.84.1.223:9312
 #EXTINF:-1,HTV9
-http://113.181.99.31:4022/rtp/232.84.1.31:8160
+http://14.167.68.235:4022/rtp/232.84.1.31:8160
 #EXTINF:-1,HTV9 HD
-http://113.181.99.31:4022/rtp/232.84.1.224:9318
+http://14.167.68.235:4022/rtp/232.84.1.224:9318
 #EXTINF:-1,VTVCab-MTV
-http://113.181.99.31:4022/rtp/232.84.1.82:8466
+http://14.167.68.235:4022/rtp/232.84.1.82:8466
 #EXTINF:-1,VTVCab-MTV HD
-http://113.181.99.31:4022/rtp/232.84.1.75:8424
+http://14.167.68.235:4022/rtp/232.84.1.75:8424
 #EXTINF:-1,VTVCab1-Giải trí TV
-http://113.181.99.31:4022/rtp/232.84.1.143:8832
+http://14.167.68.235:4022/rtp/232.84.1.143:8832
 #EXTINF:-1,VTVCab10-O2TV
-http://113.181.99.31:4022/rtp/232.84.1.26:8130
+http://14.167.68.235:4022/rtp/232.84.1.26:8130
 #EXTINF:-1,VTVCab12-Style TV
-http://113.181.99.31:4022/rtp/232.84.1.244:9438
+http://14.167.68.235:4022/rtp/232.84.1.244:9438
 #EXTINF:-1,VTVCab14-Lotte
-http://113.181.99.31:4022/rtp/232.84.1.140:10356
+http://14.167.68.235:4022/rtp/232.84.1.140:10356
 #EXTINF:-1,VTVCab16-Bóng đá TV
-http://113.181.99.31:4022/rtp/232.84.1.138:8802
+http://14.167.68.235:4022/rtp/232.84.1.138:8802
 #EXTINF:-1,VTVCab16-Bóng đá TV HD
-http://113.181.99.31:4022/rtp/232.84.1.210:9234
+http://14.167.68.235:4022/rtp/232.84.1.210:9234
 #EXTINF:-1,VTVCab17-yeah1 TV
-http://113.181.99.31:4022/rtp/232.84.1.217:9276
+http://14.167.68.235:4022/rtp/232.84.1.217:9276
 #EXTINF:-1,VTVCab2-Phim Việt
-http://113.181.99.31:4022/rtp/232.84.1.168:8982
+http://14.167.68.235:4022/rtp/232.84.1.168:8982
 #EXTINF:-1,VTVCab20-VFamily
-http://113.181.99.31:4022/rtp/232.84.1.245:10344
+http://14.167.68.235:4022/rtp/232.84.1.245:10344
 #EXTINF:-1,VTVCab3-Thể thao TV
-http://113.181.99.31:4022/rtp/232.84.1.208:9222
+http://14.167.68.235:4022/rtp/232.84.1.208:9222
 #EXTINF:-1,VTVCab3-Thể thao TV HD
-http://113.181.99.31:4022/rtp/232.84.1.207:9216
+http://14.167.68.235:4022/rtp/232.84.1.207:9216
 #EXTINF:-1,VTVCab4-Văn hóa
-http://113.181.99.31:4022/rtp/232.84.1.169:8988
+http://14.167.68.235:4022/rtp/232.84.1.169:8988
 #EXTINF:-1,VTVCab5-E Channel
-http://113.181.99.31:4022/rtp/232.84.1.193:9132
+http://14.167.68.235:4022/rtp/232.84.1.193:9132
 #EXTINF:-1,VTVCab6-Hay TV
-http://113.181.99.31:4022/rtp/232.84.1.220:9294
+http://14.167.68.235:4022/rtp/232.84.1.220:9294
 #EXTINF:-1,VTVCab7-Dramas
-http://113.181.99.31:4022/rtp/232.84.1.205:9204
+http://14.167.68.235:4022/rtp/232.84.1.205:9204
 #EXTINF:-1,VTVCab8-BiBi
-http://113.181.99.31:4022/rtp/232.84.1.206:9210
+http://14.167.68.235:4022/rtp/232.84.1.206:9210
 #EXTINF:-1,VTVCap13-HYUNDAI
-http://113.181.99.31:4022/rtp/232.84.1.142:10386
+http://14.167.68.235:4022/rtp/232.84.1.142:10386
 #EXTINF:-1,HTVC-Ca nhạc
-http://113.181.99.31:4022/rtp/232.84.1.126:8730
+http://14.167.68.235:4022/rtp/232.84.1.126:8730
 #EXTINF:-1,HTVC-Du lịch & Cuộc sống
-http://113.181.99.31:4022/rtp/232.84.1.221:9300
+http://14.167.68.235:4022/rtp/232.84.1.221:9300
 #EXTINF:-1,HTVC-Gia đình
-http://113.181.99.31:4022/rtp/232.84.1.170:8994
+http://14.167.68.235:4022/rtp/232.84.1.170:8994
 #EXTINF:-1,HTVC-Mua sắm tiêu dùng
-http://113.181.99.31:4022/rtp/232.84.1.229:9348
+http://14.167.68.235:4022/rtp/232.84.1.229:9348
 #EXTINF:-1,HTVC-Paramount HD
-http://113.181.99.31:4022/rtp/232.84.2.133:9594
+http://14.167.68.235:4022/rtp/232.84.2.133:9594
 #EXTINF:-1,HTVC-Phim
-http://113.181.99.31:4022/rtp/232.84.1.105:8604
+http://14.167.68.235:4022/rtp/232.84.1.105:8604
 #EXTINF:-1,HTVC-Phụ nữ
-http://113.181.99.31:4022/rtp/232.84.1.127:8736
+http://14.167.68.235:4022/rtp/232.84.1.127:8736
 #EXTINF:-1,HTVC-Thuần Việt
-http://113.181.99.31:4022/rtp/232.84.1.22:8106
+http://14.167.68.235:4022/rtp/232.84.1.22:8106
 #EXTINF:-1,HTVC-Thuần Việt HD
-http://113.181.99.31:4022/rtp/232.84.2.134:9600
+http://14.167.68.235:4022/rtp/232.84.2.134:9600
 #EXTINF:-1,VTC1 HD
-http://113.181.99.31:4022/rtp/232.84.1.71:8400
+http://14.167.68.235:4022/rtp/232.84.1.71:8400
 #EXTINF:-1,VTC10-Nét Việt
-http://113.181.99.31:4022/rtp/232.84.1.214:9258
+http://14.167.68.235:4022/rtp/232.84.1.214:9258
 #EXTINF:-1,VTC11-kids TV
-http://113.181.99.31:4022/rtp/232.84.1.61:8340
+http://14.167.68.235:4022/rtp/232.84.1.61:8340
 #EXTINF:-1,VTC12
-http://113.181.99.31:4022/rtp/232.84.1.202:9186
+http://14.167.68.235:4022/rtp/232.84.1.202:9186
 #EXTINF:-1,VTC13-iTV
-http://113.181.99.31:4022/rtp/232.84.1.62:8346
+http://14.167.68.235:4022/rtp/232.84.1.62:8346
 #EXTINF:-1,VTC13-iTV HD https://iptv.zone
-http://113.181.99.31:4022/rtp/232.84.1.74:8418
+http://14.167.68.235:4022/rtp/232.84.1.74:8418
 #EXTINF:-1,VTC14
-http://113.181.99.31:4022/rtp/232.84.1.216:9270
+http://14.167.68.235:4022/rtp/232.84.1.216:9270
 #EXTINF:-1,VTC16-3NTV
-http://113.181.99.31:4022/rtp/232.84.1.215:9264
+http://14.167.68.235:4022/rtp/232.84.1.215:9264
 #EXTINF:-1,VTC2
-http://113.181.99.31:4022/rtp/232.84.1.57:8322
+http://14.167.68.235:4022/rtp/232.84.1.57:8322
 #EXTINF:-1,VTC3
-http://113.181.99.31:4022/rtp/232.84.1.60:8232
+http://14.167.68.235:4022/rtp/232.84.1.60:8232
 #EXTINF:-1,VTC3 HD
-http://113.181.99.31:4022/rtp/232.84.1.81:8460
+http://14.167.68.235:4022/rtp/232.84.1.81:8460
 #EXTINF:-1,VTC3 PIP VNPT
-http://113.181.99.31:4022/rtp/232.84.1.86:8490
+http://14.167.68.235:4022/rtp/232.84.1.86:8490
 #EXTINF:-1,VTC6
-http://113.181.99.31:4022/rtp/232.84.1.58:8328
+http://14.167.68.235:4022/rtp/232.84.1.58:8328
 #EXTINF:-1,VTC7-Today TV
-http://113.181.99.31:4022/rtp/232.84.1.213:9252
+http://14.167.68.235:4022/rtp/232.84.1.213:9252
 #EXTINF:-1,VTC8
-http://113.181.99.31:4022/rtp/232.84.1.32:8166
+http://14.167.68.235:4022/rtp/232.84.1.32:8166
 #EXTINF:-1,VTC9-Let's Việt
-http://113.181.99.31:4022/rtp/232.84.1.59:8334
+http://14.167.68.235:4022/rtp/232.84.1.59:8334
 #EXTINF:-1,Thông tấn xã Việt Nam
-http://113.181.99.31:4022/rtp/232.84.1.52:8292
+http://14.167.68.235:4022/rtp/232.84.1.52:8292
 #EXTINF:-1,An ninh TV
-http://113.181.99.31:4022/rtp/232.84.1.212:9246
+http://14.167.68.235:4022/rtp/232.84.1.212:9246
 #EXTINF:-1,Nhân dân HD
-http://113.181.99.31:4022/rtp/232.84.1.235:10350
+http://14.167.68.235:4022/rtp/232.84.1.235:10350
 #EXTINF:-1,Quốc hội HD
-http://113.181.99.31:4022/rtp/232.84.1.234:10290
+http://14.167.68.235:4022/rtp/232.84.1.234:10290
 #EXTINF:-1,Quốc phòng Việt Nam
-http://113.181.99.31:4022/rtp/232.84.1.228:9342
+http://14.167.68.235:4022/rtp/232.84.1.228:9342
 #EXTINF:-1,Quốc phòng Việt Nam HD
-http://113.181.99.31:4022/rtp/232.84.1.219:10332
+http://14.167.68.235:4022/rtp/232.84.1.219:10332
 #EXTINF:-1,Xổ số
-http://113.181.99.31:4022/rtp/232.84.1.211:9240
+http://14.167.68.235:4022/rtp/232.84.1.211:9240
 #EXTINF:-1,HCaTV-HITV
-http://113.181.99.31:4022/rtp/232.84.1.55:8310
+http://14.167.68.235:4022/rtp/232.84.1.55:8310
 #EXTINF:-1,Animal Planet
-http://113.181.99.31:4022/rtp/232.84.1.48:8268
+http://14.167.68.235:4022/rtp/232.84.1.48:8268
 #EXTINF:-1,arirang
-http://113.181.99.31:4022/rtp/232.84.1.43:8238
+http://14.167.68.235:4022/rtp/232.84.1.43:8238
 #EXTINF:-1,Asian Food Channel
-http://113.181.99.31:4022/rtp/232.84.1.115:10236
+http://14.167.68.235:4022/rtp/232.84.1.115:10236
 #EXTINF:-1,Asian Food Channel HD
-http://113.181.99.31:4022/rtp/232.84.2.129:9570
+http://14.167.68.235:4022/rtp/232.84.2.129:9570
 #EXTINF:-1,AXN
-http://113.181.99.31:4022/rtp/232.84.1.14:8058
+http://14.167.68.235:4022/rtp/232.84.1.14:8058
 #EXTINF:-1,Bloomberg
-http://113.181.99.31:4022/rtp/232.84.1.7:8016
+http://14.167.68.235:4022/rtp/232.84.1.7:8016
 #EXTINF:-1,CARTOON NETWORK
-http://113.181.99.31:4022/rtp/232.84.1.16:8070
+http://14.167.68.235:4022/rtp/232.84.1.16:8070
 #EXTINF:-1,CCTV4-Tiếng Trung
-http://113.181.99.31:4022/rtp/232.84.1.3:7992
+http://14.167.68.235:4022/rtp/232.84.1.3:7992
 #EXTINF:-1,CINEMAX
-http://113.181.99.31:4022/rtp/232.84.1.20:8094
+http://14.167.68.235:4022/rtp/232.84.1.20:8094
 #EXTINF:-1,CNN
-http://113.181.99.31:4022/rtp/232.84.2.126:8076
+http://14.167.68.235:4022/rtp/232.84.2.126:8076
 #EXTINF:-1,Channel V
-http://113.181.99.31:4022/rtp/232.84.1.13:8052
+http://14.167.68.235:4022/rtp/232.84.1.13:8052
 #EXTINF:-1,Channel V HD
-http://113.181.99.31:4022/rtp/232.84.2.132:9588
+http://14.167.68.235:4022/rtp/232.84.2.132:9588
 #EXTINF:-1,Da Vinci Learning
-http://113.181.99.31:4022/rtp/232.84.1.108:10224
+http://14.167.68.235:4022/rtp/232.84.1.108:10224
 #EXTINF:-1,Da Vinci Learning HD
-http://113.181.99.31:4022/rtp/232.84.2.131:9582
+http://14.167.68.235:4022/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY
-http://113.181.99.31:4022/rtp/232.84.1.47:8262
+http://14.167.68.235:4022/rtp/232.84.1.47:8262
 #EXTINF:-1,DISNEY
-http://113.181.99.31:4022/rtp/232.84.1.18:8082
+http://14.167.68.235:4022/rtp/232.84.1.18:8082
 #EXTINF:-1,Disney Junior
-http://113.181.99.31:4022/rtp/232.84.1.90:10398
+http://14.167.68.235:4022/rtp/232.84.1.90:10398
 #EXTINF:-1,Diva Universal
-http://113.181.99.31:4022/rtp/232.84.1.109:10230
+http://14.167.68.235:4022/rtp/232.84.1.109:10230
 #EXTINF:-1,Diva Universal HD
-http://113.181.99.31:4022/rtp/232.84.2.130:9576
+http://14.167.68.235:4022/rtp/232.84.2.130:9576
 #EXTINF:-1,DW-TV
-http://113.181.99.31:4022/rtp/232.84.1.6:8010
+http://14.167.68.235:4022/rtp/232.84.1.6:8010
 #EXTINF:-1,DW-TV HD
-http://113.181.99.31:4022/rtp/232.84.2.233:10416
+http://14.167.68.235:4022/rtp/232.84.2.233:10416
 #EXTINF:-1,FASHION
-http://113.181.99.31:4022/rtp/232.84.1.2:7986
+http://14.167.68.235:4022/rtp/232.84.1.2:7986
 #EXTINF:-1,FOX
-http://113.181.99.31:4022/rtp/232.84.1.66:8370
+http://14.167.68.235:4022/rtp/232.84.1.66:8370
 #EXTINF:-1,FOX HD
-http://113.181.99.31:4022/rtp/232.84.2.120:8448
+http://14.167.68.235:4022/rtp/232.84.2.120:8448
 #EXTINF:-1,FOX SPORTS
-http://113.181.99.31:4022/rtp/232.84.1.11:8040
+http://14.167.68.235:4022/rtp/232.84.1.11:8040
 #EXTINF:-1,FOX SPORTS 2
-http://113.181.99.31:4022/rtp/232.84.1.12:8046
+http://14.167.68.235:4022/rtp/232.84.1.12:8046
 #EXTINF:-1,France 24
-http://113.181.99.31:4022/rtp/232.84.2.135:9606
+http://14.167.68.235:4022/rtp/232.84.2.135:9606
 #EXTINF:-1,GEM
-http://113.181.99.31:4022/rtp/232.84.1.84:10392
+http://14.167.68.235:4022/rtp/232.84.1.84:10392
 #EXTINF:-1,HBO
-http://113.181.99.31:4022/rtp/232.84.1.19:8088
+http://14.167.68.235:4022/rtp/232.84.1.19:8088
 #EXTINF:-1,KBS World
-http://113.181.99.31:4022/rtp/232.84.2.136:9612
+http://14.167.68.235:4022/rtp/232.84.2.136:9612
 #EXTINF:-1,MEDIACORP
-http://113.181.99.31:4022/rtp/232.84.1.5:8004
+http://14.167.68.235:4022/rtp/232.84.1.5:8004
 #EXTINF:-1,Nat Geo People
-http://113.181.99.31:4022/rtp/232.84.2.121:8376
+http://14.167.68.235:4022/rtp/232.84.2.121:8376
 #EXTINF:-1,Nat Geo People HD
-http://113.181.99.31:4022/rtp/232.84.1.76:8430
+http://14.167.68.235:4022/rtp/232.84.1.76:8430
 #EXTINF:-1,Nat Geo Wild HD
-http://113.181.99.31:4022/rtp/232.84.2.123:8454
+http://14.167.68.235:4022/rtp/232.84.2.123:8454
 #EXTINF:-1,Nat Geo Wild HD
-http://113.181.99.31:4022/rtp/232.84.1.80:8454
+http://14.167.68.235:4022/rtp/232.84.1.80:8454
 #EXTINF:-1,National Geographic
-http://113.181.99.31:4022/rtp/232.84.2.122:8364
+http://14.167.68.235:4022/rtp/232.84.2.122:8364
 #EXTINF:-1,National Geographic HD
-http://113.181.99.31:4022/rtp/232.84.1.1:7980
+http://14.167.68.235:4022/rtp/232.84.1.1:7980
 #EXTINF:-1,NHK WORLD
-http://113.181.99.31:4022/rtp/232.84.1.8:8022
+http://14.167.68.235:4022/rtp/232.84.1.8:8022
 #EXTINF:-1,NHK WORLD HD
-http://113.181.99.31:4022/rtp/232.84.1.72:8406
+http://14.167.68.235:4022/rtp/232.84.1.72:8406
 #EXTINF:-1,OPT 1-Tiếng Nga
-http://113.181.99.31:4022/rtp/232.84.1.63:8352
+http://14.167.68.235:4022/rtp/232.84.1.63:8352
 #EXTINF:-1,Outdoor Channel HD
-http://113.181.99.31:4022/rtp/232.84.1.107:10218
+http://14.167.68.235:4022/rtp/232.84.1.107:10218
 #EXTINF:-1,POCCNR PTP-Tiếng Nga
-http://113.181.99.31:4022/rtp/232.84.2.127:8544
+http://14.167.68.235:4022/rtp/232.84.2.127:8544
 #EXTINF:-1,Rai Italia
-http://113.181.99.31:4022/rtp/232.84.2.124:8358
+http://14.167.68.235:4022/rtp/232.84.2.124:8358
 #EXTINF:-1,Red By HBO
-http://113.181.99.31:4022/rtp/232.84.1.44:8244
+http://14.167.68.235:4022/rtp/232.84.1.44:8244
 #EXTINF:-1,Red By HBO HD
-http://113.181.99.31:4022/rtp/232.84.1.9:8028
+http://14.167.68.235:4022/rtp/232.84.1.9:8028
 #EXTINF:-1,RTTiếng Nga
-http://113.181.99.31:4022/rtp/232.84.2.125:8538
+http://14.167.68.235:4022/rtp/232.84.2.125:8538
 #EXTINF:-1,STAR MOVIES
-http://113.181.99.31:4022/rtp/232.84.1.10:8034
+http://14.167.68.235:4022/rtp/232.84.1.10:8034
 #EXTINF:-1,Star Movies HD
-http://113.181.99.31:4022/rtp/232.84.1.77:8436
+http://14.167.68.235:4022/rtp/232.84.1.77:8436
 #EXTINF:-1,Star World
-http://113.181.99.31:4022/rtp/232.84.2.119:8382
+http://14.167.68.235:4022/rtp/232.84.2.119:8382
 #EXTINF:-1,Star World HD
-http://113.181.99.31:4022/rtp/232.84.1.78:8442
+http://14.167.68.235:4022/rtp/232.84.1.78:8442
 #EXTINF:-1,TOONAMI
-http://113.181.99.31:4022/rtp/232.84.1.91:10404
+http://14.167.68.235:4022/rtp/232.84.1.91:10404
 #EXTINF:-1,TV5MONDE
-http://113.181.99.31:4022/rtp/232.84.1.45:8250
+http://14.167.68.235:4022/rtp/232.84.1.45:8250
 #EXTINF:-1,Travel & Living
-http://113.181.99.31:4022/rtp/232.84.1.49:8274
+http://14.167.68.235:4022/rtp/232.84.1.49:8274
 #EXTINF:-1,SCTV10-Az Shop
-http://113.181.99.31:4022/rtp/232.84.1.233:10284
+http://14.167.68.235:4022/rtp/232.84.1.233:10284
 #EXTINF:-1,SCTV5-SCJ Shopping
-http://113.181.99.31:4022/rtp/232.84.1.227:10338
+http://14.167.68.235:4022/rtp/232.84.1.227:10338
 #EXTINF:-1,An Giang
-http://113.181.99.31:4022/rtp/232.84.2.110:8742
+http://14.167.68.235:4022/rtp/232.84.2.110:8742
 #EXTINF:-1,Bà Rịa
-http://113.181.99.31:4022/rtp/232.84.2.73:8748
+http://14.167.68.235:4022/rtp/232.84.2.73:8748
 #EXTINF:-1,Bạc Liêu
-http://113.181.99.31:4022/rtp/232.84.2.116:8766
+http://14.167.68.235:4022/rtp/232.84.2.116:8766
 #EXTINF:-1,Bắc Giang
-http://113.181.99.31:4022/rtp/232.84.2.89:8754
+http://14.167.68.235:4022/rtp/232.84.2.89:8754
 #EXTINF:-1,Bắc Kạn
-http://113.181.99.31:4022/rtp/232.84.2.92:8760
+http://14.167.68.235:4022/rtp/232.84.2.92:8760
 #EXTINF:-1,Bắc Ninh
-http://113.181.99.31:4022/rtp/232.84.1.133:8772
+http://14.167.68.235:4022/rtp/232.84.1.133:8772
 #EXTINF:-1,Bến Tre
-http://113.181.99.31:4022/rtp/232.84.2.115:8778
+http://14.167.68.235:4022/rtp/232.84.2.115:8778
 #EXTINF:-1,Bình Dương 1
-http://113.181.99.31:4022/rtp/232.84.1.136:8790
+http://14.167.68.235:4022/rtp/232.84.1.136:8790
 #EXTINF:-1,Bình Dương 2
-http://113.181.99.31:4022/rtp/232.84.1.137:8796
+http://14.167.68.235:4022/rtp/232.84.1.137:8796
 #EXTINF:-1,Bình Dương 4-iMovie TV
-http://113.181.99.31:4022/rtp/232.84.1.139:8808
+http://14.167.68.235:4022/rtp/232.84.1.139:8808
 #EXTINF:-1,Bình Định
-http://113.181.99.31:4022/rtp/232.84.2.88:8784
+http://14.167.68.235:4022/rtp/232.84.2.88:8784
 #EXTINF:-1,Bình Phước
-http://113.181.99.31:4022/rtp/232.84.2.90:8814
+http://14.167.68.235:4022/rtp/232.84.2.90:8814
 #EXTINF:-1,Bình Thuận
-http://113.181.99.31:4022/rtp/232.84.2.77:8820
+http://14.167.68.235:4022/rtp/232.84.2.77:8820
 #EXTINF:-1,Cà Mau
-http://113.181.99.31:4022/rtp/232.84.2.117:8826
+http://14.167.68.235:4022/rtp/232.84.2.117:8826
 #EXTINF:-1,Cao Bằng
-http://113.181.99.31:4022/rtp/232.84.2.109:8844
+http://14.167.68.235:4022/rtp/232.84.2.109:8844
 #EXTINF:-1,Cần Thơ
-http://113.181.99.31:4022/rtp/232.84.1.144:8838
+http://14.167.68.235:4022/rtp/232.84.1.144:8838
 #EXTINF:-1,Đà Nẳng 1
-http://113.181.99.31:4022/rtp/232.84.1.146:8850
+http://14.167.68.235:4022/rtp/232.84.1.146:8850
 #EXTINF:-1,Đà Nẵng 2
-http://113.181.99.31:4022/rtp/232.84.2.114:8856
+http://14.167.68.235:4022/rtp/232.84.2.114:8856
 #EXTINF:-1,Đắk Lắk
-http://113.181.99.31:4022/rtp/232.84.2.86:8868
+http://14.167.68.235:4022/rtp/232.84.2.86:8868
 #EXTINF:-1,Đắk Nông
-http://113.181.99.31:4022/rtp/232.84.2.72:8874
+http://14.167.68.235:4022/rtp/232.84.2.72:8874
 #EXTINF:-1,Điện Biên
-http://113.181.99.31:4022/rtp/232.84.2.76:8880
+http://14.167.68.235:4022/rtp/232.84.2.76:8880
 #EXTINF:-1,Đồng Nai 1
-http://113.181.99.31:4022/rtp/232.84.1.152:8886
+http://14.167.68.235:4022/rtp/232.84.1.152:8886
 #EXTINF:-1,Đồng Nai 2
-http://113.181.99.31:4022/rtp/232.84.1.153:8892
+http://14.167.68.235:4022/rtp/232.84.1.153:8892
 #EXTINF:-1,Đồng Tháp
-http://113.181.99.31:4022/rtp/232.84.1.154:8898
+http://14.167.68.235:4022/rtp/232.84.1.154:8898
 #EXTINF:-1,Gia Lai
-http://113.181.99.31:4022/rtp/232.84.2.68:8904
+http://14.167.68.235:4022/rtp/232.84.2.68:8904
 #EXTINF:-1,Hà Giang
-http://113.181.99.31:4022/rtp/232.84.2.85:8910
+http://14.167.68.235:4022/rtp/232.84.2.85:8910
 #EXTINF:-1,Hà Nam
-http://113.181.99.31:4022/rtp/232.84.2.82:8916
+http://14.167.68.235:4022/rtp/232.84.2.82:8916
 #EXTINF:-1,Hà Nội 1
-http://113.181.99.31:4022/rtp/232.84.1.29:8148
+http://14.167.68.235:4022/rtp/232.84.1.29:8148
 #EXTINF:-1,Hà Nội 2
-http://113.181.99.31:4022/rtp/232.84.1.23:8112
+http://14.167.68.235:4022/rtp/232.84.1.23:8112
 #EXTINF:-1,Hà Tĩnh
-http://113.181.99.31:4022/rtp/232.84.2.96:8922
+http://14.167.68.235:4022/rtp/232.84.2.96:8922
 #EXTINF:-1,Hải Dương
-http://113.181.99.31:4022/rtp/232.84.2.79:8928
+http://14.167.68.235:4022/rtp/232.84.2.79:8928
 #EXTINF:-1,Hải Phòng
-http://113.181.99.31:4022/rtp/232.84.2.104:8934
+http://14.167.68.235:4022/rtp/232.84.2.104:8934
 #EXTINF:-1,Hậu Giang
-http://113.181.99.31:4022/rtp/232.84.2.112:8940
+http://14.167.68.235:4022/rtp/232.84.2.112:8940
 #EXTINF:-1,Hòa Bình
-http://113.181.99.31:4022/rtp/232.84.2.71:8946
+http://14.167.68.235:4022/rtp/232.84.2.71:8946
 #EXTINF:-1,Hưng Yên
-http://113.181.99.31:4022/rtp/232.84.2.84:8952
+http://14.167.68.235:4022/rtp/232.84.2.84:8952
 #EXTINF:-1,Kiên Giang
-http://113.181.99.31:4022/rtp/232.84.2.113:8964
+http://14.167.68.235:4022/rtp/232.84.2.113:8964
 #EXTINF:-1,Kon Tum
-http://113.181.99.31:4022/rtp/232.84.2.66:8970
+http://14.167.68.235:4022/rtp/232.84.2.66:8970
 #EXTINF:-1,Khánh Hoà
-http://113.181.99.31:4022/rtp/232.84.2.99:8958
+http://14.167.68.235:4022/rtp/232.84.2.99:8958
 #EXTINF:-1,Lai Châu
-http://113.181.99.31:4022/rtp/232.84.2.67:9174
+http://14.167.68.235:4022/rtp/232.84.2.67:9174
 #EXTINF:-1,Lạng Sơn
-http://113.181.99.31:4022/rtp/232.84.2.107:8646
+http://14.167.68.235:4022/rtp/232.84.2.107:8646
 #EXTINF:-1,Lào Cai
-http://113.181.99.31:4022/rtp/232.84.2.93:8718
+http://14.167.68.235:4022/rtp/232.84.2.93:8718
 #EXTINF:-1,Lâm Đồng
-http://113.181.99.31:4022/rtp/232.84.2.78:8976
+http://14.167.68.235:4022/rtp/232.84.2.78:8976
 #EXTINF:-1,Long An 34
-http://113.181.99.31:4022/rtp/232.84.1.171:9000
+http://14.167.68.235:4022/rtp/232.84.1.171:9000
 #EXTINF:-1,Nam Định
-http://113.181.99.31:4022/rtp/232.84.2.69:9006
+http://14.167.68.235:4022/rtp/232.84.2.69:9006
 #EXTINF:-1,Ninh Bình
-http://113.181.99.31:4022/rtp/232.84.2.80:9018
+http://14.167.68.235:4022/rtp/232.84.2.80:9018
 #EXTINF:-1,Ninh Thuận
-http://113.181.99.31:4022/rtp/232.84.2.74:9024
+http://14.167.68.235:4022/rtp/232.84.2.74:9024
 #EXTINF:-1,Nghệ An
-http://113.181.99.31:4022/rtp/232.84.2.101:9012
+http://14.167.68.235:4022/rtp/232.84.2.101:9012
 #EXTINF:-1,Phú Thọ
-http://113.181.99.31:4022/rtp/232.84.2.95:9030
+http://14.167.68.235:4022/rtp/232.84.2.95:9030
 #EXTINF:-1,Phú Yên
-http://113.181.99.31:4022/rtp/232.84.1.161:10362
+http://14.167.68.235:4022/rtp/232.84.1.161:10362
 #EXTINF:-1,Quãng Bình
-http://113.181.99.31:4022/rtp/232.84.2.98:9042
+http://14.167.68.235:4022/rtp/232.84.2.98:9042
 #EXTINF:-1,Quảng Nam
-http://113.181.99.31:4022/rtp/232.84.2.81:9048
+http://14.167.68.235:4022/rtp/232.84.2.81:9048
 #EXTINF:-1,Quảng Ninh
-http://113.181.99.31:4022/rtp/232.84.1.181:9060
+http://14.167.68.235:4022/rtp/232.84.1.181:9060
 #EXTINF:-1,Quảng Ngãi
-http://113.181.99.31:4022/rtp/232.84.2.108:9054
+http://14.167.68.235:4022/rtp/232.84.2.108:9054
 #EXTINF:-1,Quảng Trị
-http://113.181.99.31:4022/rtp/232.84.2.105:9066
+http://14.167.68.235:4022/rtp/232.84.2.105:9066
 #EXTINF:-1,Sóc Trăng
-http://113.181.99.31:4022/rtp/232.84.2.103:9072
+http://14.167.68.235:4022/rtp/232.84.2.103:9072
 #EXTINF:-1,Sơn La
-http://113.181.99.31:4022/rtp/232.84.1.184:9078
+http://14.167.68.235:4022/rtp/232.84.1.184:9078
 #EXTINF:-1,Tây Ninh 11
-http://113.181.99.31:4022/rtp/232.84.2.97:9084
+http://14.167.68.235:4022/rtp/232.84.2.97:9084
 #EXTINF:-1,Tiền Giang
-http://113.181.99.31:4022/rtp/232.84.1.189:9108
+http://14.167.68.235:4022/rtp/232.84.1.189:9108
 #EXTINF:-1,Tuyên Quang
-http://113.181.99.31:4022/rtp/232.84.2.91:9138
+http://14.167.68.235:4022/rtp/232.84.2.91:9138
 #EXTINF:-1,Thái Bình
-http://113.181.99.31:4022/rtp/232.84.2.100:9090
+http://14.167.68.235:4022/rtp/232.84.2.100:9090
 #EXTINF:-1,Thái Nguyên 1
-http://113.181.99.31:4022/rtp/232.84.2.87:9096
+http://14.167.68.235:4022/rtp/232.84.2.87:9096
 #EXTINF:-1,Thái Nguyên 2
-http://113.181.99.31:4022/rtp/232.84.2.70:9168
+http://14.167.68.235:4022/rtp/232.84.2.70:9168
 #EXTINF:-1,Thanh Hoá
-http://113.181.99.31:4022/rtp/232.84.2.111:9102
+http://14.167.68.235:4022/rtp/232.84.2.111:9102
 #EXTINF:-1,Thừa Thiên Huế
-http://113.181.99.31:4022/rtp/232.84.2.106:9042
+http://14.167.68.235:4022/rtp/232.84.2.106:9042
 #EXTINF:-1,Trà Vinh
-http://113.181.99.31:4022/rtp/232.84.2.102:8472
+http://14.167.68.235:4022/rtp/232.84.2.102:8472
 #EXTINF:-1,Vĩnh Long 1
-http://113.181.99.31:4022/rtp/232.84.1.195:9144
+http://14.167.68.235:4022/rtp/232.84.1.195:9144
 #EXTINF:-1,Vĩnh Long 2
-http://113.181.99.31:4022/rtp/232.84.1.196:9150
+http://14.167.68.235:4022/rtp/232.84.1.196:9150
 #EXTINF:-1,Vĩnh Phúc
-http://113.181.99.31:4022/rtp/232.84.2.83:9156
+http://14.167.68.235:4022/rtp/232.84.2.83:9156
 #EXTINF:-1,Yên Bái
-http://113.181.99.31:4022/rtp/232.84.2.75:8790
+http://14.167.68.235:4022/rtp/232.84.2.75:8790
 #EXTINF:-1,VOV Giao thông
-http://113.181.99.31:4022/rtp/232.84.1.38:8202
+http://14.167.68.235:4022/rtp/232.84.1.38:8202
 #EXTINF:-1,VOV TV
-http://113.181.99.31:4022/rtp/232.84.1.46:8256
+http://14.167.68.235:4022/rtp/232.84.1.46:8256
 #EXTINF:-1,VOV1
-http://113.181.99.31:4022/rtp/232.84.1.33:8172
+http://14.167.68.235:4022/rtp/232.84.1.33:8172
 #EXTINF:-1,VOV2
-http://113.181.99.31:4022/rtp/232.84.1.37:8196
+http://14.167.68.235:4022/rtp/232.84.1.37:8196
 #EXTINF:-1,VOV3
-http://113.181.99.31:4022/rtp/232.84.1.34:8178
+http://14.167.68.235:4022/rtp/232.84.1.34:8178
 #EXTINF:-1,VTC1
-http://113.181.99.31:4022/rtp/232.84.1.30:8154
+http://14.167.68.235:4022/rtp/232.84.1.30:8154
 
 
 
