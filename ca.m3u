@@ -218,12 +218,20 @@ http://37.192.100.141:81/udp/239.1.8.7:1234
 http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1 ,MTV Hits 
 http://91.149.172.100:80/channel?id=140&u=demo&p=demo 
+#EXTINF:-1,MTV Hits
+http://playlist.onlybest.tv/ru/channel/3886bd9d738921945678d661837e6faf/229/index.m3u8 
 #EXTINF:-1 ,MTV Rocks 
 http://91.149.172.100:80/channel?id=134&u=demo&p=demo 
+#EXTINF:-1,MTV Rocks 
+http://playlist.onlybest.tv/ru/channel/3886bd9d738921945678d661837e6faf/230/index.m3u8
 #EXTINF:-1 ,MTV Dance 
 http://91.149.172.100:80/channel?id=20&u=demo&p=demo 
+#EXTINF:-1,MTV Dance 
+http://playlist.onlybest.tv/ru/channel/3886bd9d738921945678d661837e6faf/228/index.m3u8 
 #EXTINF:-1 ,MTV HD 
 http://91.149.172.100:80/channel?id=4&u=demo&p=demo 
+#EXTINF:-1,MTV Russia 
+http://playlist.onlybest.tv/ru/channel/3886bd9d738921945678d661837e6faf/227/index.m3u8 
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,M tv
