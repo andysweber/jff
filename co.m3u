@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/12/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/12/17 !!
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -1565,89 +1565,89 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,3E
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/591.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/591.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,4E
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/592.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/592.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,5 STAR
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/593.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/593.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ALIBI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/594.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/594.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PICK TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/638.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/638.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,QUEST
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/639.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/639.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RT NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/640.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/640.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RTE 1
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/641.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/641.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RTE 2
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/642.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/642.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ARY DIGITAL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4320.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4320.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,GEO NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4345.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4345.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,GEO TEZZ
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4347.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4347.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,GEO TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4314.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4314.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIME TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4335.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4335.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,UK 44-PK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4424.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4424.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,VENUS TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4434.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4434.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR GOLD 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4530.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4530.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ABP NEWS 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4598.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4598.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AND TV 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4486.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4486.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SAB 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4469.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4469.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SETMAX 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4534.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4534.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TV 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4443.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4443.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR PLUS 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4449.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4449.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE CINEMA 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4502.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4502.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE TV 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4439.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4439.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZING 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4567.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4567.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZOOM TV 
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4566.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4566.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NTV BD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5210.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5210.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BABY TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4686.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4686.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BBC CBEEBIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4696.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4696.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BOOMERANG
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4689.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4689.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CARTOONITO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4678.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4678.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CBBC
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4697.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4697.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CITV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4698.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4698.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISNEY CHANNEL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4675.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4675.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISNEY JR
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4674.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4674.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISNEY XD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4676.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4676.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NICK JR
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4672.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4672.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NICK JR TOO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4671.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4671.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NICKELODEON HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4683.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4683.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NICKTOONS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4682.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4682.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RTE JUNIOR
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4688.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4688.m3u8$http-refferer=http://geostreamz.com/
 
 
 
@@ -3358,201 +3358,201 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,ALICE RAI YOYO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5281.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5281.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ALICE
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5280.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5280.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ANIMAL PLANET
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5282.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5282.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AUTOMOTO TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5284.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5284.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BABY TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5285.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5285.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BIKE CHANNEL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5286.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5286.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BOING
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/863.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/863.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CANALE 5
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/793.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/793.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CANALE 8 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3583.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3583.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CARTOON NETWORK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/806.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/806.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CARTOONITO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4942.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4942.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CIELO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3582.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3582.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CLASS HOURSE TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3576.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3576.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CLASSIC CINEMA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3577.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3577.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CRIME INVESTIGATION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3575.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3575.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISCOVERY HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5288.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5288.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISNEY CHANNEL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3581.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3581.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISNEY XD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3580.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3580.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DMAX
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5290.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5290.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,E20 SICILIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5283.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5283.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,FISHING TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5301.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5301.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,FOCUS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5292.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5292.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,FOX ANIMATION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5293.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5293.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,FOX CRIME HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5294.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5294.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,FOX HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5277.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5277.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,FOX LIFE HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5295.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5295.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,GAMBREO ROSSO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5296.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5296.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,HISTORY HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5297.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5297.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,IRIS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5298.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5298.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,K2
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5302.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5302.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,KDZ-BOING
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4941.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4941.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,LA 7 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5304.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5304.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,M2O H
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5305.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5305.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MANGAS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5306.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5306.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MARCO PLO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5307.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5307.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MEDIASAT 1
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5300.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5300.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MEDIASAT 2
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5299.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5299.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MEDIASAT 5
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5303.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5303.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MEDIASAT EXTRA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5308.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5308.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NAT GEO CHANNEL HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5273.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5273.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NAT GEO WILD HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5309.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5309.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PARAMOUNT HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5310.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5310.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PESCA CACCIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5287.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5287.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM ACTION +24
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5311.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5311.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM ACTION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/836.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/836.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM CINEMA +24
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5312.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5312.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM CINEMA 2 +24
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5313.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5313.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM CINEMA 2 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/834.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/834.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM CINEMA HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5315.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5315.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM COMEDY
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5314.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5314.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM CRIME +24
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5316.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5316.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM CRIME HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5317.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5317.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM EMOTION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3574.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3574.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM ENERGY HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3573.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3573.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM JOY
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3572.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3572.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PREMIUM STORIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/833.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/833.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 1 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3570.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3570.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 10 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5275.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5275.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 11 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5276.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5276.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 2 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3569.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3569.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 3 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3568.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3568.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 4 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3567.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3567.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 5 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3566.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3566.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 6 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3565.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3565.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 7 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3564.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3564.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 8 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/3563.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/3563.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PRIMAFILLA 9 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5274.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5274.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI 1
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/838.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/838.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI 2
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/839.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/839.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI 4
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/840.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/840.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI 5
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/841.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/841.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI GULP
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/842.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/842.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI MOVIE
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/843.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/843.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI NEWS 24
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/844.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/844.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI PREMIUM
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/845.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/845.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI SCUOLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/846.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/846.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RAI STORIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/847.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/847.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,REAL GIALLO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5319.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5319.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,REALTIME
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5320.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5320.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RETE 4
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/849.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/849.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ROMA CHANNEL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5321.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5321.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RSI LA1 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/850.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/850.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RSI LA2 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/851.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/851.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SKY ATLANTIC HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/854.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/854.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SKY CINEMA COMEDY HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5279.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5279.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SKY CINEMA CULT HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5271.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5271.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SKY CINEMA FAMILY HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/860.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/860.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SKY CINEMA MAX HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/861.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/861.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SKY CINEMA PASSION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5278.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5278.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SKY CINEMA UNO HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5272.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5272.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SKY VIRGIN MUSC
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/855.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/855.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SPIKE
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5291.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5291.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STUDIO UNIVERSAL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5318.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5318.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SUPER
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/858.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/858.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TELECOLOR
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/859.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/859.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TG COM 24
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/848.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/848.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TOP CRIME
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/837.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/837.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TRAVEL AND LIVING
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5289.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5289.m3u8$http-refferer=http://geostreamz.com/
 
 
 
@@ -4232,27 +4232,27 @@ http://.....
 
 
 #EXTINF:-1,BOOMERANG
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4718.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4718.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CANAL J
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4717.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4717.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CARTOON NETWORK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4716.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4716.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISNEY JR
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4715.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4715.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISNEY XD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4714.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4714.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,GULLI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4713.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4713.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PIWI +
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4712.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4712.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TELETOON PLUS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4711.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4711.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TFOU TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4719.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4719.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TIJI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4710.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4710.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZOUZOU TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4709.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4709.m3u8$http-refferer=http://geostreamz.com/
 
 
 
@@ -6831,7 +6831,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,BABY TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/471.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/471.m3u8$http-refferer=http://geostreamz.com/
 
 
 
@@ -8022,151 +8022,151 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,24 GHANTA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5188.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5188.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AAKAASH BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5237.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5237.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AAMAR BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5238.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5238.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ABP ANANDA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5202.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5202.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ASIAN TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5222.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5222.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ATN BANGLA UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5220.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5220.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ATN BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5221.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5221.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ATN MUSIC TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5192.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5192.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ATN NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5193.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5193.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BANGLA ETV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5244.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5244.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BANGLA TIMES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5217.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5217.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BANGLA TV UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5219.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5219.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BANGLA VISION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5218.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5218.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BIJOY TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5236.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5236.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BNS1 TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5235.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5235.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BOISHAKHI TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5194.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5194.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BTV WORLD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5233.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5233.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BTV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5234.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5234.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CHANNEL 24
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5191.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5191.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CHANNEL 9
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5215.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5215.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CHANNEL I EU
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5240.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5240.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CHANNEL I
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5239.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5239.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CHANNEL S
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5241.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5241.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,COLORS BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5252.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5252.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DBC NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5232.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5232.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DD BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5242.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5242.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DESH TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5195.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5195.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DESHE BIDESHE TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5196.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5196.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DESHI TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5231.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5231.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DHOOM MUSIC
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5230.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5230.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISCOVERY CHANNEL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5187.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5187.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DOOM MUSIC
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5197.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5197.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,EKATTOR TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5198.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5198.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ETV BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5182.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5182.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,G TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5199.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5199.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,GAAN BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5200.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5200.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,INDEPENDENT TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5201.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5201.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,iTV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5229.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5229.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MAGIC BANGLA TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5203.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5203.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MASRANGA TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5204.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5204.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MILLENNIUM TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5205.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5205.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MOHONA TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5206.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5206.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MOVIE BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5249.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5249.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MUSIC BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5207.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5207.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MY CINEMA TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5189.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5189.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MY TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5214.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5214.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NEWS TIME
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5186.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5186.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NJ24 BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5227.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5227.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NRB TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5208.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5208.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NTV UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5210.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5210.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NTV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5209.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5209.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PROBASHI BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5226.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5226.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,R PLUS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5211.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5211.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RTV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5212.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5212.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RUPOSHI BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5213.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5213.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SANGEET BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5185.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5185.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SATV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5225.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5225.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SK MOVIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5223.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5223.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SOLID MOVIE BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5247.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5247.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SOMOY NEWS TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5250.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5250.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY AATH
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5184.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5184.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR JHALSA MOVIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5246.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5246.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR JHALSA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5254.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5254.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR PRAVAH
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5183.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5183.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TARA MUZIK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5245.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5245.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TIME TELEVISION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5243.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5243.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TV ASIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5224.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5224.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE BANGLA CINEMA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5248.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5248.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE BANGLA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5251.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5251.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,COLORS BANGLA HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5253.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5253.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DEEPTO HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5216.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5216.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DIGI BANGLA HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5190.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5190.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NEWS 24 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5228.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5228.m3u8$http-refferer=http://geostreamz.com/
 
 
 
@@ -8687,473 +8687,473 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,1st INDIA NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4615.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4615.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,9X JALWA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4575.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4575.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AAJ TAK NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4599.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4599.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AAJ TAK UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4600.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4600.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AASTHA BHAJANBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4623.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4623.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AASTHA TVBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4622.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4622.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ANIMAL PLANET HINDI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4629.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4629.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ARIHANTBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4621.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4621.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BBO TV LIVE
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4618.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4618.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BHAKTI SAGAR
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4620.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4620.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BHOJPURI CINEMA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4630.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4630.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CNBC TV18 PRIME HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5090.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5090.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CNN IBN NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4614.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4614.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DD GIRNAR
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4634.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4634.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DD NATIONAL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4635.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4635.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DD NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4636.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4636.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DD SPORTS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5046.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5046.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DD URDU
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4637.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4637.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISCOVERY HINDI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4648.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4648.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISCOVERY SCIENCE HINDI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4639.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4639.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISHA TVBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4641.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4641.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DSPORTS HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5047.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5047.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ET NOW NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4613.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4613.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,FYI TV18 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4625.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4625.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,HISTORY 18 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5091.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5091.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,HISTORY 18 HINDI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4643.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4643.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,HOUSEFULL ACTION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4645.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4645.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,HOUSEFULL MOVIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4646.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4646.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,INDIA TODAY NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4612.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4612.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,INVEST DISCOVERY HINDI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4649.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4649.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,LIVING FOODZ
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4496.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4496.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,LIVING FOODZ USA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4650.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4650.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MAHA MOVIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4651.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4651.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MOVIES HOUSE
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5042.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5042.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MOVIES OK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4544.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4544.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MTV BEATS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4661.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4661.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MTV BEATS HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5089.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5089.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MTV INDIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4572.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4572.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NAT GEO WILD HINDI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4490.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4490.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NDTV 24x7 NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4610.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4610.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NDTV 24x7 UK NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4611.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4611.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NDTV GOODTIMES NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4607.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4607.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NDTV INDIA NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4609.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4609.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NDTV PRIME NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4608.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4608.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NDTV PROFIT NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4606.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4606.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NEWS 9
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4604.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4604.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NEWS NATION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5092.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5092.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NEWS X
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4616.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4616.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,REPUBLIC NEWS TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4627.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4627.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SANSKAR TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4655.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4655.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SANSKAR TVBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4619.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4619.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SETMAX HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5038.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5038.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SHUBHSANDESH TVBHAKTI /
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5044.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5044.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY EARTH HINDI HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5088.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5088.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY MIX
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5041.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5041.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY PAL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4662.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4662.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY ROX HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4664.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4664.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SAB HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5040.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5040.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TV HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4440.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4440.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TV HD-LOW
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4665.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4665.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR BHARAT
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4658.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4658.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR BHARAT HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5043.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5043.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR GOLD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4529.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4529.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR GOLD UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4530.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4530.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR PLUS HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5037.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5037.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR UTSAV MOVIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4657.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4657.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TIMES NOW NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4605.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4605.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TRUE SPORTS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5048.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5048.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,UTV ACTION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5039.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5039.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,UTV MOVIES INTERNATIONAL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4546.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4546.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,WILLOW CRICKET HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5062.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5062.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE ACTION
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4526.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4526.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE CINEMA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4500.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4500.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE CLASSIC
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4503.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4503.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,9XM
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4574.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4574.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AAP KA COLORS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4564.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4564.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ABP NEWS UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4598.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4598.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AND PICTURES HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4537.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4537.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AND TV HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4484.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4484.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AND TV ME
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4485.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4485.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AND TV UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4486.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4486.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,APB NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5093.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5093.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,APN NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4597.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4597.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,B4U MOVIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4543.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4543.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,B4U MUSIC
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4573.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4573.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BHARAT SAMACHAR NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4596.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4596.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BIG MAGIC
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4560.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4560.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,BINDASS PLAY
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4559.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4559.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CHANNEL V
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5114.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5114.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CINEMA TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4550.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4550.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CNBC AWAZ NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4595.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4595.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CNBC PRIME TV18 NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4602.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4602.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CNBC TV18 NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4601.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4601.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,COLORS TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4460.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4460.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,COLORS TV AUS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4464.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4464.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,COLORS TV HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4456.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4456.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,COLORS TV ME
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4461.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4461.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,COLORS TV UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4462.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4462.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DABANGG TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4555.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4555.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DANGAAL TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4557.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4557.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DARSHAN 24BHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5113.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5113.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DD INDIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4561.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4561.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DD UTTAR PARDESH
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4562.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4562.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DELHI AAJTAK NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4594.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4594.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DESI BESTS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4563.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4563.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DHAMAAL TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4556.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4556.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DILLAGI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4558.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4558.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DIVYA TVBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5112.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5112.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,E24
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4569.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4569.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ENTER 10
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4545.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4545.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ETV BIHAR
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4580.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4580.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ETV HARYANA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4579.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4579.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ETV MP NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4578.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4578.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ETV RAJASTHAN
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4577.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4577.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ETV UP NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4576.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4576.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ETV URDU
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4581.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4581.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,FOOD FOOD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4494.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4494.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,GREEN TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5107.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5107.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,HOME SHOP 18
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5108.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5108.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,IBN 7 NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4593.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4593.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,IBN LOKMAT NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4592.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4592.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,INDIA TV NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4591.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4591.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ISHWAR TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5111.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5111.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,JINVANI TV[BHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5110.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5110.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,KATYAYANIBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5109.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5109.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MANORANGAN MOVIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4548.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4548.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MANORANGAN TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4554.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4554.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MASTI TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4553.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4553.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,MUSIC INDIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4571.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4571.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NEWS 24 NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4588.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4588.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ONLY MUSIC HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4656.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4656.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,OSCAR MOVIES BHOJPORI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5106.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5106.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PARAS TVBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5105.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5105.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,PEACE OF MIND
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5104.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5104.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RISHTAY AMERICA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4480.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4480.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RISHTAY ASIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4477.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4477.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RISHTAY CINEPLEX
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4539.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4539.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RISHTAY CINEPLEX UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4540.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4540.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RISHTAY EU
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4478.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4478.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,RISHTEY INDIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4476.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4476.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SADHNA TVBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5103.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5103.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SAHARA SAMAY AALAMI NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4585.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4585.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SAHARA SAMAY BIHAR NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4584.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4584.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SAHARA SAMAY MP NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4583.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4583.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SAHARA SAMAY NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4586.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4586.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SAHARA SAMAY RJ NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4582.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4582.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SAHARA SAMAY UP
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4632.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4632.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SANATANTVBHAKTI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5102.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5102.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SANGEET BHOJPORI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5101.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5101.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SATSANG TVBHAKTI /
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4603.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4603.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SETMAX
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4533.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4533.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SETMAX AUS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4532.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4532.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SOLID CLASSIC MOVIES
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4541.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4541.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SOLID HINDI NEW
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4542.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4542.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY MAX 2
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4535.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4535.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY MAX HD-LOW
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4531.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4531.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SAB ASIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4467.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4467.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SAB TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4466.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4466.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SAB UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4469.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4469.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SETMAX UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4534.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4534.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4441.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4441.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TV ASIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4442.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4442.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TV HD USA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4444.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4444.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TV UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4443.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4443.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SRI VENKATESHWARBHAKTI /
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4626.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4626.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR BHARAT MENA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4474.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4474.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR BHARAT UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4473.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4473.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR BHARAT USA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4471.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4471.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR GOLD HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4528.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4528.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR PLUS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4448.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4448.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR PLUS ME
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4452.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4452.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR PLUS UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4449.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4449.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR UTSAV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4551.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4551.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR UTSAV UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4638.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4638.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SUDARSHAN NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4587.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4587.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TAAZA TV NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4631.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4631.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TEZ TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4488.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4488.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TLC HINDI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4493.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4493.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TRAVEL XP HINDI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4628.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4628.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,UTV BINDAS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4552.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4552.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,VIP NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4491.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4491.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,WOW CINEMA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4547.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4547.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE ANMOL
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4481.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4481.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE ANMOL CINEMA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4487.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4487.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE BUSINESS NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4590.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4590.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE CINEMA HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4499.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4499.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE CINEMA ME
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4501.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4501.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE CINEMA UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4502.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4502.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE ETC BOLLYWOOD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4565.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4565.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE LIVING (INFO)
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4497.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4497.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4589.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4589.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE PURAIYA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4492.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4492.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE RAJASTHAN NEWS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4495.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4495.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE SALAAM
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4489.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4489.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE SANGAM
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5094.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5094.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE TV HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4435.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4435.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE TV HD USA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4436.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4436.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE TV ME
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4438.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4438.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZEE TV UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4439.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4439.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZING INDIA
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4568.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4568.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZING UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4567.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4567.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZOOM TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4538.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4538.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ZOOM TV UK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4566.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4566.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SIX
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5054.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5054.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY SIX HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5055.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5055.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TEN 1
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5052.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5052.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TEN 1 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5053.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5053.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TEN 2
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5051.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5051.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY TEN 2 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5050.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5050.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TEN 3
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5049.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5049.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TEN CRICKET
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5058.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5058.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TEN GOLF HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5087.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5087.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TEN SPORTS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5057.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5057.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR SPORTS FIRST
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5067.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5067.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR SPORTS 1
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5065.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5065.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR SPORTS 1 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5066.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5066.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR SPORTS 1 HINDI HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5061.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5061.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR SPORTS 2
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5063.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5063.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR SPORTS 2 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5064.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5064.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR SPORTS SELECT 1 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5060.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5060.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,STAR SPORTS SELECT 2 HD
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/5059.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/5059.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CARTOON NETWORK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4680.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4680.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISCOVERY KIDS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4723.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4723.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CHUTTI TV
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4693.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4693.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,DISCOVERY KIDS
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4734.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4734.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,CARTOON NETWORK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4732.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4732.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NICK
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4736.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4736.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,NICKELODEON
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4685.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4685.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,POGO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4690.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4690.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,POGO
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4738.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4738.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY YAY
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4700.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4700.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONY YAY
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4742.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4742.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,TOONAMI
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4724.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4724.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,SONIC
-httphost://$http-raw=http://69.30.251.42:25461/live/1/2/4740.m3u8$http-refferer=http://geostreamz.com/
+httphost://$http-raw=http://69.30.251.42:25461/1/2/4740.m3u8$http-refferer=http://geostreamz.com/
 
 
 
