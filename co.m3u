@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,21/12/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,22/12/17
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -4105,7 +4105,7 @@ http://69.30.251.42:25461/live/qqaass/poi/4709.ts|refferer=http://solidstreamz.c
 
 
 
-#EXTINF:8 group-title=”France4-PREMIUM”,
+#EXTINF:8 group-title=”France4-PREMIUM_MXplayer”,
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
 http://..........
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
@@ -6336,8 +6336,7 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/LogoSICold.png/200px-LogoSICold.png" ,SIC
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/53/c5/fd/53c5fdb9a48560eaf89fad665b6f2345--portugal-internet.jpg" ,SPORT TV 1
-rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png" ,TVI
 http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png" ,TVI
@@ -6372,40 +6371,6 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
 
 
 #EXTINF:4 group-title=”Portugal2”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques-hp/sporttv+/medium_sporttv+.jpg" ,SPORT TV +
-http://185.80.220.79:15214/streamM/nnXWDzhPK1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/53/c5/fd/53c5fdb9a48560eaf89fad665b6f2345--portugal-internet.jpg" ,SPORT TV1 
-http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fc/62/4c/fc624c6750899f160eb25e450fb0832e--live-hd-tv-channels.jpg" ,SPORT TV2 
-http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fc/62/4c/fc624c6750899f160eb25e450fb0832e--live-hd-tv-channels.jpg" ,SPORT TV 2
-http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://nowwatchtvlive.net/wp-content/uploads/2011/07/sport-tv3.jpg" ,SPORT TV 3 
-http://185.80.220.79:15214/streamM/0a6vDa0OYU.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://nowwatchtvlive.net/wp-content/uploads/2012/11/Sport-Tv-4.png" ,SPORT TV 4 
-http://185.80.220.79:15214/streamM/0tkVGgd2jl.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-in9jAWWm01M/TaYzAdXgxVI/AAAAAAAAAsU/iHn1Kge6zgo/s200/benfica_tv_zorate.jpg" ,BENFICA TV 
-http://185.80.220.79:15214/streamM/9DOXhIxxsw.stream/playlist.m3u8
-
 
 
 
@@ -6465,157 +6430,210 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,PT: 24 Kitchen
-http://5.189.187.55:8000/live/workfine/skype/2487.ts
-#EXTINF:-1,PT: A bola
-http://5.189.187.55:8000/live/workfine/skype/2478.ts
-#EXTINF:-1,PT: AMC
-http://5.189.187.55:8000/live/workfine/skype/2076.ts
-#EXTINF:-1,PT: AXN BLACK HD
-http://5.189.187.55:8000/live/workfine/skype/2060.ts
-#EXTINF:-1,PT: AXN HD
-http://5.189.187.55:8000/live/workfine/skype/1046.ts
-#EXTINF:-1,PT: AXN WHITE HD
-http://5.189.187.55:8000/live/workfine/skype/2061.ts
-#EXTINF:-1,PT: BABY TV
-http://5.189.187.55:8000/live/workfine/skype/2077.ts
-#EXTINF:-1,PT: Benfica TV 1
-http://5.189.187.55:8000/live/workfine/skype/2542.ts
-#EXTINF:-1,PT: Benfica TV 1 HD
-http://5.189.187.55:8000/live/workfine/skype/1090.ts
-#EXTINF:-1,PT: Caca & Pesca
-http://5.189.187.55:8000/live/workfine/skype/2485.ts
-#EXTINF:-1,PT: Canal Panda
-http://5.189.187.55:8000/live/workfine/skype/2075.ts
-#EXTINF:-1,PT: Cancao Nova
-http://5.189.187.55:8000/live/workfine/skype/2753.ts
-#EXTINF:-1,PT: Cartoon NetWork
-http://5.189.187.55:8000/live/workfine/skype/2484.ts
-#EXTINF:-1,PT: CBS Reality
-http://5.189.187.55:8000/live/workfine/skype/2066.ts
-#EXTINF:-1,PT: CINEMUNDO
-http://5.189.187.55:8000/live/workfine/skype/2059.ts
-#EXTINF:-1,PT: CM TV
-http://5.189.187.55:8000/live/workfine/skype/2078.ts
-#EXTINF:-1,PT: Discovery HD
-http://5.189.187.55:8000/live/workfine/skype/2065.ts
-#EXTINF:-1,PT: Disney Channel
-http://5.189.187.55:8000/live/workfine/skype/2070.ts
-#EXTINF:-1,PT: Disney Junior
-http://5.189.187.55:8000/live/workfine/skype/2071.ts
-#EXTINF:-1,PT: E! Entertaunment
-http://5.189.187.55:8000/live/workfine/skype/2483.ts
-#EXTINF:-1,PT: Euronews
-http://5.189.187.55:8000/live/workfine/skype/2482.ts
-#EXTINF:-1,PT: EuroSport 1 HD
-http://5.189.187.55:8000/live/workfine/skype/2481.ts
-#EXTINF:-1,PT: EUROSPORT HD
-http://5.189.187.55:8000/live/workfine/skype/1973.ts
-#EXTINF:-1,PT: Fox Comedy
-http://5.189.187.55:8000/live/workfine/skype/2144.ts
-#EXTINF:-1,PT: FOX Crime
-http://5.189.187.55:8000/live/workfine/skype/2754.ts
-#EXTINF:-1,PT: FOX Crime HD
-http://5.189.187.55:8000/live/workfine/skype/2480.ts
-#EXTINF:-1,PT: FOX HD
-http://5.189.187.55:8000/live/workfine/skype/1694.ts
-#EXTINF:-1,PT: FOX LIFE HD
-http://5.189.187.55:8000/live/workfine/skype/2064.ts
-#EXTINF:-1,PT: FOX Movies
-http://5.189.187.55:8000/live/workfine/skype/2063.ts
-#EXTINF:-1,PT: Historia
-http://5.189.187.55:8000/live/workfine/skype/2431.ts
-#EXTINF:-1,PT: HollyWood SD/HD
-http://5.189.187.55:8000/live/workfine/skype/2479.ts
-#EXTINF:-1,PT: Motors TV
-http://5.189.187.55:8000/live/workfine/skype/1966.ts
-#EXTINF:-1,PT: MOV HD
-http://5.189.187.55:8000/live/workfine/skype/2432.ts
-#EXTINF:-1,PT: Nat Geo Wild
-http://5.189.187.55:8000/live/workfine/skype/2068.ts
-#EXTINF:-1,PT: Nat Geographic
-http://5.189.187.55:8000/live/workfine/skype/2067.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://5.189.187.55:8000/live/workfine/skype/1972.ts
-#EXTINF:-1,PT: Nickelodeon
-http://5.189.187.55:8000/live/workfine/skype/2074.ts
-#EXTINF:-1,PT: Odisseia
-http://5.189.187.55:8000/live/workfine/skype/2433.ts
-#EXTINF:-1,PT: PANDA BIGGS
-http://5.189.187.55:8000/live/workfine/skype/2073.ts
-#EXTINF:-1,PT: PFC
-http://5.189.187.55:8000/live/workfine/skype/2069.ts
-#EXTINF:-1,PT: Porto Canal
-http://5.189.187.55:8000/live/workfine/skype/2072.ts
-#EXTINF:-1,PT: REAL MADRID TV
-http://5.189.187.55:8000/live/workfine/skype/2079.ts
-#EXTINF:-1,PT: RTP 1
-http://5.189.187.55:8000/live/workfine/skype/1971.ts
-#EXTINF:-1,PT: RTP 2
-http://5.189.187.55:8000/live/workfine/skype/1970.ts
-#EXTINF:-1,PT: RTP 3
-http://5.189.187.55:8000/live/workfine/skype/1969.ts
-#EXTINF:-1,PT: RTP ACORES
-http://5.189.187.55:8000/live/workfine/skype/2058.ts
-#EXTINF:-1,PT: RTP AFRICA
-http://5.189.187.55:8000/live/workfine/skype/2057.ts
-#EXTINF:-1,PT: RTP MADEIRA
-http://5.189.187.55:8000/live/workfine/skype/2055.ts
-#EXTINF:-1,PT: RTP MEMORIA
-http://5.189.187.55:8000/live/workfine/skype/2056.ts
-#EXTINF:-1,PT: SIC
-http://5.189.187.55:8000/live/workfine/skype/1964.ts
-#EXTINF:-1,PT: SIC CARAS
-http://5.189.187.55:8000/live/workfine/skype/2760.ts
-#EXTINF:-1,PT: SIC K
-http://5.189.187.55:8000/live/workfine/skype/2052.ts
-#EXTINF:-1,PT: SIC MULHER
-http://5.189.187.55:8000/live/workfine/skype/2054.ts
-#EXTINF:-1,PT: SIC NOTICIAS
-http://5.189.187.55:8000/live/workfine/skype/2053.ts
-#EXTINF:-1,PT: Sport TV 1 HD
-http://5.189.187.55:8000/live/workfine/skype/1797.ts
-#EXTINF:-1,PT: Sport TV 2 HD
-http://5.189.187.55:8000/live/workfine/skype/2827.ts
-#EXTINF:-1,PT: Sport TV 3 HD
-http://5.189.187.55:8000/live/workfine/skype/2828.ts
-#EXTINF:-1,PT: Sport TV 4 HD
-http://5.189.187.55:8000/live/workfine/skype/2829.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://5.189.187.55:8000/live/workfine/skype/2830.ts
-#EXTINF:-1,PT: SPORT TV AMERICA
-http://5.189.187.55:8000/live/workfine/skype/2477.ts
-#EXTINF:-1,PT: Sporting TV HD
-http://5.189.187.55:8000/live/workfine/skype/2476.ts
-#EXTINF:-1,PT: SyFy
-http://5.189.187.55:8000/live/workfine/skype/2474.ts
-#EXTINF:-1,PT: TLC
-http://5.189.187.55:8000/live/workfine/skype/2389.ts
-#EXTINF:-1,PT: TV Globo
-http://5.189.187.55:8000/live/workfine/skype/2062.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://5.189.187.55:8000/live/workfine/skype/1968.ts
-#EXTINF:-1,PT: TV record
-http://5.189.187.55:8000/live/workfine/skype/1967.ts
-#EXTINF:-1,PT: TV Series
-http://5.189.187.55:8000/live/workfine/skype/1693.ts
-#EXTINF:-1,PT: TVCine 1 HD
-http://5.189.187.55:8000/live/workfine/skype/1059.ts
-#EXTINF:-1,PT: TVCine 2 HD
-http://5.189.187.55:8000/live/workfine/skype/1058.ts
-#EXTINF:-1,PT: TVCine 3 HD
-http://5.189.187.55:8000/live/workfine/skype/1057.ts
-#EXTINF:-1,PT: TVCine 4 HD
-http://5.189.187.55:8000/live/workfine/skype/1056.ts
-#EXTINF:-1,PT: TVI
-http://5.189.187.55:8000/live/workfine/skype/1055.ts
-#EXTINF:-1,PT: TVI 24
-http://5.189.187.55:8000/live/workfine/skype/1054.ts
-#EXTINF:-1,PT: TVI FICCAO
-http://5.189.187.55:8000/live/workfine/skype/2051.ts
-#EXTINF:-1,PT: TVI REALITY
-http://5.189.187.55:8000/live/workfine/skype/2050.ts
-
+#EXTINF:-1,RTP 1 PT
+http://clientportal.link:8080/live/marcelo/123/3208.ts
+#EXTINF:-1,RTP 2 PT
+http://clientportal.link:8080/live/marcelo/123/3209.ts
+#EXTINF:-1,SIC PT
+http://clientportal.link:8080/live/marcelo/123/3227.ts
+#EXTINF:-1,TVI PT
+http://clientportal.link:8080/live/marcelo/123/3214.ts
+#EXTINF:-1,SIC Mulher PT
+http://clientportal.link:8080/live/marcelo/123/9467.ts
+#EXTINF:-1,SIC Caras PT
+http://clientportal.link:8080/live/marcelo/123/9466.ts
+#EXTINF:-1,SIC Radical PT
+http://clientportal.link:8080/live/marcelo/123/9468.ts
+#EXTINF:-1,Canal Q PT
+http://clientportal.link:8080/live/marcelo/123/9465.ts
+#EXTINF:-1,AMC HD PT
+http://clientportal.link:8080/live/marcelo/123/9487.ts
+#EXTINF:-1,Sporting TV HD PT
+http://clientportal.link:8080/live/marcelo/123/3246.ts
+#EXTINF:-1,AXN HD PT
+http://clientportal.link:8080/live/marcelo/123/3255.ts
+#EXTINF:-1,AXN Black HD PT
+http://clientportal.link:8080/live/marcelo/123/5551.ts
+#EXTINF:-1,AXN White HD PT
+http://clientportal.link:8080/live/marcelo/123/3242.ts
+#EXTINF:-1,FOX HD PT
+http://clientportal.link:8080/live/marcelo/123/3232.ts
+#EXTINF:-1,FOX Crime HD PT
+http://clientportal.link:8080/live/marcelo/123/5549.ts
+#EXTINF:-1,FOX Life HD PT
+http://clientportal.link:8080/live/marcelo/123/3233.ts
+#EXTINF:-1,Syfy PT
+http://clientportal.link:8080/live/marcelo/123/3226.ts
+#EXTINF:-1,FOX Comedy PT
+http://clientportal.link:8080/live/marcelo/123/9489.ts
+#EXTINF:-1,TV Cine 1 PT
+http://clientportal.link:8080/live/marcelo/123/15796.ts
+#EXTINF:-1,TV Cine 1 HD PT
+http://clientportal.link:8080/live/marcelo/123/5545.ts
+#EXTINF:-1,TV Cine 2 PT
+http://clientportal.link:8080/live/marcelo/123/15797.ts
+#EXTINF:-1,TV Cine 2 HD PT
+http://clientportal.link:8080/live/marcelo/123/5546.ts
+#EXTINF:-1,TV Cine 3 PT
+http://clientportal.link:8080/live/marcelo/123/15798.ts
+#EXTINF:-1,TV Cine 3 HD PT
+http://clientportal.link:8080/live/marcelo/123/5547.ts
+#EXTINF:-1,TV Cine 4 PT
+http://clientportal.link:8080/live/marcelo/123/15799.ts
+#EXTINF:-1,TV Cine 4 HD PT
+http://clientportal.link:8080/live/marcelo/123/5548.ts
+#EXTINF:-1,Canal Hollywood HD PT
+http://clientportal.link:8080/live/marcelo/123/3307.ts
+#EXTINF:-1,FOX Movies HD PT
+http://clientportal.link:8080/live/marcelo/123/5550.ts
+#EXTINF:-1,Cine Mundo PT
+http://clientportal.link:8080/live/marcelo/123/5544.ts
+#EXTINF:-1,E! PT
+http://clientportal.link:8080/live/marcelo/123/3257.ts
+#EXTINF:-1,BBC Entertainment PT
+http://clientportal.link:8080/live/marcelo/123/9488.ts
+#EXTINF:-1,CBS Reality PT
+http://clientportal.link:8080/live/marcelo/123/3215.ts
+#EXTINF:-1,TV Séries HD PT
+http://clientportal.link:8080/live/marcelo/123/3304.ts
+#EXTINF:-1,TVI Ficção PT
+http://clientportal.link:8080/live/marcelo/123/5542.ts
+#EXTINF:-1,TVI Reality PT
+http://clientportal.link:8080/live/marcelo/123/9464.ts
+#EXTINF:-1,Caça e Pesca PT
+http://clientportal.link:8080/live/marcelo/123/5543.ts
+#EXTINF:-1,National Geographic HD PT
+http://clientportal.link:8080/live/marcelo/123/3306.ts
+#EXTINF:-1,National Geographic Wild PT
+http://clientportal.link:8080/live/marcelo/123/5556.ts
+#EXTINF:-1,Discovery Channel PT
+http://clientportal.link:8080/live/marcelo/123/3247.ts
+#EXTINF:-1,Discovery Showcase HD PT
+http://clientportal.link:8080/live/marcelo/123/3253.ts
+#EXTINF:-1,TLC PT
+http://clientportal.link:8080/live/marcelo/123/9496.ts
+#EXTINF:-1,Odisseia PT
+http://clientportal.link:8080/live/marcelo/123/3230.ts
+#EXTINF:-1,MTV PT
+http://clientportal.link:8080/live/marcelo/123/9478.ts
+#EXTINF:-1,Travel Channel HD PT
+http://clientportal.link:8080/live/marcelo/123/9497.ts
+#EXTINF:-1,Nickelodeon PT
+http://clientportal.link:8080/live/marcelo/123/3240.ts
+#EXTINF:-1,História PT
+http://clientportal.link:8080/live/marcelo/123/3238.ts
+#EXTINF:-1,24 Kitchen HD PT
+http://clientportal.link:8080/live/marcelo/123/3243.ts
+#EXTINF:-1,Fashion TV PT
+http://clientportal.link:8080/live/marcelo/123/9495.ts
+#EXTINF:-1,MCS LifeStyle PT
+http://clientportal.link:8080/live/marcelo/123/3220.ts
+#EXTINF:-1,Trace Urban PT
+http://clientportal.link:8080/live/marcelo/123/3219.ts
+#EXTINF:-1,BabyFirst TV PT
+http://clientportal.link:8080/live/marcelo/123/7855.ts
+#EXTINF:-1,Baby TV PT
+http://clientportal.link:8080/live/marcelo/123/9490.ts
+#EXTINF:-1,SIC K PT
+http://clientportal.link:8080/live/marcelo/123/3228.ts
+#EXTINF:-1,Disney Channel PT
+http://clientportal.link:8080/live/marcelo/123/3310.ts
+#EXTINF:-1,Disney Junior PT
+http://clientportal.link:8080/live/marcelo/123/3258.ts
+#EXTINF:-1,JimJam PT
+http://clientportal.link:8080/live/marcelo/123/9491.ts
+#EXTINF:-1,Cartoon Network PT
+http://clientportal.link:8080/live/marcelo/123/5554.ts
+#EXTINF:-1,Panda Biggs PT
+http://clientportal.link:8080/live/marcelo/123/5553.ts
+#EXTINF:-1,Canal Panda PT
+http://clientportal.link:8080/live/marcelo/123/3239.ts
+#EXTINF:-1,RTP Memória PT
+http://clientportal.link:8080/live/marcelo/123/3212.ts
+#EXTINF:-1,RTP África PT
+http://clientportal.link:8080/live/marcelo/123/5539.ts
+#EXTINF:-1,RTP Madeira PT
+http://clientportal.link:8080/live/marcelo/123/3211.ts
+#EXTINF:-1,RTP Açores PT
+http://clientportal.link:8080/live/marcelo/123/3210.ts
+#EXTINF:-1,Porto Canal PT
+http://clientportal.link:8080/live/marcelo/123/5538.ts
+#EXTINF:-1,TV Globo PT
+http://clientportal.link:8080/live/marcelo/123/9471.ts
+#EXTINF:-1,TV Globo Premium PT
+http://clientportal.link:8080/live/marcelo/123/3217.ts
+#EXTINF:-1,Record Europa PT
+http://clientportal.link:8080/live/marcelo/123/3249.ts
+#EXTINF:-1,Afro Music Channel PT
+http://clientportal.link:8080/live/marcelo/123/3250.ts
+#EXTINF:-1,C Music TV PT
+http://clientportal.link:8080/live/marcelo/123/3259.ts
+#EXTINF:-1,VH1 Classic PT
+http://clientportal.link:8080/live/marcelo/123/9475.ts
+#EXTINF:-1,TV Canção Nova PT
+http://clientportal.link:8080/live/marcelo/123/3237.ts
+#EXTINF:-1,RTP 3 PT
+http://clientportal.link:8080/live/marcelo/123/3213.ts
+#EXTINF:-1,CM TV PT
+http://clientportal.link:8080/live/marcelo/123/3236.ts
+#EXTINF:-1,SIC Notícias PT
+http://clientportal.link:8080/live/marcelo/123/3229.ts
+#EXTINF:-1,TVI 24 PT
+http://clientportal.link:8080/live/marcelo/123/5536.ts
+#EXTINF:-1,FOX News PT
+http://clientportal.link:8080/live/marcelo/123/9476.ts
+#EXTINF:-1,Eurosport News PT
+http://clientportal.link:8080/live/marcelo/123/9483.ts
+#EXTINF:-1,TVI HD PT
+http://clientportal.link:8080/live/marcelo/123/5537.ts
+#EXTINF:-1,Toros TV PT
+http://clientportal.link:8080/live/marcelo/123/5555.ts
+#EXTINF:-1,Sport TV + PT
+http://clientportal.link:8080/live/marcelo/123/9499.ts
+#EXTINF:-1,Sport TV 1 PT
+http://clientportal.link:8080/live/marcelo/123/7846.ts
+#EXTINF:-1,Sport TV 1 HD PT
+http://clientportal.link:8080/live/marcelo/123/3221.ts
+#EXTINF:-1,Sport TV 1 FHD PT
+http://clientportal.link:8080/live/marcelo/123/17744.ts
+#EXTINF:-1,Sport TV 2 PT
+http://clientportal.link:8080/live/marcelo/123/7845.ts
+#EXTINF:-1,Sport TV 2 FHD PT
+http://clientportal.link:8080/live/marcelo/123/3222.ts
+#EXTINF:-1,Sport TV 3 PT
+http://clientportal.link:8080/live/marcelo/123/7844.ts
+#EXTINF:-1,Sport TV 3 FHD PT
+http://clientportal.link:8080/live/marcelo/123/3223.ts
+#EXTINF:-1,Sport TV 4 PT
+http://clientportal.link:8080/live/marcelo/123/7843.ts
+#EXTINF:-1,Sport TV 4 FHD PT
+http://clientportal.link:8080/live/marcelo/123/3224.ts
+#EXTINF:-1,Sport TV 5 PT
+http://clientportal.link:8080/live/marcelo/123/7842.ts
+#EXTINF:-1,Benfica TV 1 PT
+http://clientportal.link:8080/live/marcelo/123/3308.ts
+#EXTINF:-1,Benfica TV 1 HD PT
+http://clientportal.link:8080/live/marcelo/123/5541.ts
+#EXTINF:-1,Sporting TV PT
+http://clientportal.link:8080/live/marcelo/123/3305.ts
+#EXTINF:-1,A Bola TV PT
+http://clientportal.link:8080/live/marcelo/123/5540.ts
+#EXTINF:-1,Eurosport 1 PT
+http://clientportal.link:8080/live/marcelo/123/7851.ts
+#EXTINF:-1,Eurosport 1 HD PT
+http://clientportal.link:8080/live/marcelo/123/3234.ts
+#EXTINF:-1,Eurosport 2 PT
+http://clientportal.link:8080/live/marcelo/123/9482.ts
+#EXTINF:-1,Motorvision PT
+http://clientportal.link:8080/live/marcelo/123/9485.ts
+#EXTINF:-1,PFC PT
+http://clientportal.link:8080/live/marcelo/123/3248.ts
+#EXTINF:-1,Canal Nos PT
+http://clientportal.link:8080/live/marcelo/123/9470.ts
+#EXTINF:-1,Sport TV 5 FHD PT
+http://clientportal.link:8080/live/marcelo/123/16297.ts
+#EXTINF:-1,MCS Extrême PT
+http://clientportal.link:8080/live/marcelo/123/3231.ts
 
 
 
@@ -9897,25 +9915,29 @@ http://bein.website/movecast/beIN.m3u8?id=bein10-hq
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates3_PREMIUM”,
+#EXTINF:9 group-title=”United.Arab.Emirates3_PREMIUM-MXPlayer”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
 
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
-http://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-http://www.youtube.com/watch?v=t4RRga0RUr8
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-http://www.youtube.com/watch?v=t4RRga0RUr8
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-http://www.youtube.com/watch?v=t4RRga0RUr8
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-http://www.youtube.com/watch?v=t4RRga0RUr8
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-http://www.youtube.com/watch?v=t4RRga0RUr8
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-http://www.youtube.com/watch?v=t4RRga0RUr8
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
