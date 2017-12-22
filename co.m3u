@@ -6372,10 +6372,31 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
 
 #EXTINF:4 group-title=”Portugal2”,
 
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
-
-
-
+#EXTINF:-1 tvg-logo="https://lut.im/RRGSLkRCr8/KBpnydHkgy2os13K.png" ,Universal Channel SD
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/4F32KnFQFb/nDsYHifKpFOSceBQ.png" ,Disney XD SD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" ,Fox
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8?FELIPEGRAIN
+#EXTINF:-1,NICK
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" , TNT
+http://tv.ec.cx:1935/redecanais-stream-tnt/myStream/playlist.m3u8?TECHNOID
 
 
 
