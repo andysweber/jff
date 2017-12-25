@@ -1009,10 +1009,6 @@ rtmp://vxdiptv.zapto.org/live/stream
 
 #EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
 http://..........
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SERVER MAINTENANCE
-http://.....
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SOMETIMES OFFLINE
-http://.....
 
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -1753,10 +1749,6 @@ http://69.30.251.42:25461/live/qqaass/poi/4688.ts|refferer=http://solidstreamz.c
 
 #EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
 http://..........
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SERVER MAINTENANCE
-http://.....
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SOMETIMES OFFLINE
-http://.....
 
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -3197,10 +3189,6 @@ http://ip.fannan.se:8000/live/098/098/8081.ts
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
 http://..........
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SERVER MAINTENANCE
-http://.....
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SOMETIMES OFFLINE
-http://.....
 
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -3981,10 +3969,6 @@ http://ip.fannan.se:8000/live/098/098/7332.ts
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
 http://..........
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SERVER MAINTENANCE
-http://.....
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SOMETIMES OFFLINE
-http://.....
 
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -5011,10 +4995,6 @@ http://ip.fannan.se:8000/live/098/098/8080.ts
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
 http://..........
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SERVER MAINTENANCE
-http://.....
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SOMETIMES OFFLINE
-http://.....
 
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -6869,10 +6849,6 @@ httphost://$http-raw=http://69.30.251.42:25461/1/2/471.m3u8$http-refferer=http:/
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
 http://..........
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SERVER MAINTENANCE
-http://.....
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,SOMETIMES OFFLINE
-http://.....
 
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
 https://www.youtube.com/watch?v=t4RRga0RUr8
