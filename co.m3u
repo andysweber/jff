@@ -67,7 +67,7 @@ http://master.cystreams.com:25461/live/greek/kalahan/15.ts
 http://master.cystreams.com:25461/live/greek/kalahan/119.ts
 #EXTINF:0 tvg-logo=http://www.tvmall.com.cy/images/logo2.png ,TV Mall
 https://www.youtube.com/watch?v=46k1mMe_DYE
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
 http://hls.istoikona.net:1935/CYSPORTS/CYSPORTS/playlist.m3u8
 #EXTINF:-1 tvg-name="MAD TV" epg-id=MADTV.gr tvg-logo=https://goo.gl/WK8fHZ ,MAD CY
 rtmp://144.76.2.213/live/livestream
