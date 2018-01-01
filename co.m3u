@@ -2082,7 +2082,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer
 
 
 
-#EXTINF:8 group-title=”UK3-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”UK3-PREMIUM-MXPlayer”,
 
 #EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
 http://..........
@@ -2091,7 +2091,7 @@ http://..........
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy Player.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -2109,37 +2109,41 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,3E
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/591.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/591.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,4E
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/592.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/592.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,5 STAR
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/593.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/593.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ALIBI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/594.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/594.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PICK TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/638.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/638.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,QUEST
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/639.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/639.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RT NEWS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/640.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/640.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTE 1
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/641.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/641.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTE 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/642.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,TV ONE UK
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5008.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/642.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BABY TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/595.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,DISNEY XD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/618.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,DISNEY JR
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/617.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,DISNEY CHANNEL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/616.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,NICK JR TOO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/635.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/595.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NICKELODEON
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/637.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/637.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,NICK JR TOO
+http://195.154.26.52:25461/live/go/google/635.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,DISNEY XD
+http://195.154.26.52:25461/live/go/google/618.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,DISNEY JR
+http://195.154.26.52:25461/live/go/google/617.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,DISNEY CHANNEL
+http://195.154.26.52:25461/live/go/google/616.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,TV ONE
+http://195.154.26.52:25461/live/go/google/5008.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,PEACE TV
+http://195.154.26.52:25461/live/go/google/4999.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,BANGLA TV
+http://195.154.26.52:25461/live/go/google/3476.ts|refferer=http://geostreamz.com/&user-agent=789
 
 
 
@@ -3235,7 +3239,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Italy2-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Italy2-PREMIUM-MXPlayer”,
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
 http://..........
@@ -3244,7 +3248,7 @@ http://..........
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy Player.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -3262,203 +3266,204 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,ALICE RAI YOYO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5281.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5281.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ALICE
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5280.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5280.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ANIMAL PLANET
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5282.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5282.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AUTOMOTO TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5284.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5284.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BABY TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5285.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5285.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BIKE CHANNEL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5286.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5286.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BOING
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/863.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/863.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANALE 5
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/793.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/793.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANALE 8 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3583.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3583.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CARTOON NETWORK
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/806.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/806.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CIELO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3582.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3582.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CLASS HOURSE TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3576.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3576.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CLASSIC CINEMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3577.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3577.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CRIME INVESTIGATION
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3575.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3575.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISCOVERY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5288.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5288.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISNEY CHANNEL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3581.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3581.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISNEY JR
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/815.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/815.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISNEY XD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3580.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3580.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DMAX
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5290.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5290.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,E20 SICILIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5283.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5283.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FISHING TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5301.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5301.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOCUS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5292.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5292.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX ANIMATION
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5293.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5293.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX CRIME HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5294.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5294.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5277.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5277.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX LIFE HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5295.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5295.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,GAMBREO ROSSO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5296.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5296.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,HISTORY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5297.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5297.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,IRIS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5298.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5298.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,K2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5302.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5302.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,LA 7 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5304.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5304.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,M2O H
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5305.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5305.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,MANGAS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5306.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5306.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,MARCO PLO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5307.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5307.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,MEDIASAT 1
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5300.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5300.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,MEDIASAT 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5299.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5299.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,MEDIASAT 5
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5303.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5303.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,MEDIASAT EXTRA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5308.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5308.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NAT GEO CHANNEL HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5273.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5273.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NAT GEO WILD HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5309.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5309.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PARAMOUNT HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5310.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5310.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PESCA CACCIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5287.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5287.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM ACTION +24
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5311.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5311.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM ACTION
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/836.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/836.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM CINEMA +24
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5312.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5312.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM CINEMA 2 +24
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5313.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5313.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM CINEMA 2 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/834.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/834.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM CINEMA HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5315.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5315.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM COMEDY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5314.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5314.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM CRIME +24
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5316.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5316.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM CRIME HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5317.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5317.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM EMOTION
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3574.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3574.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM ENERGY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3573.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3573.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM JOY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3572.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3572.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PREMIUM STORIES
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/833.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/833.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 1 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3570.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3570.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 10 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5275.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5275.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 11 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5276.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5276.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 2 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3569.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3569.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 3 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3568.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3568.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 4 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3567.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3567.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 5 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3566.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3566.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 6 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3565.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3565.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 7 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3564.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3564.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 8 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3563.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3563.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRIMAFILLA 9 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5274.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5274.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI 1
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/838.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/838.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/839.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/839.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI 4
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/840.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/840.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI 5
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/841.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/841.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI GULP
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/842.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/842.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI MOVIE
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/843.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/843.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI NEWS 24
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/844.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/844.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI PREMIUM
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/845.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/845.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI SCUOLA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/846.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/846.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RAI STORIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/847.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/847.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,REAL GIALLO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5319.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5319.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,REALTIME
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5320.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5320.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RETE 4
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/849.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/849.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ROMA CHANNEL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5321.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5321.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RSI LA1 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/850.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/850.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RSI LA2 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/851.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/851.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY ATLANTIC HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/854.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/854.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA COMEDY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5279.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5279.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA CULT HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5271.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5271.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA FAMILY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/860.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/860.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA MAX HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/861.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/861.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA PASSION
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5278.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5278.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA UNO HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5272.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5272.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY VIRGIN MUSC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/855.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/855.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SPIKE
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5291.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5291.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,STUDIO UNIVERSAL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5318.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5318.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SUPER
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/858.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/858.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TELECOLOR
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/859.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/859.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TG COM 24
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/848.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/848.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TOP CRIME
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/837.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/837.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TRAVEL AND LIVING
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5289.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,CARTOONITO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4942.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5289.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BOING
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4941.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4941.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,CARTOONITO
+http://195.154.26.52:25461/live/go/google/4942.ts|refferer=http://geostreamz.com/&user-agent=789
+
 
 
 
@@ -4335,7 +4340,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”France2-PREMIUM-Wuffy_PLAYER”,
+#EXTINF:8 group-title=”France2-PREMIUM-MXPLAYER”,
 
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
@@ -4344,7 +4349,7 @@ http://..........
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy Player.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -4362,62 +4367,61 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,ANIMUX
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/789.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/789.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL CINEMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/791.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/791.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL DECALE
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/792.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/792.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL FAMILY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/794.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/794.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV 1
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/796.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/796.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/797.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/797.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV3
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/799.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/799.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV4
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/800.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/800.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV5
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/801.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/801.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV6
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/802.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/802.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV7
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/803.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/803.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV8
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/804.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/804.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV9
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/805.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/805.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL PPV10
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/798.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/798.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL SERIES
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/795.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/795.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NAT GEO CHANNEL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/824.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/824.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PLANETE PLUS CI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/832.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,GULLI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4912.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,PIWI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4925.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,TELETOON PLUS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4930.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,TELETOON PLUS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4929.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,TFOU TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4933.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,TIJI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4934.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ZOUZOUS TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4940.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,DISNEY CHANNEL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4909.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,CARTOON NETWORK
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4905.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/832.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BOOMERANG
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4880.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4880.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL J
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4885.m3u8$http-refferer=http://geostreamz.com/
-
+http://195.154.26.52:25461/live/go/google/4885.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,CARTOON NETWORK
+http://195.154.26.52:25461/live/go/google/4905.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,DISNEY CHANNEL
+http://195.154.26.52:25461/live/go/google/4909.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,GULLI
+http://195.154.26.52:25461/live/go/google/4912.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,PIWI
+http://195.154.26.52:25461/live/go/google/4925.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,TELETOON PLUS
+http://195.154.26.52:25461/live/go/google/4930.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,TELETOON PLUS_
+http://195.154.26.52:25461/live/go/google/4929.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,TFOU TV
+http://195.154.26.52:25461/live/go/google/4933.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,TIJI
+http://195.154.26.52:25461/live/go/google/4934.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,ZOUZOUS TV
+http://195.154.26.52:25461/live/go/google/4940.ts|refferer=http://geostreamz.com/&user-agent=789
 
 
 
@@ -5370,7 +5374,7 @@ http://162.218.64.56:83/live/13218546/34152019/95115.ts
 
 
 
-#EXTINF:8 group-title=”Germany1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Germany1-PREMIUM-MXPlayer”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
 http://..........
@@ -5379,7 +5383,7 @@ http://..........
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy Player.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -5396,138 +5400,139 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,DISNEY CHANNEL HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4943.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,AXN
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/526.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/526.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BOOMERANG
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/527.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/527.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CARTOON NETWORK
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/528.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/528.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISCOVERY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/529.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/529.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISNEY CHANNEL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/530.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/530.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISNEY CINEMAGIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/531.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/531.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISNEY JUNIOR
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/532.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/532.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISNEY XD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/533.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/533.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DMAX
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/534.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/534.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/537.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/537.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,HISTORY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/538.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/538.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,KABEL EINS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/539.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/539.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,KIKA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/540.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/540.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,KINO WELT HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/541.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/541.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NAT GEO CHANNEL HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/543.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/543.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NAT GEO WILD HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/544.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/544.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PRO7 MAXX HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/546.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/546.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ROMANCE TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/547.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/547.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTL 2 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/548.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/548.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTL CRIME HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/549.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/549.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTL HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/550.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/550.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTL LIVING HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/551.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/551.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTL NITRO HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/552.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/552.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTL PASSION HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/553.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/553.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTL PLUS HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/554.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/554.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SAT.1 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/555.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/555.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SIXX HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/556.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/556.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY ATLANTIC HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/577.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/577.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA 24 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/559.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/559.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA ACTION HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/557.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/557.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA COMEDY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/563.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/563.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA EMOTION HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/560.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/560.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA FAMILY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/561.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/561.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/562.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/562.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA HITS HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/565.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/565.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,13th STREET HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/564.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/564.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY KIRIMI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/542.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/542.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY SELECT 9 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/566.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/566.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY SELECT 2 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/567.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/567.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY SELECT 3 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/568.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/568.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY SELECT 4 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/569.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/569.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY SELECT 5 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/570.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/570.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY SELECT 6 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/571.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/571.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY SELECT 7 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/572.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/572.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY SELECT 8 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/573.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SPORT 1 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/574.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/573.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,SPORT 1 HD 
+http://195.154.26.52:25461/live/go/google/574.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY SPORTS NEWS HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/576.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/576.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SONY CHANNEL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/579.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/579.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SPIEGEL GESCHICHTE
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/580.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SKY SPORT 1 HD 
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/581.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SUPER RTL HD 
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/582.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/580.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,SKY SPORT 1 HD
+http://195.154.26.52:25461/live/go/google/581.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,SUPER RTL HD
+http://195.154.26.52:25461/live/go/google/582.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SYFY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/578.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/578.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TLC HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/583.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/583.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TNT COMEDY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/584.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/584.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TNT FILM HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/585.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/585.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TNT SERIES HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/586.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/586.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/587.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/587.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,VOX HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/588.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/588.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ZDF HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/589.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/589.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ZEE ONE HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/590.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/590.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DELUX MUSIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/788.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/788.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,EURO NEWS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/816.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/816.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,N24 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/823.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/823.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ORF EINS HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/829.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/829.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SKY CINEMA 1 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/857.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/857.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,DISNEY CHANNEL HD
+http://195.154.26.52:25461/live/go/google/4943.ts|refferer=http://geostreamz.com/&user-agent=789
+
 
 
 
@@ -6363,7 +6368,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Spain3-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Spain3-PREMIUM-MXPlayer”,
 
 #EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
 http://..........
@@ -6372,7 +6377,7 @@ http://..........
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy Player.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -6390,22 +6395,21 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,M DEPORTES
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4966.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4966.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,M DEPORTES 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4967.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4967.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,GOL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4965.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4965.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANALTOROS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4964.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4964.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL GOLF
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4962.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4962.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL LIGA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4963.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4963.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL FUTBOL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4961.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4961.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BEIN SPORT EN HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4960.m3u8$http-refferer=http://geostreamz.com/
-
+http://195.154.26.52:25461/live/go/google/4960.ts|refferer=http://geostreamz.com/&user-agent=789
 
 
 
@@ -7419,7 +7423,7 @@ http://162.218.64.56:83/live/13218546/34152019/92571.ts
 
 
 
-#EXTINF:8 group-title=”Portugal1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title=”Portugal1-PREMIUM-MXPlayer”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
 http://..........
@@ -7428,7 +7432,7 @@ http://..........
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy PLAYER.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -7445,148 +7449,148 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,DISNEY CHANNEL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/644.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,DISNEY JUNIOR
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/645.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,BABY TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/471.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,CANAL PANDA KIDS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/477.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,CARTOON NETWORK
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/643.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,BIGGS KIDS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/473.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,24 KITCHEN
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/463.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/463.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,A BOLA TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/465.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/465.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,A&E
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/464.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/464.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AFRO MUSIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/466.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/466.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AMC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/467.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/467.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AXN BLACK HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/468.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/468.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AXN HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/469.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/469.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AXN WHITE HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/470.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/470.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CACA E PESCA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/474.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/474.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CACAVISION
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/475.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/475.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL HISTORIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/476.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/476.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANAL Q
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/478.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/478.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CBS REALITY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/479.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/479.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CINE MUNDO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/481.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/481.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CM TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/482.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/482.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISCOVERY SHOWCASE HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/484.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/484.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISCOVERY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/483.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/483.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,E! ENTERTAINMENT
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/646.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/646.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,EURO NEWS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/647.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/647.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FASHION TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/648.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/648.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX COMEDY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/649.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/649.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX CRIME HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/650.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/650.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/651.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/651.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX LIFE HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/652.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/652.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,FOX MOVIES
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/653.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/653.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,HWD HOLLYWOOD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/654.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/654.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,JIM JAM KIDS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/655.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/655.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,MCS EXTREME
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/656.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/656.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,MOV HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/657.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/657.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,MTV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/658.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/658.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NAT GEO CHANNEL HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/659.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/659.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NAT GEO WILD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/660.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/660.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NICKELODEON
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/661.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/661.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ODISSEIA TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/662.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/662.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PORTO CANAL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/663.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/663.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RECORD NEWS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/664.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/664.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTP 1
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/665.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/665.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTP 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/666.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/666.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTP 3
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/669.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/669.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTP AÇORES
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/692.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/692.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTP ÁFRICA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/693.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/693.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTP MADERIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/667.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/667.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,RTP MEMORIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/668.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/668.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SBT BRASIL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/694.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/694.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SIC CARAS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/671.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/671.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SIC KIDS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/672.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/672.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SIC MULHER
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/673.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/673.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SIC NOTÍCIAS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/674.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/674.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SIC RADICAL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/675.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/675.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/670.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/670.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SYFY HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/677.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/677.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TLC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/678.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/678.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TOROS TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/679.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/679.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TRACE URBAN
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/680.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/680.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TRAVEL CHANNEL HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/681.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/681.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TV GLOBO PREMIUM
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/682.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/682.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TVCINE 1 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/683.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/683.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TVCINE 2 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/684.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/684.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TVCINE 3 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/685.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/685.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TVCINE 4 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/686.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/686.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TVCINE SERIES HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/687.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/687.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TVI 24
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/689.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/689.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TVI FICCAO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/690.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/690.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TVI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/688.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/688.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,VH1
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/691.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/691.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,BIGGS KIDS
+http://195.154.26.52:25461/live/go/google/473.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,CANAL PANDA KIDS
+http://195.154.26.52:25461/live/go/google/477.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,CARTOON NETWORK
+http://195.154.26.52:25461/live/go/google/643.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,DISNEY CHANNEL
+http://195.154.26.52:25461/live/go/google/644.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,DISNEY JUNIOR
+http://195.154.26.52:25461/live/go/google/645.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,BABY TV
+http://195.154.26.52:25461/live/go/google/471.ts|refferer=http://geostreamz.com/&user-agent=789
 
 
 
@@ -9242,7 +9246,7 @@ http://195.154.26.52:25461/live/data/ask/5228.ts|refferer=http://solidstreamz.co
 
 
 
-#EXTINF:9 group-title=”Bangladesh-Wuffy_Player”,
+#EXTINF:9 group-title=”Bangladesh-MXPlayer”,
 
 #EXTINF:1 tvg-logo=http://www.virtualbangladesh.com/wp-content/uploads/2014/10/eagr1dmg.bmp ,=Bangladesh=
 http://..........
@@ -9251,7 +9255,7 @@ http://..........
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy PLAYER.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -9269,16 +9273,19 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,BANGLA TV UK
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3476.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3476.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NEWS 24 HD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3487.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3487.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SK MOVIES
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3480.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3480.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SOLID MOVIE BANGLA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3511.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3511.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,iTV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3488.m3u8$http-refferer=http://geostreamz.com/
-
+http://195.154.26.52:25461/live/go/google/3488.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,IQRA TV BANGLA
+http://195.154.26.52:25461/live/go/google/5022.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,PEACE TV BANGLA
+http://195.154.26.52:25461/live/go/google/5012.ts|refferer=http://geostreamz.com/&user-agent=789
 
 
 
@@ -10245,7 +10252,7 @@ http://195.154.26.52:25461/live/data/ask/4740.ts|refferer=http://solidstreamz.co
 
 
 
-#EXTINF:9 group-title=”India2-premium-Wuffy_Player”,
+#EXTINF:9 group-title=”India2-premium-MXPlayer”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png ,==India==
 http://..........
@@ -10254,7 +10261,7 @@ http://..........
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy PLAYER.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -10274,49 +10281,52 @@ http://.....
 
 
 #EXTINF:-1,NEWS NATION (NEWS)
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3634.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3634.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,KHABRAIN ABHI TAK (NEWS)
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3662.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3662.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,KHABAR FAST (NEWS)
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3663.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3663.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,JANATA TV (NEWS)
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3665.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3665.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PEACE OF MIND
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/3673.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/3673.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CANADA ONE
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4233.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4233.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISCOVERY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/4985.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/4985.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,TV ONE NEWS
+http://195.154.26.52:25461/live/go/google/4089.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CARTOON NETWORK HINDI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5023.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5023.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CARTOON NETWORK TAMIL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5024.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5024.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,CARTOON NETWORK TELUGU
+http://195.154.26.52:25461/live/go/google/5025.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,POGO HINDI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5030.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5030.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,POGO TAMIL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5031.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5031.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SONIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5032.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5032.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SONIC TAMIL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5033.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5033.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SONY YAY TAMIL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5034.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5034.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SONY YAY TELUGU
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5035.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5035.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TOONAMI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5036.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SONIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/636.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5036.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NICKELODEON TAMIL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5029.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5029.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,NICKELODEON HINDI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5028.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,NICK JR
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/634.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5028.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISCOVERY KIDS HINDI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5026.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5026.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DISCOVERY KIDS TAMIL
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/5027.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/5027.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,NET TV
+http://195.154.26.52:25461/live/go/google/4088.ts|refferer=http://geostreamz.com/&user-agent=789
+
 
 
 
@@ -11237,7 +11247,7 @@ http://bein.website/movecast/beIN.m3u8?id=bein10-hq
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates2-Wuffy_PLAYER”,
+#EXTINF:9 group-title=”United.Arab.Emirates2-MXPLAYER”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
@@ -11246,7 +11256,7 @@ http://..........
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy PLAYER.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -11263,180 +11273,89 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,MBC 4
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/704.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,MBC ACTION
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/702.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,MBC BOLLYWOOD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/700.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,MBC DRAMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/707.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,MBC MASAR
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/708.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,MBC MAX
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/706.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,MELODY AFLAM
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/730.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,MELODY CLASSIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/729.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,MOGA COMEDY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/728.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,MTV LEBANON
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/751.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,NATIONAL GEOGRAPHIC AD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/762.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,NBN
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/755.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,NILE FAMILY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/738.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,OMAN TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/781.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,PANORAMA COMEDY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/726.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,PANORAMA DRAMA 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/725.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,PANORAMA DRAMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/724.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,PANORAMA FOOD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/727.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ROTANA AFLAM
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/721.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ROTANA CINEMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/719.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ROTANA CLASSIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/718.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ROTANA CLIP
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/717.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ROTANA KHALIJIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/723.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ROTANA MASSRIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/722.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ROTANA MUSIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/720.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,RUSSIA TODAY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/754.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ABU DHABI DARAMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/763.m3u8$http-refferer=http://geostreamz.com/
 #EXTINF:-1,ABU DHABI TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/750.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/750.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AL AAN TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/774.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/774.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AL AKHBARIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/745.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,AL ARABIYA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/767.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/745.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AL HAYAT 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/743.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,AL JADEED
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/742.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,AL JAZEERA DOC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/773.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,AL MAJD
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/766.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,AL MASRIYAH
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/744.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/743.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,AL MASRIYAH-AR
+http://195.154.26.52:25461/live/go/google/744.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,AL SHARGIYA NEWS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/772.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,AL-NAHAR DRAMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/748.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,Al-NAHAR TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/749.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ALJAZEERA ARABIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/771.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/772.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,ANN NEWS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/770.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,B4U AFLAM
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/695.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,B4U PLUS
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/696.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/770.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BAHRAIN QURAN TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/785.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,BAHRAIN TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/787.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,BBC ARABIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/768.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/785.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,BTV CHANNEL 55
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/786.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/786.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CAIRO DRAMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/715.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/715.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CBC DRAMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/713.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/713.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CBC EXTRA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/712.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/712.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CBC SOFRA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/714.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/714.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,PT-CBC TWO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/710.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,CBC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/711.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/710.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CINEMA PRO
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/734.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/734.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,CNBC ARABIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/747.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/747.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DABANGA TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/778.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,DUBAI ONE
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/764.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/778.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DUBAI OULA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/746.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,DUBAI TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/759.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/746.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DUBAI ZAMAN
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/765.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/765.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,DW ARABIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/769.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,FRANCE 24 ARABIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/741.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,FUNOON TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/740.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,FUTURE TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/784.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,IMAGINE MOVIES
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/697.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,JORDON TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/783.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,KAIFA TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/782.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,KTV 1
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/775.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,KTV 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/776.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,LBC SAT
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/739.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SAMA DUBAI
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/737.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SAMA SYRIA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/760.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/769.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,MBC 4
+http://195.154.26.52:25461/live/go/google/704.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,MBC MASAR
+http://195.154.26.52:25461/live/go/google/708.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,MBC MAX
+http://195.154.26.52:25461/live/go/google/706.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,MELODY AFLAM
+http://195.154.26.52:25461/live/go/google/730.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,MELODY CLASSIC
+http://195.154.26.52:25461/live/go/google/729.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,MOGA COMEDY
+http://195.154.26.52:25461/live/go/google/728.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,NATIONAL GEOGRAPHIC AD
+http://195.154.26.52:25461/live/go/google/762.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,OMAN TV
+http://195.154.26.52:25461/live/go/google/781.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,PANORAMA COMEDY
+http://195.154.26.52:25461/live/go/google/726.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,PANORAMA DRAMA 2
+http://195.154.26.52:25461/live/go/google/725.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,PANORAMA DRAMA
+http://195.154.26.52:25461/live/go/google/724.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,PANORAMA FOOD
+http://195.154.26.52:25461/live/go/google/727.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,ROTANA AFLAM
+http://195.154.26.52:25461/live/go/google/721.ts|refferer=http://geostreamz.com/&user-agent=789
+#EXTINF:-1,RUSSIA TODAY
+http://195.154.26.52:25461/live/go/google/754.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SAT 7 ARABIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/780.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SAUDI TV 1
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/752.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SAUDI TV 2
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/753.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/780.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SCOPE TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/736.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/736.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SHADA TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/779.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SHARJAH TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/761.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SKY NEWS ARABIC
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/735.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SYRIA DRAMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/757.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/779.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,SYRIA NOUR EL SHAM
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/756.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,SYRIA TV
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/758.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/756.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TIME CINEMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/732.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/732.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TIME COMEDY
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/731.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/731.ts|refferer=http://geostreamz.com/&user-agent=789
 #EXTINF:-1,TOK TOK CINEMA
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/733.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ZEE AFLAM
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/698.m3u8$http-refferer=http://geostreamz.com/
-#EXTINF:-1,ZEE ALWAN
-httphost://$http-raw=1http://195.154.26.52:25461/1/2/699.m3u8$http-refferer=http://geostreamz.com/
+http://195.154.26.52:25461/live/go/google/733.ts|refferer=http://geostreamz.com/&user-agent=789
+
 
 
 
