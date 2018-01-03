@@ -1057,6 +1057,62 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
 
+#EXTINF:1 group-title="Portugal",
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" , FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" , FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" ,Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1 tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" , Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:-1 tvg-logo="http://www.radiomania.com.br/wp-content/themes/radiomania/imagens/mobile/logo.png" , Radio Mania Volta Redonda
+http://radio.servercsi.com.br:8595/;
+#EXTINF:-1 tvg-logo="" , CBN SP 90.5 FM - Estudio Ao Vivo
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.vibe89fm.com/sites/all/themes/vibe/images/logo.png" ,Vibe FM
+http://servidor36.brlogic.com:8180/live
+#EXTINF:-1 tvg-logo="http://scontent.cdninstagram.com/t51.2885-15/e35/18809077_168874756980065_1499174367781715968_n.jpg?ig_cache_key=MTUyNjgxMzIzMDU4NzE3MjE2Mw%3D%3D.2" ,Top Rio FM
+http://streaming32.hstbr.net:8334/live
+#EXTINF:-1 tvg-logo="http://www.radioemrevista.com/wp-content/uploads/2016/06/fanatica_fm_press_2.png" ,Fanatica FM
+http://noasrv.caster.fm:10156/live
+#EXTINF:-1 tvg-logo="http://player.crosshost.com.br/playerdev/assets/img/clientes/609/8258b880a641ff4627d31d6b54cf25d7.png" ,CIDADE DO ACO
+http://ice1.crossradio.com.br:8184/live.mp3
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/--AonEe0rnSs/VKiRI2KwU7I/AAAAAAAAYVE/dPJmgQGy9ho/s1600/RADIO_MARINGA_FM_POMBAL_PB.png" ,Radio Maringa
+http://ice1.fabricahost.com.br:8010/live.128
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio8832_1439401341.jpg" ,Transamerica
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/821813567343226881/tWaRDe7v.jpg" ,truckers fm
+https://radio.truckers.fm/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/bt_RzlGDjJc-xofszZE2yYf16gIAK7B5Y8qjTjFpZIeVNbN22kptqKKnxwOfWjlaRA=w150" ,Funk Mania Net
+http://199.233.234.10:17438/
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" ,Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" ,Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" ,Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" ,Vagalume Pagode
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:5 group-title="HUNGARY",
 
