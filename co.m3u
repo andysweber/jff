@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,10/01/18
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,12/01/18
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -122,7 +122,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/apatis/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=tCXz1AbmhrU
+https://www.youtube.com/watch?v=iXNGE21QeGA
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/6/63/Alpha_Sat.png ,ALPHA SAT
@@ -2125,33 +2125,6 @@ http://..........
 
 #EXTINF:4 group-title=”Romania3”,
 
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg/250px-Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg.png ,=ROMANIA=
-http://..........
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:0,digiSport1 
-http://91.224.178.12:7001/Apple/digiSport1/.m3u8 
-#EXTINF:0,digiSport2 
-http://91.224.178.12:7001/Apple/digiSport2/.m3u8 
-#EXTINF:0,digiSport3 
-http://91.224.178.12:7001/Apple/digiSport3/.m3u8 
-#EXTINF:0,digifilm 
-http://91.224.178.12:7001/Apple/digifilm/.m3u8 
-#EXTINF:0,digiworld 
-http://91.224.178.12:7001/Apple/digiworld/.m3u8 
 
 
 
@@ -2617,6 +2590,370 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
+
+#EXTINF:-1 tvg-ID="" tvg-name="Caccia" tvg-logo="" ,Caccia
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/17732.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai1_HD" tvg-logo="" ,Rai1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5947.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai2_HD" tvg-logo="" ,Rai2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5948.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai3_HD" tvg-logo="" ,Rai3_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5949.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai4_HD" tvg-logo="" ,Rai4_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5950.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai5" tvg-logo="" ,Rai5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5951.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai_Premium" tvg-logo="" ,Rai_Premium
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5909.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai_Movie" tvg-logo="" ,Rai_Movie
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5910.ts
+#EXTINF:-1 tvg-ID="" tvg-name="italia1_HD" tvg-logo="" ,italia1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5935.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rete4_HD" tvg-logo="" ,Rete4_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6060.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canale5_HD" tvg-logo="" ,Canale5_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5943.ts
+#EXTINF:-1,----- SKY_ITALY_CINEMA-----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10186.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema1_HD" tvg-logo="" ,Sky_Cinema1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5876.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema+1_HD" tvg-logo="" ,Sky_Cinema+1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA24_HD" tvg-logo="" ,SKY_CINEMA24_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5880.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema_Max_HD" tvg-logo="" ,Sky_Cinema_Max_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5878.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema_Max+1_HD" tvg-logo="" ,Sky_Cinema_Max+1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema_Hits_HD" tvg-logo="" ,Sky_Cinema_Hits_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5879.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema_Family_HD" tvg-logo="" ,Sky_Cinema_Family_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5873.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema_Comedy_HD" tvg-logo="" ,Sky_Cinema_Comedy_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5875.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema_Passion_HD" tvg-logo="" ,Sky_Cinema_Passion_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5872.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema_Cult_HD" tvg-logo="" ,Sky_Cinema_Cult_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5874.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Cinema_Classic_HD" tvg-logo="" ,Sky_Cinema_Classic_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5877.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_3D" tvg-logo="" ,SKY_3D
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6790.ts
+#EXTINF:-1,----- SKY_ITALY_SPORTS-----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10187.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Sport1_HD" tvg-logo="" ,Sky_Sport1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5852.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Sport2_HD" tvg-logo="" ,Sky_Sport2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5853.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Sport3_HD" tvg-logo="" ,Sky_Sport3_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKYSPORTS_PLUS" tvg-logo="" ,SKYSPORTS_PLUS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Sport_24_HD" tvg-logo="" ,Sky_Sport_24_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5855.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Moto_GP_HD" tvg-logo="" ,Sky_Moto_GP_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super_Tennis_HD" tvg-logo="" ,Super_Tennis_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5864.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_F1_HD" tvg-logo="" ,SKY_F1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5931.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox_Sports1_HD" tvg-logo="" ,Fox_Sports1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5850.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport_1_HD" tvg-logo="" ,Eurosport_1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6085.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport_2_HD" tvg-logo="" ,Eurosport_2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6084.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai_Sport1" tvg-logo="" ,Rai_Sport1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6083.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai_Sport2" tvg-logo="" ,Rai_Sport2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6088.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport_Italia" tvg-logo="" ,Sport_Italia
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6082.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Supercalcio_HD" tvg-logo="" ,Sky_Supercalcio_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5851.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Calcio1_HD" tvg-logo="" ,Sky_Calcio1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5856.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Calcio_2_HD" tvg-logo="" ,Sky_Calcio_2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5857.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Calcio_3_HD" tvg-logo="" ,Sky_Calcio_3_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5858.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Calcio_4_HD" tvg-logo="" ,Sky_Calcio_4_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5859.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Calcio_5_HD" tvg-logo="" ,Sky_Calcio_5_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5860.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Calcio_6_HD" tvg-logo="" ,Sky_Calcio_6_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7764.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAZIO CHANNEL" tvg-logo="" ,LAZIO CHANNEL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7765.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GAMBERO_RUSSO" tvg-logo="" ,GAMBERO_RUSSO
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7766.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Atlantic_HD" tvg-logo="" ,Sky_Atlantic_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5881.ts
+#EXTINF:-1,----- SKY_ITALY_ENTERTAINMENT-----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RETE55" tvg-logo="" ,RETE55
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5904.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox_HD" tvg-logo="" ,Fox_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5937.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox_Life_HD" tvg-logo="" ,Fox_Life_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5936.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STUDIO_UNIVERSAL" tvg-logo="" ,STUDIO_UNIVERSAL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox_Comedy_HD" tvg-logo="" ,Fox_Comedy_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5939.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox_Crime_HD" tvg-logo="" ,Fox_Crime_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5938.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K2" tvg-logo="" ,K2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6072.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELE8" tvg-logo="" ,TELE8
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6071.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NUVALARIE__tv" tvg-logo="" ,NUVALARIE__tv
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8643.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RETE_SPORT" tvg-logo="" ,RETE_SPORT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6074.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VERA_TV" tvg-logo="" ,VERA_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6075.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mediaset_Extra" tvg-logo="" ,Mediaset_Extra
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6065.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEDIASET_ITALIA2" tvg-logo="" ,MEDIASET_ITALIA2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6066.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Uno_HD" tvg-logo="" ,Sky_Uno_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5883.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV7_DIGITAL" tvg-logo="" ,TV7_DIGITAL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dmax_HD" tvg-logo="" ,Dmax_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6076.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top_Crime" tvg-logo="" ,Top_Crime
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6064.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA5" tvg-logo="" ,LA5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="canal7" tvg-logo="" ,canal7
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_SQUALA" tvg-logo="" ,RAI_SQUALA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alice" tvg-logo="" ,Alice
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6069.ts
+#EXTINF:-1 tvg-ID="" tvg-name="paramount" tvg-logo="" ,paramount
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5934.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUPER_TV" tvg-logo="" ,SUPER_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6080.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FINE_LIVING" tvg-logo="" ,FINE_LIVING
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6078.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La7_HD" tvg-logo="" ,La7_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6061.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL21_NAPOLI" tvg-logo="" ,CANAL21_NAPOLI
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CACCIA&PESCA" tvg-logo="" ,CACCIA&PESCA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Iris" tvg-logo="" ,Iris
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6081.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Giallo" tvg-logo="" ,Giallo
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cielo" tvg-logo="" ,Cielo
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5942.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TG_NOBRA24" tvg-logo="" ,TG_NOBRA24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6095.ts
+#EXTINF:-1 tvg-ID="" tvg-name="focus" tvg-logo="" ,focus
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RETESOLO" tvg-logo="" ,RETESOLO
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6079.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Real_Time" tvg-logo="" ,Real_Time
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6077.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Virgin_TV" tvg-logo="" ,Virgin_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CI_CRIME" tvg-logo="" ,CI_CRIME
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7768.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV_2000" tvg-logo="" ,TV_2000
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6158.ts
+#EXTINF:-1 tvg-ID="" tvg-name="vedeo calabria" tvg-logo="" ,vedeo calabria
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_ATLANTIC+1" tvg-logo="" ,SKY_ATLANTIC+1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="super" tvg-logo="" ,super
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6109.ts
+#EXTINF:-1,----- SKY_ITALY_DOCUMENTS-----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Pesca_e_Caccia" tvg-logo="" ,Pesca_e_Caccia
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5882.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National_Geo_HD" tvg-logo="" ,National_Geo_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5932.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo_Wild_HD" tvg-logo="" ,NatGeo_Wild_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5905.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NatGeo_People_HD" tvg-logo="" ,NatGeo_People_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5933.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery_HD" tvg-logo="" ,Discovery_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5941.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery_Science_HD" tvg-logo="" ,Discovery_Science_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6093.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery_Travel_&_Living_HD" tvg-logo="" ,Discovery_Travel_&_Living_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6096.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal_Planet" tvg-logo="" ,Animal_Planet
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_History_HD" tvg-logo="" ,Sky_History_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6094.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIDEO_CALABRIA_TV" tvg-logo="" ,VIDEO_CALABRIA_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6111.ts
+#EXTINF:-1,----- SKY_ITALY_KIDS-----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10189.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CARTOON_NETWORK" tvg-logo="" ,SKY_CARTOON_NETWORK
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT_VIRTUALLY" tvg-logo="" ,SPORT_VIRTUALLY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FRISBEE_MINI" tvg-logo="" ,FRISBEE_MINI
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO_NOBRA" tvg-logo="" ,RADIO_NOBRA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_XD" tvg-logo="" ,DISNEY_XD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6099.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoonito" tvg-logo="" ,Cartoonito
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6092.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boing" tvg-logo="" ,Boing
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5944.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai_Yoyo" tvg-logo="" ,Rai_Yoyo
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai_Gulp" tvg-logo="" ,Rai_Gulp
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6101.ts
+#EXTINF:-1,----- SKY_ITALY_GENERAL-----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10188.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SkyTG_24" tvg-logo="" ,SkyTG_24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_TG_24" tvg-logo="" ,Sky_TG_24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5884.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai_News_24" tvg-logo="" ,Rai_News_24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6067.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV8_MUSICA" tvg-logo="" ,MTV8_MUSICA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6159.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMPANY_Tv" tvg-logo="" ,COMPANY_Tv
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M2o_Tv" tvg-logo="" ,M2o_Tv
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6136.ts
+,#EXTINF:-1,----- SKY_ITALY_PRIMAFILLA-----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10192.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila1_HD" tvg-logo="" ,Sky_Primafila1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5885.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila2_HD" tvg-logo="" ,Sky_Primafila2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5886.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila3_HD" tvg-logo="" ,Sky_Primafila3_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5887.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila4_HD" tvg-logo="" ,Sky_Primafila4_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5888.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila5_HD" tvg-logo="" ,Sky_Primafila5_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5889.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila6_HD" tvg-logo="" ,Sky_Primafila6_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5890.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila7_HD" tvg-logo="" ,Sky_Primafila7_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5891.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila8_HD" tvg-logo="" ,Sky_Primafila8_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5892.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila9_HD" tvg-logo="" ,Sky_Primafila9_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5893.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila10_HD" tvg-logo="" ,Sky_Primafila10_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5894.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila11_HD" tvg-logo="" ,Sky_Primafila11_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila12_HD" tvg-logo="" ,Sky_Primafila12_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5896.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila13_HD" tvg-logo="" ,Sky_Primafila13_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5897.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila14_HD" tvg-logo="" ,Sky_Primafila14_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5898.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila15_HD" tvg-logo="" ,Sky_Primafila15_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5899.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila16_HD" tvg-logo="" ,Sky_Primafila16_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5900.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Primafila17_HD" tvg-logo="" ,Sky_Primafila17_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5901.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MARCOPOLO" tvg-logo="" ,MARCOPOLO
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5902.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV BRAND NEW" tvg-logo="" ,MTV BRAND NEW
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5903.ts
+#EXTINF:-1,-----PREMIUM_CINEMA-----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10194.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Cinema_HD" tvg-logo="" ,Premium_Cinema_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5920.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Cinema2_HD" tvg-logo="" ,Premium_Cinema2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5926.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Cinema2_24" tvg-logo="" ,Premium_Cinema2_24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Cinema24" tvg-logo="" ,Premium_Cinema24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5927.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_DISNEY__XD" tvg-logo="" ,SKY_DISNEY__XD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Action_HD" tvg-logo="" ,Premium_Action_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5922.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_ACTION _24" tvg-logo="" ,PREMIUM_ACTION _24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Crime" tvg-logo="" ,Premium_Crime
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5924.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Crime24" tvg-logo="" ,Premium_Crime24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5919.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Crime_24" tvg-logo="" ,Premium_Crime_24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Comedy" tvg-logo="" ,Premium_Comedy
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5925.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Stories" tvg-logo="" ,Premium_Stories
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Emotion" tvg-logo="" ,Premium_Emotion
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5917.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Energy" tvg-logo="" ,Premium_Energy
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5916.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Joy" tvg-logo="" ,Premium_Joy
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5913.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Studio_Universal" tvg-logo="" ,Premium_Studio_Universal
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5911.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_STORIES24" tvg-logo="" ,Premium_STORIES24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_ENERGY +24" tvg-logo="" ,PREMIUM_ENERGY +24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5908.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JOY24" tvg-logo="" ,JOY24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5923.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_DISNEY_JUNIOR" tvg-logo="" ,PREMIUM_DISNEY_JUNIOR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_DISNEY_CHANNEL" tvg-logo="" ,PREMIUM_DISNEY_CHANNEL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5928.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO_105" tvg-logo="" ,RADIO_105
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5918.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_K2" tvg-logo="" ,PREMIUM_K2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6115.ts
+#EXTINF:-1,-----PREMIUM_SPORTS-----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10193.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_CARTOON_NETWORK" tvg-logo="" ,Premium_CARTOON_NETWORK
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Sport" tvg-logo="" ,Premium_Sport
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5912.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_SPORTS2" tvg-logo="" ,Premium_SPORTS2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8642.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Calcio_HD" tvg-logo="" ,Premium_Calcio_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5921.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Calcio1" tvg-logo="" ,Premium_Calcio1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5929.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Calcio2" tvg-logo="" ,Premium_Calcio2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5930.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Calcio3_HD" tvg-logo="" ,Premium_Calcio3_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Calcio4_HD" tvg-logo="" ,Premium_Calcio4_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Calcio5_HD" tvg-logo="" ,Premium_Calcio5_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Calcio6_HD" tvg-logo="" ,Premium_Calcio6_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_JOI+24" tvg-logo="" ,Premium_JOI+24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6122.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3227,7 +3564,468 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="BeIN Sport 1 ( Backup )" tvg-logo="" ,BeIN Sport 1 ( Backup )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15399.ts
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="BeIN Sport 2 ( Backup )" tvg-logo="" ,BeIN Sport 2 ( Backup )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15398.ts
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="BeIN Sport 3 ( Backup )" tvg-logo="" ,BeIN Sport 3 ( Backup )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15397.ts
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="BEIN SPORT 3 HD" tvg-logo="" ,BEIN SPORT 3 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15400.ts
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="BEINSPORT 1 HD" tvg-logo="" ,BEINSPORT 1 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15402.ts
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="BEINSPORT 2 HD" tvg-logo="" ,BEINSPORT 2 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15401.ts
+#EXTINF:-1 tvg-ID="BeInSportMax4.fr" tvg-name="BEINSPORT_MAX4" tvg-logo="" ,BEINSPORT_MAX4
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15386.ts
+#EXTINF:-1 tvg-ID="BeInSportMax5.fr" tvg-name="BEINSPORT_MAX5" tvg-logo="" ,BEINSPORT_MAX5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15385.ts
+#EXTINF:-1 tvg-ID="BeInSportMax6.fr" tvg-name="BEINSPORT MAX 6" tvg-logo="" ,BEINSPORT MAX 6
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15384.ts
+#EXTINF:-1 tvg-ID="BeInSportMax7.fr" tvg-name="BEINSPORT MAX 7" tvg-logo="" ,BEINSPORT MAX 7
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15383.ts
+#EXTINF:-1 tvg-ID="BeInSportMax8.fr" tvg-name="BEINSPORT MAX 8" tvg-logo="" ,BEINSPORT MAX 8
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15382.ts
+#EXTINF:-1 tvg-ID="SFRSport1.fr" tvg-name="SFR Sport 1 HD" tvg-logo="" ,SFR Sport 1 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15407.ts
+#EXTINF:-1 tvg-ID="SFRSport2.fr" tvg-name="SFR Sport 2 HD" tvg-logo="" ,SFR Sport 2 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15406.ts
+#EXTINF:-1 tvg-ID="SFRSport3.fr" tvg-name="SFR Sport 3 HD" tvg-logo="" ,SFR Sport 3 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15405.ts
+#EXTINF:-1 tvg-ID="Toonami.fr" tvg-name="Treck HD" tvg-logo="" ,Treck HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15404.ts
+#EXTINF:-1 tvg-ID="SFRSport5.fr" tvg-name="SFR Sport 5 HD" tvg-logo="" ,SFR Sport 5 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15403.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT>Bein Sports HD 1 FRANCE" tvg-logo="" ,Bein Sports HD 1 FRANCE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15999.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT>Bein Sports HD 2 FRANCE" tvg-logo="" ,Bein Sports HD 2 FRANCE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15998.ts
+#EXTINF:-1 tvg-ID="TF1.fr" tvg-name="TF1 HD" tvg-logo="" ,TF1 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15432.ts
+#EXTINF:-1 tvg-ID="M6.fr" tvg-name="M6 HD" tvg-logo="" ,M6 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15426.ts
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="FRANCE 2" tvg-logo="" ,FRANCE 2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15431.ts
+#EXTINF:-1 tvg-ID="France3.fr" tvg-name="France 3" tvg-logo="" ,France 3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15430.ts
+#EXTINF:-1 tvg-ID="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="" ,FRANCE 4 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15429.ts
+#EXTINF:-1 tvg-ID="France5.fr" tvg-name="FRANCE 5" tvg-logo="" ,FRANCE 5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15428.ts
+#EXTINF:-1 tvg-ID="FranceO.fr" tvg-name="FRANCE O" tvg-logo="" ,FRANCE O
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*~*~*~*~* Chaines Canal  *~*~*~*~*" tvg-logo="" ,*~*~*~*~* Chaines Canal  *~*~*~*~*
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15380.ts
+#EXTINF:-1 tvg-ID="CANALplus.fr" tvg-name="CANAL PLUS HD" tvg-logo="" ,CANAL PLUS HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15379.ts
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="CANAL PLUS SPORT" tvg-logo="" ,CANAL PLUS SPORT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15395.ts
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="CANAL SPORT" tvg-logo="" ,CANAL SPORT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15394.ts
+#EXTINF:-1 tvg-ID="CANALplusCINEMA.fr" tvg-name="CANAL  CINEMA HD" tvg-logo="" ,CANAL  CINEMA HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15376.ts
+#EXTINF:-1 tvg-ID="CANALplusFamily.fr" tvg-name="CANAL FAMILY HD" tvg-logo="" ,CANAL FAMILY HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15377.ts
+#EXTINF:-1 tvg-ID="CanalplusSeries.fr" tvg-name="Canal  SERIES HD" tvg-logo="" ,Canal  SERIES HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15375.ts
+#EXTINF:-1 tvg-ID="CANALplusDECALE.fr" tvg-name="Canal Decale HD" tvg-logo="" ,Canal Decale HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15373.ts
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="CANAL ACTION HD" tvg-logo="" ,CANAL ACTION HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15374.ts
+#EXTINF:-1 tvg-ID="CinecinemaFrisson.fr" tvg-name="CINE  FRISSON" tvg-logo="" ,CINE  FRISSON
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15372.ts
+#EXTINF:-1 tvg-ID="CinecinemaEmotion.fr" tvg-name="Cine  Emotion" tvg-logo="" ,Cine  Emotion
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15371.ts
+#EXTINF:-1 tvg-ID="CinecinemaFamiz.fr" tvg-name="Cine Famiz HD" tvg-logo="" ,Cine Famiz HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15370.ts
+#EXTINF:-1 tvg-ID="CinecinemaClub.fr" tvg-name="CINE CLUB" tvg-logo="" ,CINE CLUB
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15458.ts
+#EXTINF:-1 tvg-ID="CinecinemaPremier.fr" tvg-name="CINE PREMIER" tvg-logo="" ,CINE PREMIER
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15446.ts
+#EXTINF:-1 tvg-ID="CinecinemaPremier.fr" tvg-name="CINE  PREMIER HD" tvg-logo="" ,CINE  PREMIER HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15378.ts
+#EXTINF:-1 tvg-ID="CinecinemaClassic.fr" tvg-name="CINE  CLASSIC" tvg-logo="" ,CINE  CLASSIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15368.ts
+#EXTINF:-1 tvg-ID="OrangeCinechoc.fr" tvg-name="OCS CHOC" tvg-logo="" ,OCS CHOC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15359.ts
+#EXTINF:-1 tvg-ID="OrangeCineHappy.fr" tvg-name="OCS CITY HD" tvg-logo="" ,OCS CITY HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15358.ts
+#EXTINF:-1 tvg-ID="OrangeCineGeants.fr" tvg-name="OCS GEANTS" tvg-logo="" ,OCS GEANTS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15360.ts
+#EXTINF:-1 tvg-ID="OrangeCinemax.fr" tvg-name="OCS MAX" tvg-logo="" ,OCS MAX
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15361.ts
+#EXTINF:-1 tvg-ID="action FR" tvg-name="Action HD" tvg-logo="" ,Action HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15331.ts
+#EXTINF:-1 tvg-ID="CineFX.fr" tvg-name="CINE FX" tvg-logo="" ,CINE FX
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15362.ts
+#EXTINF:-1 tvg-ID="CinePolar.fr" tvg-name="CINE POLAR" tvg-logo="" ,CINE POLAR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TCM CINEMA" tvg-logo="" ,TCM CINEMA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15449.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*~*~*~*~* Sport *~*~*~*~*" tvg-logo="" ,*~*~*~*~* Sport *~*~*~*~*
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15408.ts
+#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="INFOSPORT" tvg-logo="" ,INFOSPORT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15393.ts
+#EXTINF:-1 tvg-ID="Foot24.fr" tvg-name="FOOT 24" tvg-logo="" ,FOOT 24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15391.ts
+#EXTINF:-1 tvg-ID="EquipeTV.fr" tvg-name="L'EQUIPE21" tvg-logo="" ,L'EQUIPE21
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15350.ts
+#EXTINF:-1 tvg-ID="Eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="" ,EUROSPORT 1 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15388.ts
+#EXTINF:-1 tvg-ID="Eurosport2.fr" tvg-name="EUROSPORT 2 HD" tvg-logo="" ,EUROSPORT 2 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15387.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KOMBAT SPORT HD" tvg-logo="" ,KOMBAT SPORT HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15381.ts
+#EXTINF:-1 tvg-ID="MaChaineSport.fr" tvg-name="MA CHAINE SPORT" tvg-logo="" ,MA CHAINE SPORT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15396.ts
+#EXTINF:-1 tvg-ID="EquidiaLive.fr" tvg-name="EQUIDIA LIVE" tvg-logo="" ,EQUIDIA LIVE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15333.ts
+#EXTINF:-1 tvg-ID="OLTV.fr" tvg-name="OLTV" tvg-logo="" ,OLTV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15389.ts
+#EXTINF:-1 tvg-ID="BFMSport.fr" tvg-name="BFM SPORT" tvg-logo="" ,BFM SPORT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15390.ts
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="GOLF+HD" tvg-logo="" ,GOLF+HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15447.ts
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="GOLF CHANNEL" tvg-logo="" ,GOLF CHANNEL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15392.ts
+#EXTINF:-1 tvg-ID="ABMoteurs.fr" tvg-name="AB MOTEUR" tvg-logo="" ,AB MOTEUR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15456.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*~*~*~*~* Séries et divertissement *~*~*~*~*" tvg-logo="" ,*~*~*~*~* Séries et divertissement *~*~*~*~*
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15357.ts
+#EXTINF:-1 tvg-ID="13RUE.fr" tvg-name="13EME RUE" tvg-logo="" ,13EME RUE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15417.ts
+#EXTINF:-1 tvg-ID="SerieClub.fr" tvg-name="SERIE CLUB HD" tvg-logo="" ,SERIE CLUB HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15366.ts
+#EXTINF:-1 tvg-ID="Teva.fr" tvg-name="TEVA" tvg-logo="" ,TEVA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15341.ts
+#EXTINF:-1 tvg-ID="Comedie.fr" tvg-name="COMEDIE" tvg-logo="" ,COMEDIE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15363.ts
+#EXTINF:-1 tvg-ID="Comedie.fr" tvg-name="Comidie" tvg-logo="" ,Comidie
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15369.ts
+#EXTINF:-1 tvg-ID="TMC.fr" tvg-name="TMC HD" tvg-logo="" ,TMC HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15425.ts
+#EXTINF:-1 tvg-ID="Syfy.fr" tvg-name="SYFY HD" tvg-logo="" ,SYFY HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15365.ts
+#EXTINF:-1 tvg-ID="rtl9 FR" tvg-name="RTL9 HD" tvg-logo="" ,RTL9 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15352.ts
+#EXTINF:-1 tvg-ID="W9.fr" tvg-name="W9" tvg-logo="" ,W9
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15422.ts
+#EXTINF:-1 tvg-ID="Eentertainment.fr" tvg-name="E! ENTERTAINMENT" tvg-logo="" ,E! ENTERTAINMENT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15327.ts
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" ,PARAMOUNT CHANNEL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15353.ts
+#EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="" ,PARIS PREMIERE HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15367.ts
+#EXTINF:-1 tvg-ID="ELLEGirl.fr" tvg-name="ELLE GIRL" tvg-logo="" ,ELLE GIRL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15323.ts
+#EXTINF:-1 tvg-ID="TVBreizh.fr" tvg-name="TV BREIZH" tvg-logo="" ,TV BREIZH
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15342.ts
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="CSTAR" tvg-logo="" ,CSTAR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15413.ts
+#EXTINF:-1 tvg-ID="C8.fr" tvg-name="C8" tvg-logo="" ,C8
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15421.ts
+#EXTINF:-1 tvg-ID="NT1.fr" tvg-name="NT1" tvg-logo="" ,NT1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15351.ts
+#EXTINF:-1 tvg-ID="HD1.fr" tvg-name="HD1" tvg-logo="" ,HD1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15411.ts
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="6ter HD" tvg-logo="" ,6ter HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15424.ts
+#EXTINF:-1 tvg-ID="Cherie25.fr" tvg-name="CHERIE 25 HD" tvg-logo="" ,CHERIE 25 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15423.ts
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="CRIME DISTRICT" tvg-logo="" ,CRIME DISTRICT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15305.ts
+#EXTINF:-1 tvg-ID="LaDeux.be" tvg-name="LA DEUX HD" tvg-logo="" group-title="VIP BELGE",LA DEUX HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15354.ts
+#EXTINF:-1 tvg-ID="AB1 FR" tvg-name="AB1" tvg-logo="" ,AB1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15325.ts
+#EXTINF:-1 tvg-ID="AB3.be" tvg-name="AB3" tvg-logo="" ,AB3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*~*~*~*~* Découverte *~*~*~*~*" tvg-logo="" ,*~*~*~*~* Découverte *~*~*~*~*
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15320.ts
+#EXTINF:-1 tvg-ID="NatGeoWildHD.fr" tvg-name="NATIONAL GEO WILD" tvg-logo="" ,NATIONAL GEO WILD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEO WILDHD" tvg-logo="" ,NATIONAL GEO WILDHD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15313.ts
+#EXTINF:-1 tvg-ID="NationalGeographic.fr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" ,NATIONAL GEOGRAPHIC HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15309.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL_GEOGRAPHIC" tvg-logo="" ,NATIONAL_GEOGRAPHIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15314.ts
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="DISCOVERY HD" tvg-logo="" ,DISCOVERY HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15304.ts
+#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="DISCOVERY SCIENCE" tvg-logo="" ,DISCOVERY SCIENCE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15306.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science_HD" tvg-logo="" ,Discovery Science_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15312.ts
+#EXTINF:-1 tvg-ID="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="" ,DISCOVERY INVESTIGATION
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15450.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Planete" tvg-logo="" ,Planete
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15311.ts
+#EXTINF:-1 tvg-ID="PLANETEnoLIMIT.fr" tvg-name="PLANETE  A&E" tvg-logo="" ,PLANETE  A&E
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15316.ts
+#EXTINF:-1 tvg-ID="PLANETE.fr" tvg-name="PLANETE  Ci HD" tvg-logo="" ,PLANETE  Ci HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15315.ts
+#EXTINF:-1 tvg-ID="PLANETEJustice.fr" tvg-name="PLANETE  THALASSA" tvg-logo="" ,PLANETE  THALASSA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15319.ts
+#EXTINF:-1 tvg-ID="Toute l" tvg-name="TOUTE L'HISTOIRE" tvg-logo="" ,TOUTE L'HISTOIRE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15310.ts
+#EXTINF:-1 tvg-ID="TOUTE L HISTOIRE FR" tvg-name="FRTOUTE L HISTOIRE" tvg-logo="" ,FRTOUTE L HISTOIRE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15307.ts
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="USHUAIA TV HD" tvg-logo="" ,USHUAIA TV HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15349.ts
+#EXTINF:-1 tvg-ID="Voyage.fr" tvg-name="Voyage TV" tvg-logo="" ,Voyage TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15343.ts
+#EXTINF:-1 tvg-ID="ScienceVie.fr" tvg-name="ScienceetVie TV" tvg-logo="" ,ScienceetVie TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15318.ts
+#EXTINF:-1 tvg-ID="Seasons.fr" tvg-name="SEASONS" tvg-logo="" ,SEASONS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15321.ts
+#EXTINF:-1 tvg-ID="RMCdecouverte.fr" tvg-name="Rmc Decouverte" tvg-logo="" ,Rmc Decouverte
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15348.ts
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="" ,ANIMAUX HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15329.ts
+#EXTINF:-1 tvg-ID="ChassePeche.fr" tvg-name="CHASSE & PECHE  HD" tvg-logo="" ,CHASSE & PECHE  HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15317.ts
+#EXTINF:-1 tvg-ID="ChassePeche.fr" tvg-name="CHASSE ET PECHE" tvg-logo="" ,CHASSE ET PECHE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15303.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WEO HD" tvg-logo="" ,WEO HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="vh1" tvg-logo="" ,vh1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15338.ts
+#EXTINF:-1 tvg-ID="KTO.fr" tvg-name="KTO" tvg-logo="" ,KTO
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15334.ts
+#EXTINF:-1 tvg-ID="ARTE.fr" tvg-name="ARTE" tvg-logo="" ,ARTE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15419.ts
+#EXTINF:-1 tvg-ID="ARTE.fr" tvg-name="ARTE HD" tvg-logo="" ,ARTE HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15332.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*~*~*~*~* Enfants *~*~*~*~*" tvg-logo="" ,*~*~*~*~* Enfants *~*~*~*~*
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15298.ts
+#EXTINF:-1 tvg-ID="CartoonNetwork.fr" tvg-name="Cartoon Network" tvg-logo="" ,Cartoon Network
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15294.ts
+#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="PIWI" tvg-logo="" ,PIWI
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15286.ts
+#EXTINF:-1 tvg-ID="TeleTOON.fr" tvg-name="TELETOON" tvg-logo="" ,TELETOON
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15287.ts
+#EXTINF:-1 tvg-ID="CartoonNetwork.fr" tvg-name="Canal Cartoon Plus" tvg-logo="" ,Canal Cartoon Plus
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15293.ts
+#EXTINF:-1 tvg-ID="Nickelodeon FR" tvg-name="NICKELEDEON" tvg-logo="" ,NICKELEDEON
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15453.ts
+#EXTINF:-1 tvg-ID="NickJr.fr" tvg-name="NICKELODEON JUNIOR" tvg-logo="" ,NICKELODEON JUNIOR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15289.ts
+#EXTINF:-1 tvg-ID="CanalJ.fr" tvg-name="CANAL J" tvg-logo="" ,CANAL J
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15283.ts
+#EXTINF:-1 tvg-ID="Boing.fr" tvg-name="BOING" tvg-logo="" ,BOING
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15326.ts
+#EXTINF:-1 tvg-ID="Tiji.fr" tvg-name="TIJI" tvg-logo="" ,TIJI
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZOUZOUS TV" tvg-logo="" ,ZOUZOUS TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SFR CINE" tvg-logo="" ,SFR CINE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15412.ts
+#EXTINF:-1 tvg-ID="Mangas.fr" tvg-name="MANGAS" tvg-logo="" ,MANGAS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15284.ts
+#EXTINF:-1 tvg-ID="gulli FR" tvg-name="GULLI" tvg-logo="" ,GULLI
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15345.ts
+#EXTINF:-1 tvg-ID="Boomerang.fr" tvg-name="BOOMERANG" tvg-logo="" ,BOOMERANG
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15282.ts
+#EXTINF:-1 tvg-ID="Boomerang.fr" tvg-name="BOOMERANG HD" tvg-logo="" ,BOOMERANG HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15296.ts
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="DISNEY CHANNEL HD" tvg-logo="" ,DISNEY CHANNEL HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15451.ts
+#EXTINF:-1 tvg-ID="DisneyMagic.fr" tvg-name="DISNEY CINEMA" tvg-logo="" ,DISNEY CINEMA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15291.ts
+#EXTINF:-1 tvg-ID="DisneyMagic.fr" tvg-name="DISNEY CINEMAGIC" tvg-logo="" ,DISNEY CINEMAGIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15290.ts
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="DISNEY JUNIOR HD" tvg-logo="" ,DISNEY JUNIOR HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15295.ts
+#EXTINF:-1 tvg-ID="DisneyXD.fr" tvg-name="DISNEY XD" tvg-logo="" ,DISNEY XD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15292.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*~*~*~*~* Nouvelles *~*~*~*~*" tvg-logo="" ,*~*~*~*~* Nouvelles *~*~*~*~*
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15281.ts
+#EXTINF:-1 tvg-ID="LCI.fr" tvg-name="LCI" tvg-logo="" ,LCI
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15457.ts
+#EXTINF:-1 tvg-ID="LCP.fr" tvg-name="LCP" tvg-logo="" ,LCP
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15410.ts
+#EXTINF:-1 tvg-ID="" tvg-name="iTELE" tvg-logo="" ,iTELE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EURONEWS" tvg-logo="" ,EURONEWS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15336.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC FRENCH" tvg-logo="" ,BBC FRENCH
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15278.ts
+#EXTINF:-1 tvg-ID="CNews.fr" tvg-name="CNEWS" tvg-logo="" ,CNEWS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15414.ts
+#EXTINF:-1 tvg-ID="FRANCE 24 FRANCAIS FR" tvg-name="FRANCE24" tvg-logo="" ,FRANCE24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15280.ts
+#EXTINF:-1 tvg-ID="TV5 Monde Europe FR" tvg-name="TV5 MONDE EUROPE" tvg-logo="" ,TV5 MONDE EUROPE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 Monde Info" tvg-logo="" ,TV5 Monde Info
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15420.ts
+#EXTINF:-1 tvg-ID="FRANCE 24 ANGLAIS FR" tvg-name="France24 English" tvg-logo="" ,France24 English
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15279.ts
+#EXTINF:-1 tvg-ID="BFM TV [HD] FR" tvg-name="BFM TV" tvg-logo="" ,BFM TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15418.ts
+#EXTINF:-1 tvg-ID="BFMBusiness.fr" tvg-name="BFM Bussines TV" tvg-logo="" ,BFM Bussines TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15416.ts
+#EXTINF:-1 tvg-ID="Gong.fr" tvg-name="GONG TV" tvg-logo="" ,GONG TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15346.ts
+#EXTINF:-1 tvg-ID="GameOne.fr" tvg-name="Game One" tvg-logo="" ,Game One
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*~*~*~*~* Musique *~*~*~*~*" tvg-logo="" ,*~*~*~*~* Musique *~*~*~*~*
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15302.ts
+#EXTINF:-1 tvg-ID="m6music FR" tvg-name="M6 MUSIC" tvg-logo="" ,M6 MUSIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15301.ts
+#EXTINF:-1 tvg-ID="NRJ12.fr" tvg-name="NRJ 12 MUSIC" tvg-logo="" ,NRJ 12 MUSIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15300.ts
+#EXTINF:-1 tvg-ID="NRJ12.fr" tvg-name="NRJ12 HD" tvg-logo="" ,NRJ12 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15328.ts
+#EXTINF:-1 tvg-ID="Numero23.fr" tvg-name="NUMERO 23" tvg-logo="" ,NUMERO 23
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15409.ts
+#EXTINF:-1 tvg-ID="MCMtop.fr" tvg-name="MCM POP" tvg-logo="" ,MCM POP
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15455.ts
+#EXTINF:-1 tvg-ID="MTV.fr" tvg-name="MTV DANCE" tvg-logo="" ,MTV DANCE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15452.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIRGIN" tvg-logo="" ,VIRGIN
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15454.ts
+#EXTINF:-1 tvg-ID="BET.fr" tvg-name="Bet TV" tvg-logo="" ,Bet TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15337.ts
+#EXTINF:-1 tvg-ID="Mezzo.fr" tvg-name="MEZZO" tvg-logo="" ,MEZZO
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT DECALE" tvg-logo="" ,PARAMOUNT DECALE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15330.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Savoir" tvg-logo="" ,Canal Savoir
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alsace 20" tvg-logo="" ,Alsace 20
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INDIES LIVE" tvg-logo="" ,INDIES LIVE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15322.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE CURIOUS" tvg-logo="" ,BE CURIOUS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15335.ts
+#EXTINF:-1 tvg-ID="TV7Bordeaux.fr" tvg-name="TV7 Bordeaux" tvg-logo="" ,TV7 Bordeaux
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15340.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBlack CARIBBEAN" tvg-logo="" ,BBlack CARIBBEAN
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/20467.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBlack HD" tvg-logo="" ,BBlack HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/20466.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBlack AFRICA" tvg-logo="" ,BBlack AFRICA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/20468.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*~*~*~*~* Film FR *~*~*~*~*" tvg-logo="" ,*~*~*~*~* Film FR *~*~*~*~*
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15277.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 1" tvg-logo="" ,A LA CARTE 1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 2" tvg-logo="" ,A LA CARTE 2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 3" tvg-logo="" ,A LA CARTE 3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 4" tvg-logo="" ,A LA CARTE 4
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 5" tvg-logo="" ,A LA CARTE 5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 6" tvg-logo="" ,A LA CARTE 6
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 7" tvg-logo="" ,A LA CARTE 7
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 8" tvg-logo="" ,A LA CARTE 8
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 9" tvg-logo="" ,A LA CARTE 9
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 10" tvg-logo="" ,A LA CARTE 10
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 11" tvg-logo="" ,A LA CARTE 11
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 12" tvg-logo="" ,A LA CARTE 12
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 13" tvg-logo="" ,A LA CARTE 13
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15459.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_1" tvg-logo="" ,A_La_Carte_1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_10" tvg-logo="" ,A_La_Carte_10
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_11" tvg-logo="" ,A_La_Carte_11
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_12" tvg-logo="" ,A_La_Carte_12
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_2" tvg-logo="" ,A_La_Carte_2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_3" tvg-logo="" ,A_La_Carte_3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_4" tvg-logo="" ,A_La_Carte_4
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_5" tvg-logo="" ,A_La_Carte_5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14574.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_6" tvg-logo="" ,A_La_Carte_6
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14573.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_7" tvg-logo="" ,A_La_Carte_7
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14572.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_8" tvg-logo="" ,A_La_Carte_8
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A_La_Carte_9" tvg-logo="" ,A_La_Carte_9
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_1" tvg-logo="" ,Canal_Play_1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_10" tvg-logo="" ,Canal_Play_10
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_11" tvg-logo="" ,Canal_Play_11
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_12" tvg-logo="" ,Canal_Play_12
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14582.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_13" tvg-logo="" ,Canal_Play_13
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_14" tvg-logo="" ,Canal_Play_14
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_15" tvg-logo="" ,Canal_Play_15
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_2" tvg-logo="" ,Canal_Play_2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14592.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_3" tvg-logo="" ,Canal_Play_3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_4" tvg-logo="" ,Canal_Play_4
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_5" tvg-logo="" ,Canal_Play_5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_6" tvg-logo="" ,Canal_Play_6
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_7" tvg-logo="" ,Canal_Play_7
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_8" tvg-logo="" ,Canal_Play_8
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Play_9" tvg-logo="" ,Canal_Play_9
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine_Action_HD" tvg-logo="" ,Orange_Cine_Action_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine_Aventure_HD" tvg-logo="" ,Orange_Cine_Aventure_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine_Comedie_HD" tvg-logo="" ,Orange_Cine_Comedie_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine_Disney" tvg-logo="" ,Orange_Cine_Disney
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14555.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine_horreur_HD" tvg-logo="" ,Orange_Cine_horreur_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Comment_C'est_Fait" tvg-logo="" ,Orange_Comment_C'est_Fait
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14562.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE_DISNEY_1" tvg-logo="" ,ORANGE_DISNEY_1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE_DISNEY_2" tvg-logo="" ,ORANGE_DISNEY_2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE_DISNEY_3" tvg-logo="" ,ORANGE_DISNEY_3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE_DISNEY_4" tvg-logo="" ,ORANGE_DISNEY_4
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Documentaire_HD" tvg-logo="" ,Orange_Documentaire_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Enquete_Exclusive" tvg-logo="" ,Orange_Enquete_Exclusive
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14561.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Premium_1" tvg-logo="" ,Orange_Premium_1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Premium_2" tvg-logo="" ,Orange_Premium_2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Premium_3" tvg-logo="" ,Orange_Premium_3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Premium_4" tvg-logo="" ,Orange_Premium_4
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14547.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Premium_5" tvg-logo="" ,Orange_Premium_5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Premium_6" tvg-logo="" ,Orange_Premium_6
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Premium_7" tvg-logo="" ,Orange_Premium_7
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14544.ts
 
 
 
@@ -3769,27 +4567,27 @@ http://.....
 
 
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD Fr",BeINSPORTS 1HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1454.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1454.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr",BeINSPORTS 2HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1455.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1455.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr",BeINSPORTS 3HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1456.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1456.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 04HD Fr",BeINMAX 04HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1457.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1457.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 05HD Fr",BeINMAX 05HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1458.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1458.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 06HD Fr",BeINMAX 06HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1459.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1459.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 07HD Fr",BeINMAX 07HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1460.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1460.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 08HD Fr",BeINMAX 08HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1461.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1461.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 09HD Fr",BeINMAX 09HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1462.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1462.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 10HD Fr",BeINMAX 10HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1463.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1463.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BOING" ,BOING
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1409.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1409.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
@@ -4154,7 +4952,372 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
+#EXTINF:-1 tvg-ID="ARD.de" tvg-name="ARD1_HD" tvg-logo="" ,ARD1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6804.ts
+#EXTINF:-1 tvg-ID="ZDF.de" tvg-name="ZDF_HD" tvg-logo="" ,ZDF_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5155.ts
+#EXTINF:-1 tvg-ID="RTL DE" tvg-name="RTL_hd" tvg-logo="" ,RTL_hd
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5178.ts
+#EXTINF:-1 tvg-ID="RTL2.de" tvg-name="RTLII_HD" tvg-logo="" ,RTLII_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5158.ts
+#EXTINF:-1 tvg-ID="SuperRTL.de" tvg-name="super_rtl" tvg-logo="" ,super_rtl
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6794.ts
+#EXTINF:-1 tvg-ID="RTLPlus.de" tvg-name="RTL_PLUS" tvg-logo="" ,RTL_PLUS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7881.ts
+#EXTINF:-1 tvg-ID="RTLNitro.de" tvg-name="RTL_Nitro_HD" tvg-logo="" ,RTL_Nitro_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5157.ts
+#EXTINF:-1 tvg-ID="Pro7.de" tvg-name="Pro7_HD" tvg-logo="" ,Pro7_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3559.ts
+#EXTINF:-1 tvg-ID="Sat1.de" tvg-name="SAT1_HD" tvg-logo="" ,SAT1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5156.ts
+#EXTINF:-1 tvg-ID="Sat1Gold.de" tvg-name="Sat1_GOLD" tvg-logo="" ,Sat1_GOLD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6795.ts
+#EXTINF:-1 tvg-ID="Vox.de" tvg-name="VOX_HD" tvg-logo="" ,VOX_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5153.ts
+#EXTINF:-1 tvg-ID="ProSiebenMaxx.de" tvg-name="Pro7_MAXX_HD" tvg-logo="" ,Pro7_MAXX_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5168.ts
+#EXTINF:-1 tvg-ID="ProSiebenMaxx.de" tvg-name="PRO_7_MAXX_HD" tvg-logo="" ,PRO_7_MAXX_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8636.ts
+#EXTINF:-1 tvg-ID="ProSieben FUN DE" tvg-name="PRO_7_FUN_HD" tvg-logo="" ,PRO_7_FUN_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8590.ts
+#EXTINF:-1 tvg-ID="Kabel eins DE" tvg-name="KABEL_eins_HD" tvg-logo="" ,KABEL_eins_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5167.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tele 5 HD" tvg-logo="" ,Tele 5 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13913.ts
+#EXTINF:-1 tvg-ID="3sat.de" tvg-name="3SAT" tvg-logo="" ,3SAT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7882.ts
+#EXTINF:-1 tvg-ID="Sixx.de" tvg-name="sixx" tvg-logo="" ,sixx
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6798.ts
+#EXTINF:-1 tvg-ID="DMax.de" tvg-name="Dmax" tvg-logo="" ,Dmax
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5169.ts
+#EXTINF:-1 tvg-ID="ARTE DE" tvg-name="ARTE_HD" tvg-logo="" ,ARTE_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5164.ts
+#EXTINF:-1 tvg-ID="ndr.de" tvg-name="NDR_HD" tvg-logo="" ,NDR_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3562.ts
+#EXTINF:-1 tvg-ID="SWR.de" tvg-name="SWR" tvg-logo="" ,SWR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7887.ts
+#EXTINF:-1 tvg-ID="N24 DE" tvg-name="N24" tvg-logo="" ,N24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5165.ts
+#EXTINF:-1 tvg-ID="phoenix.de" tvg-name="Phoenix_HD" tvg-logo="" ,Phoenix_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5160.ts
+#EXTINF:-1 tvg-ID="N-TV DE" tvg-name="NTV_HD" tvg-logo="" ,NTV_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8589.ts
+#EXTINF:-1 tvg-ID="DeLuxeMusic.de" tvg-name="DELUX" tvg-logo="" ,DELUX
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Servus TV HD" tvg-logo="" ,Servus TV HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13932.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SAT 1 Emotions" tvg-logo="" ,SAT 1 Emotions
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13933.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MDR HD" tvg-logo="" ,MDR HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13938.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AUSTRIA24" tvg-logo="" ,AUSTRIA24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13914.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ndr HD" tvg-logo="" ,Ndr HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13936.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SR HD" tvg-logo="" ,SR HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13915.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HR" tvg-logo="" ,HR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13940.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dresden Fernsehen" tvg-logo="" ,Dresden Fernsehen
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13942.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KABEL EINS CLASSIC" tvg-logo="" ,KABEL EINS CLASSIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13918.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Spiegel Geschichte HD" tvg-logo="" ,Spiegel Geschichte HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13917.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Welt Der Wunder" tvg-logo="" ,Welt Der Wunder
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13912.ts
+#EXTINF:-1 tvg-ID="Spiegel Geschichte DE" tvg-name="SPIEGLE_TV_WISSEN_HD" tvg-logo="" ,SPIEGLE_TV_WISSEN_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5170.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE_ZES" tvg-logo="" ,BE_ZES
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10138.ts
+#EXTINF:-1 tvg-ID="ARD.de" tvg-name="Das_Erste" tvg-logo="" ,Das_Erste
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5247.ts
+#EXTINF:-1 tvg-ID="München TV DE" tvg-name="MUNCHEN TV" tvg-logo="" ,MUNCHEN TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9791.ts
+#EXTINF:-1 tvg-ID="Anixe.de" tvg-name="ANIXE_HD" tvg-logo="" ,ANIXE_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10458.ts
+#EXTINF:-1 tvg-ID="WDR.de" tvg-name="WDR" tvg-logo="" ,WDR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RBB" tvg-logo="" ,RBB
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DW_tv_HD" tvg-logo="" ,DW_tv_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10010.ts
+#EXTINF:-1 tvg-ID="KabelEinsDoku.de" tvg-name="kabel_eins_docu" tvg-logo="" ,kabel_eins_docu
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10459.ts
+#EXTINF:-1 tvg-ID="KiKa DE" tvg-name="Kika_HD" tvg-logo="" ,Kika_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5166.ts
+#EXTINF:-1 tvg-ID="TOGGOplus.de" tvg-name="TOGGO_PLUS_HD" tvg-logo="" ,TOGGO_PLUS_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6802.ts
+#EXTINF:-1 tvg-ID="Disney Channel HD DE" tvg-name="Disney_Channel" tvg-logo="" ,Disney_Channel
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5177.ts
+#EXTINF:-1 tvg-ID="Disney Cinemagic DE" tvg-name="Sky_Diney_CINEMAGIC" tvg-logo="" ,Sky_Diney_CINEMAGIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5181.ts
+#EXTINF:-1 tvg-ID="Disney XD DE" tvg-name="DISNEY_XD" tvg-logo="" ,DISNEY_XD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8601.ts
+#EXTINF:-1 tvg-ID="Disney Junior HD DE" tvg-name="DISNEY_JUNIOR" tvg-logo="" ,DISNEY_JUNIOR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8605.ts
+#EXTINF:-1 tvg-ID="CartoonNetwork.de" tvg-name="cartoon_network" tvg-logo="" ,cartoon_network
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7893.ts
+#EXTINF:-1 tvg-ID="Boomerang DE" tvg-name="BOMERANG_HD" tvg-logo="" ,BOMERANG_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4682.ts
+#EXTINF:-1 tvg-ID="Disney Junior DE" tvg-name="JUNIOR" tvg-logo="" ,JUNIOR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6801.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_NICKELEODEON_HD" tvg-logo="" ,SKY_NICKELEODEON_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9797.ts
+#EXTINF:-1 tvg-ID="Sky1.de" tvg-name="SKY1_HD" tvg-logo="" ,SKY1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9796.ts
+#EXTINF:-1 tvg-ID="Sky Krimi DE" tvg-name="DE3_sky_crimi" tvg-logo="" ,DE3_sky_crimi
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6793.ts
+#EXTINF:-1 tvg-ID="Sky Atlantic DE" tvg-name="Sky_Atlantic_HD" tvg-logo="" ,Sky_Atlantic_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4683.ts
+#EXTINF:-1 tvg-ID="Heimatkanal DE" tvg-name="SKY_HEIMETCANAL" tvg-logo="" ,SKY_HEIMETCANAL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9790.ts
+#EXTINF:-1 tvg-ID="Kinowelt.de" tvg-name="SKY_KINOWLET" tvg-logo="" ,SKY_KINOWLET
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8604.ts
+#EXTINF:-1 tvg-ID="13th Street DE" tvg-name="Sky13_Street_HD" tvg-logo="" ,Sky13_Street_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5174.ts
+#EXTINF:-1 tvg-ID="TNT Serie DE" tvg-name="Sky_TNT_Serie_HD" tvg-logo="" ,Sky_TNT_Serie_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5179.ts
+#EXTINF:-1 tvg-ID="TLC DE" tvg-name="SKYTLC" tvg-logo="" ,SKYTLC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8595.ts
+#EXTINF:-1 tvg-ID="Romance.de" tvg-name="ROMANCE_TV" tvg-logo="" ,ROMANCE_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8597.ts
+#EXTINF:-1 tvg-ID="FOX DE" tvg-name="DE3_SKY_FOX" tvg-logo="" ,DE3_SKY_FOX
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6803.ts
+#EXTINF:-1 tvg-ID="Fox Serie DE" tvg-name="FOX_SERIES" tvg-logo="" ,FOX_SERIES
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5162.ts
+#EXTINF:-1 tvg-ID="TNT Film HD DE" tvg-name="TNT_Film_HD" tvg-logo="" ,TNT_Film_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4690.ts
+#EXTINF:-1 tvg-ID="TNT Comedy HD DE" tvg-name="TNT_COMEDY" tvg-logo="" ,TNT_COMEDY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7884.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FAMILY TV" tvg-logo="" ,FAMILY TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13941.ts
+#EXTINF:-1 tvg-ID="Goldstar TV DE" tvg-name="GOLD_STAR" tvg-logo="" ,GOLD_STAR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8600.ts
+#EXTINF:-1 tvg-ID="AXN DE" tvg-name="AXN_HD" tvg-logo="" ,AXN_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY_HD" tvg-logo="" ,SONY_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10135.ts
+#EXTINF:-1 tvg-ID="ComedyCentral/VIVA.de" tvg-name="COMEDY_CENTRAL" tvg-logo="" ,COMEDY_CENTRAL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8267.ts
+#EXTINF:-1 tvg-ID="Syfy DE" tvg-name="Syfy" tvg-logo="" ,Syfy
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8594.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZDF Info HD" tvg-logo="" ,ZDF Info HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13911.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZDF neo" tvg-logo="" ,ZDF neo
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13910.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZDF NEO HD" tvg-logo="" ,ZDF NEO HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13909.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zee One HD" tvg-logo="" ,Zee One HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13908.ts
+#EXTINF:-1 tvg-ID="RTL Crime HD DE" tvg-name="RTL_CRIME" tvg-logo="" ,RTL_CRIME
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9792.ts
+#EXTINF:-1 tvg-ID="RTL Passion DE" tvg-name="RTL_PASSION" tvg-logo="" ,RTL_PASSION
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL LIVING" tvg-logo="" ,RTL LIVING
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13934.ts
+#EXTINF:-1 tvg-ID="Universal Channel DE" tvg-name="UNIVERSAL_HD" tvg-logo="" ,UNIVERSAL_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8592.ts
+#EXTINF:-1 tvg-ID="EEntertainment.de" tvg-name="E_ENTERTAINMENT_HD" tvg-logo="" ,E_ENTERTAINMENT_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7899.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JUKE BOX" tvg-logo="" ,JUKE BOX
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13944.ts
+#EXTINF:-1 tvg-ID="TLC DE" tvg-name="SKY_TLC" tvg-logo="" ,SKY_TLC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7877.ts
+#EXTINF:-1 tvg-ID="Classica DE" tvg-name="CLASSICA" tvg-logo="" ,CLASSICA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7906.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE3_ORF_EINS" tvg-logo="" ,DE3_ORF_EINS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10137.ts
+#EXTINF:-1 tvg-ID="ORF 2 DE" tvg-name="ORF2" tvg-logo="" ,ORF2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORF_III HD" tvg-logo="" ,ORF_III HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6796.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DORF" tvg-logo="" ,DORF
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13935.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORF_SPORT+" tvg-logo="" ,ORF_SPORT+
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7885.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT_ATV HD AUSTRIA" tvg-logo="" ,AT_ATV HD AUSTRIA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/17276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT_ATV HD" tvg-logo="" ,AT_ATV HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/17275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ATV//" tvg-logo="" ,ATV//
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8599.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT_3 HD" tvg-logo="" ,AT_3 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/17272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT_4 HD" tvg-logo="" ,AT_4 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/17273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AT_5 HD" tvg-logo="" ,AT_5 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/17274.ts
+#EXTINF:-1 tvg-ID="National Geographic DE" tvg-name="Sky_National_Geographic_HD" tvg-logo="" ,Sky_National_Geographic_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5184.ts
+#EXTINF:-1 tvg-ID="NAT GEO Wild DE" tvg-name="national_geo_wid" tvg-logo="" ,national_geo_wid
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6792.ts
+#EXTINF:-1 tvg-ID="Discovery Channel DE" tvg-name="Sky_Discovery_Channel_HD" tvg-logo="" ,Sky_Discovery_Channel_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E_HD" tvg-logo="" ,A&E_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8603.ts
+#EXTINF:-1 tvg-ID="history DE" tvg-name="HISTORY" tvg-logo="" ,HISTORY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9793.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Deluxe Music HD" tvg-logo="" ,Deluxe Music HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13943.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV HD" tvg-logo="" ,MTV HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13937.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EURONEWS" tvg-logo="" ,EURONEWS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7905.ts
+#EXTINF:-1 tvg-ID="Sky Cinema DE" tvg-name="Sky_Germany_Cinema1_HD" tvg-logo="" ,Sky_Germany_Cinema1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5176.ts
+#EXTINF:-1 tvg-ID="Sky Cinema +1 DE" tvg-name="Sky_Cinema+1_HD" tvg-logo="" ,Sky_Cinema+1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5173.ts
+#EXTINF:-1 tvg-ID="Sky Cinema +24 DE" tvg-name="sky_cinema+24" tvg-logo="" ,sky_cinema+24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3565.ts
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.de" tvg-name="SKY_CINEMA_FAMILY" tvg-logo="" ,SKY_CINEMA_FAMILY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7888.ts
+#EXTINF:-1 tvg-ID="SkyAction.de" tvg-name="SKY_Action_HD" tvg-logo="" ,SKY_Action_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4684.ts
+#EXTINF:-1 tvg-ID="SkyComedy.de" tvg-name="Sky_Comedy" tvg-logo="" ,Sky_Comedy
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4689.ts
+#EXTINF:-1 tvg-ID="SkyEmotion.de" tvg-name="SKY_Emotion" tvg-logo="" ,SKY_Emotion
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4688.ts
+#EXTINF:-1 tvg-ID="SkyNostalgie.de" tvg-name="SKYNOSTALGIE" tvg-logo="" ,SKYNOSTALGIE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8596.ts
+#EXTINF:-1 tvg-ID="SkyCinemaHits.de" tvg-name="Sky_Hits_HD" tvg-logo="" ,Sky_Hits_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4687.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_FAN ZONE HD" tvg-logo="" ,Sky_FAN ZONE HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6791.ts
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.de" tvg-name="SKY_FAMILY" tvg-logo="" ,SKY_FAMILY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky 3D" tvg-logo="" ,Sky 3D
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13931.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport 1 US HD" tvg-logo="" ,Sport 1 US HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13916.ts
+#EXTINF:-1 tvg-ID="SPORT1plus.de" tvg-name="SPORT1" tvg-logo="" ,SPORT1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8598.ts
+#EXTINF:-1 tvg-ID="Sport1+ DE" tvg-name="SPORT+1" tvg-logo="" ,SPORT+1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8593.ts
+#EXTINF:-1 tvg-ID="Sportdigital HD DE" tvg-name="SPORT_DIGITAL_HD" tvg-logo="" ,SPORT_DIGITAL_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Austria HD" tvg-logo="" ,Sky Sport Austria HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13919.ts
+#EXTINF:-1 tvg-ID="SkySportAustria.de" tvg-name="SKY_SPORTS_AUSTRIA" tvg-logo="" ,SKY_SPORTS_AUSTRIA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8588.ts
+#EXTINF:-1 tvg-ID="Sky Sport News DE" tvg-name="SKY_SPORT_NEWS24" tvg-logo="" ,SKY_SPORT_NEWS24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5180.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="" ,DE: SKY SPORT NEWS HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16058.ts
 
+#EXTINF:-1 tvg-ID="Eurosport 1 HD DE" tvg-name="EUROSPORT1_HD" tvg-logo="" ,EUROSPORT1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5150.ts
+#EXTINF:-1 tvg-ID="Eurosport 2 HD DE" tvg-name="EUROSPORT2" tvg-logo="" ,EUROSPORT2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPOTR1_HD" tvg-logo="" ,SKY_SPOTR1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7503.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORTS2_HD" tvg-logo="" ,SKY_SPORTS2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7504.ts
+#EXTINF:-1 tvg-ID="SkySport1.de" tvg-name="Sky_Sport1_SD" tvg-logo="" ,Sky_Sport1_SD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4686.ts
+#EXTINF:-1 tvg-ID="SkySport2.de" tvg-name="Sky_Sport2_SD" tvg-logo="" ,Sky_Sport2_SD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 1 HD" tvg-logo="" ,Sky Sport 1 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13930.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 2 HD" tvg-logo="" ,Sky Sport 2 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13927.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 3 HD ( During Games only )" tvg-logo="" ,Sky Sport 3 HD ( During Games only )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13926.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 4 HD ( During Games only )" tvg-logo="" ,Sky Sport 4 HD ( During Games only )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13925.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 5 HD  ( During Games only )" tvg-logo="" ,Sky Sport 5 HD  ( During Games only )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13924.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 6 HD ( During Games only )" tvg-logo="" ,Sky Sport 6 HD ( During Games only )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13923.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 7 HD ( During Games only )" tvg-logo="" ,Sky Sport 7 HD ( During Games only )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13922.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 8 HD ( During Games only )" tvg-logo="" ,Sky Sport 8 HD ( During Games only )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13921.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 9 HD ( During Games only )" tvg-logo="" ,Sky Sport 9 HD ( During Games only )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13920.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 10 HD ( During Games only )" tvg-logo="" ,Sky Sport 10 HD ( During Games only )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13929.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky BUNDESLIGA HD1" tvg-logo="" ,Sky BUNDESLIGA HD1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13928.ts
+#EXTINF:-1 tvg-ID="SkyBundesliga.de" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="" ,DE: SKY BUNDESLIGA 1 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12783.ts
+#EXTINF:-1 tvg-ID="SkyBundesliga2.de" tvg-name="DE - DE: SKY Bundesliga HD2" tvg-logo="" ,DE - DE: SKY Bundesliga HD2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12784.ts
+#EXTINF:-1 tvg-ID="SkyBundesliga3.de" tvg-name="DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" ,DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12785.ts
+#EXTINF:-1 tvg-ID="SkyBundesliga4.de" tvg-name="DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" ,DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12786.ts
+#EXTINF:-1 tvg-ID="SkyBundesliga5.de" tvg-name="DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" ,DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12787.ts
+#EXTINF:-1 tvg-ID="SkyBundesliga6.de" tvg-name="DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" ,DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12788.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" ,DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12789.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" ,DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12790.ts
+#EXTINF:-1 tvg-ID="SkySportHD1.de" tvg-name="DE: Sky SPORT1 HD" tvg-logo="" ,DE: Sky SPORT1 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12791.ts
+#EXTINF:-1 tvg-ID="SkySportHD2.de" tvg-name="DE: Sky SPORT2 HD" tvg-logo="" ,DE: Sky SPORT2 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12792.ts
+#EXTINF:-1 tvg-ID="SkyBundesliga.de" tvg-name="SKY_BUNDESLIGA1_HD" tvg-logo="" ,SKY_BUNDESLIGA1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4685.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky BUNDESLIGA HD2" tvg-logo="" ,Sky BUNDESLIGA HD2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13939.ts
+#EXTINF:-1 tvg-ID="SkySelect1.de" tvg-name="SKY_SELECT1_HD" tvg-logo="" ,SKY_SELECT1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4675.ts
+#EXTINF:-1 tvg-ID="SkySelect2.de" tvg-name="SKY_SELECT2_HD" tvg-logo="" ,SKY_SELECT2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4676.ts
+#EXTINF:-1 tvg-ID="SkySelect3.de" tvg-name="SKY_SELECT3_HD" tvg-logo="" ,SKY_SELECT3_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4677.ts
+#EXTINF:-1 tvg-ID="SkySelect4.de" tvg-name="SKY_SELECT4_HD" tvg-logo="" ,SKY_SELECT4_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4678.ts
+#EXTINF:-1 tvg-ID="SkySelect5.de" tvg-name="SKY_SELECT5_HD" tvg-logo="" ,SKY_SELECT5_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4679.ts
+#EXTINF:-1 tvg-ID="SkySelect6.de" tvg-name="SKY_SELECT6_HD" tvg-logo="" ,SKY_SELECT6_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4680.ts
+#EXTINF:-1 tvg-ID="SkySelect7.de" tvg-name="SKY_SELECT7_HD" tvg-logo="" ,SKY_SELECT7_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4681.ts
+#EXTINF:-1 tvg-ID="SkySelect8.de" tvg-name="SKY_SELECT8" tvg-logo="" ,SKY_SELECT8
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7505.ts
+#EXTINF:-1 tvg-ID="SkySelect9.de" tvg-name="SKY_SELECT9" tvg-logo="" ,SKY_SELECT9
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7506.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELEC10" tvg-logo="" ,SKY_SELEC10
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT11" tvg-logo="" ,SKY_SELECT11
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT12" tvg-logo="" ,SKY_SELECT12
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7509.ts
+#EXTINF:-1 tvg-ID="SkySelect1.de" tvg-name="SKY_POPCORN_SELECT1" tvg-logo="" ,SKY_POPCORN_SELECT1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10013.ts
+#EXTINF:-1 tvg-ID="SkySelect2.de" tvg-name="SKY_POPCORN_SELECT2" tvg-logo="" ,SKY_POPCORN_SELECT2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10012.ts
+#EXTINF:-1 tvg-ID="SkyBundesliga3.de" tvg-name="SKY_POPCORN_SELECT3" tvg-logo="" ,SKY_POPCORN_SELECT3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8265.ts
+#EXTINF:-1 tvg-ID="SkySelect4.de" tvg-name="SKY_POPCORN_SELECT4" tvg-logo="" ,SKY_POPCORN_SELECT4
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8264.ts
+#EXTINF:-1 tvg-ID="SkySelect5.de" tvg-name="SKY_POPCORN_SELECT5" tvg-logo="" ,SKY_POPCORN_SELECT5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5250.ts
+#EXTINF:-1 tvg-ID="SkySelect6.de" tvg-name="SKY_POPCORN_SELECT6" tvg-logo="" ,SKY_POPCORN_SELECT6
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_BLAIR_WHICH" tvg-logo="" ,SKY_BLAIR_WHICH
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7880.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_COLLIDE" tvg-logo="" ,SKY_COLLIDE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7879.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_INFERNO" tvg-logo="" ,SKY_INFERNO
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7878.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FILM_GOLD" tvg-logo="" ,FILM_GOLD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FILM_GOLD2" tvg-logo="" ,FILM_GOLD2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FILM_GOLD3" tvg-logo="" ,FILM_GOLD3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FILM_GOLD4" tvg-logo="" ,FILM_GOLD4
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DIGI_GOLD_HD5" tvg-logo="" ,DIGI_GOLD_HD5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY Germany Bundesliga 1 HD" tvg-logo="" ,DE:SKY Germany Bundesliga 1 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16056.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY Germany Bundesliga 2 HD" tvg-logo="" ,DE:SKY Germany Bundesliga 2 HD
 
 
 
@@ -4872,7 +6035,290 @@ http://aztecalive-lh.akamaihd.net:80/i/0kus659k5_1@501884/index_1_av-p.m3u8
 
 
 
-#EXTINF:8 group-title=”Spain3-Wuffy_Player”,
+#EXTINF:8 group-title=”Spain-LOOP_ONE”,
+
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1 tvg-ID="" tvg-name="M_Futbol" tvg-logo="" ,M_Futbol
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5430.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal_Liga_HD" tvg-logo="" ,Canal_Liga_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4700.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT_SPAIN" tvg-logo="" ,BEIN-SPORT_SPAIN
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7773.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORT  HD LA LIGA" tvg-logo="" ,BEIN_SPORT  HD LA LIGA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4699.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_DEPORTES1" tvg-logo="" ,M_DEPORTES1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7780.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_DEPORTES2" tvg-logo="" ,M_DEPORTES2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7781.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ATRESERIHD" tvg-logo="" ,ATRESERIHD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9968.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT" tvg-logo="" ,PARAMOUNT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8633.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_GOLF" tvg-logo="" ,M_GOLF
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4734.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTF1" tvg-logo="" ,MOVISTF1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7774.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOTOGP" tvg-logo="" ,MOTOGP
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7778.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Real_Madrid_tv" tvg-logo="" ,Real_Madrid_tv
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4693.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BARCA_TV" tvg-logo="" ,BARCA_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7782.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LTC" tvg-logo="" ,LTC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7779.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_CINE" tvg-logo="" ,M_CINE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4702.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LALIGA" tvg-logo="" ,LALIGA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7776.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_LALIGA" tvg-logo="" ,BEIN_LALIGA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7777.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COSMO_HD" tvg-logo="" ,COSMO_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NON_SOP_PEOPLE" tvg-logo="" ,NON_SOP_PEOPLE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7775.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_HOLLYWOOD" tvg-logo="" ,CANAL_HOLLYWOOD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4728.ts
+#EXTINF:-1 tvg-ID="" tvg-name="canal0" tvg-logo="" ,canal0
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9883.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEVISA" tvg-logo="" ,TELEVISA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8395.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_13" tvg-logo="" ,CANAL_13
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_XTRA_HD" tvg-logo="" ,M_XTRA_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4730.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_TOROS" tvg-logo="" ,M_TOROS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4731.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_SERIES" tvg-logo="" ,M_SERIES
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4733.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_DCINE_HD" tvg-logo="" ,M_DCINE_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4736.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_ESTRENOS_HD" tvg-logo="" ,M_ESTRENOS_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4735.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_COMEDIA_HD" tvg-logo="" ,M_COMEDIA_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4737.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_ACCION_HD" tvg-logo="" ,M_ACCION_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4738.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_SERIXTRA_HD" tvg-logo="" ,M_SERIXTRA_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4732.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DCINE_ESPANOL" tvg-logo="" ,DCINE_ESPANOL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4723.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CALLE_13" tvg-logo="" ,CALLE_13
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4729.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX_LIFE" tvg-logo="" ,FOX_LIFE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4719.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" ,FOX
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4718.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY_CENTRAL" tvg-logo="" ,COMEDY_CENTRAL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4725.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN_WHITE" tvg-logo="" ,AXN_WHITE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4739.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" ,AXN
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4740.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP_ASTURIAS" tvg-logo="" ,RTP_ASTURIAS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4706.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_LIGA_BAR_HD" tvg-logo="" ,LA_LIGA_BAR_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4741.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY" tvg-logo="" ,SYFY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4712.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BLICA_DOMINICANA" tvg-logo="" ,BLICA_DOMINICANA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4720.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_JUNIOR" tvg-logo="" ,DISNEY_JUNIOR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4721.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_CHANNEL" tvg-logo="" ,DISNEY_CHANNEL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4722.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ALFA" tvg-logo="" ,ALFA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4694.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fdf" tvg-logo="" ,Fdf
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4696.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Energy" tvg-logo="" ,Energy
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4697.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" ,TNT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4709.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TCM" tvg-logo="" ,TCM
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4711.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M_COMEDY_central HD" tvg-logo="" ,M_COMEDY_central HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4703.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVE_LA2" tvg-logo="" ,TVE_LA2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4707.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVE_LA1" tvg-logo="" ,TVE_LA1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4708.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RT" tvg-logo="" ,RT
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4724.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEAITIES" tvg-logo="" ,BEAITIES
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4710.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La_Sexta_hd" tvg-logo="" ,La_Sexta_hd
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4695.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Clan_TVe" tvg-logo="" ,Clan_TVe
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4698.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA" tvg-logo="" ,HISTORIA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4717.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL_GEOGRAPHIC" tvg-logo="" ,NATIONAL_GEOGRAPHIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4715.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAZA_Y_PESCA" tvg-logo="" ,CAZA_Y_PESCA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4726.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ODESEA" tvg-logo="" ,ODESEA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4727.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT_GEO_WILD" tvg-logo="" ,NAT_GEO_WILD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4716.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="" ,NICKELODEON
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4713.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIESTAR_ESTERNOS" tvg-logo="" ,MOVIESTAR_ESTERNOS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4714.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="" ,CARTOON NETWORK
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4705.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOING_HD" tvg-logo="" ,BOING_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5429.ts
+#EXTINF:-1 tvg-ID="" tvg-name="40_TV" tvg-logo="" ,40_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8393.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VTV" tvg-logo="" ,VTV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8394.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEDEPORTE" tvg-logo="" ,TELEDEPORTE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8392.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La_Sexta" tvg-logo="" ,La_Sexta
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVE_La_2" tvg-logo="" ,TVE_La_2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cuatro" tvg-logo="" ,Cuatro
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL_NPO ZAP EXTRA" tvg-logo="" ,NL_NPO ZAP EXTRA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEGA_TV" tvg-logo="" ,MEGA_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA" tvg-logo="" ,NOVA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORT SD" tvg-logo="" ,BEINSPORT SD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3602.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORT_HD" tvg-logo="" ,BEINSPORT_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NEOX" tvg-logo="" ,NEOX
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELE5" tvg-logo="" ,TELE5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIAGAR" tvg-logo="" ,VIAGAR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOL_tv" tvg-logo="" ,GOL_tv
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9971.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQUILLA_10" tvg-logo="" ,TAQUILLA_10
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9970.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="" ,DISNEY XD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9969.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_sur_andalucia" tvg-logo="" ,CANAL_sur_andalucia
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9966.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BLICA_DOMENICA" tvg-logo="" ,BLICA_DOMENICA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_LA_LIGA" tvg-logo="" ,BEIN_LA_LIGA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10451.ts
+#EXTINF:-1 tvg-ID="" tvg-name="concao nova" tvg-logo="" ,concao nova
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10452.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANTENNA3" tvg-logo="" ,ANTENNA3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10450.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANTENNA3_HD" tvg-logo="" ,ANTENNA3_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="eurosport1" tvg-logo="" ,eurosport1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9967.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ODISSEA" tvg-logo="" ,ODISSEA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9973.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PROVECTO 40" tvg-logo="" ,PROVECTO 40
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9984.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVN_CHILE_HD" tvg-logo="" ,TVN_CHILE_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9985.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" ,AMC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9986.ts
+#EXTINF:-1 tvg-ID="" tvg-name="canal41" tvg-logo="" ,canal41
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9987.ts
+#EXTINF:-1 tvg-ID="" tvg-name="eurosport2" tvg-logo="" ,eurosport2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9988.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BABY_TV" tvg-logo="" ,BABY_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9989.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_7" tvg-logo="" ,CANAL_7
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9990.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_DECASA" tvg-logo="" ,CANAL_DECASA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9991.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZTECA" tvg-logo="" ,AZTECA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTVE" tvg-logo="" ,RTVE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13834.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIESTAR PORTRADA" tvg-logo="" ,MOVIESTAR PORTRADA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13835.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV3 24" tvg-logo="" ,TV3 24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13836.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA7" tvg-logo="" ,NOVA7
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13837.ts
+#EXTINF:-1 tvg-ID="" tvg-name="0 HD" tvg-logo="" ,0 HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13838.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_COCINA" tvg-logo="" ,CANAL_COCINA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13840.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA" tvg-logo="" ,NOVA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13839.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3/24" tvg-logo="" ,3/24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZMUNDO" tvg-logo="" ,AZMUNDO
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13825.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="" ,A&E
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13832.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SEVILLE CHANNEL" tvg-logo="" ,SEVILLE CHANNEL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICK_JUNIOR" tvg-logo="" ,NICK_JUNIOR
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telecinco" tvg-logo="" ,Telecinco
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9993.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Taquilla1" tvg-logo="" ,Taquilla1
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9978.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Taquilla2" tvg-logo="" ,Taquilla2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9979.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Taquilla3" tvg-logo="" ,Taquilla3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9980.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Taquilla4" tvg-logo="" ,Taquilla4
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9981.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Taquilla5" tvg-logo="" ,Taquilla5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9982.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Taquilla6" tvg-logo="" ,Taquilla6
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9983.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQUILLA7" tvg-logo="" ,TAQUILLA7
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13826.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQUILLA8" tvg-logo="" ,TAQUILLA8
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13827.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQUILLA9" tvg-logo="" ,TAQUILLA9
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13828.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5155,201 +6601,6 @@ http://195.154.26.52:25461/live/go/google/4960.ts|refferer=http://geostreamz.com
 
 
 #EXTINF:8 group-title=”Spain3-PREMIUM”,
-
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1 ,Fox Action
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/foxaction/playlist.m3u8
-#EXTINF:-1 ,Telemundo
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/telemundo/playlist.m3u8
-#EXTINF:-1 ,Cinemax
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/cinemax/playlist.m3u8
-#EXTINF:-1 ,WinSports
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/winsport/playlist.m3u8
-#EXTINF:-1 ,RCN
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/rcn/playlist.m3u8
-#EXTINF:-1 ,AMC
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/amc/playlist.m3u8
-#EXTINF:-1 ,AXN
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/axn/playlist.m3u8
-#EXTINF:-1 ,M+ Accion
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/plusaccion/playlist.m3u8
-#EXTINF:-1 ,M+ Estrenos
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/plusestrenos/playlist.m3u8
-#EXTINF:-1 ,M+ Series
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/plusseries/playlist.m3u8
-#EXTINF:-1 ,DCine
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/dcine/playlist.m3u8
-#EXTINF:-1 ,TNT
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/tnt/playlist.m3u8
-#EXTINF:-1 ,Crimen & Investigacion
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/canalcrimen/playlist.m3u8
-#EXTINF:-1 ,Discovery Max
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/dmax/playlist.m3u8
-#EXTINF:-1 ,Discovery Channel
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/discovery-channel/playlist.m3u8
-#EXTINF:-1 ,Nat Geo
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/nationalgeo/playlist.m3u8
-#EXTINF:-1 ,Nat Geo Wild
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/nationalwild/playlist.m3u8
-#EXTINF:-1 ,A&E
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live2/ae/playlist.m3u8
-#EXTINF:-1 ,History
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/historia/playlist.m3u8
-#EXTINF:-1 ,BeMad
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/bemad/playlist.m3u8
-#EXTINF:-1 ,MTV
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/mtv/playlist.m3u8
-#EXTINF:-1 ,Cocina
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/cocina/playlist.m3u8
-#EXTINF:-1 ,Mega
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/mega/playlist.m3u8
-#EXTINF:-1 ,FDF
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/fdf/playlist.m3u8
-#EXTINF:-1 ,DKiss
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/dkiss/playlist.m3u8
-#EXTINF:-1 ,Comecafe
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/comecafe/playlist.m3u8
-#EXTINF:-1 ,Venus
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live/venus/playlist.m3u8
-#EXTINF:-1 ,GolTV
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/goltv/playlist.m3u8
-#EXTINF:-1 ,M+ Futbol
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live3/plusfutbol/playlist.m3u8
-#EXTINF:-1 ,BeinSport
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live3/beinsport/playlist.m3u8
-#EXTINF:-1 ,BeinSport Liga
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live3/beinliga/playlist.m3u8
-#EXTINF:-1 ,M+ Deportes
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/plusdeportes1/playlist.m3u8
-#EXTINF:-1 ,M+ Deportes 2
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live1/plusdeportes2/playlist.m3u8
-#EXTINF:-1 ,Formula 1
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live3/formula1/playlist.m3u8
-#EXTINF:-1 ,MotoGP
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J04/channel.php/live3/motogp/playlist.m3u8
-#EXTINF:-1 ,ESPN
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/34.m3u8
-#EXTINF:-1 ,ESPN 2
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/35.m3u8
-#EXTINF:-1 ,ESPN 3
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/36.m3u8
-#EXTINF:-1 ,Film Zone
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/43.m3u8
-#EXTINF:-1 ,FOX
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/45.m3u8
-#EXTINF:-1 ,Fox 1
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/55.m3u8
-#EXTINF:-1 ,Fox Action
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/46.m3u8
-#EXTINF:-1 ,Fox Cinema
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/47.m3u8
-#EXTINF:-1 ,Fox Classics
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/48.m3u8
-#EXTINF:-1 ,Fox Family
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/49.m3u8
-#EXTINF:-1 ,Fox Life
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/50.m3u8
-#EXTINF:-1 ,Fox Movies
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/51.m3u8
-#EXTINF:-1 ,Fox Sports
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/52.m3u8
-#EXTINF:-1 ,Fox Sports 2
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/53.m3u8
-#EXTINF:-1 ,Fox Sports Premium
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/512.m3u8
-#EXTINF:-1 ,Fox Sports Sur
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/402.m3u8
-#EXTINF:-1 ,FX
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/42.m3u8
-#EXTINF:-1 ,Glitz
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/158.m3u8
-#EXTINF:-1 ,GolTV
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/287.m3u8
-#EXTINF:-1 ,Golden Edge
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/58.m3u8
-#EXTINF:-1 ,Golden
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/57.m3u8
-#EXTINF:-1 ,H2
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/61.m3u8
-#EXTINF:-1 ,HBO
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/62.m3u8
-#EXTINF:-1 ,HBO 2
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/300.m3u8
-#EXTINF:-1 ,HBO Family
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/63.m3u8
-#EXTINF:-1 ,HBO Plus
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/64.m3u8
-#EXTINF:-1 ,Hey Arnold
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/522.m3u8
-#EXTINF:-1 ,History Channel
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/67.m3u8
-#EXTINF:-1 ,ISat
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/153.m3u8
-#EXTINF:-1 ,Investigation Discovery
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/68.m3u8
-#EXTINF:-1 ,Lifetime
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/152.m3u8
-#EXTINF:-1 ,Looney Tunes
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/524.m3u8
-#EXTINF:-1 ,Max Prime
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/73.m3u8
-#EXTINF:-1 ,Movistar Deportes
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/366.m3u8
-#EXTINF:-1 ,Movistar Deportes 2
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/367.m3u8
-#EXTINF:-1 ,Movistar Futbol
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/368.m3u8
-#EXTINF:-1 ,Movistar Extra
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/372.m3u8
-#EXTINF:-1 ,MTV
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/69.m3u8
-#EXTINF:-1 ,NatGeo
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/76.m3u8
-#EXTINF:-1 ,NatGeo Wild
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/77.m3u8
-#EXTINF:-1 ,Warner Channel
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/102.m3u8
-#EXTINF:-1 ,WWE Network
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J02/276.m3u8
-#EXTINF:-1 ,3e
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/8aee1f7493a36660dd398cc005777f37/playlist.m3u8
-#EXTINF:-1 ,A&E
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/ce425ca32dea0f37b22717ae989bcffb/playlist.m3u8
-#EXTINF:-1 ,A&E (Spain)
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/bd0e73b1b69bbea4f49961cfba9b4d9f/playlist.m3u8
-#EXTINF:-1 ,abc
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/ba354149f3c117ceb69529a1542b6281/playlist.m3u8
-#EXTINF:-1 ,abc
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/900150983cd24fb0d6963f7d28e17f72/playlist.m3u8
-#EXTINF:-1 ,AMC USA
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/5f65f194d2e2979b30636ab479675fb5/playlist.m3u8
-#EXTINF:-1 ,AMC USA
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/c0371e35a2b3244f5edda7947172d954/playlist.m3u8
-#EXTINF:-1 ,Animal Planet
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/52d1df7fff7b1ba3ac317b98ef2fdb80/playlist.m3u8
-#EXTINF:-1 ,Animal Planet
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/a0f8ddb8c8251a68f136648b32c0f62d/playlist.m3u8
-#EXTINF:-1 ,Animal Planet UK
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/manzana/J01/b39899a4d7a8537a3fb9a4b36a364642/playlist.m3u8
 
 
 
@@ -6103,116 +7354,6 @@ http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
 
 #EXTINF:4 group-title=”Portugal3”,
 
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
-http://..........
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/RTP_1_HD_Logotipo_2016.png/revision/latest?cb=20160422150452" ,RTP 1 HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3253.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/aa/Sic_mulher.png/revision/latest?cb=20110817042417" ,SIC MULHER
-http://163.172.62.63:8000/live/Bhakjd/515533/3262.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/RedeGlobo2005.png/revision/latest?cb=20130829104710" ,GLOBO
-http://163.172.62.63:8000/live/Bhakjd/515533/3259.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" ,SIC CARAS
-http://163.172.62.63:8000/live/Bhakjd/515533/3120.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" ,CM TV
-http://163.172.62.63:8000/live/Bhakjd/515533/3261.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/TVI_Fic%C3%A7%C3%A3o_logo.png" ,TVI FICCAO
-http://163.172.62.63:8000/live/Bhakjd/515533/3257.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/trtupx1481664790.png" ,SPORT TV+
-http://163.172.62.63:8000/live/Bhakjd/515533/3281.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png" ,SPORT TV+ HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3282.m3u8
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" ,SPORT TV 1 HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3115.m3u8
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" ,SPORT TV 2 HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3116.m3u8
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xysrvw1470407766.png" ,SPORT TV 3 HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3117.m3u8
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qypxry1470408244.png" ,SPORT TV 4 HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3118.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" ,BENFICA TV
-http://163.172.62.63:8000/live/Bhakjd/515533/3126.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" ,SPORTING TV
-http://163.172.62.63:8000/live/Bhakjd/515533/3283.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" ,PFC
-http://163.172.62.63:8000/live/Bhakjd/515533/3265.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" ,A BOLA TV
-http://163.172.62.63:8000/live/Bhakjd/515533/3131.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png" ,DISNEY CHANNEL
-http://163.172.62.63:8000/live/Bhakjd/515533/3136.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" ,DISNEY JUNIOR
-http://163.172.62.63:8000/live/Bhakjd/515533/3134.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" ,CARTOON NETWORK
-http://163.172.62.63:8000/live/Bhakjd/515533/3135.m3u8
-#EXTINF:-1 tvg-logo="https://genteytv.files.wordpress.com/2011/04/panda.jpg" ,PANDA
-http://163.172.62.63:8000/live/Bhakjd/515533/3279.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tMwl5FD7x8E/TeO_NY9w6mI/AAAAAAAAATg/anq2z80XqXc/s1600/Panda+Biggs+logo.png" ,PANDA BIGGS
-http://163.172.62.63:8000/live/Bhakjd/515533/3276.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" ,JIMJAM
-http://163.172.62.63:8000/live/Bhakjd/515533/3277.m3u8
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" ,TVCINE 1 HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3128.m3u8
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png/revision/latest?cb=20140404133649" ,TVCINE 2 HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3263.m3u8
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" ,TVCINE 3 HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3264.m3u8
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" ,TVCINE 4
-http://163.172.62.63:8000/live/Bhakjd/515533/3113.m3u8
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/4f/TVS%C3%A9ries.png/revision/latest?cb=20140404133444" ,TVSERIES
-http://163.172.62.63:8000/live/Bhakjd/515533/3266.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1280px-HWD_logo.svg.png" ,HOLLYWOOD
-http://163.172.62.63:8000/live/Bhakjd/515533/3272.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" ,CINEMUNDO
-http://163.172.62.63:8000/live/Bhakjd/515533/3123.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png" ,FOX MOVIES HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3130.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_orange_Latin_America.png" ,FOX HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3267.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" ,AXN HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3140.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" ,FOX LIFE
-http://163.172.62.63:8000/live/Bhakjd/515533/3268.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" ,AXN WHITE
-http://163.172.62.63:8000/live/Bhakjd/515533/3139.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" ,AXN BLACK
-http://163.172.62.63:8000/live/Bhakjd/515533/3138.m3u8
-#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" ,SYFY
-http://163.172.62.63:8000/live/Bhakjd/515533/3141.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Log%C3%B3tipo_de_MOV.png/400px-Log%C3%B3tipo_de_MOV.png" ,MOV
-http://163.172.62.63:8000/live/Bhakjd/515533/3271.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/2000px-VH1_logonew.svg.png" ,VH1 EUROPE
-http://163.172.62.63:8000/live/Bhakjd/515533/3269.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY
-http://163.172.62.63:8000/live/Bhakjd/515533/3137.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NATIONAL GEOGRAPHIC HD
-http://163.172.62.63:8000/live/Bhakjd/515533/3129.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" ,NATIONAL GEOGRAPHIC WILD
-http://163.172.62.63:8000/live/Bhakjd/515533/3273.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qO4kj9RlQ2A/WPIT3mAjrXI/AAAAAAAAFGY/E8sbiyA0_DEb3IV6wDcHfIUbBtyA6hEPwCLcB/s1600/cbs_reality_za.png" ,CBS REALITY
-http://163.172.62.63:8000/live/Bhakjd/515533/3275.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" ,GLOBO PREMIUM
-http://163.172.62.63:8000/live/Bhakjd/515533/3114.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" ,TV RECORD
-http://163.172.62.63:8000/live/Bhakjd/515533/3260.m3u8
-#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" ,EURONEWS
-http://163.172.62.63:8000/live/Bhakjd/515533/3145.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" ,TOROS TV
-http://163.172.62.63:8000/live/Bhakjd/515533/3270.m3u8
-
 
 
 
@@ -6437,7 +7578,204 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-
+#EXTINF:-1 tvg-ID="" tvg-name="PT_MOTORVISION" tvg-logo="" ,PT_MOTORVISION
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_RTP1_HD" tvg-logo="" ,PT_RTP1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7988.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_RTP2" tvg-logo="" ,PT_RTP2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7987.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_RTP_3" tvg-logo="" ,PT_RTP_3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7986.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SIC" tvg-logo="" ,PT_SIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7981.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TVI" tvg-logo="" ,PT_TVI
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SIC_noticias" tvg-logo="" ,PT_SIC_noticias
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TVI_24" tvg-logo="" ,PT_TVI_24
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7959.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_CMTV" tvg-logo="" ,PT_CMTV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8012.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Tvi_ficcao" tvg-logo="" ,PT_Tvi_ficcao
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7958.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TVI_REALITY" tvg-logo="" ,PT_TVI_REALITY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TV_REALITY" tvg-logo="" ,PT_TV_REALITY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9334.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TVCine_1_HD" tvg-logo="" ,PT_TVCine_1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7964.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TVCine_2_HD" tvg-logo="" ,PT_TVCine_2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7963.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TVCine3_HD" tvg-logo="" ,PT_TVCine3_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7962.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TVCine4_HD" tvg-logo="" ,PT_TVCine4_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7961.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TV_Series_HD" tvg-logo="" ,PT_TV_Series_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7965.ts
+#EXTINF:-1 tvg-ID="" tvg-name="------ Portoghesi -/cinemondo----" tvg-logo="" ,------ Portoghesi -/cinemondo----
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7954.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_HollyWood_HD" tvg-logo="" ,PT_HollyWood_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8000.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_MOV_HD" tvg-logo="" ,PT_MOV_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7998.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_AXN_HD" tvg-logo="" ,PT_AXN_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8024.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_AXN_WHITE_HD" tvg-logo="" ,PT_AXN_WHITE_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8023.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_AXN_BLACK_HD" tvg-logo="" ,PT_AXN_BLACK_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7978.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_FX" tvg-logo="" ,PT_FX
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8001.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_FOX_Movies" tvg-logo="" ,PT_FOX_Movies
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8002.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Fox_Life_HD" tvg-logo="" ,PT_Fox_Life_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Fox_HD" tvg-logo="" ,PT_Fox_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8004.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_FOX_Crime_HD" tvg-logo="" ,PT_FOX_Crime_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8005.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_FOX_COMEDY" tvg-logo="" ,PT_FOX_COMEDY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_AMC" tvg-logo="" ,PT_AMC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7991.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Sy_Fy" tvg-logo="" ,PT_Sy_Fy
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7971.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_syfy" tvg-logo="" ,PT_syfy
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8008.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTVHD_+" tvg-logo="" ,PT_SportTVHD_+
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9622.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTVHD2" tvg-logo="" ,PT_SportTVHD2
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV1_sd" tvg-logo="" ,PT_SportTV1_sd
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV2_sd" tvg-logo="" ,PT_SportTV2_sd
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV3_sd" tvg-logo="" ,PT_SportTV3_sd
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV4_sd" tvg-logo="" ,PT_SportTV4_sd
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV1_HD" tvg-logo="" ,PT_SportTV1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7976.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV2_HD" tvg-logo="" ,PT_SportTV2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7975.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV_3" tvg-logo="" ,PT_SportTV_3
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV_4_HD" tvg-logo="" ,PT_SportTV_4_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7973.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV_5" tvg-logo="" ,PT_SportTV_5
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Benfica_TV1_Full HD" tvg-logo="" ,PT_Benfica_TV1_Full HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8022.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_BTV_1_HD" tvg-logo="" ,PT_BTV_1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8020.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_MCS EXTREME" tvg-logo="" ,PT_MCS EXTREME
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8021.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Porto_Canal" tvg-logo="" ,PT_Porto_Canal
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7990.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Sporting_TV_HD" tvg-logo="" ,PT_Sporting_TV_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7977.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_ABOLA_TV" tvg-logo="" ,PT_ABOLA_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_EuroSport1_HD" tvg-logo="" ,PT_EuroSport1_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8006.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_EuroSport2_HD" tvg-logo="" ,PT_EuroSport2_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7969.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TV_PALAMENTO" tvg-logo="" ,PT_TV_PALAMENTO
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SportTV5_sd" tvg-logo="" ,PT_SportTV5_sd
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10351.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_chealse_TV_HD" tvg-logo="" ,PT_chealse_TV_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7989.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_RTP_int" tvg-logo="" ,PT_RTP_int
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9628.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_RTP_Memoria" tvg-logo="" ,PT_RTP_Memoria
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7982.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_RTP_Madeira" tvg-logo="" ,PT_RTP_Madeira
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7983.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_RTP_Ãfrica" tvg-logo="" ,PT_RTP_Ãfrica
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7984.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_RTP_Acores" tvg-logo="" ,PT_RTP_Acores
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7985.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SIC_RADICAL" tvg-logo="" ,PT_SIC_RADICAL
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SIC_MULHER" tvg-logo="" ,PT_SIC_MULHER
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9336.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SIC_CARAS" tvg-logo="" ,PT_SIC_CARAS
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9337.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Motors_TV" tvg-logo="" ,PT_Motors_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7999.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Discovery_HD" tvg-logo="" ,PT_Discovery_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8011.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Nat_Geographic_Channel" tvg-logo="" ,PT_Nat_Geographic_Channel
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Nat_Geo_Wild" tvg-logo="" ,PT_Nat_Geo_Wild
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7997.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Odisseia" tvg-logo="" ,PT_Odisseia
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7994.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Canal_Historia_HD" tvg-logo="" ,PT_Canal_Historia_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8018.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Caca_&_Pesca" tvg-logo="" ,PT_Caca_&_Pesca
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8019.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_cacavision" tvg-logo="" ,PT_cacavision
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_A&E" tvg-logo="" ,PT_A&E
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8028.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Toros_TV" tvg-logo="" ,PT_Toros_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7970.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TLC" tvg-logo="" ,PT_TLC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9351.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TIGO_MUSIC" tvg-logo="" ,PT_TIGO_MUSIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_E!_Entertaunment" tvg-logo="" ,PT_E!_Entertaunment
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_FUEL_TV" tvg-logo="" ,PT_FUEL_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8007.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_AFRO_MUSIC" tvg-logo="" ,PT_AFRO_MUSIC
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_MTV" tvg-logo="" ,PT_MTV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_MCM_POP" tvg-logo="" ,PT_MCM_POP
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8016.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_vh1_SHUFFLE" tvg-logo="" ,PT_vh1_SHUFFLE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_REAL_MADRID" tvg-logo="" ,PT_REAL_MADRID
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9624.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SIC_Kids" tvg-logo="" ,PT_SIC_Kids
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7980.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Disney_Junior" tvg-logo="" ,PT_Disney_Junior
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8009.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Disney_Channel" tvg-logo="" ,PT_Disney_Channel
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8010.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Panda_Biggs" tvg-logo="" ,PT_Panda_Biggs
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7993.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Niclelodeon" tvg-logo="" ,PT_Niclelodeon
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_bABY_TV" tvg-logo="" ,PT_bABY_TV
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8014.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_JIM_JAM" tvg-logo="" ,PT_JIM_JAM
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_Cartoon_NetWork" tvg-logo="" ,PT_Cartoon_NetWork
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8015.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_CANAL_PANDA" tvg-logo="" ,PT_CANAL_PANDA
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8017.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_24 Kitchen" tvg-logo="" ,PT_24 Kitchen
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8029.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_PFC_HD" tvg-logo="" ,PT_PFC_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TV_Record" tvg-logo="" ,PT_TV_Record
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7966.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TV_Globo_Premium" tvg-logo="" ,PT_TV_Globo_Premium
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7967.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_TV_Globo" tvg-logo="" ,PT_TV_Globo
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7968.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_CBC_REALITY" tvg-logo="" ,PT_CBC_REALITY
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_biggs" tvg-logo="" ,PT_biggs
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9625.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_DISCOVERY_HD_SHOWCASE" tvg-logo="" ,PT_DISCOVERY_HD_SHOWCASE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_MTV DANCE" tvg-logo="" ,PT_MTV DANCE
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8027.ts
 
 
 
@@ -10490,241 +11828,241 @@ http://.....
 
 
 #EXTINF:-1 tvg-name="BeINSPORTS News" ,BeINSPORTS News
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1496.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1496.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS Global" ,BeINSPORTS Global
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1495.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1495.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" ,BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1494.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1494.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 2HD" ,BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1493.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1493.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 3HD" ,BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1492.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1492.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 4HD" ,BeINSPORTS 4HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1491.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1491.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 5HD" ,BeINSPORTS 5HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1490.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1490.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 6HD" ,BeINSPORTS 6HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1489.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1489.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 7HD" ,BeINSPORTS 7HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1488.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1488.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 8HD" ,BeINSPORTS 8HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1487.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1487.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 9HD" ,BeINSPORTS 9HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1486.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1486.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 10HD" ,BeINSPORTS 10HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1485.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1485.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 11HD" ,BeINSPORTS 11HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1484.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1484.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="beINSPORTS 12HD" ,beINSPORTS 12HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1483.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1483.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 1HD" ,BeIN Movies 1HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1473.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1473.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 2HD" ,BeIN Movies 2HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1474.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1474.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 3HD" ,BeIN Movies 3HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1475.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1475.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 4HD" ,BeIN Movies 4HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1476.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1476.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Discovery HD" ,BeIN Discovery HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1478.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1478.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN GROUMMET" ,BeIN GROUMMET
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1477.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1477.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Jeem_HD" ,BeIN Jeem_HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1482.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1482.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Baraim_HD" ,BeIN Baraim_HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1480.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1480.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Fatafeat" ,BeIN Fatafeat
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1479.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1479.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN JUNIOR" ,BeIN JUNIOR
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1481.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1481.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 1HD" ,AD Sports 1HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1467.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1467.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 2HD" ,AD Sports 2HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1468.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1468.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 3HD" ,AD Sports 3HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1469.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1469.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 4HD" ,AD Sports 4HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1470.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1470.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 5HD" ,AD Sports 5HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1471.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1471.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 6HD" ,AD Sports 6HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1472.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1472.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Aoula-Inter" ,Al-Aoula-Inter
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1382.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1382.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="2M-Monde" ,2M-Monde
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1383.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1383.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Medi-1-TV" ,Medi-1-TV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1381.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1381.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Maghribia" ,Al-Maghribia
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1384.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1384.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tele-Maroc" ,Tele-Maroc
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1380.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1380.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tamazight" ,Tamazight
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1385.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1385.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Arriadia" ,Arriadia
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1388.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1388.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SUD24-TV" ,SUD24-TV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1389.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1389.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Samira-Tv" ,Samira-Tv
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1379.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1379.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Programme.National" ,Programme.National
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1360.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1360.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Canal-Algerie" ,Canal-Algerie
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1361.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1361.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Algeria 3" ,Algeria 3
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1362.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1362.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Algeria 5" ,Algeria 5
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1363.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1363.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk TV" ,Echorouk TV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1358.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1358.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk news" ,Echorouk news
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1357.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1357.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk Benna" ,Echorouk Benna
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1359.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1359.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Kbc Algeria" ,Kbc Algeria
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1369.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1369.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Eljazairia-TV" ,Eljazairia-TV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1372.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1372.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="EnnahLaki" ,EnnahLaki
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1365.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1365.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="EnnahTV" ,EnnahTV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1364.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1364.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Elhaddaf-TV" ,Elhaddaf-TV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1371.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1371.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Elbilad" ,Elbilad
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1370.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1370.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Dzair TV" ,Dzair TV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1368.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1368.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Dzai News" ,Dzai News
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1367.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1367.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Magharibia-1" ,Al Magharibia-1
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1373.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1373.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Magharibia-2" ,Al Magharibia-2
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1374.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1374.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-TV" ,Berbere-TV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1376.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1376.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-Music" ,Berbere-Music
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1377.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1377.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-Jeuness" ,Berbere-Jeuness
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1378.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1378.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Beur-TV" ,Beur-TV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1375.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1375.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BAHIA TV" ,BAHIA TV
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1366.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1366.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tonesna" ,Tonesna
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1349.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1349.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 1" ,Tunesia 1
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1347.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1347.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 2" ,Tunesia 2
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1348.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1348.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Nessma" ,Nessma
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1352.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1352.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hannibal" ,Hannibal
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1351.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1351.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Telvaza" ,Telvaza
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1355.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1355.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Zitouna" ,Zitouna
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1353.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1353.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="El-HiwEttounsi" ,El-HiwEttounsi
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1350.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1350.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Attasiaa" ,Attasiaa
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1354.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1354.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Janoubia" ,Al-Janoubia
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1356.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1356.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alrahma" ,Alrahma
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1343.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1343.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alnas" ,Alnas
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1344.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1344.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd Quran" ,Al Majd Quran
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1340.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1340.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd Hadith" ,Al Majd Hadith
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1341.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1341.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd" ,Al Majd
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1342.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1342.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alresalah" ,Alresalah
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1346.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1346.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="IQRAA" ,IQRAA
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1345.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1345.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera" ,Aljazeera
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1324.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1324.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alarabiyia" ,Alarabiyia
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1325.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1325.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alhadath" ,Alhadath
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1326.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1326.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Ekhbariya" ,Al Ekhbariya
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1328.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1328.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BBC" ,BBC
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1331.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1331.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Skynews" ,Skynews
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1327.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1327.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CN Arabia" ,CN Arabia
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1335.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1335.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Baraeem" ,Baraeem
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1337.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1337.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Toyour ElJannah" ,Toyour ElJannah
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1338.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1338.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Toyour Baby" ,Toyour Baby
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1339.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1339.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Space Toon" ,Space Toon
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1336.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1336.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Quest-Arabia" ,Quest-Arabia
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1334.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1334.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="National Geo-Abudhabi" ,National Geo-Abudhabi
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1333.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1333.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera Doc" ,Aljazeera Doc
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1332.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1332.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Assadisa" ,Assadisa
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1387.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1387.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Arrabia" ,Arrabia
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1386.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1386.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aflam 1" ,Aflam 1
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1319.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1319.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aflam 2" ,Aflam 2
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1320.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1320.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hekayat 1" ,Hekayat 1
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1321.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1321.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hekayat 2" ,Hekayat 2
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1322.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1322.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Cinema" ,Cinema
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1323.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1323.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 1" ,MBC 1
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1278.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1278.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 2" ,MBC 2
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1279.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1279.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 3" ,MBC 3
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1280.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1280.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 4" ,MBC 4
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1281.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1281.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MAX" ,MBC MAX
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1283.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1283.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ACTION" ,MBC ACTION
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1282.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1282.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC DRAMA" ,MBC DRAMA
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1286.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1286.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC DRAMA HD" ,MBC DRAMA HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1287.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1287.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC BOLLYWOOD" ,MBC BOLLYWOOD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1289.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1289.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MASR 1" ,MBC MASR 1
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1284.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1284.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MASR 2" ,MBC MASR 2
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1285.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1285.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC B4U AFLAM" ,MBC B4U AFLAM
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1292.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1292.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ZEE Alwan" ,MBC ZEE Alwan
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1290.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1290.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ZEE Aflam" ,MBC ZEE Aflam
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1291.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1291.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC VARIETY HD" ,MBC VARIETY HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1288.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1288.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 4HD" ,MBC SPORT 4HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1296.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1296.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 3HD" ,MBC SPORT 3HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1295.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1295.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 2HD" ,MBC SPORT 2HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1294.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1294.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 1HD" ,MBC SPORT 1HD
-http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1293.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/FreeFB/Zv6Ji3SssaTS1/1293.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
