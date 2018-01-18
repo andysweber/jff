@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,17/01/18
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,18/01/18
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -1151,6 +1151,127 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 
 
+#EXTINF:8 group-title=”USA2-PREMIUM”,
+
+#EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" ,TSN 1 
+http://163.172.15.141:9732/live?channelId=217&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" ,TSN 2
+http://163.172.15.141:9732/live?channelId=218&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" ,TSN 3 
+http://163.172.15.141:9732/live?channelId=219&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" ,TSN 4 
+http://163.172.15.141:9732/live?channelId=220&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" ,TSN 5 
+http://163.172.15.141:9732/live?channelId=221&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTS NET 360 HD" tvg-link="" tvg-name="SPORTS NET 360 HD" ,SPORTS NET 360 HD
+http://163.172.15.141:9732/live?channelId=222&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTS NET EAST HD" tvg-link="" tvg-name="SPORTS NET EAST HD" ,SPORTS NET EAST HD
+http://163.172.15.141:9732/live?channelId=223&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTS NET ONE HD" tvg-link="" tvg-name="SPORTS NET ONE HD" ,SPORTS NET ONE HD
+http://163.172.15.141:9732/live?channelId=224&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTS NET ONTARIO HD" tvg-link="" tvg-name="SPORTS NET ONTARIO HD" ,SPORTS NET ONTARIO HD
+http://163.172.15.141:9732/live?channelId=225&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTS NET PACIFIC HD" tvg-link="" tvg-name="SPORTS NET PACIFIC HD" ,SPORTS NET PACIFIC HD
+http://163.172.15.141:9732/live?channelId=226&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTS NET WEST HD" tvg-link="" tvg-name="SPORTS NET WEST HD" ,SPORTS NET WEST HD 
+http://163.172.15.141:9732/live?channelId=227&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTS NET WORLD HD" tvg-link="" tvg-name="SPORTS NET WORLD HD" ,SPORTS NET WORLD HD 
+http://163.172.15.141:9732/live?channelId=228&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTSNET 360" tvg-link="" tvg-name="SPORTSNET 360" ,SPORTSNET 360 60
+http://163.172.15.141:9732/live?channelId=229&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTSNET EAST" tvg-link="" tvg-name="SPORTSNET EAST" ,SPORTSNET EAST 
+http://163.172.15.141:9732/live?channelId=230&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTSNET ONE" tvg-link="" tvg-name="SPORTSNET ONE" ,SPORTSNET ONE 
+http://163.172.15.141:9732/live?channelId=231&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTSNET ONE HD" tvg-link="" tvg-name="SPORTSNET ONE HD" ,SPORTSNET ONE HD
+http://163.172.15.141:9732/live?channelId=232&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTSNET ONTARIO" tvg-link="" tvg-name="SPORTSNET ONTARIO" ,SPORTSNET ONTARIO
+http://163.172.15.141:9732/live?channelId=233&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTSNET PACIFIC" tvg-link="" tvg-name="SPORTSNET PACIFIC" ,SPORTSNET PACIFIC 
+http://163.172.15.141:9732/live?channelId=234&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTSNET WEST" tvg-link="" tvg-name="SPORTSNET WEST" ,SPORTSNET WEST
+http://163.172.15.141:9732/live?channelId=235&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPORTSNET WORLD" tvg-link="" tvg-name="SPORTSNET WORLD" ,SPORTSNET WORLD
+http://163.172.15.141:9732/live?channelId=236&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="USA FOX SPORTS 1" tvg-link="" tvg-name="USA FOX SPORTS 1" ,USA FOX SPORTS 1 
+http://163.172.15.141:9732/live?channelId=237&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="USA FOX SPORTS 2" tvg-link="" tvg-name="USA FOX SPORTS 2" ,USA FOX SPORTS 2 
+http://163.172.15.141:9732/live?channelId=238&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="A&E" tvg-link="" tvg-name="A&E" ,A&E
+http://163.172.15.141:9732/live?channelId=239&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="AFN SPORTS" tvg-link="" tvg-name="AFN SPORTS" ,AFN SPORTS
+http://163.172.15.141:9732/live?channelId=240&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="AFN SPORTS 2" tvg-link="" tvg-name="AFN SPORTS 2" ,AFN SPORTS 2 
+http://163.172.15.141:9732/live?channelId=241&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="AMC" tvg-link="" tvg-name="AMC" ,AMC 
+http://163.172.15.141:9732/live?channelId=242&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Animal Planet" tvg-link="" tvg-name="Animal Planet" ,Animal Planet
+http://163.172.15.141:9732/live?channelId=243&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="DESTINATION AMERICA" tvg-link="" tvg-name="DESTINATION AMERICA" ,DESTINATION AMERICA 
+http://163.172.15.141:9732/live?channelId=244&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Discovery" tvg-link="" tvg-name="Discovery" ,Discovery 
+http://163.172.15.141:9732/live?channelId=245&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-link="" tvg-name="DISCOVERY SCIENCE" ,DISCOVERY SCIENCE
+http://163.172.15.141:9732/live?channelId=246&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-link="" tvg-name="E! ENTERTAINMENT" ,E! ENTERTAINMENT
+http://163.172.15.141:9732/live?channelId=247&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-link="" tvg-name="FOX NEWS" ,FOX NEWS 
+http://163.172.15.141:9732/live?channelId=248&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="FX" tvg-link="" tvg-name="FX" ,FX 
+http://163.172.15.141:9732/live?channelId=249&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="HISTORY" tvg-link="" tvg-name="HISTORY" ,HISTORY 
+http://163.172.15.141:9732/live?channelId=250&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MBL NETWORK" tvg-link="" tvg-name="MBL NETWORK" ,MBL NETWORK
+http://163.172.15.141:9732/live?channelId=251&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="NBA TV" tvg-link="" tvg-name="NBA TV" ,NBA TV 
+http://163.172.15.141:9732/live?channelId=252&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SPIKE" tvg-link="" tvg-name="SPIKE" ,SPIKE
+http://163.172.15.141:9732/live?channelId=253&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SYFY" tvg-link="" tvg-name="SYFY" ,SYFY
+http://163.172.15.141:9732/live?channelId=254&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="TBS" tvg-link="" tvg-name="TBS" ,TBS
+http://163.172.15.141:9732/live?channelId=255&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="WWE Network" tvg-link="" tvg-name="WWE Network" ,WWE Network
+http://163.172.15.141:9732/live?channelId=256&uid=68&deviceUser=17623&devicePass=110817 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1374,8 +1495,52 @@ http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m
 
 #EXTINF:3 group-title=”UK1-LOOP_ONE”, 
 
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1,UK: Sky Sports Premier League HD [Backup]
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1532.ts
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1529.ts
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1527.ts
+#EXTINF:-1,UK: Sky Sports Main Event HD [Backup]
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1531.ts
+#EXTINF:-1,UK: Sky Sports Football HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1526.ts
+#EXTINF:-1,UK: Sky Sports Arena HD [Backup]
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1530.ts
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1525.ts
+#EXTINF:-1,UK: Sky Sports Action HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1528.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1524.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1523.ts
 
 
 
@@ -1943,6 +2108,319 @@ http://195.154.26.52:25461/live/go/google/3476.ts|refferer=http://geostreamz.com
 
 
 
+#EXTINF:8 group-title=”UK4-PREMIUM”,
+
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Entertainment Channels
+http://.....
+#EXTINF:-1 tvg-id="Animal Planet" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Animal Planet" ,Animal Planet
+http://62.210.93.115:80/live?channelId=42&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="HISTORY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="HISTORY" ,HISTORY
+http://62.210.93.115:80/live?channelId=43&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="H2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="H2" ,H2
+http://62.210.93.115:80/live?channelId=44&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geo Wild" ,National Geo Wild
+http://62.210.93.115:80/live?channelId=45&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="National Geographic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geographic" ,National Geographic
+http://62.210.93.115:80/live?channelId=46&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="TLC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="TLC" ,TLC
+http://62.210.93.115:80/live?channelId=47&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Syfy" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Syfy" ,Syfy
+http://62.210.93.115:80/live?channelId=48&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Lifetime" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Lifetime" ,Lifetime
+http://62.210.93.115:80/live?channelId=49&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MTV" ,MTV
+http://62.210.93.115:80/live?channelId=50&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Dave" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave" ,Dave
+http://62.210.93.115:80/live?channelId=51&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Dave ja vu" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave ja vu" ,Dave ja vu
+http://62.210.93.115:80/live?channelId=52&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="FOX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FOX" ,FOX
+http://62.210.93.115:80/live?channelId=53&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="horror channel" tvg-link="" tvg-name="horror channel" ,horror channel
+http://62.210.93.115:80/live?channelId=54&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ID" ,ID
+http://62.210.93.115:80/live?channelId=55&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Good Food" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Good Food" ,Good Food
+http://62.210.93.115:80/live?channelId=56&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Home" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Home" ,Home
+http://62.210.93.115:80/live?channelId=57&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Food Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Food Network" ,Food Network
+http://62.210.93.115:80/live?channelId=58&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Alibi" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="alibi" ,alibi
+http://62.210.93.115:80/live?channelId=59&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Drama" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Drama" ,Drama
+http://62.210.93.115:80/live?channelId=60&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="E!" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E!" ,E!
+http://62.210.93.115:80/live?channelId=61&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Eden" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eden" ,Eden
+http://62.210.93.115:80/live?channelId=62&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="GOLD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="GOLD" ,GOLD
+http://62.210.93.115:80/live?channelId=63&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Pick" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Pick" ,Pick
+http://62.210.93.115:80/live?channelId=64&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Really" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Really" ,Really
+http://62.210.93.115:80/live?channelId=65&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="YESTERDAY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Yesterday" ,Yesterday
+http://62.210.93.115:80/live?channelId=66&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="W" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="W" ,W
+http://62.210.93.115:80/live?channelId=67&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Universal Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Universal" ,Universal
+http://62.210.93.115:80/live?channelId=68&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="QUEST" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="QUEST" ,QUEST
+http://62.210.93.115:80/live?channelId=69&uid=68&deviceUser=17623&devicePass=110817
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Movie Channels
+http://.....
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA ACTION & ADVENTURE HD" ,CINEMA ACTION & ADVENTURE HD
+http://62.210.93.43:80/live?channelId=70&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Disney HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DISNEY HD" ,CINEMA DISNEY HD
+http://62.210.93.43:80/live?channelId=71&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky DraRomHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DRAMA AND ROMANCE HD" ,CINEMA DRAMA AND ROMANCE HD
+http://62.210.93.43:80/live?channelId=72&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA FAMILY HD" ,CINEMA FAMILY HD
+http://62.210.93.43:80/live?channelId=73&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Hits HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA HITS HD" ,CINEMA HITS HD
+http://62.210.93.43:80/live?channelId=74&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Greats HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA MODERN GREATS HD" ,CINEMA MODERN GREATS HD
+http://62.210.93.43:80/live?channelId=75&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkyPremiereHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA PREMIERE HD" ,CINEMA PREMIERE HD
+http://62.210.93.43:80/live?channelId=76&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SCI-FI & HORROR HD" ,CINEMA SCI-FI & HORROR HD
+http://62.210.93.43:80/live?channelId=77&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Movies Select HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SELECT HD" ,CINEMA SELECT HD
+http://62.210.93.43:80/live?channelId=78&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Movies Crime & Thriller HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA THRILLER HD" ,CINEMA THRILLER HDD
+http://62.210.93.43:80/live?channelId=79&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Action & Adventure" ,Sky Movies Action & Adventure
+http://62.210.93.43:80/live?channelId=80&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Movies Comedy HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Comedy" ,Sky Movies Comedy
+http://62.210.93.43:80/live?channelId=81&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Disney HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Disney" ,Sky Movies Disney
+http://62.210.93.43:80/live?channelId=82&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky DraRomHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Drama & Romance" ,Sky Movies Drama & Romance
+http://62.210.93.43:80/live?channelId=83&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Family" ,Sky Movies Family
+http://62.210.93.43:80/live?channelId=84&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Greats HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Greats" ,Sky Movies Greats
+http://62.210.93.43:80/live?channelId=85&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkyPremiereHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Premiere" ,Sky Movies Premiere
+http://62.210.93.43:80/live?channelId=86&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Sci-Fi & Horror" ,Sky Movies Sci-Fi & Horror
+http://62.210.93.43:80/live?channelId=87&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Movies Select HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Select" ,Sky Movies Select
+http://62.210.93.43:80/live?channelId=88&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Sky Movies Crime & Thriller HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Thriller" ,Sky Movies Thriller
+http://62.210.93.43:80/live?channelId=89&uid=68&deviceUser=17623&devicePass=110817
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Kids Channels
+http://.....
+#EXTINF:-1 tvg-id="Baby TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Baby TV" ,Baby TV
+http://62.210.93.43:80/live?channelId=90&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="CBBC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CBBC" ,CBBC
+http://62.210.93.43:80/live?channelId=91&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Cartoon network" ,Cartoon network
+http://62.210.93.43:80/live?channelId=92&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Cbeeies" tvg-link="" tvg-name="Cbeeies" ,Cbeeies
+http://62.210.93.43:80/live?channelId=93&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Disney Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Channel" ,Disney Channel
+http://62.210.93.43:80/live?channelId=94&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" ,Disney Jr
+http://62.210.93.43:80/live?channelId=95&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Disney XD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney XD" ,Disney XD
+http://62.210.93.43:80/live?channelId=96&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Nick Jr" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Jr" ,Nick Jr
+http://62.210.93.43:80/live?channelId=97&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Nicktoons" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Toons" ,Nick Toons
+http://62.210.93.43:80/live?channelId=98&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nickelodeon" ,Nickelodeon
+http://62.210.93.43:80/live?channelId=99&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Nick Jr Too" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="NickJr Too" ,NickJr Too
+http://62.210.93.43:80/live?channelId=100&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Boomerang" tvg-link="" tvg-name="Boomerang" ,Boomerang
+http://62.210.93.43:80/live?channelId=101&uid=68&deviceUser=17623&devicePass=110817
+
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Music Channels
+http://.....
+#EXTINF:-1 tvg-id="MTV Base" tvg-link="" tvg-name="MTV Base" ,MTV Base
+http://62.210.93.43:80/live?channelId=102&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MTV Classic" tvg-link="" tvg-name="MTV Classic" ,MTV Classic
+http://62.210.93.43:80/live?channelId=103&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MTV Dance" tvg-link="" tvg-name="MTV Dance" ,MTV Dance
+http://62.210.93.43:80/live?channelId=104&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MTV Hits" tvg-link="" tvg-name="MTV Hits" ,MTV Hits
+http://62.210.93.43:80/live?channelId=105&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MTV Music" tvg-link="" tvg-name="MTV Music" ,MTV Music
+http://62.210.93.43:80/live?channelId=106&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-link="" tvg-name="MTV Rocks" ,MTV Rocks
+http://62.210.93.43:80/live?channelId=107&uid=68&deviceUser=17623&devicePass=110817
+
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Sly Sports
+http://.....
+#EXTINF:-1 tvg-id="SkySp Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action" ,Sly Sports Action
+http://62.210.99.158:80/live?channelId=119&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action HD" ,Sly Sports Action HD
+http://62.210.99.158:80/live?channelId=120&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena" ,Sly Sports Arena
+http://62.210.99.158:80/live?channelId=121&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena HD" ,Sly Sports Arena HD
+http://62.210.99.158:80/live?channelId=122&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySpCricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket" ,Sly Sports Cricket 
+http://62.210.99.158:80/live?channelId=123&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySpCricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket HD" ,Sly Sports Cricket HD 
+http://62.210.99.158:80/live?channelId=124&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp Fball" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football" ,Sly Sports Football 
+http://62.210.99.158:80/live?channelId=125&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp Fball" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football HD" ,Sly Sports Football HD 
+http://62.210.99.158:80/live?channelId=126&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf" ,Sly Sports Golf
+http://62.210.99.158:80/live?channelId=127&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf HD" ,Sly Sports Golf HD 
+http://62.210.99.158:80/live?channelId=128&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySpMainEv" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main" ,Sly Sports Main
+http://62.210.99.158:80/live?channelId=129&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySpMainEv" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main HD" ,Sly Sports Main HD
+http://62.210.99.158:80/live?channelId=130&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix" ,Sly Sports Mix
+http://62.210.99.158:80/live?channelId=131&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix HD" ,Sly Sports Mix HD 
+http://62.210.99.158:80/live?channelId=132&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp PL" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL" ,Sly Sports PL
+http://62.210.99.158:80/live?channelId=133&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp PL" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL HD" ,Sly Sports PL HD 
+http://62.210.99.158:80/live?channelId=134&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports F1" ,Sly Sports F1
+http://62.210.99.158:80/live?channelId=135&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Spts F1 HD" ,Sly Spts F1 HD 
+http://62.210.99.158:80/live?channelId=136&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News" ,Sly Sports News 
+http://62.210.99.158:80/live?channelId=137&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News HD" ,Sly Sports News HD
+http://62.210.99.158:80/live?channelId=138&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="SkySpBoxOff" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Box Office" ,Sly Sports Box Office
+http://62.210.99.158:80/live?channelId=139&uid=68&deviceUser=17623&devicePass=110817
+
+
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,BT Sports
+http://.....
+#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1" ,BT Sport 1
+http://62.210.214.28:80/live?channelId=140&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1 HD" ,BT Sport 1 HD 
+http://62.210.214.28:80/live?channelId=141&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2" ,BT Sport 2 
+http://62.210.214.28:80/live?channelId=142&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2 HD" ,BT Sport 2 HD 
+http://62.210.214.28:80/live?channelId=143&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3" ,BT Sport 3
+http://62.210.214.28:80/live?channelId=144&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3 HD" ,BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BTSpt//ESPNHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN" ,BT Sport ESPN 
+http://62.210.214.28:80/live?channelId=146&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BTSpt//ESPNHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN HD" ,BT Sport ESPN HD D
+http://62.210.214.28:80/live?channelId=147&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport X1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 1" ,BT Sport Extra 1 
+http://62.210.214.28:80/live?channelId=148&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport X2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 2" ,BT Sport Extra 2
+http://62.210.214.28:80/live?channelId=149&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport X3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 3" ,BT Sport Extra 3 
+http://62.210.214.28:80/live?channelId=150&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport X4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 4" ,BT Sport Extra 4 
+http://62.210.214.28:80/live?channelId=151&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport X5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 5" ,BT Sport Extra 5 
+http://62.210.214.28:80/live?channelId=152&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BT Sport X6" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 6" ,BT Sport Extra 6 
+http://62.210.214.28:80/live?channelId=153&uid=68&deviceUser=17623&devicePass=110817
+
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,UK Sports
+http://.....
+#EXTINF:-1 tvg-id="eir Sport 1" tvg-link="" tvg-name="eir Sport 1" ,eir Sport 1
+http://62.210.214.28:80/live?channelId=154&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="eir Sport 2" tvg-link="" tvg-name="eir Sport 2" ,eir Sport 2
+http://62.210.214.28:80/live?channelId=155&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-link="" tvg-name="Eurosport 1" ,Eurosport 1
+http://62.210.214.28:80/live?channelId=156&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-link="" tvg-name="Eurosport 2" ,Eurosport 2 
+http://62.210.214.28:80/live?channelId=157&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="FreeSports" tvg-link="" tvg-name="FreeSports" ,FreeSports 
+http://62.210.214.28:80/live?channelId=158&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="FrontRunner" tvg-link="" tvg-name="FrontRunner" ,FrontRunner 
+http://62.210.214.28:80/live?channelId=159&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="CETIC TV (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="CETIC TV (LIVE FOR GAMES ONLY)" ,CETIC TV (LIVE FOR GAMES ONLY)
+http://62.210.214.28:80/live?channelId=160&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="RANGERS TV (live for games)" tvg-link="" tvg-name="RANGERS TV (live for games)" ,RANGERS TV (live for games) 
+http://62.210.214.28:80/live?channelId=161&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MUTV" tvg-link="" tvg-name="MUTV" ,MUTV
+http://62.210.214.28:80/live?channelId=162&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="LFC tv" tvg-link="" tvg-name="LFC tv" ,LFC tv 
+http://62.210.214.28:80/live?channelId=163&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Chelsea Tv" tvg-link="" tvg-name="Chelsea Tv" ,Chelsea Tv
+http://62.210.214.28:80/live?channelId=164&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MOTOGP LIVE 1" tvg-link="" tvg-name="MOTOGP LIVE 1" ,MOTOGP LIVE 1
+http://62.210.214.28:80/live?channelId=165&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MOTOGP LIVE 2" tvg-link="" tvg-name="MOTOGP LIVE 2" ,MOTOGP LIVE 2
+http://62.210.214.28:80/live?channelId=166&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="MOTOGP LIVE 3" tvg-link="" tvg-name="MOTOGP LIVE 3" ,MOTOGP LIVE 3 
+http://62.210.214.28:80/live?channelId=167&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Motorsport TV" tvg-link="" tvg-name="Motorsport TV" ,Motorsport TV 
+http://62.210.214.28:80/live?channelId=168&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Premier Sports" tvg-link="" tvg-name="Premier Sports" ,Premier Sports
+http://62.210.214.28:80/live?channelId=169&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Premier Sports HD" tvg-link="" tvg-name="Premier Sports HD" ,Premier Sports HD
+http://62.210.214.28:80/live?channelId=170&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Racing UK" tvg-link="" tvg-name="Racing UK" ,Racing UK 
+http://62.210.214.28:80/live?channelId=171&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="Racing UK HD" tvg-link="" tvg-name="Racing UK HD" ,Racing UK HD
+http://62.210.214.28:80/live?channelId=172&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="At The Races" tvg-link="" tvg-name="At The Races" ,At The Races
+http://62.210.214.28:80/live?channelId=173&uid=68&deviceUser=17623&devicePass=110817
+#EXTINF:-1 tvg-id="BoxNation" tvg-link="" tvg-name="BoxNation" ,BoxNation
+http://62.210.214.28:80/live?channelId=174&uid=68&deviceUser=17623&devicePass=110817
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2139,87 +2617,6 @@ http://..........
 
 #EXTINF:4 group-title=”Romania3”,
 
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg/250px-Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg.png ,=ROMANIA=
-http://..........
-
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-#EXTINF:-1,TVR1 
-http://89.38.8.130:39410 
-#EXTINF:-1,TVR2 
-http://89.38.8.130:39411 
-#EXTINF:-1,TVR3 
-http://89.38.8.130:39433 
-#EXTINF:-1,PRO CINEMA 
-http://89.38.8.130:39416 
-#EXTINF:-1,DISCOVERY CHANNEL 
-http://89.38.8.130:39423 
-#EXTINF:-1,TV SE 
-http://89.38.8.130:39419 
-#EXTINF:-1,KANAL D 
-http://89.38.8.130:39418 
-#EXTINF:-1,EUROSPORT 1 
-http://89.38.8.130:39425 
-#EXTINF:-1,EUROSPORT 2 
-http://89.38.8.130:39426 
-#EXTINF:-1,DOLCE SPORT 1 
-http://89.38.8.130:39422 
-#EXTINF:-1,DOLCE SPORT 1 
-http://89.38.8.130:39441 
-#EXTINF:-1,DOLCE SPORT 2 
-http://89.38.8.130:39442 
-#EXTINF:-1,DOLCE SPORT 2 
-http://89.38.8.130:39446 
-#EXTINF:-1,DIGI SPORT 1 
-http://89.38.8.130:39440 
-#EXTINF:-1,HAPPY 
-http://89.38.8.130:39432 
-#EXTINF:-1,NATIONAL 24 PLUS 
-http://89.38.8.130:39438 
-#EXTINF:-1,VP 
-http://89.38.8.130:39437 
-#EXTINF:-1,ZU TV 
-http://89.38.8.130:39429 
-#EXTINF:-1,KISS TV 
-http://89.38.8.130:39452 
-#EXTINF:-1,FAVORIT 
-http://89.38.8.130:39454 
-#EXTINF:-1,NTV 
-http://89.38.8.130:39461 
-#EXTINF:-1,SPERANTA TV 
-http://89.38.8.130:39462 
-#EXTINF:-1,TVS AT 
-http://89.38.8.130:39443 
-#EXTINF:-1,HBO 1 
-http://89.38.8.130:39476 
-#EXTINF:-1,HBO 2 
-http://89.38.8.130:39477 
-#EXTINF:-1,INVESTIGATION DISCOVERY 
-http://89.38.8.130:39483 
-#EXTINF:-1,DISCOVERY SCIENCE 
-http://89.38.8.130:39481 
-#EXTINF:-1,DTX HD 
-http://89.38.8.130:39482 
-#EXTINF:-1,HISTORY 
-http://89.38.8.130:39484 
-#EXTINF:-1,LOOK TV HD 
-http://89.38.8.130:39485 
-#EXTINF:-1,PRIMA TV 
-http://89.38.8.130:39413 
-#EXTINF:-1,DIGI 24 
-http://89.38.8.130:39448
 
 
 
@@ -2685,59 +3082,12 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,IT: Canale 5 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2951.ts
-#EXTINF:-1,IT: Fox Life
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2946.ts
-#EXTINF:-1,IT: Italia 1
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2943.ts
-#EXTINF:-1,IT: Italia 2
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2944.ts
-#EXTINF:-1,IT: Premium Cinema  24
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2962.ts
-#EXTINF:-1,IT: Premium Cinema 2
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2961.ts
-#EXTINF:-1,IT: Premium Cinema 2  24
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2960.ts
-#EXTINF:-1,IT: Rai 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2931.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2932.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2933.ts
-#EXTINF:-1,IT: Rai 4
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2934.ts
-#EXTINF:-1,IT: Rai 5
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2935.ts
-#EXTINF:-1,IT: Rai Gulp
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2930.ts
-#EXTINF:-1,IT: Rai Movie
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2929.ts
-#EXTINF:-1,IT: Rai News 24
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2928.ts
-#EXTINF:-1,IT: Rai Premium
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2939.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2937.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2938.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2936.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2957.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2958.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2955.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2956.ts
-#EXTINF:-1,IT: Sky Cinema Max
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2954.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2959.ts
-#EXTINF:-1,IT: Sky Cinema Uno HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2953.ts
-
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1539.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1540.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1538.ts
 
 
 
@@ -3356,139 +3706,12 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,FR: 13Eme Rue HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4539.ts
-#EXTINF:-1,FR: 6TER HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4536.ts
-#EXTINF:-1,FR: AB1 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4534.ts
-#EXTINF:-1,FR: Action HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4537.ts
-#EXTINF:-1,FR: Animaux HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4535.ts
-#EXTINF:-1,FR: Arte HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4533.ts
-#EXTINF:-1,FR: Bein Sports 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4576.ts
-#EXTINF:-1,FR: Bein Sports 10 Max HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4585.ts
-#EXTINF:-1,FR: Bein Sports 2 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4577.ts
-#EXTINF:-1,FR: Bein Sports 3 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4578.ts
-#EXTINF:-1,FR: Bein Sports 4 Max HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4579.ts
-#EXTINF:-1,FR: Bein Sports 5 Max HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4580.ts
-#EXTINF:-1,FR: Bein Sports 6 Max HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4581.ts
-#EXTINF:-1,FR: Bein Sports 7 Max HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4582.ts
-#EXTINF:-1,FR: Bein Sports 8 Max HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4583.ts
-#EXTINF:-1,FR: Bein Sports 9 Max HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4584.ts
-#EXTINF:-1,FR: Boing HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4538.ts
-#EXTINF:-1,FR: C8 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4532.ts
-#EXTINF:-1,FR: Canal J HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4545.ts
-#EXTINF:-1,FR: Canal+ Cinema HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4541.ts
-#EXTINF:-1,FR: Canal+ Decale HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4542.ts
-#EXTINF:-1,FR: Canal+ Family HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4543.ts
-#EXTINF:-1,FR: Canal+ HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4540.ts
-#EXTINF:-1,FR: Canal+ Series HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4544.ts
-#EXTINF:-1,FR: Canal+ Sport HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4546.ts
-#EXTINF:-1,FR: Cartoon Network HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4554.ts
-#EXTINF:-1,FR: Chasse & Peche
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4555.ts
-#EXTINF:-1,FR: Cine+ Classic HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4550.ts
-#EXTINF:-1,FR: Cine+ Emotion HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4548.ts
-#EXTINF:-1,FR: Cine+ Famiz HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4549.ts
-#EXTINF:-1,FR: Cine+ Frisson HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4551.ts
-#EXTINF:-1,FR: Cine+ FX HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4553.ts
-#EXTINF:-1,FR: Cine+ Polar HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4552.ts
-#EXTINF:-1,FR: Cine+ Premier HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4547.ts
-#EXTINF:-1,FR: Discovery Channel HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4561.ts
-#EXTINF:-1,FR: Discovery Science HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4562.ts
-#EXTINF:-1,FR: Disney Channel HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4558.ts
-#EXTINF:-1,FR: Disney Cinema HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4560.ts
-#EXTINF:-1,FR: Disney Junior HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4559.ts
-#EXTINF:-1,FR: Disney XD HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4557.ts
-#EXTINF:-1,FR: E! Entertemaint HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4556.ts
-#EXTINF:-1,FR: Eurosport 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4587.ts
-#EXTINF:-1,FR: Eurosport 2 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4588.ts
-#EXTINF:-1,FR: France 2 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4523.ts
-#EXTINF:-1,FR: France 24 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4527.ts
-#EXTINF:-1,FR: France 3 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4524.ts
-#EXTINF:-1,FR: France 4 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4525.ts
-#EXTINF:-1,FR: France 5 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4526.ts
-#EXTINF:-1,FR: France Ô HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4528.ts
-#EXTINF:-1,FR: Info Sports HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4586.ts
-#EXTINF:-1,FR: M6 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4529.ts
-#EXTINF:-1,FR: MTV HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4563.ts
-#EXTINF:-1,FR: National Geographic HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4564.ts
-#EXTINF:-1,FR: National Geographic Wild HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4565.ts
-#EXTINF:-1,FR: Nickelodeon HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4571.ts
-#EXTINF:-1,FR: Numero 23 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4566.ts
-#EXTINF:-1,FR: OCH City HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4568.ts
-#EXTINF:-1,FR: OCS Choc HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4567.ts
-#EXTINF:-1,FR: OCS Geants HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4570.ts
-#EXTINF:-1,FR: OCS Max HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4569.ts
-#EXTINF:-1,FR: RTL 9 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4572.ts
-#EXTINF:-1,FR: SYSF HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4574.ts
-#EXTINF:-1,FR: Teva HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4573.ts
-#EXTINF:-1,FR: TF1 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4522.ts
-#EXTINF:-1,FR: W9 HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4530.ts
-#EXTINF:-1,FR: Weo HD+
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4531.ts
-
+#EXTINF:-1,FR: Beinsport 3 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1517.ts
+#EXTINF:-1,FR: Beinsport 2 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1516.ts
+#EXTINF:-1,FR: Beinsport 1 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1515.ts
 
 
 
@@ -4036,163 +4259,163 @@ http://.....
 
 
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD Fr",BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1454.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1454.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr",BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1455.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1455.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr",BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1456.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1456.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 04HD Fr",BeINMAX 04HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1457.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1457.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 05HD Fr",BeINMAX 05HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1458.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1458.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 06HD Fr",BeINMAX 06HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1459.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1459.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 07HD Fr",BeINMAX 07HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1460.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1460.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 08HD Fr",BeINMAX 08HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1461.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1461.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 09HD Fr",BeINMAX 09HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1462.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1462.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 10HD Fr",BeINMAX 10HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1463.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1463.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BOING" ,BOING
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1409.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1409.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="TF1"  ,TF1
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1428.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1428.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 2"  ,FRANCE 2
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1430.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1430.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 3"  ,FRANCE 3
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1431.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1431.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 4"  ,FRANCE 4
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1432.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1432.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 5"  ,FRANCE 5
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1433.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1433.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE O"  ,FRANCE O
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1434.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1434.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="M6"  ,M6
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1429.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1429.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ACTION"  ,ACTION
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1453.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1453.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL"  ,CANAL
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1435.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1435.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL CINEMA"  ,CANAL CINEMA
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1436.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1436.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL FAMILY"  ,CANAL FAMILY
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1438.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1438.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL DECALE"  ,CANAL DECALE
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1437.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1437.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL SERIES"  ,CANAL SERIES
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1439.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1439.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE PREMIER"  ,CINE PREMIER
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1440.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1440.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE POLAR"  ,CINE POLAR
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1446.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1446.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE FX"  ,CINE FX
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1447.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1447.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE FRISSON"  ,CINE FRISSON
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1441.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1441.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE FAMIZ"  ,CINE FAMIZ
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1445.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1445.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE EMOTION"  ,CINE EMOTION
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1442.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1442.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE CLUB"  ,CINE CLUB
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1444.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1444.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE CLASSIC"  ,CINE CLASSIC
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1443.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1443.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS MAX"  ,OCS MAX
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1451.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1451.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS GEANT"  ,OCS GEANT
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1449.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1449.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS CITY"  ,OCS CITY
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1450.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1450.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS CHOC"  ,OCS CHOC
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1448.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1448.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="COMEDIE"  ,COMEDIE
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1452.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1452.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 1"  ,CANAL PLAY 1
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1390.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1390.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 2"  ,CANAL PLAY 2
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1391.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1391.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 3"  ,CANAL PLAY 3
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1392.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1392.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 4"  ,CANAL PLAY 4
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1393.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1393.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 5"  ,CANAL PLAY 5
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1394.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1394.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 1"  ,ALACARTE 1
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1395.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1395.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 2"  ,ALACARTE 2
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1396.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1396.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 3"  ,ALACARTE 3
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1397.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1397.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 4"  ,ALACARTE 4
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1398.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1398.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 5"  ,ALACARTE 5
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1399.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1399.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ANIMAUX"  ,ANIMAUX
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1424.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1424.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISCOVRY-SCI"  ,DISCOVRY-SCI
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1423.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1423.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISCOVRY"  ,DISCOVRY
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1422.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1422.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="USHUAIA TV"  ,USHUAIA TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1425.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1425.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SEASON"  ,SEASON
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1427.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1427.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NATIONAL-GEO"  ,NATIONAL-GEO
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1420.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1420.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NAT-GEO-WILD"  ,NAT-GEO-WILD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1421.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1421.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CHASSE PECHE"  ,CHASSE PECHE
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1426.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1426.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="France 24"  ,France 24
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1329.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1329.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Euronews"  ,Euronews
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1330.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1330.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="LCI"  ,LCI
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1401.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1401.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ITELE"  ,ITELE
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1400.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1400.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SFR Sport 1HD Fr"  ,SFR Sport 1HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1464.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1464.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SFR Sport 2HD Fr"  ,SFR Sport 2HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1465.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1465.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SFR Sport 3HD Fr"  ,SFR Sport 3HD Fr
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1466.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1466.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL SPORT"  ,CANAL SPORT
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1417.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1417.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="INFOSPORT"  ,INFOSPORT
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1419.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1419.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FOOT 24"  ,FOOT 24
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1418.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1418.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="PIWI"  ,PIWI
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1402.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1402.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CARTON NET"  ,CARTON NET
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1405.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1405.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BOOMERANG"  ,BOOMERANG
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1404.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1404.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="TIJI"  ,TIJI
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1403.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1403.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="GULLI"  ,GULLI
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1406.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1406.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="TELETOON"  ,TELETOON
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1410.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1410.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL J"  ,CANAL J
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1408.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1408.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NICKELODEON JUNIOR"  ,NICKELODEON JUNIOR
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1412.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1412.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NICKELODEON"  ,NICKELODEON
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1411.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1411.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MANGAS"  ,MANGAS
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1407.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1407.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY XD"  ,DISNEY XD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1416.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1416.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY JUNIOR"  ,DISNEY JUNIOR
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1413.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1413.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY CINEMA"  ,DISNEY CINEMA
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1415.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1415.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY CHANNEL"  ,DISNEY CHANNEL
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1414.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1414.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
@@ -4520,83 +4743,6 @@ http://85.144.43.35:9001/play/a02s
 #EXTINF:8 group-title=”Germany3”,
 
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,StarParadies 
-http://5.255.90.209:5002/play/a005 
-#EXTINF:-1,Sky Sport Bundesliga 8 HD 
-http://5.255.90.209:5002/play/a00x 
-#EXTINF:-1,GOD Channel 
-http://5.255.90.209:5002/play/a00e 
-#EXTINF:-1,NICKELODEON AT 
-http://5.255.90.209:5002/play/a007 
-#EXTINF:-1,Comedy Central / VIVA AT 
-http://5.255.90.209:5002/play/a006 
-#EXTINF:-1,Pro7 MAXX HD 
-http://5.255.90.209:5002/play/a015 
-#EXTINF:-1,ProSieben HD 
-http://5.255.90.209:5002/play/a012 
-#EXTINF:-1,SIXX HD 
-http://5.255.90.209:5002/play/a014 
-#EXTINF:-1,Fashion 4K 
-http://5.255.90.209:5002/play/a00l 
-#EXTINF:-1,SAT.1 HD 
-http://5.255.90.209:5002/play/a011 
-#EXTINF:-1,DELUXE MUSIC 
-http://5.255.90.209:5002/play/a008 
-#EXTINF:-1,Sky Atlantic +1 HD 
-http://5.255.90.209:5002/play/a00s 
-#EXTINF:-1,Sky 1 +1 HD 
-http://5.255.90.209:5002/play/a00z 
-#EXTINF:-1,kabel eins HD 
-http://5.255.90.209:5002/play/a013 
-#EXTINF:-1,PMC TV 
-http://5.255.90.209:5002/play/a002 
-#EXTINF:-1,MediaShop- Meine Einkaufswelt 
-http://5.255.90.209:5002/play/a00f 
-#EXTINF:-1,SAT.1 Gold HD 
-http://5.255.90.209:5002/play/a00o 
-#EXTINF:-1,JML Shop 
-http://5.255.90.209:5002/play/a00b 
-#EXTINF:-1,pearl.tv Shop 
-http://5.255.90.209:5002/play/a00c 
-#EXTINF:-1,BB-MV Lokal-TV 
-http://5.255.90.209:5002/play/a009 
-#EXTINF:-1,Sky Sport Bundesliga UHD 
-http://5.255.90.209:5002/play/a00y 
-#EXTINF:-1,Sky Sport 9 HD 
-http://5.255.90.209:5002/play/a00t 
-#EXTINF:-1,N24 Austria 
-http://5.255.90.209:5002/play/a004 
-#EXTINF:-1,Sky Sport UHD 
-http://5.255.90.209:5002/play/a00u 
-#EXTINF:-1,DMAX Austria 
-http://5.255.90.209:5002/play/a00a 
-#EXTINF:-1,Eurosport 2 HD Xtra 
-http://5.255.90.209:5002/play/a00q 
-#EXTINF:-1,Channel21 
-http://5.255.90.209:5002/play/a00d 
-#EXTINF:-1,Eurosport 1 HD 
-http://5.255.90.209:5002/play/a00p
-
 
 
 
@@ -4651,235 +4797,10 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,DE: EURO SPORT 1 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1642.ts
-#EXTINF:-1,DE: EURO SPORT 2 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1643.ts
-#EXTINF:-1,DE: SPORT 1 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/2962.ts
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/3293.ts
-#EXTINF:-1,DE: 3 SAT HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1680.ts
-#EXTINF:-1,DE: TELE 5 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1659.ts
-#EXTINF:-1,DE: AXN HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1658.ts
-#EXTINF:-1,DE: Das Erste
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1681.ts
-#EXTINF:-1,DE: HR HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1666.ts
-#EXTINF:-1,DE: Kinowelt TV HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1668.ts
-#EXTINF:-1,DE: KABEL 1 CLASSIC
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1657.ts
-#EXTINF:-1,DE: KABEL 1 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1656.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1660.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1661.ts
-#EXTINF:-1,DE: ORF 3
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1669.ts
-#EXTINF:-1,DE: Prosieben HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1655.ts
-#EXTINF:-1,DE: RTL CRIME
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1684.ts
-#EXTINF:-1,DE: RTL LIVING
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1685.ts
-#EXTINF:-1,DE: RTL Passion HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1683.ts
-#EXTINF:-1,DE: RTL YOU
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1682.ts
-#EXTINF:-1,DE: N24 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1667.ts
-#EXTINF:-1,DE: SiXX
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1664.ts
-#EXTINF:-1,DE: Cartoon Network
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1677.ts
-#EXTINF:-1,DE: SKY DISNEY JUNIOR
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1675.ts
-#EXTINF:-1,DE: SKY DISNEY XD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1676.ts
-#EXTINF:-1,DE: SKY GOLDSTAR
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1673.ts
-#EXTINF:-1,DE: SKY HEIMTKANAL
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1672.ts
-#EXTINF:-1,DE: Servus TV
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1674.ts
-#EXTINF:-1,DE: Disney Channel
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1821.ts
-#EXTINF:-1,DE: NICKELODEON HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1822.ts
-#EXTINF:-1,DE: SKY DISNEY CINEMAGIC
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1820.ts
-#EXTINF:-1,DE: SKY Germany Boomerang HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1823.ts
-#EXTINF:-1,DE: SKY KIRIMI
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1671.ts
-#EXTINF:-1,DE: Sky Cinema Nostalgie HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1670.ts
-#EXTINF:-1,DE: SRF 1 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1662.ts
-#EXTINF:-1,DE: SRF 2 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1663.ts
-#EXTINF:-1,DE: SONY TV
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1665.ts
-#EXTINF:-1,DE: UNIVERSAL HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1679.ts
-#EXTINF:-1,DE: VIVA / COMEDY CENTRAL
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1678.ts
-#EXTINF:-1,DE: Zee One
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1654.ts
-#EXTINF:-1,DE: SKY HITS HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1326.ts
-#EXTINF:-1,DE: Sky Cinema 1
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/709.ts
-#EXTINF:-1,DE: Sky Germany 13th Street  HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/929.ts
-#EXTINF:-1,DE: SyFy HD Deutschland
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/692.ts
-#EXTINF:-1,DE: SKY EMOTION HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/631.ts
-#EXTINF:-1,DE: SKY COMEDY HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/628.ts
-#EXTINF:-1,DE: National Geographic HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/698.ts
-#EXTINF:-1,DE: Nat Geo Wild HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/2000.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/691.ts
-#EXTINF:-1,DE: ANIMAL PLANET HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/2001.ts
-#EXTINF:-1,DE: SKY CINEMA+24 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/630.ts
-#EXTINF:-1,DE: SKY CINEMA HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/629.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/199.ts
-#EXTINF:-1,DE: SKY ACTION HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/627.ts
-#EXTINF:-1,DE: Sky Cinema Max HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/198.ts
-#EXTINF:-1,DE: SKY Cinema Plus24
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/432.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/705.ts
-#EXTINF:-1,DE: MGM HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/696.ts
-#EXTINF:-1,DE: Wdr HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/716.ts
-#EXTINF:-1,DE: VOX HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/715.ts
-#EXTINF:-1,DE: TNT FILM HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/712.ts
-#EXTINF:-1,DE: Super RTL
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/711.ts
-#EXTINF:-1,DE: RTL Nitro
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/704.ts
-#EXTINF:-1,DE: RTL 2
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/703.ts
-#EXTINF:-1,DE: RTL HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/702.ts
-#EXTINF:-1,DE: Pro 7 Max
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/701.ts
-#EXTINF:-1,DE: Pro 7
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/700.ts
-#EXTINF:-1,DE: Kika HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/697.ts
-#EXTINF:-1,DE: FOX HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/695.ts
-#EXTINF:-1,DE: D MAX HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/690.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/3232.ts
-#EXTINF:-1,DE: ARTE HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/687.ts
-#EXTINF:-1,DE: ARD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/686.ts
-#EXTINF:-1,DE: ZDF HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/626.ts
-#EXTINF:-1,DE: Sky Germany Select 1 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1184.ts
-#EXTINF:-1,DE: Sky Germany Select 2 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1185.ts
-#EXTINF:-1,DE: Sky Germany Select 3 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1186.ts
-#EXTINF:-1,DE: Sky Germany Select 4 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1187.ts
-#EXTINF:-1,DE: Sky Germany Select 5 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1188.ts
-#EXTINF:-1,DE: Sky Germany Select 6 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1189.ts
-#EXTINF:-1,DE: Sky Germany Select 7 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1190.ts
-#EXTINF:-1,DE:Sky Germany Select 8 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1191.ts
-#EXTINF:-1,DE: Sky Germany Select 9 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1192.ts
-#EXTINF:-1,DE: Sky Germany Select 10 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1193.ts
-#EXTINF:-1,DE: Sky Popcorn Select 1 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/2946.ts
-#EXTINF:-1,DE: Sky Popcorn Select 2 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/2947.ts
-#EXTINF:-1,DE: Sky Popcorn Select 3 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/2948.ts
-#EXTINF:-1,DE: Sky Popcorn Select 4 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/2949.ts
-#EXTINF:-1,DE: Sky Popcorn Select 5 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/2950.ts
-#EXTINF:-1,DE: Sky Popcorn Select 6 HD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/2951.ts
-#EXTINF:-1,DE: FILM CLUB HD GOLD 1
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/3093.ts
-#EXTINF:-1,DE: FILM CLUB HD GOLD 2
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/3094.ts
-#EXTINF:-1,DE: FILM CLUB HD GOLD 3
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/3095.ts
-#EXTINF:-1,DE: FILM CLUB HD GOLD 4
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/3096.ts
-#EXTINF:-1,DE: FILM CLUB HD 1
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1889.ts
-#EXTINF:-1,DE: FILM CLUB HD 2
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1890.ts
-#EXTINF:-1,DE: FILM CLUB HD 3
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1891.ts
-#EXTINF:-1,DE: FILM CLUB HD 4
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1892.ts
-#EXTINF:-1,DE: FILM CLUB HD 5
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1893.ts
-#EXTINF:-1,DE: FILM CLUB HD 6
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1894.ts
-#EXTINF:-1,DE: KINO BOX 1
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2934.mp4
-#EXTINF:-1,DE: KINO BOX 2
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2935.mp4
-#EXTINF:-1,DE: KINO BOX 3
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2936.mp4
-#EXTINF:-1,DE: KINO BOX 4
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2937.mp4
-#EXTINF:-1,DE: KINO BOX 5
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2938.mp4
-#EXTINF:-1,DE: KINO BOX 6
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2939.mp4
-#EXTINF:-1,DE: KINO BOX 7
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2940.mp4
-#EXTINF:-1,DE: KINO BOX 8
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2941.mp4
-#EXTINF:-1,DE: KINO BOX 9
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2942.mp4
-#EXTINF:-1,DE: KINO BOX 10
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2943.mp4
-#EXTINF:-1,DE: KINO BOX 11
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2944.mp4
-#EXTINF:-1,DE: KINO BOX 12
-http://gold.fransa365.net:8080/movie/wserkanndad/cuQZzo4SHR/2945.mp4
-#EXTINF:-1,DE: Boomerang
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1644.ts
-#EXTINF:-1,DE: Disney XD
-http://gold.fransa365.net:8080/live/wserkanndad/cuQZzo4SHR/1645.ts
-
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1522.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1521.ts
 
 
 
@@ -6072,62 +5993,12 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,ES: AMC HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3004.ts
-#EXTINF:-1,ES: Barca TV
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3034.ts
-#EXTINF:-1,ES: Canal  Accion HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2988.ts
-#EXTINF:-1,ES: Canal  Comedia HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2987.ts
-#EXTINF:-1,ES: Canal  Dcine HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2986.ts
-#EXTINF:-1,ES: Canal  Deportes HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3028.ts
-#EXTINF:-1,ES: Canal  Estrenos HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2985.ts
-#EXTINF:-1,ES: Canal  Futbol HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3027.ts
-#EXTINF:-1,ES: Canal  Series
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2984.ts
-#EXTINF:-1,ES: Canal Panda
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2989.ts
-#EXTINF:-1,ES: Comedy Central
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3000.ts
-#EXTINF:-1,ES: Cosmo
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3022.ts
-#EXTINF:-1,ES: Energy
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3018.ts
-#EXTINF:-1,ES: Eurosport 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3017.ts
-#EXTINF:-1,ES: Fox Life HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2997.ts
-#EXTINF:-1,ES: Hollywood HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2996.ts
-#EXTINF:-1,ES: LA 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2966.ts
-#EXTINF:-1,ES: LA 2 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2967.ts
-#EXTINF:-1,ES: LTC
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3015.ts
-#EXTINF:-1,ES: Movistar F1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3014.ts
-#EXTINF:-1,ES: MTV
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3012.ts
-#EXTINF:-1,ES: Nat Geo Wild HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3010.ts
-#EXTINF:-1,ES: Non Stop People
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3008.ts
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2995.ts
-#EXTINF:-1,ES: TCM HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2993.ts
-#EXTINF:-1,ES: TeleCinco HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2971.ts
-#EXTINF:-1,ES: TNT HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2992.ts
-
-
+#EXTINF:-1,ES: M Futboll HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1520.ts
+#EXTINF:-1,ES: BEIN SPORT ES
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1519.ts
+#EXTINF:-1,ES: BEIN LALIGA HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1518.ts
 
 
 
@@ -7499,7 +7370,16 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1537.ts
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1536.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1535.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1534.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1533.ts
 
 
 
@@ -10597,6 +10477,72 @@ http://62.68.66.250:8003/play/s10
 
 
 
+#EXTINF:9 group-title=”United.Arab.Emirates-LOOP_ONE”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,Beinsport 11HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1548.ts
+#EXTINF:-1,BeIN Sport 9HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1546.ts
+#EXTINF:-1,BeIN Sport 8HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1545.ts
+#EXTINF:-1,BeIN Sport 7HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1544.ts
+#EXTINF:-1,BeIN Sport 6HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1543.ts
+#EXTINF:-1,BeIN Sport 5HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1542.ts
+#EXTINF:-1,BeIN Sport 3HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1541.ts
+#EXTINF:-1,BeIN Sport 2 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1549.ts
+#EXTINF:-1,BeIN Sport 1 HD
+http://163.172.36.103:8000/live/yf9xVEMKCv/iptvgold.com/1547.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:9 group-title=”United.Arab.Emirates1_PREMIUM”,
@@ -11566,259 +11512,259 @@ http://.....
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN SPORTS=======
 http://......
 #EXTINF:-1 tvg-name="BeINSPORTS News" ,BeINSPORTS News
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1496.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1496.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS Global" ,BeINSPORTS Global
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1495.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1495.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" ,BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1494.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1494.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 2HD" ,BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1493.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1493.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 3HD" ,BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1492.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1492.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 4HD" ,BeINSPORTS 4HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1491.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1491.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 5HD" ,BeINSPORTS 5HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1490.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1490.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 6HD" ,BeINSPORTS 6HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1489.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1489.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 7HD" ,BeINSPORTS 7HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1488.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1488.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 8HD" ,BeINSPORTS 8HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1487.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1487.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 9HD" ,BeINSPORTS 9HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1486.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1486.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 10HD" ,BeINSPORTS 10HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1485.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1485.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 11HD" ,BeINSPORTS 11HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1484.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1484.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="beINSPORTS 12HD" ,beINSPORTS 12HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1483.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1483.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN Movies=======
 http://......
 #EXTINF:-1 tvg-name="BeIN Movies 1HD" ,BeIN Movies 1HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1473.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1473.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 2HD" ,BeIN Movies 2HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1474.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1474.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 3HD" ,BeIN Movies 3HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1475.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1475.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 4HD" ,BeIN Movies 4HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1476.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1476.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Discovery HD" ,BeIN Discovery HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1478.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1478.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN GROUMMET" ,BeIN GROUMMET
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1477.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1477.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Jeem_HD" ,BeIN Jeem_HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1482.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1482.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Baraim_HD" ,BeIN Baraim_HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1480.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1480.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Fatafeat" ,BeIN Fatafeat
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1479.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1479.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN JUNIOR" ,BeIN JUNIOR
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1481.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1481.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======AD Sports=======
 http://......
 #EXTINF:-1 tvg-name="AD Sports 1HD" ,AD Sports 1HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1467.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1467.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 2HD" ,AD Sports 2HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1468.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1468.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 3HD" ,AD Sports 3HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1469.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1469.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 4HD" ,AD Sports 4HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1470.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1470.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 5HD" ,AD Sports 5HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1471.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1471.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 6HD" ,AD Sports 6HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1472.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1472.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Maroc=======
 http://......
 #EXTINF:-1 tvg-name="Al-Aoula-Inter" ,Al-Aoula-Inter
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1382.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1382.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="2M-Monde" ,2M-Monde
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1383.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1383.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Medi-1-TV" ,Medi-1-TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1381.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1381.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Maghribia" ,Al-Maghribia
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1384.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1384.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tele-Maroc" ,Tele-Maroc
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1380.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1380.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tamazight" ,Tamazight
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1385.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1385.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Arriadia" ,Arriadia
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1388.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1388.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SUD24-TV" ,SUD24-TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1389.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1389.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Assadisa" ,Assadisa
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1387.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1387.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Arrabia" ,Arrabia
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1386.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1386.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Algeria=======
 http://......
 #EXTINF:-1 tvg-name="Samira-Tv" ,Samira-Tv
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1379.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1379.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Programme.National" ,Programme.National
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1360.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1360.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Canal-Algerie" ,Canal-Algerie
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1361.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1361.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Algeria 3" ,Algeria 3
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1362.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1362.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Algeria 5" ,Algeria 5
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1363.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1363.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk TV" ,Echorouk TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1358.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1358.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk news" ,Echorouk news
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1357.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1357.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk Benna" ,Echorouk Benna
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1359.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1359.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Kbc Algeria" ,Kbc Algeria
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1369.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1369.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Eljazairia-TV" ,Eljazairia-TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1372.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1372.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="EnnahLaki" ,EnnahLaki
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1365.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1365.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="EnnahTV" ,EnnahTV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1364.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1364.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Elhaddaf-TV" ,Elhaddaf-TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1371.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1371.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Elbilad" ,Elbilad
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1370.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1370.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Dzair TV" ,Dzair TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1368.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1368.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Dzai News" ,Dzai News
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1367.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1367.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Magharibia-1" ,Al Magharibia-1
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1373.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1373.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Magharibia-2" ,Al Magharibia-2
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1374.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1374.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-TV" ,Berbere-TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1376.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1376.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-Music" ,Berbere-Music
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1377.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1377.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-Jeuness" ,Berbere-Jeuness
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1378.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1378.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Beur-TV" ,Beur-TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1375.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1375.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BAHIA TV" ,BAHIA TV
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1366.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1366.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Tunesia=======
 http://......
 #EXTINF:-1 tvg-name="Tonesna" ,Tonesna
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1349.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1349.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 1" ,Tunesia 1
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1347.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1347.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 2" ,Tunesia 2
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1348.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1348.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Nessma" ,Nessma
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1352.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1352.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hannibal" ,Hannibal
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1351.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1351.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Telvaza" ,Telvaza
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1355.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1355.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Zitouna" ,Zitouna
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1353.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1353.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="El-HiwEttounsi" ,El-HiwEttounsi
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1350.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1350.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Attasiaa" ,Attasiaa
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1354.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1354.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Janoubia" ,Al-Janoubia
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1356.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1356.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======KIDS=======
 http://......
 #EXTINF:-1 tvg-name="Alrahma" ,Alrahma
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1343.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1343.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alnas" ,Alnas
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1344.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1344.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd Quran" ,Al Majd Quran
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1340.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1340.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd Hadith" ,Al Majd Hadith
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1341.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1341.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd" ,Al Majd
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1342.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1342.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alresalah" ,Alresalah
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1346.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1346.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="IQRAA" ,IQRAA
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1345.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1345.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=============
 http://......
 #EXTINF:-1 tvg-name="CN Arabia" ,CN Arabia
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1335.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1335.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Baraeem" ,Baraeem
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1337.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1337.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Toyour ElJannah" ,Toyour ElJannah
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1338.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1338.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Toyour Baby" ,Toyour Baby
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1339.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1339.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Space Toon" ,Space Toon
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1336.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1336.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera" ,Aljazeera
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1324.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1324.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alarabiyia" ,Alarabiyia
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1325.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1325.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alhadath" ,Alhadath
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1326.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1326.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Ekhbariya" ,Al Ekhbariya
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1328.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1328.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BBC" ,BBC
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1331.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1331.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Skynews" ,Skynews
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1327.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1327.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Quest-Arabia" ,Quest-Arabia
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1334.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1334.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="National Geo-Abudhabi" ,National Geo-Abudhabi
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1333.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1333.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera Doc" ,Aljazeera Doc
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1332.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1332.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Art=======
 http://......
 #EXTINF:-1 tvg-name="Aflam 1" ,Aflam 1
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1319.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1319.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aflam 2" ,Aflam 2
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1320.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1320.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hekayat 1" ,Hekayat 1
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1321.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1321.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hekayat 2" ,Hekayat 2
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1322.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1322.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Cinema" ,Cinema
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1323.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1323.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======MBC=======
 http://......
 #EXTINF:-1 tvg-name="MBC 1" ,MBC 1
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1278.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1278.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 2" ,MBC 2
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1279.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1279.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 3" ,MBC 3
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1280.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1280.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 4" ,MBC 4
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1281.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1281.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MAX" ,MBC MAX
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1283.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1283.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ACTION" ,MBC ACTION
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1282.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1282.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC DRAMA" ,MBC DRAMA
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1286.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1286.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC DRAMA HD" ,MBC DRAMA HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1287.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1287.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC BOLLYWOOD" ,MBC BOLLYWOOD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1289.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1289.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MASR 1" ,MBC MASR 1
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1284.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1284.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MASR 2" ,MBC MASR 2
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1285.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1285.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC B4U AFLAM" ,MBC B4U AFLAM
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1292.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1292.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ZEE Alwan" ,MBC ZEE Alwan
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1290.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1290.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ZEE Aflam" ,MBC ZEE Aflam
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1291.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1291.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC VARIETY HD" ,MBC VARIETY HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1288.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1288.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 4HD" ,MBC SPORT 4HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1296.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1296.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 3HD" ,MBC SPORT 3HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1295.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1295.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 2HD" ,MBC SPORT 2HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1294.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1294.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 1HD" ,MBC SPORT 1HD
-http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS9/1293.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1293.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
