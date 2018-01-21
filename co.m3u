@@ -8608,12 +8608,11 @@ http://188.93.94.141/gpb/index.m3u8
 
 
 
-#EXTINF:8 group-title=”Albania/Republic_of_Macedonia-WebTV”,
+#EXTINF:8 group-title=”Albania-WebTV”,
 
 #EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif ,==Albania==
 http://..........
-#EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/mklarge.gif ,==R.O.M==
-http://..........
+
 
 #EXTINF:0,AlbuK HD
 rtmp://188.138.17.8:1935/albuk/albuk.stream
