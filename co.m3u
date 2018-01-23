@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,23/01/18
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,23/01/18 !!
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -107,14 +107,16 @@ https://www.youtube.com/watch?v=ELB7cKTx5ig
 https://www.youtube.com/watch?v=qRY56sJJ2to
 #EXTINF:-1 tvg-logo=https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg ,ERT Play WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=Ba4voPNmZUU
+#EXTINF:-1 tvg-logo=https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg ,ERT Play WebTV (Youtube)
+https://www.youtube.com/watch?v=bVREmAZt6i0
 #EXTINF:-1 tvg-logo=https://lh3.googleusercontent.com/-cL6bbbQTXTc/WiWWZUVOMEI/AAAAAAABwS8/yLQFnNU7qIU-FXk6ciMZLYdnRvo1ustFACLcBGAs/h120/ertplay2.jpg ,ERT Play 2 WorldWide WebTV (Youtube
 https://www.youtube.com/watch?v=-OSoL74Gi0U
 #EXTINF:-1 tvg-logo=https://goo.gl/ofVjvQ ,NETV TORONTO
-rtmp://live.netvtoronto.com:1935/NetvToronto/NetvToronto
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/q5aDRg ,ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (Youtube)
-https://www.youtube.com/watch?v=vbJFLi86nDc
+https://www.youtube.com/watch?v=-q44pYLLgTs
 #EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA 
 http://master.cystreams.com:25461/live/greek/athos1221/43.ts
 #EXTINF:0 tvg-logo=http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png ,MEGA COSMOS
@@ -122,23 +124,21 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/athos1221/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=4L-p8NcwXSg
+https://www.youtube.com/watch?v=wV0Jq0iWfe4
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
-#EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/6/63/Alpha_Sat.png ,ALPHA SAT
-http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/kkjOp4 ,ZOUGLA
-http://zglive1.mdc.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
+http://zouglacam.mdc.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:0 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,E
-https://s2.streamings.gr/epsilontv/epsilontv.m3u8
+https://s1.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
 http://master.cystreams.com:25461/live/greek/athos1221/40.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/m1ZYJB ,VOULI
-http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/0Ovqq2f.png ,TILESPORT
-rtmp://78.47.151.114/tilesport/movie1
+rtmp://tv3.streampulse.eu:1935/tilesport/movie1
 #EXTINF:-1 tvg-name="Action 24" tvg-logo=http://greektv.pbworks.com/f/ACTION24.png ,Action 24
-http://stream-13.dc3.dailymotion.com/24/dm/3/x5j0ses/live-2.m3u8
+http://stream-15.dc3.dailymotion.com/48/dm/3/x61fbhs/live-1.m3u8
 #EXTINF:-1 tvg-logo=http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png ,BEST TV 
 http://s.bizr.gr:8080/hls/best.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/skTCR6 ,TV100
@@ -151,11 +151,11 @@ http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/ZTIWHBd.png ,NEW TV
 http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://goo.gl/WSfOWs ,NEA
+#EXTINF:-1 tvg-logo=https://goo.gl/WSfOWs ,NEA TV
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/GdgekUL.png ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 tvg-name="Macedonia TV" epg-id=Macedonia.gr tvg-logo=https://goo.gl/CsM9Iu ,MAKEDONIA / M.TV HD
+#EXTINF:-1 tvg-name="Macedonia TV" epg-id=Macedonia.gr tvg-logo=https://goo.gl/CsM9Iu ,M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 tvg-name="Κρήτη TV" epg-id=KritiTV.gr tvg-logo=https://goo.gl/BnX9DJ ,KRHTHTV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
@@ -165,18 +165,16 @@ rtmp://live.cretetv.gr/cretetv/myStream
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-name="Kontra Channel" epg-id=KontraEN.gr tvg-logo=https://goo.gl/S96RUr ,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/hadjistyllis/logo/master/ENA.PNG ,ENA (Youtube)
-https://www.youtube.com/watch?v=gZo6Tu3VKP4
 #EXTINF:-1 tvg-logo=https://goo.gl/3EsuCz ,AIGAIO
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/mNqHoo ,AXELOOS
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/nYsDIa ,ASTRA
-http://stream-01.dc3.dailymotion.com/57/dm/3/x62oght/live-2.m3u8
+http://live.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/baRnZKA.png",SUPERSTAR
 http://v2.ciclano.io:1935/startv/startv/playlist.m3u
 #EXTINF:-1 tvg-logo=https://goo.gl/QMXKek ,EURONEWS (Youtube)
-https://www.youtube.com/watch?v=7ir4xo9M7AY
+https://www.youtube.com/watch?v=a6lqyzTn2uQ
 #EXTINF:-1 tvg-logo=https://goo.gl/aVVUtg ,TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/6xRxPun.png ,TV GOLD
@@ -185,12 +183,8 @@ mms://tvgold.webcast.mediacdn.com/tvgold
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:-1 tvg-logo=https://goo.gl/oJ9YrY ,THRAKI NET
 rtmp://hls.onestreaming.com:1935/live/thrakinettv
-#EXTINF:-1 tvg-logo=https://goo.gl/WUKKBu ,Blue Sky (Youtube)
-https://www.youtube.com/watch?v=m9HpJ7O2S5k
 #EXTINF:-1 tvg-logo=https://goo.gl/pgniZC ,LYXNOC
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/24uaLwh.png ,CHANNEL 9 
-http://stream-02.dc3.dailymotion.com/42/dm/3/x5vheaj/live-1.m3u8
 #EXTINF:-1 tvg-logo=https://pbs.twimg.com/profile_images/378800000593535057/94fcdaedcfaa89dfc2e8907a2c1c3a10.jpeg ,CINEMA 
 http://bit.ly/2rp95bt
 #EXTINF:-1 ,Movie Play
@@ -198,7 +192,7 @@ http://bit.ly/2l0o6Os
 #EXTINF:-1 tvg-logo=http://i.imgur.com/cF6mgTb.png ,MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/RmY1lD ,MESSINIA WEB TV
-rtmp://176.9.123.140:1935/messinia/messinia
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/7tKqOl ,THLE MOUSIKH
 mmsh://wpso.com:200/music
 #EXTINF:0,Magic TV
