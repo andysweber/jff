@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Updated 
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/01/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,24/01/17
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
@@ -323,24 +323,22 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
-#EXTINF:-1 tvg-name="Ginger_HD" tvg-logo="Ginger HD.png",Ginger HD 
+#EXTINF:-1 tvg-name="Ginger_HD" tvg-logo="Ginger HD.png",Ginger HD
 acestream://c16f4d210560087cd84003b01cba280fac1fafe3
-#EXTINF:-1 tvg-name="Gulli" tvg-logo="Gulli.png",Gulli 
+#EXTINF:-1 tvg-name="Gulli" tvg-logo="Gulli.png",Gulli
 acestream://c6907e941ddde63752506716a358e8734172e3c5
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="Nickelodeon.png",Nickelodeon 
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="Nickelodeon.png",Nickelodeon
 acestream://76968547e43240279a293ec2b6f1d052e8acd7ac
-#EXTINF:-1 tvg-name="Nickelodeon_HD" tvg-logo="Nickelodeon HD.png",Nickelodeon HD 
+#EXTINF:-1 tvg-name="Nickelodeon_HD" tvg-logo="Nickelodeon HD.png",Nickelodeon HD
 acestream://94f87f3828a23609525d51e0fb7af1ebca70b2c5
-#EXTINF:-1 tvg-name="Nickjr" tvg-logo="Nickjr.png",Nickjr 
+#EXTINF:-1 tvg-name="Nickjr" tvg-logo="Nickjr.png",Nickjr
 acestream://8ad01de9b5870385c2e5b645c28175380b03b7d6
-#EXTINF:-1 tvg-name="Tiji" tvg-logo="Tiji.png",Tiji 
+#EXTINF:-1 tvg-name="Tiji" tvg-logo="Tiji.png",Tiji
 acestream://a6d2d237993da469dd7838023dfd6356c047dd65
-#EXTINF:-1 tvg-name="Карусель" tvg-logo="Карусель.png",Карусель 
+#EXTINF:-1 tvg-name="Карусель" tvg-logo="Карусель.png",Карусель
 acestream://903daf641fcbdc69fc00604eefbe9fcf7838ee06
-#EXTINF:-1 tvg-name="Пиксель_Ua" tvg-logo="Пиксель Ua.png",Пиксель Ua 
+#EXTINF:-1 tvg-name="Пиксель_Ua" tvg-logo="Пиксель Ua.png",Пиксель Ua
 acestream://a9f054dcf4669cf6b0e8ea7876a619380f7600d4
-#EXTINF:-1 tvg-name="Disney_Cinemagic_HD_De" tvg-logo="Disney Cinemagic HD De.png",Disney Cinemagic HD De 
-acestream://98a3844d55cec5c1d3c863fb4c372e957f70b7a4
 
 
 
@@ -383,45 +381,43 @@ acestream://350e4c7ada0a588ee137def9fe28714376d74e4b
 #EXTINF:-1 tvg-name="Boomerang" tvg-logo="Boomerang.png",Boomerang 
 acestream://9a245387af9100cee3e61a069c800a8bb1ec5473
 #EXTINF:-1 tvg-name="Cartoon_Network" tvg-logo="Cartoon Network.png",Cartoon Network 
-acestream://a7d7ef053bbbd79d30686c238c9e0a7e583bd58a
+acestream://ad605ee0b6cfc22c309d4cac4eab32c3bb396b09
 #EXTINF:-1 tvg-name="Disney_Channel" tvg-logo="Disney Channel.png",Disney Channel 
-acestream://187c12f5b3aaa335909971abe74f583d63f313d6
-#EXTINF:-1 tvg-name="Disney_Channel_(+2)" tvg-logo="Disney Channel.png",Disney Channel (+2) 
-acestream://f08e185d92beffd364f21183943c9e9c80a1ea32
+acestream://028945acebc480407ec7e2335cab794efcf50698
 #EXTINF:-1 tvg-name="Disney_Channel_Deutschland" tvg-logo="Disney Channel Deutschland.png",Disney Channel Deutschland 
-acestream://193eb9e94c9d3245e2841c59cad386045f4004a8
+acestream://af1d65160a59f1cc0edeb2d4f82954034d50f3bb
 #EXTINF:-1 tvg-name="Duck_TV" tvg-logo="Duck TV.png",Duck TV 
 acestream://5586e25ff2733f977b3d6e14261ff6c750286d9d
 #EXTINF:-1 tvg-name="Duck_TV_HD_!" tvg-logo="Duck TV HD !.png",Duck TV HD ! 
 acestream://7a8b06dcc5a16d9956d9aeb213ea359b9facd614
 #EXTINF:-1 tvg-name="Gulli_Girl" tvg-logo="Gulli Girl.png",Gulli Girl 
-acestream://4f2713f1a215ec043edb5bf1c4db43a3ec158d8c
+acestream://71e4443a9da566a227279a0601d81066ee866cc3
 #EXTINF:-1 tvg-name="JimJam" tvg-logo="JimJam.png",JimJam 
-acestream://ae7ac1e6151a30ab12d9393b79a171088e8b0d3a
+acestream://38211bcc0c403f1101fd9c70850266093dfa0bae
 #EXTINF:-1 tvg-name="Lale" tvg-logo="Lale.png",Lale 
 acestream://f42f9777b95cf83cc0e49a0f32d18687c1dcc716
 #EXTINF:-1 tvg-name="Nick_Austria" tvg-logo="Nick Austria.png",Nick Austria 
-acestream://5de3b178ed63a6345a3ac5b291a5b86d36e608c7
+acestream://b66ca79080e82c770740421c6bd25e1ace007ef2
 #EXTINF:-1 tvg-name="Nick_Jr." tvg-logo="Nick Jr..png",Nick Jr. 
-acestream://d558b664309fa491a7641b231759ee27c04b5c1c
+acestream://ae53bd409650c9c8a4b7048d8ef1f3cbb45d8160
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="Nickelodeon.png",Nickelodeon 
-acestream://f0f5d94d9124fbb7ccb6e903700936bdeb52f25f
+acestream://97d3701ad31721aeebffd8cdafcb1e26c9dd4b16
 #EXTINF:-1 tvg-name="Nickelodeon_HD" tvg-logo="Nickelodeon HD.png",Nickelodeon HD 
-acestream://979e219fb452a3d2aaabdc5c4bb112ca5d333911
+acestream://5295c07a7db7ca8cfa0bcb847881afac726cc767
 #EXTINF:-1 tvg-name="TiJi" tvg-logo="TiJi.png",TiJi 
 acestream://0bcf491a2f423b5658cfd0c8e0f6643172a67fcc
 #EXTINF:-1 tvg-name="Toggo_Plus" tvg-logo="Toggo Plus.png",Toggo Plus 
-acestream://1702d1abf9d2b5203c4fb45946c176d200ad7da9
+acestream://40353abac981b972eaa464363d40f474e44a44ea
 #EXTINF:-1 tvg-name="В_гостях_у_сказки" tvg-logo="В гостях у сказки.png",В гостях у сказки 
 acestream://6700bfbcb9d662de46ca20b677158dae18c7f407
 #EXTINF:-1 tvg-name="Детский" tvg-logo="Детский.png",Детский 
-acestream://e31399647f8a54bb302ba3f3ca8aded2147dfcbf
+acestream://d45f97ace2e22f8811726e963c871901573c0143
 #EXTINF:-1 tvg-name="Детский_мир" tvg-logo="Детский мир.png",Детский мир 
-acestream://8be12671a961e4708eb7ed8c2c5892d7d26af427
+acestream://0697d59eb55abc7ef5fbaa6cca3da55dda97545d
 #EXTINF:-1 tvg-name="Ералаш_HD" tvg-logo="Ералаш HD.png",Ералаш HD 
 acestream://7756950a27001da8c297eabcbf65b528786c757e
 #EXTINF:-1 tvg-name="Карусель" tvg-logo="Карусель.png",Карусель 
-acestream://5bb3b1ced544e8601b9d0356dbdc85f1b9a68d2b
+acestream://f92a706e9e570fecc637fbdd4c099eb66e19d295
 #EXTINF:-1 tvg-name="Карусель_(+3)" tvg-logo="Карусель.png",Карусель (+3) 
 acestream://4ef009d7a0b60ebb752543592fb2a3fa1036e4a8
 #EXTINF:-1 tvg-name="Любимое_ТВ" tvg-logo="Любимое ТВ.png",Любимое ТВ 
@@ -429,29 +425,31 @@ acestream://c3af190ca1d9de89cd061d46d8c2ad48c26c1b20
 #EXTINF:-1 tvg-name="Малыш" tvg-logo="Малыш.png",Малыш 
 acestream://5611081c52c2d3fdcbdb9ea52c1d6befd749c87a
 #EXTINF:-1 tvg-name="Малятко_ТВ" tvg-logo="Малятко ТВ.png",Малятко ТВ 
-acestream://041836926ec564110837c397d0c1b83b6b220801
+acestream://97f78915b3802ddff5b9e411ac72737776e585c9
 #EXTINF:-1 tvg-name="Мама" tvg-logo="Мама.png",Мама 
-acestream://a1ccb182243f47cb9ab75aa7095584de4afddd1e
+acestream://8a7ff288bafacc692004eb687789f444560e833d
 #EXTINF:-1 tvg-name="Мульт" tvg-logo="Мульт.png",Мульт 
-acestream://ea911564a92dd212ff80098360a66a596afa30f5
+acestream://ed275b6b46d2af658fd02d33c4fc470a2a909a79
 #EXTINF:-1 tvg-name="Мультимания" tvg-logo="Мультимания.png",Мультимания 
-acestream://c6250ec8f3323b1cd139d75cfd7c2f480d0344dd
+acestream://4846870f11e8a6c63e684880b2571640a617d5e2
 #EXTINF:-1 tvg-name="Мультимузыка" tvg-logo="Мультимузыка.png",Мультимузыка 
 acestream://8b00f0008e82dc49eb3cbb67f6e469f690c326f9
+#EXTINF:-1 tvg-name="Мультимузыка" tvg-logo="Мультимузыка.png",Мультимузыка 
+acestream://b19edd50bc086871751cddcc1c6a5a013e0a4c0f
 #EXTINF:-1 tvg-name="О!" tvg-logo="О!.png",О! 
-acestream://7e4a93fcdd86447326b3f898aea260d7ca75fc13
+acestream://19157c1a913163720dedf15d37a7bf0b1e1b9a25
 #EXTINF:-1 tvg-name="Пиксель_ТВ" tvg-logo="Пиксель ТВ.png",Пиксель ТВ 
-acestream://a9f5838afd1c4efe1c4dd5154c998267d750ae96
+acestream://b3f4249f94f6b938811782f967ed798d64534065
 #EXTINF:-1 tvg-name="ПлюсПлюс" tvg-logo="ПлюсПлюс.png",ПлюсПлюс 
-acestream://56b0ca9b5d3e57ed433a7f2058d739d2ea14caee
+acestream://5f6d13b9c9dec2a7a53d6c7d8f367408a16c77a3
 #EXTINF:-1 tvg-name="Радость_моя" tvg-logo="Радость моя.png",Радость моя 
-acestream://733e022b765cb24e16d671e75e0ef48918bbc0dc
+acestream://ba4013b6a4dc213cf6ce120637d82d17bea4eed2
 #EXTINF:-1 tvg-name="Рыжий" tvg-logo="Рыжий.png",Рыжий 
-acestream://6ff419c4f3df60209266fde9d3c17886a706c356
+acestream://64b909ef76ffbff864aa796d56fab16411165cd3
 #EXTINF:-1 tvg-name="Рыжий_(сурд.)" tvg-logo="Рыжий (сурд.).png",Рыжий (сурд.) 
 acestream://642642f12c6fc1134954af2f44d2b8f64e176ed9
 #EXTINF:-1 tvg-name="Рыжий_HD" tvg-logo="Рыжий HD.png",Рыжий HD 
-acestream://0aca618867fa233e221c65e9af18649ffe44baec
+acestream://9eeed13cc22d1a28229dee264d4335e47caf297c
 #EXTINF:-1 tvg-name="Сказки_Зайки" tvg-logo="Сказки Зайки.png",Сказки Зайки 
 acestream://07aba4843e084b4c6344bae54e2d0600f5406958
 #EXTINF:-1 tvg-name="Смайлик_ТВ_HD" tvg-logo="Смайлик ТВ HD.png",Смайлик ТВ HD 
@@ -459,7 +457,8 @@ acestream://92f790447fca783cf73cab3866d5b28b3b9e38ce
 #EXTINF:-1 tvg-name="Телеканал_Деда_Мороза" tvg-logo="Телеканал Деда Мороза.png",Телеканал Деда Мороза 
 acestream://afdefc5127325602c54acf311246becb2a6038b9
 #EXTINF:-1 tvg-name="Тлум_HD" tvg-logo="Тлум HD.png",Тлум HD 
-acestream://3d861122f8faa3ea2e7dddf3f14bf8ae3c393d61
+acestream://86581f4e836d4b3b993e06949e56f862fe5c5b65
+
 
 
 
@@ -525,23 +524,23 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="CBS_Reality" tvg-logo="CBS Reality.png",CBS Reality 
-acestream://4e01a548800d375cbf203d50b7559310b365f9c0
+acestream://bf6cb1033c06148d1035d63c2a48f004d57b9dec
 #EXTINF:-1 tvg-name="Fast_and_FunBox_HD" tvg-logo="Fast and FunBox HD.png",Fast and FunBox HD 
-acestream://0aee1d0d8a2e2ad0a0b02872b7e7cf5a8bbe7606
+acestream://4b88075003db38fd14864a43ae649a7c72aa39e5
 #EXTINF:-1 tvg-name="GlobalStar_TV" tvg-logo="GlobalStar TV.png",GlobalStar TV 
 acestream://402350efab1f256d0c63cd2e440eba557abde4f2
 #EXTINF:-1 tvg-name="Outdoor_Channel" tvg-logo="Outdoor Channel.png",Outdoor Channel 
-acestream://90fa9bb7a81c254e76baad7ec146d0ee26c3b1aa
+acestream://c124e1b24b471fbeb7c30e7271e76006af2c4875
 #EXTINF:-1 tvg-name="Outdoor_Channel_HD" tvg-logo="Outdoor Channel HD.png",Outdoor Channel HD 
-acestream://ecb64cc6053619ef8bda358c422a0dafd84d7ddb
+acestream://393082243420504c7226bb97a499a604feef36dd
 #EXTINF:-1 tvg-name="Авто_24" tvg-logo="Авто 24.png",Авто 24 
-acestream://41677e811cf0243c7c1a8af3243a12c05be6e1cd
+acestream://484768a24842d2995e5540c80c1be8e7c5d7648d
 #EXTINF:-1 tvg-name="Авто_плюс" tvg-logo="Авто плюс.png",Авто плюс 
-acestream://ee6d1a7f972e2ab928b9cfb7f268e6d3d84b5db8
+acestream://01dc8337cabf7440ff722941e1136af98b592645
 #EXTINF:-1 tvg-name="Бокс_ТВ" tvg-logo="Бокс ТВ.png",Бокс ТВ 
-acestream://cdcfaf3797897eee8ae8dbeecc97e744876d82cc
+acestream://63d1138d1f0412425526f0ac9709d79352a5e641
 #EXTINF:-1 tvg-name="Диалоги_о_рыбалке" tvg-logo="Диалоги о рыбалке.png",Диалоги о рыбалке 
-acestream://740f5a0c564b6f60e52f3705546e903f6ecc09f1
+acestream://539589a4aa65ea1dab9bf7e029f912986b2532e9
 #EXTINF:-1 tvg-name="Драйв_ТВ" tvg-logo="Драйв ТВ.png",Драйв ТВ 
 acestream://274cb9ee2d83f63fcc39b5a959d039164d065d78
 #EXTINF:-1 tvg-name="Матч!_Боец" tvg-logo="Матч! Боец.png",Матч! Боец 
@@ -551,17 +550,19 @@ acestream://8b941c8e101b4190aa84776d42851cf4a1b72d0d
 #EXTINF:-1 tvg-name="Мужской" tvg-logo="Мужской.png",Мужской 
 acestream://524cf7cc008f669a45952295ade39cb1a1e8a368
 #EXTINF:-1 tvg-name="Оружие" tvg-logo="Оружие.png",Оружие 
-acestream://c3116c9b06e8a9ade61e2d40328c7c6d210a02c7
+acestream://4abe7456dddf8a6966f20523b8a250e3484d3c52
+#EXTINF:-1 tvg-name="Охота_и_рыбалка" tvg-logo="Охота и рыбалка.png",Охота и рыбалка 
+acestream://4c6dc27b182315d6642349a5c09dbfcc59f91ab6
 #EXTINF:-1 tvg-name="Охотник_и_рыболов" tvg-logo="Охотник и рыболов.png",Охотник и рыболов 
-acestream://986d5da14a96c898a6a9d42731e87b46791f6192
+acestream://2320ce587c4ace5e475f09886cf50cbd5ae44775
 #EXTINF:-1 tvg-name="Охотник_и_рыболов_HD" tvg-logo="Охотник и рыболов HD.png",Охотник и рыболов HD 
-acestream://84056df6010dcb51185890ecb81da651d355618c
+acestream://ac32e4c7b33c228977e6f77a198a37c06d7d1646
 #EXTINF:-1 tvg-name="Русский_экстрим" tvg-logo="Русский экстрим.png",Русский экстрим 
 acestream://e88ebd0a29cfcd879dfdcb1e6aff6519ec11c360
 #EXTINF:-1 tvg-name="Русский_экстрим_HD" tvg-logo="Русский экстрим HD.png",Русский экстрим HD 
-acestream://7b0cc278359780e4b8d2f0d3bf341169dbdaed2c
+acestream://f44474a6bae192d12772d9ddbacef99fde2670a1
 #EXTINF:-1 tvg-name="Техно_24" tvg-logo="Техно 24.png",Техно 24 
-acestream://cf184bd7bd66a9685457bedf64abc813e7e20a94
+acestream://1567bc947259282582aacee1d133c0cd3b229b2f
 #EXTINF:-1 tvg-name="Трофей" tvg-logo="Трофей.png",Трофей 
 acestream://81c2ffbebc3ff6fe0584b4de1def0526686b6c34
 
@@ -625,28 +626,19 @@ acestream://12766a24630a25ac025ac84bfba26dec02104514
 acestream://50bb58b09a27cb78fd5ad018baef15a80914c28e
 #EXTINF:-1 tvg-name="Mtv_Dance" tvg-logo="Mtv Dance.png",Mtv Dance 
 acestream://100ae93784626d719bcfb37a89f918a908d1e596
-#EXTINF:-1 tvg-name="Mtv_Dance_Uk" tvg-logo="Mtv Dance Uk.png",Mtv Dance Uk 
-acestream://d8881560a33508fb822480522a81c5fa87454885
 #EXTINF:-1 tvg-name="Mtv_Hits" tvg-logo="Mtv Hits.png",Mtv Hits 
 acestream://8419c2aab1aa7473007630328a95b676117a07d9
-#EXTINF:-1 tvg-name="Mtv_Hits_Uk" tvg-logo="Mtv Hits Uk.png",Mtv Hits Uk 
-acestream://53367fadd55d0041753b630db19d181221dcef5e
 #EXTINF:-1 tvg-name="Mtv_Live_HD" tvg-logo="Mtv Live HD.png",Mtv Live HD 
 acestream://7c2723f494b85b6fab9e9fd8f4774775942a68a7
-#EXTINF:-1 tvg-name="Mtv_Rocks_Uk" tvg-logo="Mtv Rocks Uk.png",Mtv Rocks Uk 
-acestream://8b71e20a025d961f258ce168c97f89e7fadc68e5
 #EXTINF:-1 tvg-name="Mtv_Russia" tvg-logo="Mtv Russia.png",Mtv Russia 
 acestream://07f05769c67d1fd4b2ee30ffd4160175910ea92a
-#EXTINF:-1 tvg-name="Mtv_Uk" tvg-logo="Mtv Uk.png",Mtv Uk 
-acestream://7230b0ac56330d388e11f7cf7308232dd5d5187a
 #EXTINF:-1 tvg-name="Vh1_Europe" tvg-logo="Vh1 Europe.png",Vh1 Europe 
 acestream://e476c79d29b512a531f879b5671aa60f7a8464b2
 #EXTINF:-1 tvg-name="Viva_Uk" tvg-logo="Viva Uk.png",Viva Uk 
 acestream://603754550b2f17fba37fa7ddd876a38e97444272
 #EXTINF:-1 tvg-name="Европа_Плюс_Тв" tvg-logo="Европа Плюс Тв.png",Европа Плюс Тв 
 acestream://5fa29590e22d343c92d185ba75776a0ce3760732
-#EXTINF:-1 tvg-name="М1_Ua" tvg-logo="М1 Ua.png",М1 Ua 
-acestream://bb848b646f3b4a45d4ffd53f001e19c47a6cc82d
+
 
 
 
@@ -682,35 +674,37 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="0x0_Music_HD" tvg-logo="0x0 Music HD.png",0x0 Music HD 
-acestream://ed98cdf603fde4299ee32a6e5ad46d0767b87269
+acestream://026c8d6dc202038bc5b5a2d6f7717f01b7221973
 #EXTINF:-1 tvg-name="1_HD" tvg-logo="1 HD.png",1 HD 
-acestream://f2e13b1f0172debc759be6bb501cedb0a4517c53
+acestream://4fadcb80e3255453a373da33736f88b5e69b36fc
 #EXTINF:-1 tvg-name="1_MUSIC_CHANNEL" tvg-logo="1 MUSIC CHANNEL.png",1 MUSIC CHANNEL 
 acestream://71e4113524c1e480e40cba88bbb946d919d7f219
 #EXTINF:-1 tvg-name="4Fun_Gold_Hits" tvg-logo="4Fun Gold Hits.png",4Fun Gold Hits 
-acestream://84a6026b94401be9c8ff8b81b4493633145955c8
+acestream://266e545862be125f2395303b54ebeaa8d112f39a
 #EXTINF:-1 tvg-name="4fun_Dance" tvg-logo="4fun Dance.png",4fun Dance 
-acestream://1e19d2c9df3bf8d9b1f71bef9917e750917444ba
+acestream://69af484dc591b360e03526eb0cc114a54512562c
 #EXTINF:-1 tvg-name="9_волна" tvg-logo="9 волна.png",9 волна 
-acestream://879c05d3a6ecfbf64b6f71cfe53846f2529f4c32
+acestream://57c03915206dc19f72bcb0c3ea7a3b6013d11045
 #EXTINF:-1 tvg-name="Aurora_TV" tvg-logo="Aurora TV.png",Aurora TV 
 acestream://50026737cd8bc117355dc01a132e434f10c777c6
 #EXTINF:-1 tvg-name="Bridge_HD" tvg-logo="Bridge HD.png",Bridge HD 
-acestream://0e30d04197b16bea744163a1d5fe58f4e6e7dbd2
+acestream://87e641175e71406d637e26e7bc38803377f6da46
 #EXTINF:-1 tvg-name="Bridge_TV" tvg-logo="Bridge TV.png",Bridge TV 
-acestream://a62acd8a298e52e367fb3bdf8361bb65895325f3
+acestream://0f77493dc56a710c2298b3cdd17ee55111567da8
 #EXTINF:-1 tvg-name="Bridge_TV_Classic" tvg-logo="Bridge TV Classic.png",Bridge TV Classic 
-acestream://beff514f8f5af47c3090666c7b3c8da510f0ecab
+acestream://74a7a542f88dd7634a950105e16b5d8d3a42e446
 #EXTINF:-1 tvg-name="Bridge_TV_Dance" tvg-logo="Bridge TV Dance.png",Bridge TV Dance 
-acestream://e4f2f13bffe8b10609d13a2b69ce092dd81234ff
+acestream://9cb3e001afaee5a7830290a7d0432c439509f784
 #EXTINF:-1 tvg-name="C_Music_TV_HD" tvg-logo="C Music TV HD.png",C Music TV HD 
-acestream://1d249c747f7015b5b4cb15636d1dde0b1b7815d2
+acestream://cc32e477d56a2c2e46ec9fc57e8e68b86b4a8555
 #EXTINF:-1 tvg-name="Channel_AKA" tvg-logo="Channel AKA.png",Channel AKA 
-acestream://d52f5fd2a880df91cdc63b61ec9b764a8d13d38d
+acestream://2359aea2af3394440f99a32b345756900988c2cb
 #EXTINF:-1 tvg-name="Clubbing_TV_HD" tvg-logo="Clubbing TV HD.png",Clubbing TV HD 
 acestream://0b269eda80199ac5a1e120d2334de4d0d1204e27
 #EXTINF:-1 tvg-name="Deluxe_Music" tvg-logo="Deluxe Music.png",Deluxe Music 
-acestream://05dc179dec13f31d546aaf9eaf9a652c360ca3c8
+acestream://70d330a4f0d17c4ca15cb24bee982568469ddebb
+#EXTINF:-1 tvg-name="EU_Music_HD" tvg-logo="EU Music HD.png",EU Music HD 
+acestream://6f9bb5a37817e7b8791840da3e8020f11779e571
 #EXTINF:-1 tvg-name="Eska_Best_Music_TV_HD" tvg-logo="Eska Best Music TV HD.png",Eska Best Music TV HD 
 acestream://3d229e2a6db72ee224ed04ef0fbb410622c94c52
 #EXTINF:-1 tvg-name="Eska_OldsCool_TV_HD" tvg-logo="Eska OldsCool TV HD.png",Eska OldsCool TV HD 
@@ -722,11 +716,11 @@ acestream://48ac330808f270365237f10dcd000f9d87840937
 #EXTINF:-1 tvg-name="Eska_Wawa_TV_HD" tvg-logo="Eska Wawa TV HD.png",Eska Wawa TV HD 
 acestream://b8dd185a4e06925d2c706721d45df3a85b7a44a8
 #EXTINF:-1 tvg-name="Europa_Plus_TV" tvg-logo="Europa Plus TV.png",Europa Plus TV 
-acestream://e6695a80cd3964a0e2cd7c474efb3b05c77ff863
+acestream://9161f2acc9abf25ccf067e81a2ba57c946aeadea
 #EXTINF:-1 tvg-name="FRESH_TV" tvg-logo="FRESH TV.png",FRESH TV 
 acestream://663e2f01c9e10d6f96220d973062d689a984732a
 #EXTINF:-1 tvg-name="GDS_TV" tvg-logo="GDS TV.png",GDS TV 
-acestream://1ea737e1f41a38e386b7fd6731af0cf5efe7de07
+acestream://f1945e3c790584cadb81be0613d6a772ca068706
 #EXTINF:-1 tvg-name="HIТV_HD" tvg-logo="HIТV HD.png",HIТV HD 
 acestream://d57bfd8e47842ce314e58f5640dca257b9c7418b
 #EXTINF:-1 tvg-name="HardLife_TV" tvg-logo="HardLife TV.png",HardLife TV 
@@ -734,39 +728,35 @@ acestream://065add957b2583c15cf1af19cfeefa3ec6180ed8
 #EXTINF:-1 tvg-name="HiT_Music_Channel" tvg-logo="HiT Music Channel.png",HiT Music Channel 
 acestream://998e527ec1c8a30d67ba6b44d03dd9cf44dc1143
 #EXTINF:-1 tvg-name="Kino_Polska_Muzyka" tvg-logo="Kino Polska Muzyka.png",Kino Polska Muzyka 
-acestream://0535749a1f75352604f8d36fcae1b6934afd5912
-#EXTINF:-1 tvg-name="M-ONE" tvg-logo="M-ONE.png",M-ONE 
-acestream://80efc0c0faa8bda597b34cfe1be57125692b80e3
+acestream://41e556478b936a9ec9a49dab581f4b6552c25bf6
 #EXTINF:-1 tvg-name="MCM_Top" tvg-logo="MCM Top.png",MCM Top 
-acestream://6666f05700e0692389c80986707d9e450b10edbe
+acestream://4e92e1617ff0357bcfbee66aa4bcea0f99edc068
 #EXTINF:-1 tvg-name="MTV_AM_HD" tvg-logo="MTV AM HD.png",MTV AM HD 
 acestream://484463cc60b28ee68efa20b3cb8edfdf39ab8b1e
 #EXTINF:-1 tvg-name="MTV_Dance" tvg-logo="MTV Dance.png",MTV Dance 
-acestream://a5e908537de6eacf063361fd7b6cad63b1fb44e6
-#EXTINF:-1 tvg-name="MTV_Dance_Uk" tvg-logo="MTV Dance Uk.png",MTV Dance Uk 
-acestream://93307b9a33a2edd2b0f16e9f048c0a8e359aac56
+acestream://aac9a4e21cc36f6ab6331d962884988dafbdd762
 #EXTINF:-1 tvg-name="MTV_Hits" tvg-logo="MTV Hits.png",MTV Hits 
-acestream://98dae234087940a0c20115d910cb13677dfe93e5
+acestream://0f25723f4178e813df4d76cf1e451da51d1a7374
 #EXTINF:-1 tvg-name="MTV_Hits_UK" tvg-logo="MTV Hits UK.png",MTV Hits UK 
 acestream://53367fadd55d0041753b630db19d181221dcef5e
 #EXTINF:-1 tvg-name="MTV_Live_HD" tvg-logo="MTV Live HD.png",MTV Live HD 
-acestream://88e662822e21121456067a8931a492a0b4b79fb8
+acestream://6f5f5cc342a9952bfdb26b42d08c168c8737735e
 #EXTINF:-1 tvg-name="MTV_Rocks" tvg-logo="MTV Rocks.png",MTV Rocks 
-acestream://a0099366d687cddb79caafab0211f4ebedb44aad
+acestream://a11356188b92d22ecf1f8a8a41e021d589195844
 #EXTINF:-1 tvg-name="MTV_Россия" tvg-logo="MTV Россия.png",MTV Россия 
-acestream://5c5e79adaffb8fa7ff333fa113d11b490fbaf895
+acestream://548c407b0ad2acb2381b1cad5e9114d80bd0a0ce
 #EXTINF:-1 tvg-name="MTV_Россия_HD" tvg-logo="MTV Россия HD.png",MTV Россия HD 
 acestream://fda664a195e2e247775775d6a53083f406158ca4
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="Mezzo.png",Mezzo 
-acestream://6c0d8f996435f4f0ff2821fb028b9a40f2d05bc4
+acestream://9ff2d4f3d7b10bc7b278a1f7e09dc6b49c96259c
 #EXTINF:-1 tvg-name="Mezzo_Live_HD" tvg-logo="Mezzo Live HD.png",Mezzo Live HD 
-acestream://7b030242cfb667dcbd000b3a018e418c028031f9
+acestream://bda201b2ba7d4d12aad408ddfc3e98b7436d981b
 #EXTINF:-1 tvg-name="Music_Box_RU" tvg-logo="Music Box RU.png",Music Box RU 
-acestream://eceeefe30c8956d65a077bfc87dad56af641727f
+acestream://3e8b0653e65036e111628718804a564c9d944c15
 #EXTINF:-1 tvg-name="Music_Box_TV" tvg-logo="Music Box TV.png",Music Box TV 
-acestream://f0372bb14a1825988860b7d458654298c5b3f85f
+acestream://543fccd6092255dbc9a26e868c0d9c9893bce7f9
 #EXTINF:-1 tvg-name="Music_Box_UA" tvg-logo="Music Box UA.png",Music Box UA 
-acestream://e92e4a8d2d0cf147dc9d0cb5418de9c213cf7916
+acestream://2ce487ed7ce460b461d31171eb9121772d266115
 #EXTINF:-1 tvg-name="Music_Choice" tvg-logo="Music Choice.png",Music Choice 
 acestream://7403e47dfdb4a96ab3a24655a35b42d6c9f5f927
 #EXTINF:-1 tvg-name="Music_Choice_90s" tvg-logo="Music Choice 90s.png",Music Choice 90s 
@@ -810,7 +800,7 @@ acestream://5ca8cde5157929c5bbf4189f2eb3073cb14cf4d1
 #EXTINF:-1 tvg-name="NRJ_Hits_HD" tvg-logo="NRJ Hits HD.png",NRJ Hits HD 
 acestream://262becb5006d26c8d8cbfce3bef4fa65758cf0ea
 #EXTINF:-1 tvg-name="O-TV" tvg-logo="O-TV.png",O-TV 
-acestream://e0b4bb357ac249264be5b3b26e1db29dd900ef1a
+acestream://c1c0d7d2b45dbb0594df23034f8562f93f216318
 #EXTINF:-1 tvg-name="Ocko_Expres" tvg-logo="Ocko Expres.png",Ocko Expres 
 acestream://67ea9f223f86676f3a037013437b7ac6711d39ab
 #EXTINF:-1 tvg-name="Ocko_Star" tvg-logo="Ocko Star.png",Ocko Star 
@@ -826,7 +816,7 @@ acestream://a8a36cfa7b0d748d95b184512ef306f6ab374d16
 #EXTINF:-1 tvg-name="Retro_Music_TV" tvg-logo="Retro Music TV.png",Retro Music TV 
 acestream://5e682b45c1508050eff56e7ede02a9d796b5a0f9
 #EXTINF:-1 tvg-name="Rusong_TV" tvg-logo="Rusong TV.png",Rusong TV 
-acestream://4323e23b847d8d11a2d1a799dc1d68af59f5c550
+acestream://760460e04daa338a41563f33aa0b23fd1e12a1ec
 #EXTINF:-1 tvg-name="Russian_Music_Box_HD" tvg-logo="Russian Music Box HD.png",Russian Music Box HD 
 acestream://b99c77322ccde13efe9f3eb7dec04328a52ca434
 #EXTINF:-1 tvg-name="SGDF_24" tvg-logo="SGDF 24.png",SGDF 24 
@@ -838,7 +828,7 @@ acestream://e84e9b52ba9e65da9b5f597c02234708d2adda72
 #EXTINF:-1 tvg-name="Trace_Urban_HD" tvg-logo="Trace Urban HD.png",Trace Urban HD 
 acestream://7b0a79739aad7b38b8198fa43a91ae37f4338d1e
 #EXTINF:-1 tvg-name="VH1" tvg-logo="VH1.png",VH1 
-acestream://a50d11a96082a9ba7470c01bc870e6a4faa99c85
+acestream://63b4bc208ee60451c1d9aad2f2a4b58fefadd246
 #EXTINF:-1 tvg-name="VH1_Classic" tvg-logo="VH1 Classic.png",VH1 Classic 
 acestream://7b3480bac76d3bb2799fda3ce11dfd7553e1aa90
 #EXTINF:-1 tvg-name="Vin_HD" tvg-logo="Vin HD.png",Vin HD 
@@ -850,19 +840,19 @@ acestream://092f7ff44f91af6ae1f7520e9486a4bcfe00cebd
 #EXTINF:-1 tvg-name="XITE_Music_HD_(GR)" tvg-logo="XITE Music HD (GR).png",XITE Music HD (GR) 
 acestream://9aeb73f85701303ddafa9ee8897caab4e3c7e68b
 #EXTINF:-1 tvg-name="Жара" tvg-logo="Жара.png",Жара 
-acestream://78d28d3e6ad4367e5c9b90d9918674e6c5058933
+acestream://27c0f41ed7e038efc179995a629c093d408d551d
 #EXTINF:-1 tvg-name="КТРК_Музыка" tvg-logo="КТРК Музыка.png",КТРК Музыка 
 acestream://32d4fedca0539429202ddcb3cb842a0dd0485924
 #EXTINF:-1 tvg-name="Ля-минор" tvg-logo="Ля-минор.png",Ля-минор 
-acestream://2e1e104a867eeecfef5bae355e5195cdf4363c45
+acestream://463462523faaabe012ce1e361f9f2f16a247d075
 #EXTINF:-1 tvg-name="М1" tvg-logo="М1.png",М1 
 acestream://215a17483ad318eaab0468bc1054660fe0af4d89
 #EXTINF:-1 tvg-name="М2" tvg-logo="М2.png",М2 
-acestream://7f5192ca5da93a0370f882dcf16d31d27ed58953
+acestream://0d197fece34198cb8f9ac3e6416d03912c38037e
 #EXTINF:-1 tvg-name="Муз_ТВ" tvg-logo="Муз ТВ.png",Муз ТВ 
-acestream://879c7abc1aaa2c4affa4d7c37b74ea1dc771c41a
+acestream://15fa5a3e6170dca72304047ea4842651618b6cd2
 #EXTINF:-1 tvg-name="Муз_ТВ_Азербайджан" tvg-logo="Муз ТВ Азербайджан.png",Муз ТВ Азербайджан 
-acestream://4a13671b4535ba6f56d788d65c076a0a9235ce7a
+acestream://83a97c34c792b3865d109a716096f99059018359
 #EXTINF:-1 tvg-name="МузСоюз" tvg-logo="МузСоюз.png",МузСоюз 
 acestream://fb824b19f43917efa54a5fe11324a548226e9345
 #EXTINF:-1 tvg-name="Музыка_Первого" tvg-logo="Музыка Первого.png",Музыка Первого 
@@ -870,7 +860,7 @@ acestream://5889c67633ce0963a89483700014ceaa41cb8339
 #EXTINF:-1 tvg-name="Наше_ТВ" tvg-logo="Наше ТВ.png",Наше ТВ 
 acestream://303945c99f30ea17ff9574dacf26fc5941a9dbd5
 #EXTINF:-1 tvg-name="О2ТВ" tvg-logo="О2ТВ.png",О2ТВ 
-acestream://c2ccc4b403820c9fa440bb82d85d0398062adeb2
+acestream://36baa1d6b64957cd71471199688a68e76c853f65
 #EXTINF:-1 tvg-name="О2ТВ_HD" tvg-logo="О2ТВ HD.png",О2ТВ HD 
 acestream://b1eaba3d62293ddb892f4f6ccc9f476839d01a60
 #EXTINF:-1 tvg-name="Открытый_HD" tvg-logo="Открытый HD.png",Открытый HD 
@@ -886,9 +876,9 @@ acestream://3b4fe95bc09519c7c8a87efcdb09f29d924a6b4c
 #EXTINF:-1 tvg-name="Страна_FM_ТВ" tvg-logo="Страна FM ТВ.png",Страна FM ТВ 
 acestream://5909cdb270c17a056f084a7e7a0499c1cf0b5194
 #EXTINF:-1 tvg-name="ТНТ-Music" tvg-logo="ТНТ-Music.png",ТНТ-Music 
-acestream://057bfee99faf57c6d8b83c2dcc9fbca8e0d32ace
+acestream://e5660a676c30dfd20d409c71d177da58485a672a
 #EXTINF:-1 tvg-name="Шансон_ТВ" tvg-logo="Шансон ТВ.png",Шансон ТВ 
-acestream://11695635da10b4ba4a2e7785d0f7fd002ca07f4e
+acestream://eaa788dc39bc4bf81f7c41daa6e059dc6d028916
 
 
 
@@ -977,6 +967,7 @@ acestream://ee3294cc837221e1feed73b6c3aa9552e2bccc18
 
 
 
+
 #EXTINF:1 group-title=”NEWS-2 (Russian-English)/Acestream”, 
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NOTE
@@ -997,81 +988,77 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="112_Украина" tvg-logo="112 Украина.png",112 Украина 
-acestream://eff5762f670b55106decc6f3e630705549842567
+acestream://79117b873a8f16d6b23ffae0d67dece76ab73e11
 #EXTINF:-1 tvg-name="112_Украина_HD" tvg-logo="112 Украина HD.png",112 Украина HD 
-acestream://c1204e2f004e37a733fb183104cbe491698fd89f
+acestream://9af692b1950a06e1476493fe0bd0a21043a7d1b5
 #EXTINF:-1 tvg-name="24_Украина" tvg-logo="24 Украина.png",24 Украина 
-acestream://f4e3bcf4cb47f6b3257d4c983c93888114ae5f28
+acestream://b3ffc63a7f77ec637241f01a487f4a07031aac49
+#EXTINF:-1 tvg-name="24_Украина_HD_!" tvg-logo="24 Украина HD !.png",24 Украина HD ! 
+acestream://0166b6b84bcea63db9d3e8c1522ca774a8eccd52
 #EXTINF:-1 tvg-name="360_Новости_HD" tvg-logo="360 Новости HD.png",360 Новости HD 
 acestream://e7c6a132d62749330c3a9edc705aebf2048dfe18
 #EXTINF:-1 tvg-name="360_градусов" tvg-logo="360 градусов.png",360 градусов 
-acestream://d4439816045e9c17b185563420968c95821fa690
+acestream://7b026b16fde29212629cfe5d76313660c5a2f59b
 #EXTINF:-1 tvg-name="360_градусов_HD" tvg-logo="360 градусов HD.png",360 градусов HD 
-acestream://9950911f1b72c0561343d707774a1dbcac08fc17
+acestream://c18226b168e97168a78510ac740d2eef0b66eb25
 #EXTINF:-1 tvg-name="5_канал_(Украина)" tvg-logo="5 канал (Украина).png",5 канал (Украина) 
-acestream://f4b900f57fd6e21395724472cdfbd882d72b8979
-#EXTINF:-1 tvg-name="78_канал" tvg-logo="78 канал.png",78 канал 
-acestream://ece558ca1ed467ef4699b8fba1d210be9b8138bf
-#EXTINF:-1 tvg-name="78_канал_HD" tvg-logo="78 канал HD.png",78 канал HD 
-acestream://6be6c3cd2f0db62cd213700f90c5656432be7368
+acestream://8bbf912904172f47e191b27d38d29420372059d9
 #EXTINF:-1 tvg-name="BBC_World_News" tvg-logo="BBC World News.png",BBC World News 
-acestream://0dfbdb8e25e981db1d8b7de4892a44ce770256a4
+acestream://da70e813268a0e8df8642892674f5b13c6cdd329
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="Bloomberg.png",Bloomberg 
-acestream://64654a85ba9d3332cf049342abc5209e62021084
+acestream://dc748ede2e9ea94a0514c3f609413904ecdeb46e
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="CGTN.png",CGTN 
-acestream://79f9614a7566ecee800cd3f8d727d2961f827ad6
+acestream://90a5fb86e7b6086d3cb34dde932e1fb034f82b11
 #EXTINF:-1 tvg-name="CNN_International" tvg-logo="CNN International.png",CNN International 
-acestream://6357cdc1d39d2fdc4f1408a1e2e0db5719d8dfff
+acestream://f0aefef22edc7af1411da3f465827acb5b2138e3
 #EXTINF:-1 tvg-name="Deutsche_Welle" tvg-logo="Deutsche Welle.png",Deutsche Welle 
-acestream://68328e98403b1142c6a4d8e7ac4cb50123b7fe2c
+acestream://3c477b0f3c0d87d05c5bd34ebf8b83a8f9d48be4
 #EXTINF:-1 tvg-name="EuroNews" tvg-logo="EuroNews.png",EuroNews 
-acestream://4bbd9e81e217a96a3b98bafaea0eb6c96f9b7b04
+acestream://61c4a0a10ffb2cc86aa79734b8f311f38a535609
 #EXTINF:-1 tvg-name="EuroNews_German" tvg-logo="EuroNews German.png",EuroNews German 
-acestream://b64f50da382aa3e3a6adc31f45e6420aa7b459d4
+acestream://da8f04d388a5f6bd77f4a68a36d87827f548a470
 #EXTINF:-1 tvg-name="Eurosport_News" tvg-logo="Eurosport News.png",Eurosport News 
 acestream://aa53acdc27263561ee57f17be254e492160d0086
 #EXTINF:-1 tvg-name="France_24" tvg-logo="France 24.png",France 24 
-acestream://35458bdb6a6e01bdd43301c03a92c3500cd46a29
-#EXTINF:-1 tvg-name="Kan_11" tvg-logo="Kan 11.png",Kan 11 
-acestream://70d5fd3b8a4cc6b8b3ce4a9b4902553ab4e1c668
+acestream://928ad6e271ee82b0f1f2dca55700dcd483fdf66e
+#EXTINF:-1 tvg-name="Kan_11_(Израиль)" tvg-logo="Kan 11 (Израиль).png",Kan 11 (Израиль) 
+acestream://bd345cc8d208152e3a23f677450d47c15ee5187c
 #EXTINF:-1 tvg-name="NHK_World_TV" tvg-logo="NHK World TV.png",NHK World TV 
-acestream://518576229e313720dbb2c80cf466356b116b34ff
+acestream://407ba230faeb92eadce591545fd0803f8c3b2aa0
 #EXTINF:-1 tvg-name="NTV_TURKIYE_HD" tvg-logo="NTV TURKIYE HD.png",NTV TURKIYE HD 
 acestream://b5bf631a62d93463992e4e72f991691c63204969
 #EXTINF:-1 tvg-name="News_Network" tvg-logo="News Network.png",News Network 
-acestream://4574775d71f0253e1a97e7132210a9f854b7f992
+acestream://00a2533fe1ebe1c5a2d6a01c6701d8230714e9aa
 #EXTINF:-1 tvg-name="News_One" tvg-logo="News One.png",News One 
-acestream://f0cad40d393b4b138311d4fd628f66c3a5e874a6
+acestream://363e387fcf2aff6dc04d24b09b0c73c987c7df07
 #EXTINF:-1 tvg-name="News_One_HD" tvg-logo="News One HD.png",News One HD 
 acestream://3c8d31faba7eca4adcf3fed45ea47939bba485f5
 #EXTINF:-1 tvg-name="Publika_TV" tvg-logo="Publika TV.png",Publika TV 
 acestream://f2b23760c7bca722947f5221b6b2502a3e026630
 #EXTINF:-1 tvg-name="Rai_News_24" tvg-logo="Rai News 24.png",Rai News 24 
-acestream://bf70e9cd23dc9e612d2e12d8ff5e7915083822ed
+acestream://67ba1d11c74269d5a9db6f6ab02e0bed4fc44668
 #EXTINF:-1 tvg-name="Russia_Today" tvg-logo="Russia Today.png",Russia Today 
-acestream://613de7be2d149a54767e4d8e2f23efab52b181f1
+acestream://07fb637a23a984b11260a28b349d3892d55a33df
 #EXTINF:-1 tvg-name="Russia_Today_Arabic" tvg-logo="Russia Today Arabic.png",Russia Today Arabic 
-acestream://d49c99f038506ede446b6f27ac23c5f19bf0204d
+acestream://c0884767f9fc4b7ef75fe4166a491a6320e7ad49
 #EXTINF:-1 tvg-name="Russia_Today_Espanol" tvg-logo="Russia Today Espanol.png",Russia Today Espanol 
-acestream://e14b7ece7431f8054af6199680af9cc84598f6ae
+acestream://4e06988daf2425cf4213709fdf712a099c471fc1
 #EXTINF:-1 tvg-name="Russia_Today_HD" tvg-logo="Russia Today HD.png",Russia Today HD 
-acestream://ee6a6faca054745c82c8883473fcd5e7665590bd
+acestream://3aa424b1547c5fddb22ebb8ad63b5ac52d6d956a
 #EXTINF:-1 tvg-name="ZIK_(Украина)" tvg-logo="ZIK (Украина).png",ZIK (Украина) 
-acestream://b00ae6fa43f7ce17db523681ee77d0ebf941d1ca
-#EXTINF:-1 tvg-name="АЛА-ТОО_24" tvg-logo="АЛА-ТОО 24.png",АЛА-ТОО 24 
-acestream://78c9ec243edaf9658bd5031af3dc50f925e67b03
+acestream://ee3f5a2b0b5dfe843f94d13191bed920a40242cc
 #EXTINF:-1 tvg-name="Беларусь_24" tvg-logo="Беларусь 24.png",Беларусь 24 
-acestream://6118630dd28cacce9cbc740860817300e0ed9a5d
+acestream://5ae4c72f407dabf7e995b8d73811402fce559537
 #EXTINF:-1 tvg-name="Болгария_Он_Эир(Bulgaria_On_Air)" tvg-logo="Болгария Он Эир(Bulgaria On Air).png",Болгария Он Эир(Bulgaria On Air) 
 acestream://48491944a9ca3c7d31648e8f51a78f6b94e26589
 #EXTINF:-1 tvg-name="Вместе_РФ" tvg-logo="Вместе РФ.png",Вместе РФ 
-acestream://1d4c5273486d47e773c9e7c89223644f7ffc9093
+acestream://126d657ef32b00dbbb028f753f9586df3684deea
 #EXTINF:-1 tvg-name="Вместе_РФ_HD" tvg-logo="Вместе РФ HD.png",Вместе РФ HD 
 acestream://02dd2aa790fb1cbe0658e56c35bbfca5a5464412
 #EXTINF:-1 tvg-name="Громадське" tvg-logo="Громадське.png",Громадське 
-acestream://81c1d4aac72fb4b33311e8ef974b9a9cfb71e248
+acestream://c5d53e7a8b8e23818364ef496f23b1187986d8f2
 #EXTINF:-1 tvg-name="Дождь" tvg-logo="Дождь.png",Дождь 
-acestream://b79761d5cdb6a8ac0ab6c5f5c99252e39d024a95
+acestream://831e17e67d9c7507f3c93523adf0082092dc1a79
 #EXTINF:-1 tvg-name="Дождь_HD" tvg-logo="Дождь HD.png",Дождь HD 
 acestream://022e24eff2f1c508cfee790455f6122acf19e1de
 #EXTINF:-1 tvg-name="Евроновости" tvg-logo="Евроновости.png",Евроновости 
@@ -1079,7 +1066,7 @@ acestream://65b2c649d43dc852acf63fc4f7391186a6398ed7
 #EXTINF:-1 tvg-name="Еспресо_ТВ" tvg-logo="Еспресо ТВ.png",Еспресо ТВ 
 acestream://356379cf32e6469e3e69bb9c2e6eb049fc9edfa6
 #EXTINF:-1 tvg-name="Известия" tvg-logo="Известия.png",Известия 
-acestream://a024854a75d502ff4a75d099ac509457e5334538
+acestream://90660c6d49c296a0a2a32382bdad4f9c2506ef4c
 #EXTINF:-1 tvg-name="Известия_HD" tvg-logo="Известия HD.png",Известия HD 
 acestream://5872b195847f87ed39d9409569287e338363cf26
 #EXTINF:-1 tvg-name="Канал_3_Болгария" tvg-logo="Канал 3 Болгария.png",Канал 3 Болгария 
@@ -1091,27 +1078,31 @@ acestream://0318cc2a58f2493e7da7233373abff13570504fd
 #EXTINF:-1 tvg-name="ЛДПР_ТВ_HD" tvg-logo="ЛДПР ТВ HD.png",ЛДПР ТВ HD 
 acestream://56f66d14f2d3a072fee46577d09867ee812566bd
 #EXTINF:-1 tvg-name="Мир_24" tvg-logo="Мир 24.png",Мир 24 
-acestream://7c03b9394d49ca2229f457f1a276c6aebd4951c8
+acestream://7f2085a898c5b136c3725f659cc731c82f03a36a
 #EXTINF:-1 tvg-name="Настоящее_время_HD" tvg-logo="Настоящее время HD.png",Настоящее время HD 
-acestream://fde537a9405b72952a2c9ef2dabdbd4a3dab7d66
+acestream://03a322f24fdc4b00cb4769338d0c380d9cc1d97a
 #EXTINF:-1 tvg-name="Первый_Метео" tvg-logo="Первый Метео.png",Первый Метео 
-acestream://80da71b0eea8d29077a453619d8b69b9cef0e0fa
+acestream://36fe76a14cfd6f258288828869b1f1212ce09caf
 #EXTINF:-1 tvg-name="Первый_деловой" tvg-logo="Первый деловой.png",Первый деловой 
 acestream://8fc45d8267224c76b72c7c4704542214ddd4fa8e
 #EXTINF:-1 tvg-name="Про_Бизнес" tvg-logo="Про Бизнес.png",Про Бизнес 
 acestream://b0c1ca791bbc5be32b57151a8a7aa0c349ffef8a
+#EXTINF:-1 tvg-name="Прямий" tvg-logo="Прямий.png",Прямий 
+acestream://7861b84f4d02fdcd2c37e59b10e41be5dd62bb9a
+#EXTINF:-1 tvg-name="Прямий_HD" tvg-logo="Прямий HD.png",Прямий HD 
+acestream://f3ee4388f9ca71c1d6bd202452542eb48ea2c519
 #EXTINF:-1 tvg-name="РБК" tvg-logo="РБК.png",РБК 
-acestream://7f155beb2a5ecd79644be570743b54d982292d2e
+acestream://ddffeb269b19da2b13a2193c959b92d0cf193791
 #EXTINF:-1 tvg-name="Рада_(Украина)" tvg-logo="Рада (Украина).png",Рада (Украина) 
-acestream://338ddda13418ae749dab87e07ff593eede94d255
+acestream://43f5c8ac44616bf6331ba62d8e765b328615d81b
 #EXTINF:-1 tvg-name="Россия_24" tvg-logo="Россия 24.png",Россия 24 
-acestream://b05099b970cc4e6a3d5c29cad901e27cfcf32fd9
+acestream://1b4a4bf440a81cae668b0e7901083a219884832d
 #EXTINF:-1 tvg-name="Россия_24_(Екатеринбург)" tvg-logo="Россия 24 (Екатеринбург).png",Россия 24 (Екатеринбург) 
 acestream://9b14e77aa2b91071242a4a96bf324baa087ecb45
 #EXTINF:-1 tvg-name="ТВ_Европа_Болгария" tvg-logo="ТВ Европа Болгария.png",ТВ Европа Болгария 
 acestream://12297579b6726e4eb9caac514283c14a3c2c8de1
 #EXTINF:-1 tvg-name="ЧП-Инфо" tvg-logo="ЧП-Инфо.png",ЧП-Инфо 
-acestream://9e410817fa92b11b0cfb6507ee5f7329a54bc6e6
+acestream://9b75f292d74b688889ae4e3977a5417e7699129c
 
 
 
@@ -1159,23 +1150,25 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="1_TV_Georgia" tvg-logo="1 TV Georgia.png",1 TV Georgia 
-acestream://204798d39aea95b7a81fc6392082f6bae6ebb808
+acestream://12770c153926e8e4cdd297efb973fcd4a52f0bbf
 #EXTINF:-1 tvg-name="1+1" tvg-logo="1+1.png",1+1 
-acestream://bce7434938dd08f746a2f15609c1c374149f7e96
+acestream://a139bddade5ead86600c830c49693e046e39b296
 #EXTINF:-1 tvg-name="1+1_International" tvg-logo="1+1 International.png",1+1 International 
 acestream://677867d7981f91cc1f81d64f3320cfa5e17ad489
 #EXTINF:-1 tvg-name="2+2" tvg-logo="2+2.png",2+2 
-acestream://c4531c8810c2acb6f7803eb2384a28765770413d
+acestream://495aad0acbb90cff85171a2ebfe899e81278007a
 #EXTINF:-1 tvg-name="8_канал" tvg-logo="8 канал.png",8 канал 
-acestream://3c846466621d4f861c0fa2444238cbe599b4e468
+acestream://51b745cf8caafdf255da384283c15d6b64665819
 #EXTINF:-1 tvg-name="American_Embassy_TV_Network" tvg-logo="American Embassy TV Network.png",American Embassy TV Network 
-acestream://f57b3c081f32771d6ffa5cc8aeea79d941ec73c7
+acestream://c7f98c134bb8167047fb6b9f12975c80b16f796d
 #EXTINF:-1 tvg-name="Anixe" tvg-logo="Anixe.png",Anixe 
-acestream://b796eec2a47940a075ffb3c2b0687ba64893b2b7
+acestream://1570fd872e5a1ff0c39d27afd272a7f526646745
 #EXTINF:-1 tvg-name="Arirang_TV" tvg-logo="Arirang TV.png",Arirang TV 
-acestream://c93040d3cd60673b9437a48b8be4ea5bead90087
+acestream://52aee8c149397812d7196ca9fba6c5e8a2395e7f
 #EXTINF:-1 tvg-name="BB-MV_Lokal-TV" tvg-logo="BB-MV Lokal-TV.png",BB-MV Lokal-TV 
-acestream://b87c29a0076385596690a01eb275846270fdd8ec
+acestream://45613ffb3937878e6e3198c0c09b67f4ecfd1b52
+#EXTINF:-1 tvg-name="Canal_Japanet_DX" tvg-logo="Canal Japanet DX.png",Canal Japanet DX 
+acestream://124dcb16309999209e257a0d43e9c7f910a7eee8
 #EXTINF:-1 tvg-name="ERT_1_GR_HD" tvg-logo="ERT 1 GR HD.png",ERT 1 GR HD 
 acestream://83f42544820ef22f0bb17a6ec146da3ba4b81204
 #EXTINF:-1 tvg-name="ERT_2_GR_HD" tvg-logo="ERT 2 GR HD.png",ERT 2 GR HD 
@@ -1187,125 +1180,129 @@ acestream://2d776fee33ec4e9957b18bbcd8b7f5db6e8ee8b7
 #EXTINF:-1 tvg-name="EUROCHANNEL" tvg-logo="EUROCHANNEL.png",EUROCHANNEL 
 acestream://b6b3d697a93e5006974f682b652f32749ad8d1dd
 #EXTINF:-1 tvg-name="EuroNews_France" tvg-logo="EuroNews France.png",EuroNews France 
-acestream://58e937cf98c612341303f04fd23c8b1618acfa08
+acestream://21f2ee7cf1d1bbf29a8213dc2a56079da37b1b13
 #EXTINF:-1 tvg-name="HSE_24_Extra" tvg-logo="HSE 24 Extra.png",HSE 24 Extra 
-acestream://18c9212ec2a96f4109fdbcb5256db505e19b5e37
+acestream://e715a5714ad9a2c0f95d2e187f5bdc8b0c962c8c
 #EXTINF:-1 tvg-name="ICTV" tvg-logo="ICTV.png",ICTV 
-acestream://45b0f5933a10abaaa32fcfcbb381c7c84649d49d
+acestream://b61b182811a19f9c9821763dafc5df9330fb1209
 #EXTINF:-1 tvg-name="JML_Direct_Shop" tvg-logo="JML Direct Shop.png",JML Direct Shop 
-acestream://c4ad7b41f1c5920b6e080de1970dfdde0501df0e
+acestream://94af0bc9ae1a69e540284e33631eafcb18c33967
 #EXTINF:-1 tvg-name="Kahkeshan_TV" tvg-logo="Kahkeshan TV.png",Kahkeshan TV 
-acestream://c1d05be965c21b853d74fd033dc05dfcbbe6b4e9
+acestream://c8e8e687ac612063895d3b5ecc5710f9a7263256
 #EXTINF:-1 tvg-name="N-TV" tvg-logo="N-TV.png",N-TV 
-acestream://4d6db58bfacb7a8b5e60d4592eca3c3c0d5fc10f
+acestream://71e9cc3b41382cb0a7d2398685c944fb4926822d
 #EXTINF:-1 tvg-name="NTD_TV" tvg-logo="NTD TV.png",NTD TV 
-acestream://6429e24e7918dfb75d6ead2201663229b6f9248a
+acestream://1ab3bd47360f800c5d784be0034c7cbc2d31028f
 #EXTINF:-1 tvg-name="Obieqtivi_TV" tvg-logo="Obieqtivi TV.png",Obieqtivi TV 
-acestream://3d5145a02a42b9c3d92d3d9726f1accee20fd71e
+acestream://eba55dab0a4fca053621feb6a60a969bd2e54c77
 #EXTINF:-1 tvg-name="Polsat_News_2" tvg-logo="Polsat News 2.png",Polsat News 2 
-acestream://ff4f9c5edf8e9a995c2fa439f01fbe0cd4980e8c
+acestream://f0781ac9e065402c6cb8592474f1f7f8dc811404
 #EXTINF:-1 tvg-name="Pro100_TV" tvg-logo="Pro100 TV.png",Pro100 TV 
-acestream://49f001788d722e55241adcbc0466ae8303e614de
+acestream://d0a8f7e0a3382a1500a708f2f56a4120f74ed0fb
 #EXTINF:-1 tvg-name="RTL" tvg-logo="RTL.png",RTL 
-acestream://bfc6767f3d92249168f856e0e2131549aaced9b3
+acestream://30a5678c41a7cc30f817aa1f80ae296e3ada7672
 #EXTINF:-1 tvg-name="RTL_2_Austria" tvg-logo="RTL 2 Austria.png",RTL 2 Austria 
-acestream://c31c6b34f29c579bfc5e5a8c05f45136aa9c0af4
+acestream://def47db427580e297cbe770a01dbd47d4a624a55
 #EXTINF:-1 tvg-name="RTL_2_Deutschland" tvg-logo="RTL 2 Deutschland.png",RTL 2 Deutschland 
-acestream://0e98fe7751dc6abe07ff5d73592e9c74bb8a54cf
+acestream://4b057faff67340d1e427cc659b1e3c7d8d7ca83e
 #EXTINF:-1 tvg-name="RTL_Austria" tvg-logo="RTL Austria.png",RTL Austria 
-acestream://d2f6a59badab1e4d06ecad94e14b5852e12763fb
+acestream://3a88eaf6a515afb4cee1be0be76171bdde276059
 #EXTINF:-1 tvg-name="RTL_Nitro" tvg-logo="RTL Nitro.png",RTL Nitro 
-acestream://00432a32ee24efad00701db02c59c82aa3471833
+acestream://09b5f6f69d9c3dcf9419d99a2a7372db536611db
 #EXTINF:-1 tvg-name="RTL_Switzerland" tvg-logo="RTL Switzerland.png",RTL Switzerland 
-acestream://2f07acce58491c08e1c6b254dfdc22a885080a9c
+acestream://3e1d1a7accece0fd96dba4d3b652a152843a20d6
 #EXTINF:-1 tvg-name="RTL_West" tvg-logo="RTL West.png",RTL West 
-acestream://47ab67e0470d86646bff67efaabc74e2ece5bba6
+acestream://540c7015852ad88cda1b27397dde364bd6df0853
 #EXTINF:-1 tvg-name="RTLplus_Deutschland" tvg-logo="RTLplus Deutschland.png",RTLplus Deutschland 
-acestream://10cdde7967d0b71effb255d5f029101f2c579e57
+acestream://fcbc8752fbc5634af730077d647d6205feef533a
+#EXTINF:-1 tvg-name="RTVI_!" tvg-logo="RTVI !.png",RTVI ! 
+acestream://9a6952db85e4ca88e66fc5d36d0350cfcbd7742d
 #EXTINF:-1 tvg-name="Rai_1" tvg-logo="Rai 1.png",Rai 1 
 acestream://589ae50ffbce252e7ab6045bfb53e88128062e30
 #EXTINF:-1 tvg-name="Rai_2" tvg-logo="Rai 2.png",Rai 2 
 acestream://d14f05bfdbc45fabdaf1639bf926a5c4c0cba981
 #EXTINF:-1 tvg-name="Rai_3" tvg-logo="Rai 3.png",Rai 3 
-acestream://515326812bac5ecfda453dcc2f31fa90e93dc6ac
+acestream://bbfb8a35a7189267c9f77f544af05f852d4a8cef
 #EXTINF:-1 tvg-name="Rai_5" tvg-logo="Rai 5.png",Rai 5 
 acestream://494d42f4a792f044c0b578046a975fb3c5fe5125
 #EXTINF:-1 tvg-name="SciFi_Universal" tvg-logo="SciFi Universal.png",SciFi Universal 
-acestream://01059817ff3f585bfc806f900af97fb7a60c4bb1
+acestream://76f492d5c6e42fab5fb53445c2ad6d7f829ff6cf
 #EXTINF:-1 tvg-name="Sixx_Deutschland" tvg-logo="Sixx Deutschland.png",Sixx Deutschland 
-acestream://5442418f20b25dd44b1f62b8e6424f8c88264705
+acestream://05d5ad0588ee8c2be3ce928716f24d9f03251059
 #EXTINF:-1 tvg-name="Super_RTL_Austria" tvg-logo="Super RTL Austria.png",Super RTL Austria 
-acestream://ebdb73f96ceddc7763c5d47270ccced7f126167d
+acestream://dbad8c11b1c0da0fc0f58d66268b44921a777602
 #EXTINF:-1 tvg-name="Super_RTL_Deutschland" tvg-logo="Super RTL Deutschland.png",Super RTL Deutschland 
-acestream://ebdb73f96ceddc7763c5d47270ccced7f126167d
+acestream://dbad8c11b1c0da0fc0f58d66268b44921a777602
 #EXTINF:-1 tvg-name="UA:Крим" tvg-logo="UA:Крим.png",UA:Крим 
-acestream://31a8764a4ac5bba4c74356bdd0202805856f7f66
+acestream://98647fb9fbecab66c86605a5abcada42938073fb
 #EXTINF:-1 tvg-name="UA:Перший" tvg-logo="UA:Перший.png",UA:Перший 
 acestream://ae2180fd05ab2dd7fcdc65195ed4b3321733ad4d
 #EXTINF:-1 tvg-name="UATV" tvg-logo="UATV.png",UATV 
-acestream://7f8eabd3cfb09eecd88eece1329d16e1f5f3bd79
+acestream://40e2dadd8068fe574347ab79ef73eb382aa403a2
 #EXTINF:-1 tvg-name="VOX_Austria" tvg-logo="VOX Austria.png",VOX Austria 
-acestream://35fc1a89e13ab75e25a15086b27bb18b4c5b703f
+acestream://e9b02dd4ae1c643382b406064e3ef6b592738f88
 #EXTINF:-1 tvg-name="VOX_Deutschland" tvg-logo="VOX Deutschland.png",VOX Deutschland 
-acestream://9a7f33a1bdf9b14cac07bd5d9fe9183f9124e0ad
+acestream://c2c1b6fd9a3b37e9a97c20dc8ebcc97a973e525b
 #EXTINF:-1 tvg-name="VOX_Switzerland" tvg-logo="VOX Switzerland.png",VOX Switzerland 
-acestream://170a574aacd3943164a048128c2e51655a739331
+acestream://1d87170622ac80ff152b361d8076ac0eae86bef2
 #EXTINF:-1 tvg-name="VoA_TV" tvg-logo="VoA TV.png",VoA TV 
-acestream://1a735fc1247df81b5b26c22b104a6100e4510aee
+acestream://9a75d322b3bd96d26f328bfcd4a814c5b09ee097
 #EXTINF:-1 tvg-name="VoA_TV_Persian" tvg-logo="VoA TV Persian.png",VoA TV Persian 
-acestream://0efe79cb561cb4e0e715290d0f926e0be3493d26
+acestream://e6acca45f73e7d14268478d7ee3f2f88c9a0b668
 #EXTINF:-1 tvg-name="torrent-tv.ru" tvg-logo="torrent-tv.ru.png",torrent-tv.ru 
-acestream://451af39751887a762286045a3f228674f8575c50
+acestream://f958cab8c65454d0cdcf2e008ec9110c4ea1edb4
 #EXTINF:-1 tvg-name="Беларусь_3_!" tvg-logo="Беларусь 3 !.png",Беларусь 3 ! 
 acestream://471ad8bd67ea77a263fbe89fe5e0b807c24a5b99
 #EXTINF:-1 tvg-name="Винтаж_ТВ" tvg-logo="Винтаж ТВ.png",Винтаж ТВ 
 acestream://8a7367acaf1c8e2e8c81b05590ba1f7ad8b89a96
 #EXTINF:-1 tvg-name="Время" tvg-logo="Время.png",Время 
-acestream://611189819dcbbadf6cbfd3588bde984f5e22c572
+acestream://448f6906dc1da74d83003219618877f80bc91872
+#EXTINF:-1 tvg-name="Губерния_тв" tvg-logo="Губерния тв.png",Губерния тв 
+acestream://fbf93a952082faab3927675dbaa829682c84eaab
 #EXTINF:-1 tvg-name="Домашний" tvg-logo="Домашний.png",Домашний 
 acestream://f1e6c70791cc10152d9ec9fbf30505f06bd5cefd
 #EXTINF:-1 tvg-name="Домашний_(+2)" tvg-logo="Домашний.png",Домашний (+2) 
-acestream://e8516078b75836c8c694ba4777bfe832007ecbf0
+acestream://1744642e2e6af86072a3c52eea4867c35ef1ae2d
 #EXTINF:-1 tvg-name="Звезда" tvg-logo="Звезда.png",Звезда 
-acestream://3cf498157ac414ee95b41ed46cad01d8addbc02b
+acestream://4a6700f02c6c647e9b517ef36a1ef2defcf96fd2
 #EXTINF:-1 tvg-name="Звезда_(+4)" tvg-logo="Звезда.png",Звезда (+4) 
 acestream://64b62f8dc0aa8fe62dab8ad99e5972120c4668e1
 #EXTINF:-1 tvg-name="Звезда_(16:9)" tvg-logo="Звезда (16:9).png",Звезда (16:9) 
 acestream://5a1b8cf642a12bf2d97a270d6657d3bc70755609
 #EXTINF:-1 tvg-name="Индиго" tvg-logo="Индиго.png",Индиго 
-acestream://61672762bcb979ddfbcfa05ae5cff950814826a9
+acestream://e44e43d836124a0225ace160746ab78d8cc355a4
 #EXTINF:-1 tvg-name="Интер" tvg-logo="Интер.png",Интер 
-acestream://f279c9aaaba2c06619cc5fbf5f43bd86edb8c0ea
+acestream://9287e983ed9e8fb9e19f3c23d6a45d80eb899964
 #EXTINF:-1 tvg-name="Киевская_Русь" tvg-logo="Киевская Русь.png",Киевская Русь 
-acestream://b15d37cbace38754e00d51f876e0425e21c63f52
+acestream://74067e298d06c787c053a1d0b8811142bb2befac
 #EXTINF:-1 tvg-name="Красная_линия" tvg-logo="Красная линия.png",Красная линия 
 acestream://78d44e234cdacfcfb91e9b8089519cd7e6d27b16
 #EXTINF:-1 tvg-name="Макс_24_(Сочи)" tvg-logo="Макс 24 (Сочи).png",Макс 24 (Сочи) 
 acestream://444b2b8a46b27b318d6259af26f54a431fafb461
 #EXTINF:-1 tvg-name="Мир" tvg-logo="Мир.png",Мир 
-acestream://ab937e85b8e2f49775d2a7edbf946f78653feec3
+acestream://ffa7f54ff6d0224afc63c228ac24538da1274705
 #EXTINF:-1 tvg-name="Мир_(+2)" tvg-logo="Мир.png",Мир (+2) 
 acestream://cc01156dbebaf2f46803a14c30a66fadceed61f4
 #EXTINF:-1 tvg-name="Мир_(+3)" tvg-logo="Мир.png",Мир (+3) 
-acestream://d0fb32fccb341436337de3c2939ef7ff907c54a9
+acestream://2b3ab14ae2d028facbdeed0501a1c37da062c292
 #EXTINF:-1 tvg-name="Мир_HD" tvg-logo="Мир HD.png",Мир HD 
-acestream://a55d63b2b9b4471d2b1eda12a210024a11f81084
+acestream://353ffa2a5a13980120f5f007549769f8141f6cc7
 #EXTINF:-1 tvg-name="НТВ" tvg-logo="НТВ.png",НТВ 
 acestream://b6507b815a6ff1e47838a5f5558f9f223c64d74c
 #EXTINF:-1 tvg-name="НТВ_(+2)" tvg-logo="НТВ.png",НТВ (+2) 
 acestream://57632609258a0386bd4a72c78eaa04bbbb0d88e1
 #EXTINF:-1 tvg-name="НТВ_HD" tvg-logo="НТВ HD.png",НТВ HD 
-acestream://a5f027bbb8260326f3c6b9ae8b7aac44459e25a2
+acestream://be8df3fba0c9fb1da83dd5603f9a665b35ddcf3b
 #EXTINF:-1 tvg-name="НТВ_Мир_Балтия" tvg-logo="НТВ Мир Балтия.png",НТВ Мир Балтия 
-acestream://6c8f737b4d819c40b3ade6cde1a866a85260dfe1
+acestream://023e67f274ed4b99e172613b1e044b9da50eaebf
 #EXTINF:-1 tvg-name="НТК" tvg-logo="НТК.png",НТК 
 acestream://0dd304a6fb09008b3103daaf6edce33d3cbaa48d
 #EXTINF:-1 tvg-name="НТН_(Украина)" tvg-logo="НТН (Украина).png",НТН (Украина) 
-acestream://2c0b715ee8348b47ba90dd9cc4ae99fdc56f1522
+acestream://2721a24122af08bc39a4fca7806b2e650a1d5685
 #EXTINF:-1 tvg-name="Ностальгия" tvg-logo="Ностальгия.png",Ностальгия 
-acestream://62f2f3ac6064f93e32cedb4fd351fd955f6d04df
+acestream://6b92e520979d54c5ed278222230f6d48ca238f88
 #EXTINF:-1 tvg-name="ОТР" tvg-logo="ОТР.png",ОТР 
-acestream://a9ad4cd6085839ec864b2b444cb5a97c8ef4d321
+acestream://c614cf6a469de9125fb136fcad71475f8653443f
 #EXTINF:-1 tvg-name="Первый_канал" tvg-logo="Первый канал.png",Первый канал 
 acestream://0f24d1361d715de8472fd930b61e2db6183e46c1
 #EXTINF:-1 tvg-name="Первый_канал_(+2)" tvg-logo="Первый канал.png",Первый канал (+2) 
@@ -1317,23 +1314,19 @@ acestream://0ec92d79a8b65183a134c73fff18f3bac6df19c2
 #EXTINF:-1 tvg-name="Первый_канал_(+6)" tvg-logo="Первый канал.png",Первый канал (+6) 
 acestream://0e4886a5b848e984add598bf10a982cc2845cd7e
 #EXTINF:-1 tvg-name="Первый_канал_(4:3)" tvg-logo="Первый канал (4:3).png",Первый канал (4:3) 
-acestream://8c70c44ba4ca4507b33b7f98d7420003a83984ea
+acestream://ea21a28225d16686c752c18b60aeb88a53c6f969
 #EXTINF:-1 tvg-name="Первый_канал_(Евразия)" tvg-logo="Первый канал (Евразия).png",Первый канал (Евразия) 
 acestream://373302c8116737e4b2f4f75b961a7190961edf23
 #EXTINF:-1 tvg-name="Первый_канал_(СНГ)" tvg-logo="Первый канал (СНГ).png",Первый канал (СНГ) 
-acestream://02858f3e378d855a8e4edd155a9f0e631f878dfb
+acestream://a555a5425a8f34f6fa140704cdc9479b4c45e4f4
 #EXTINF:-1 tvg-name="Первый_канал_HD" tvg-logo="Первый канал HD.png",Первый канал HD 
-acestream://03519e9217896f9dab622cdb763f2f25cd57e913
+acestream://65bd89c6722cfeccddd7385fe3dee08539485c64
 #EXTINF:-1 tvg-name="Первый_канал_HD_(+4)" tvg-logo="Первый канал HD.png",Первый канал HD (+4) 
-acestream://3128fcc38e5c58df7217b28e9877005591fd42d3
+acestream://98eddfebc80510920ba76dde357a433ed63e894e
 #EXTINF:-1 tvg-name="Правда_тут" tvg-logo="Правда тут.png",Правда тут 
-acestream://f7c59df26c74bb76094425ca67ab2505c98f3bec
-#EXTINF:-1 tvg-name="Прямий" tvg-logo="Прямий.png",Прямий 
-acestream://7861b84f4d02fdcd2c37e59b10e41be5dd62bb9a
-#EXTINF:-1 tvg-name="Прямий_HD" tvg-logo="Прямий HD.png",Прямий HD 
-acestream://889f30b63755b1c24d60f487d0b43cd25ebcbfad
+acestream://215993af691e35ccac0e84446c8a4068dbf98718
 #EXTINF:-1 tvg-name="Пятый_канал" tvg-logo="Пятый канал.png",Пятый канал 
-acestream://675c210cbad929342d6fafd133f5fb665ccc9cbb
+acestream://25fc163d751aa2d56311be392ba8143da51ef24c
 #EXTINF:-1 tvg-name="Пятый_канал_(+2)" tvg-logo="Пятый канал.png",Пятый канал (+2) 
 acestream://6b8c6a867d71898f53f142c6bc3cc140e685842a
 #EXTINF:-1 tvg-name="Пятый_канал_(+4)" tvg-logo="Пятый канал.png",Пятый канал (+4) 
@@ -1351,39 +1344,36 @@ acestream://e423d8015ea677df327d18c7c3dc2c55726983a7
 #EXTINF:-1 tvg-name="РЕН_ТВ_HD" tvg-logo="РЕН ТВ HD.png",РЕН ТВ HD 
 acestream://9618ea70b9bf90b0044e84f713ea8104be221cf5
 #EXTINF:-1 tvg-name="РТР_Планета" tvg-logo="РТР Планета.png",РТР Планета 
-acestream://363ad8b5380cc1d4d6c8107f1b422999372ca037
+acestream://a97598446c26ef6e726b01ea8b7d8a062c35696f
 #EXTINF:-1 tvg-name="Ретро_ТВ_!" tvg-logo="Ретро ТВ !.png",Ретро ТВ ! 
 acestream://28922f8be47069b246b5f5ccd46bc57480731a26
 #EXTINF:-1 tvg-name="Россия_1" tvg-logo="Россия 1.png",Россия 1 
-acestream://1b0bb73169e7715b662ab0bb1a560b7c3d9e1690
-#EXTINF:-1 tvg-name="Россия_1_(+2)" tvg-logo="Россия 1.png",Россия 1 (+2) 
-acestream://43313085b9acdccd1aeda0e96cce9d8105bddf8c
+acestream://203e9774f27ff4a04b3d1cb5a53bf4eb3c985930
 #EXTINF:-1 tvg-name="Россия_1_(+4)" tvg-logo="Россия 1.png",Россия 1 (+4) 
-acestream://1b227d585a92c461c90b305f8c7d0ab814d77bc1
+acestream://a7bdc6b3045d446db5fa43f2a19ce5d1203965b5
 #EXTINF:-1 tvg-name="Россия_1_(Чита)" tvg-logo="Россия 1 (Чита).png",Россия 1 (Чита) 
 acestream://7d3cdbbc0add8de8f779f704cf9732e9c08aef16
 #EXTINF:-1 tvg-name="Россия_HD" tvg-logo="Россия HD.png",Россия HD 
-acestream://52e86c13cc1225a78b9d2d1390778aa2a7d8c4c6
+acestream://13b1c1a8fbbfa0b2563e8178c41ec61b001ad88a
 #EXTINF:-1 tvg-name="СТБ" tvg-logo="СТБ.png",СТБ 
-acestream://8f7d68fa37a673fde8a2d35699d26b842370f1e9
+acestream://13f5def2a7cfdaf3083c3f4b295b185d19cf28b8
 #EXTINF:-1 tvg-name="СТВ" tvg-logo="СТВ.png",СТВ 
 acestream://0374a3d6f00fabe3cdbae5ec002469493fe8fd8c
-#EXTINF:-1 tvg-name="Страна" tvg-logo="Страна.png",Страна 
-acestream://27136f8bffd5f61e0f6285bbfeed07b4cbf3198d
 #EXTINF:-1 tvg-name="ТВ_Центр_(+2)" tvg-logo="ТВ Центр.png",ТВ Центр (+2) 
 acestream://48e9dda4a93ace48c108c7784b25f1145cf9f6c5
 #EXTINF:-1 tvg-name="ТВ_Центр_(Москва)" tvg-logo="ТВ Центр (Москва).png",ТВ Центр (Москва) 
 acestream://9c3eddb17f05a59e9837f8a31b20dc722d96b073
 #EXTINF:-1 tvg-name="ТВ_Центр_Международный" tvg-logo="ТВ Центр Международный.png",ТВ Центр Международный 
-acestream://343c9c1fce35bd4fbaacdecd7dd3eb5bd8c56362
+acestream://0aede9162a35f7e58f5cd9c79a57980b184c0e26
 #EXTINF:-1 tvg-name="ТВЦ" tvg-logo="ТВЦ.png",ТВЦ 
-acestream://97debd2358008184d944b0f25ab8a51540343671
+acestream://ad5a0c6763f1a377f5ea42c2cb99039ee6e50b0a
 #EXTINF:-1 tvg-name="ТРК_Украина" tvg-logo="ТРК Украина.png",ТРК Украина 
-acestream://566a9ee3731d2a5f49b1b94c460d5cad2fd57286
+acestream://28a3f03cb4b24103ff7011ddb8552f87461b8852
 #EXTINF:-1 tvg-name="Точка_ТВ" tvg-logo="Точка ТВ.png",Точка ТВ 
-acestream://f2a2a064a886580da616055678416fb4e7da41ed
+acestream://e2ec9b33be1453e628d6f1d601cfbab4b78c38cd
 #EXTINF:-1 tvg-name="Унiан" tvg-logo="Унiан.png",Унiан 
-acestream://1599c92eb629e6695264b2a621c94541e355afa0
+acestream://35d837476f4f45a0440702fadacb2ab880f2ba80
+
 
 
 
@@ -1434,20 +1424,12 @@ acestream://23d6e6c1b3b812d70ab5ddebfbea8155e5c1d37b
 acestream://acbfd8574084ffc68c65b0948485e5d0f82173e2
 #EXTINF:-1 tvg-name="Da_Vinci_Learning" tvg-logo="Da Vinci Learning.png",Da Vinci Learning 
 acestream://e61b3ac960809be12896e1ae7098b076cc2aab60
-#EXTINF:-1 tvg-name="Discovery_Channel_HD" tvg-logo="Discovery Channel HD.png",Discovery Channel HD 
-acestream://d021d13d21e4cb362f7391b32aca933710658474
 #EXTINF:-1 tvg-name="Discovery_HD" tvg-logo="Discovery HD.png",Discovery HD 
 acestream://912d93af230ff308b1c8d35a61952378b7af5f63
 #EXTINF:-1 tvg-name="Discovery_HD_Showcase" tvg-logo="Discovery HD Showcase.png",Discovery HD Showcase 
 acestream://d01bcf8744de6d47cb280a3ef42e47e813d6ec23
 #EXTINF:-1 tvg-name="Discovery_Science_HD" tvg-logo="Discovery Science HD.png",Discovery Science HD 
-acestream://f8eb7c3de35f75ea4ab8d36d5caba79b3985a7c7
-#EXTINF:-1 tvg-name="Discovery_Showcase_HD" tvg-logo="Discovery Showcase HD.png",Discovery Showcase HD 
-acestream://6af76dc0c965069a1a6677ed27f87d707c3425fd
-#EXTINF:-1 tvg-name="Dtx_HD" tvg-logo="Dtx HD.png",Dtx HD 
-acestream://2561fce1c99a605e6477ed553e7902148858c6f1
-#EXTINF:-1 tvg-name="English_Club_HD" tvg-logo="English Club HD.png",English Club HD 
-acestream://3eef1c2b57ae9b01f9600a8e5d168a34892d01bc
+acestream://2884c0f9337c8569ac9e76ef30759a5e40b39dd5
 #EXTINF:-1 tvg-name="Eureka_HD" tvg-logo="Eureka HD.png",Eureka HD 
 acestream://d7541d1ebdf025be31a4efe9b9bbb50503105cc4
 #EXTINF:-1 tvg-name="History_HD" tvg-logo="History HD.png",History HD 
@@ -1456,8 +1438,6 @@ acestream://842f761ee977043e40039a0ea75d6157df48a946
 acestream://82212e762d246cdb5edf9ed0afb5e4336fbea08f
 #EXTINF:-1 tvg-name="National_Geo_HD" tvg-logo="National Geo HD.png",National Geo HD 
 acestream://459eda15ec5e60c40d8bd7dc6ad19b2e4b4500d1
-#EXTINF:-1 tvg-name="National_Geographic" tvg-logo="National Geographic.png",National Geographic 
-acestream://7ac3147b28c4148fb7006e9d28f05691f9c9bcf7
 #EXTINF:-1 tvg-name="National_Geographic_Channel_HD" tvg-logo="National Geographic Channel HD.png",National Geographic Channel HD 
 acestream://088d2b65c0abe6cdaece47777342ca127a8e8395
 #EXTINF:-1 tvg-name="Tlc_HD" tvg-logo="Tlc HD.png",Tlc HD 
@@ -1468,12 +1448,11 @@ acestream://0e351c0d9ad0789f5d00a7a22a1354384cc13cc5
 acestream://843c7e53e6cec4135bbed197bd607983e656a6a3
 #EXTINF:-1 tvg-name="Viasat_Nature" tvg-logo="Viasat Nature.png",Viasat Nature 
 acestream://c1e70ed0158dd5c7a6e0ec004e274a42c5408765
-#EXTINF:-1 tvg-name="Viasat_Nature/History_HD" tvg-logo="Viasat Nature/History HD.png",Viasat Nature/History HD 
-acestream://94ee39a0c4c2419acae48ac6afbb52c254f91ca6
 #EXTINF:-1 tvg-name="Бобер" tvg-logo="Бобер.png",Бобер 
 acestream://d7f2ed568881e84f93a686a96f0b4e0c1131a11e
 #EXTINF:-1 tvg-name="Т24" tvg-logo="Т24.png",Т24 
 acestream://a1fc5cc41a1356bea984db69edc9edc224d6ffa3
+
 
 
 
@@ -1523,13 +1502,13 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="100%_News" tvg-logo="100% News.png",100% News 
-acestream://8fa7399966111eb301e3955c6ffe2919edbf57aa
+acestream://4414bab35677429abe2c4464e34beb99a9fe2b72
 #EXTINF:-1 tvg-name="365_Дней" tvg-logo="365 Дней.png",365 Дней 
-acestream://1a4eae0fbdf26aff8aac1179843524b50a6ae25c
+acestream://e2cfe7f2ee0a77dbc1cbe284e5ef5ca4af62e664
 #EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="Animal Planet.png",Animal Planet 
 acestream://82102a3d12f3debd9c4982db3b45ad635fdd0f13
 #EXTINF:-1 tvg-name="Animal_Planet_HD" tvg-logo="Animal Planet HD.png",Animal Planet HD 
-acestream://81c52ab839d66ec3a9afefcef737540a95558f0f
+acestream://40a62b9800e3efa68d2591d0a9f1f5997aee4322
 #EXTINF:-1 tvg-name="Brodilo_TV_HD" tvg-logo="Brodilo TV HD.png",Brodilo TV HD 
 acestream://99a41601c1f67e24d963b9e6d37e5056b2fb898c
 #EXTINF:-1 tvg-name="Buy_Home_TV_HD" tvg-logo="Buy Home TV HD.png",Buy Home TV HD 
@@ -1538,146 +1517,146 @@ acestream://92251eefdeb28b307945fbf13f4ac0b1df3d79e7
 acestream://7a3da914db057730a65e7c1174740721ae3b5765
 #EXTINF:-1 tvg-name="DTX_HD" tvg-logo="DTX HD.png",DTX HD 
 acestream://2561fce1c99a605e6477ed553e7902148858c6f1
-#EXTINF:-1 tvg-name="DTX_HD_(резерв)" tvg-logo="DTX HD (резерв).png",DTX HD (резерв) 
-acestream://a80f7694983a4c3b3243ae928694ecfb2e667c13
 #EXTINF:-1 tvg-name="Da_Vinci_Learning" tvg-logo="Da Vinci Learning.png",Da Vinci Learning 
-acestream://d54bf5343167ba8a1e863b5168440c56442690eb
+acestream://ccdb83695db9d6231111a55ff904abd8cb76054f
 #EXTINF:-1 tvg-name="Discovery_Channel" tvg-logo="Discovery Channel.png",Discovery Channel 
-acestream://be6a85e548220d406b6a8a09b0052e824fbc5057
+acestream://c315598792113d0ef9da0dac256cad4b3ccc8bdf
 #EXTINF:-1 tvg-name="Discovery_Channel_HD" tvg-logo="Discovery Channel HD.png",Discovery Channel HD 
-acestream://7f87cc51eb98915ffb0201561d99345888d08724
+acestream://3cdc18f6dbb1dd6f488405d62dad835c946b7cda
 #EXTINF:-1 tvg-name="Discovery_Historia_Polska" tvg-logo="Discovery Historia Polska.png",Discovery Historia Polska 
-acestream://26b2d9b42c2abffb7d9e3e36aac0bae5eff54239
+acestream://2679a58f273174b0e8afb7512ead4962ce207d66
 #EXTINF:-1 tvg-name="Discovery_Science" tvg-logo="Discovery Science.png",Discovery Science 
 acestream://b7c899b29a25442492ad7ca163d9f73ca449c311
 #EXTINF:-1 tvg-name="Discovery_Showcase_HD" tvg-logo="Discovery Showcase HD.png",Discovery Showcase HD 
 acestream://d01bcf8744de6d47cb280a3ef42e47e813d6ec23
 #EXTINF:-1 tvg-name="DocuBox_HD" tvg-logo="DocuBox HD.png",DocuBox HD 
-acestream://9890ee1be08969a0f06bdf95ff601d0d0547a387
+acestream://acfd7dd115bc9e7f5693f0e680eef799b8be3e42
 #EXTINF:-1 tvg-name="EPOQUЕ_HD" tvg-logo="EPOQUЕ HD.png",EPOQUЕ HD 
 acestream://a81f3e0c1adfe6beaf66677775c26e1e5ffe1dbc
 #EXTINF:-1 tvg-name="English_Club_TV" tvg-logo="English Club TV.png",English Club TV 
-acestream://5196ea59f7e9a4e49efb5a0e992afb8b9677d552
+acestream://4ae9034eb5d3986a4fac215c668fed5c9ac2fe79
 #EXTINF:-1 tvg-name="English_Club_TV_HD_!" tvg-logo="English Club TV HD !.png",English Club TV HD ! 
 acestream://3334f61ce0de7cfb1f04817212461900d823fafd
 #EXTINF:-1 tvg-name="Epoque" tvg-logo="Epoque.png",Epoque 
-acestream://3bc54cc4c0ce8034c0c3fe3b7137e20b1fb4349b
+acestream://a73c69856045ef71d5eb3a95dfaca030aa47fb4a
 #EXTINF:-1 tvg-name="Eureka_HD" tvg-logo="Eureka HD.png",Eureka HD 
-acestream://6dfc8f9f63404e8c21df124d908b36f1ceedc28b
+acestream://390fd294efcb61dcd45517794b7b197303177c50
 #EXTINF:-1 tvg-name="Fine_Living" tvg-logo="Fine Living.png",Fine Living 
-acestream://f7e1f01d655456070babbc5fc15154e26e88409c
+acestream://43c2d59347cfafd45f25aadcbc5f825e1f7eb446
 #EXTINF:-1 tvg-name="Food_Network" tvg-logo="Food Network.png",Food Network 
-acestream://c08c15ba03e677577e44181916b0cc556174b806
+acestream://2103e5375ffcbf0fe7fdc91bec15b20cbe5e4bbc
 #EXTINF:-1 tvg-name="Food_Network_HD!" tvg-logo="Food Network HD!.png",Food Network HD! 
 acestream://560aeaf9b5ca3d2ef1d7769c4e22fe3229fe2436
 #EXTINF:-1 tvg-name="Galaxy_TV" tvg-logo="Galaxy TV.png",Galaxy TV 
-acestream://93bed99427cbe36c44763fdaf610d9be2cc07311
+acestream://27143833dc834e8f9653af98379ff6a1729eb7ae
 #EXTINF:-1 tvg-name="HD_Life" tvg-logo="HD Life.png",HD Life 
-acestream://62a6a226ce7a80d0c240a35fac59bf36c3f370bb
+acestream://d39f49ee52215a3aae3eefd7ccbddcfca1c98167
 #EXTINF:-1 tvg-name="History_Channel" tvg-logo="History Channel.png",History Channel 
-acestream://3f6ef12db24702c83cafac288e37d1b5c87b5b0c
+acestream://228a4f3df8a8539ea1976185950af60ee31b1da1
 #EXTINF:-1 tvg-name="History_Channel_Europe" tvg-logo="History Channel Europe.png",History Channel Europe 
-acestream://dbdeaa86893b382e5452d815ebcc5a1a026e2828
+acestream://1441ec80d7f9bb78a6f5382b666feb134d9030c3
 #EXTINF:-1 tvg-name="History_Channel_HD" tvg-logo="History Channel HD.png",History Channel HD 
-acestream://23d3c422ef0a5914ad8db2847b16fe7db08af531
+acestream://c9c60577563849c38a1e544c3a3ad412862a7160
 #EXTINF:-1 tvg-name="ID_Xtra" tvg-logo="ID Xtra.png",ID Xtra 
-acestream://1dac98cdfad19f8e9a8721e701edc9c6153b0d81
+acestream://b489135df0676a4c80eeb8d7e8015ec875ef1b84
 #EXTINF:-1 tvg-name="My_Zen_TV_HD" tvg-logo="My Zen TV HD.png",My Zen TV HD 
 acestream://e8f96fcf75529a9d3e474376ce53f97097201373
 #EXTINF:-1 tvg-name="N24_Doku" tvg-logo="N24 Doku.png",N24 Doku 
-acestream://6d1900e609fa33c6488812b72be82fd4466b1cac
+acestream://0543f1f804ee1b38606e76105c3f47a5ec146fca
 #EXTINF:-1 tvg-name="Nat_Geo_Wild" tvg-logo="Nat Geo Wild.png",Nat Geo Wild 
-acestream://8810d4e14d6a87ded454432470bb47ad57997150
+acestream://258cae01a309b8151f336fe267ac5df841a5f5e8
 #EXTINF:-1 tvg-name="Nat_Geo_Wild_HD" tvg-logo="Nat Geo Wild HD.png",Nat Geo Wild HD 
-acestream://fd1ef8e78e7585bbd5ea651ae6e2fd919292ca3e
+acestream://c1274762ad5ae757496a1122567eab6369469996
 #EXTINF:-1 tvg-name="National_Geographic" tvg-logo="National Geographic.png",National Geographic 
-acestream://13150f2fcf0f67363b82a9ef5ad6cf0abadbbf06
+acestream://287a21b0d724a9176bf117d1368a3ea11e3332c5
 #EXTINF:-1 tvg-name="National_Geographic_HD" tvg-logo="National Geographic HD.png",National Geographic HD 
-acestream://ea15983e4e66ee7af42bce02efa5592e6816d250
+acestream://2f2488820cc176f91301f105b56c0a25ec48e2f9
 #EXTINF:-1 tvg-name="National_Geographic_Polska" tvg-logo="National Geographic Polska.png",National Geographic Polska 
-acestream://037b3e0128e99dcba6715d02f247c09f1ea7f0cd
+acestream://c47c78b0f0da66c491c603d49eab718fcb629a08
 #EXTINF:-1 tvg-name="Ocean-TV" tvg-logo="Ocean-TV.png",Ocean-TV 
-acestream://4b4a12b63c37f5d610e39607cbae7f5cc0c5afc7
+acestream://62896424683d110794944b297b7f1759cfc1cdba
 #EXTINF:-1 tvg-name="RTG_HD" tvg-logo="RTG HD.png",RTG HD 
-acestream://61509edb321dc5874ac94c502309efcfb5d5efbd
+acestream://adbaaaf73f6494307ded3b0918626894f3975f29
 #EXTINF:-1 tvg-name="RTG_TV" tvg-logo="RTG TV.png",RTG TV 
-acestream://1615d7c841eea4b56f8e8471e00b8f1dd7518c6b
+acestream://06defd46fb82bb5fe1f74b5e42aeafc9b1de07c8
 #EXTINF:-1 tvg-name="Russia_Today_Doc_HD" tvg-logo="Russia Today Doc HD.png",Russia Today Doc HD 
-acestream://1d97cac7f132172785c5785c5314ce6b74584027
+acestream://188edcff03113f137d6fcfcbc1b39708d305772f
 #EXTINF:-1 tvg-name="Russia_Today_Doc." tvg-logo="Russia Today Doc..png",Russia Today Doc. 
 acestream://7ac3af3a13ff5ca3bc144914fd364cc0b2d93c57
 #EXTINF:-1 tvg-name="Silence_TV_HD" tvg-logo="Silence TV HD.png",Silence TV HD 
 acestream://721d75ecefbfed5fcf6f3663ac66732f9197fad2
 #EXTINF:-1 tvg-name="TLC" tvg-logo="TLC.png",TLC 
-acestream://be5908f8bf82692e3b6bc7d42ab30dbe78cf51c1
+acestream://1d8424ad381965b24e9660af4ffea2907bdf7e5a
 #EXTINF:-1 tvg-name="TLC_HD" tvg-logo="TLC HD.png",TLC HD 
-acestream://3c57c139595dcf14ba47415bc5b4d041fd144542
+acestream://25eadb45536e180f2d98f4b081a34bc1c0ff94ae
 #EXTINF:-1 tvg-name="Travel_+_adventure" tvg-logo="Travel + adventure.png",Travel + adventure 
-acestream://c7e43a13a5c7d73387306bdf7d4770a8aa8494f7
+acestream://0973a04e55ccebc37e2e6659cfc008c105def641
 #EXTINF:-1 tvg-name="Travel_+_adventure_HD" tvg-logo="Travel + adventure HD.png",Travel + adventure HD 
-acestream://ebb30f1e7c527af8deb94ca41a61719785e11582
+acestream://48553a3954f3ecd9145296640ce9025d6997ecd0
 #EXTINF:-1 tvg-name="Travel_Channel" tvg-logo="Travel Channel.png",Travel Channel 
-acestream://d51166b3d818327def7207d525ee6ebbc70d2f6f
+acestream://375e8091bb5e0213158af8b86e5ede6c806d3d46
 #EXTINF:-1 tvg-name="Travel_Channel_HD" tvg-logo="Travel Channel HD.png",Travel Channel HD 
-acestream://31ebc7b09b2d4685f0be5c53c98561a8315857a8
+acestream://af6bd5419582a006f8ec2f33b27724ab1b8ec070
 #EXTINF:-1 tvg-name="UA:Культура" tvg-logo="UA:Культура.png",UA:Культура 
 acestream://54fa0ada45523a72fbe73e657713d0b5163466f4
 #EXTINF:-1 tvg-name="Viasat_Explore" tvg-logo="Viasat Explore.png",Viasat Explore 
-acestream://2001f248568a5e8a9e084333eb2bd700840f23c3
+acestream://7f89da7fbccaf9699fc746241a6342fb1b7ec430
 #EXTINF:-1 tvg-name="Viasat_History" tvg-logo="Viasat History.png",Viasat History 
-acestream://8afa382c3ec1b4bfe380c261ce07fe38d202fe26
+acestream://c5b7ee090226e410cd390bced358004bfb67b377
 #EXTINF:-1 tvg-name="Viasat_Nature_East" tvg-logo="Viasat Nature East.png",Viasat Nature East 
-acestream://725e8a9d39489e05db82ce95b3a4e7f159b6eeda
+acestream://be9b2ec36ea5a7a7a3b538e4623bc1cfb75274d9
 #EXTINF:-1 tvg-name="Viasat_Nature-History_HD" tvg-logo="Viasat Nature-History HD.png",Viasat Nature-History HD 
-acestream://7ae19362c7d7cf729a157f3a24fe7faa9a072226
+acestream://ef21a0482cc1dba63a7044e7a6b02ee00e08678f
 #EXTINF:-1 tvg-name="Бобер" tvg-logo="Бобер.png",Бобер 
 acestream://7c2eba32b62692059901984b5f521778f2e40cf5
+#EXTINF:-1 tvg-name="Большая_Азия" tvg-logo="Большая Азия.png",Большая Азия 
+acestream://ca9a5aa1887bac5e002db242a3ee467d6c0f2152
 #EXTINF:-1 tvg-name="В_мире_животных_HD" tvg-logo="В мире животных HD.png",В мире животных HD 
-acestream://066f119fa7f28be5aca97bd24a846e1e124f1913
+acestream://40015b1918a94daba7e1f03c0bafb1e86d65a42a
 #EXTINF:-1 tvg-name="Дача" tvg-logo="Дача.png",Дача 
 acestream://ef69743e7b6132b601f1110340e76c502f4060a8
 #EXTINF:-1 tvg-name="Доктор" tvg-logo="Доктор.png",Доктор 
-acestream://883b5c2f6ed78cfeb9273dfe8171008074dfbed6
+acestream://fc9dc65991c0a6fd5d51006ac6f8966653d702fb
 #EXTINF:-1 tvg-name="Домашние_животные" tvg-logo="Домашние животные.png",Домашние животные 
-acestream://c8b280a65a709f5ee5c6952dc79b20853c21b216
+acestream://f35d12c5710a24a33c599377a89ae9cc06ceafe6
 #EXTINF:-1 tvg-name="ЕГЭ_ТВ" tvg-logo="ЕГЭ ТВ.png",ЕГЭ ТВ 
 acestream://ef26653ea3062eb3b06c907110d428ef9079ae03
 #EXTINF:-1 tvg-name="Еда_HD" tvg-logo="Еда HD.png",Еда HD 
-acestream://0a8d77b98e519ee27ec65732b4014a7a8ac86a18
+acestream://24c7eef5bafaf33ba00bb2bf3b26d0b792abe50d
 #EXTINF:-1 tvg-name="Живая_Планета" tvg-logo="Живая Планета.png",Живая Планета 
-acestream://ba77faef16cae95f474ae9116d57d9b872f62634
+acestream://4d21a1a629b9217c5227c0b6406350d738746598
 #EXTINF:-1 tvg-name="Загородная_жизнь" tvg-logo="Загородная жизнь.png",Загородная жизнь 
-acestream://cf461a1bda892373e134450d3078e5b525fe6ef7
+acestream://20ac49dcba263b5fc17e724497ee6e4d4430a89e
 #EXTINF:-1 tvg-name="Загородный" tvg-logo="Загородный.png",Загородный 
-acestream://21bd8c67e4040beb6e4dda8656e6c53cd89e8485
+acestream://a740b287131b165c861725a965ce7f21f58dd2c2
 #EXTINF:-1 tvg-name="Здоровое_ТВ" tvg-logo="Здоровое ТВ.png",Здоровое ТВ 
 acestream://76bc0304bbaebf2f1672e535d57643f5bb42459c
 #EXTINF:-1 tvg-name="Зоо_ТВ" tvg-logo="Зоо ТВ.png",Зоо ТВ 
-acestream://23cf2e07e9908d2bfbe57cf4c8070c8b4803cb0b
+acestream://d712a8a0250565cd1fcd0b480234bb75d7904c8f
 #EXTINF:-1 tvg-name="Зоопарк" tvg-logo="Зоопарк.png",Зоопарк 
 acestream://e1e1b33b9d47be588d7d872b65d47d8a64a061ad
 #EXTINF:-1 tvg-name="История" tvg-logo="История.png",История 
-acestream://e40bdb3d5bdd0313424f41daa7495f77e7c54503
+acestream://b8abd749745b0894e5f54fef1c06fa4ae5a76e59
 #EXTINF:-1 tvg-name="Калейдоскоп_ТВ" tvg-logo="Калейдоскоп ТВ.png",Калейдоскоп ТВ 
-acestream://fbf676aadb807b6a07a3007864652feda45132bf
+acestream://2261121956986e0ece2705f3b92a158e85018ebc
 #EXTINF:-1 tvg-name="Кто_есть_кто" tvg-logo="Кто есть кто.png",Кто есть кто 
-acestream://2f238e1964b08d27f05b768e6ac11184ab6a5409
+acestream://2e7f96168e5176acc651f594eb0e6b1d604c6341
 #EXTINF:-1 tvg-name="Кухня_ТВ" tvg-logo="Кухня ТВ.png",Кухня ТВ 
-acestream://86b7a2c8cab61ad5f8abf201eac666cd8aff5bc2
+acestream://1744c6322fb10633b27f97577e68bb5554cf7eda
 #EXTINF:-1 tvg-name="Мега" tvg-logo="Мега.png",Мега 
-acestream://925b2183564eae29e3cf4b3ebbd86269d7c227d2
+acestream://564280d06eedeba4da428e8d5134f96305c0d3fc
 #EXTINF:-1 tvg-name="Министерство_идей" tvg-logo="Министерство идей.png",Министерство идей 
-acestream://f8a100e57ffd73373a3e6ddbb42c01502956c1ae
+acestream://2e26024e430d9485cebf26ad04773c7c1467dd53
 #EXTINF:-1 tvg-name="Мир_увлечений" tvg-logo="Мир увлечений.png",Мир увлечений 
-acestream://4794fcdaa2407f43375b154d1c8d29ce2dc3e5c3
+acestream://d60503f54908dd36ce5cf5de68a303ec0a9c13cd
 #EXTINF:-1 tvg-name="Моя_планета" tvg-logo="Моя планета.png",Моя планета 
-acestream://f09d9f1f7cb4d5a7202b817631da40690c0ab4c0
+acestream://2a6d3ef1b9969534e38739754f1894921944216f
 #EXTINF:-1 tvg-name="Нано_ТВ" tvg-logo="Нано ТВ.png",Нано ТВ 
-acestream://7f17afe0850043140ee54c384016cc0e4db6ef83
+acestream://868a54a65d33df95fc3b3b9831ef5b9730c7dea2
 #EXTINF:-1 tvg-name="Наука" tvg-logo="Наука.png",Наука 
-acestream://4b4fc801bb3d32233635e024e46e5c6e2bfc212b
+acestream://b54e30750404e02f97cc7b65fdd1139cba59655e
 #EXTINF:-1 tvg-name="Наука_2.0" tvg-logo="Наука 2.0.png",Наука 2.0 
-acestream://94a56f4e261cb7c348aee6015cf16b4f6c1a7e23
+acestream://b1b9457fb15c1e643cb248e57129973b3a92c9a3
 #EXTINF:-1 tvg-name="Неизвестная_Планета_HD" tvg-logo="Неизвестная Планета HD.png",Неизвестная Планета HD 
 acestream://ebe2810655da6699381298709d19d198c3ffd7ca
 #EXTINF:-1 tvg-name="Неизвестная_планета" tvg-logo="Неизвестная планета.png",Неизвестная планета 
@@ -1687,41 +1666,41 @@ acestream://cb340b3fac9f49e484bfa4ecb4fbde77ffc26719
 #EXTINF:-1 tvg-name="ПЁС_И_КО" tvg-logo="ПЁС И КО.png",ПЁС И КО 
 acestream://24614bdebe577d0fd56ebe4df7e6ecfa03cd10a1
 #EXTINF:-1 tvg-name="Первый_вегетарианский" tvg-logo="Первый вегетарианский.png",Первый вегетарианский 
-acestream://9d67e4b676c4eb0daca40a94568c1753e5e30487
+acestream://98d088776b44e740434ffb636e64a262ad482c61
 #EXTINF:-1 tvg-name="Первый_образовательный" tvg-logo="Первый образовательный.png",Первый образовательный 
-acestream://82010b74af288155a6f756858d9347f8abbc10a7
+acestream://7b167c05a5aecaccd859986d50db5912aaddf745
 #EXTINF:-1 tvg-name="Планета_HD" tvg-logo="Планета HD.png",Планета HD 
-acestream://9bccdc4c537ee80f37d3c84ca87658967172ee1d
+acestream://3b6a071076c4c4f418fdc980c566cb7543bdb8e7
 #EXTINF:-1 tvg-name="Поехали!" tvg-logo="Поехали!.png",Поехали! 
 acestream://67fb6f13e65e246f9b95a472135a8c52474218b0
 #EXTINF:-1 tvg-name="Познавательное_ТВ" tvg-logo="Познавательное ТВ.png",Познавательное ТВ 
 acestream://8d0fa18bd6beb3f78cb9fbe8d9cac183046a99e8
 #EXTINF:-1 tvg-name="Приключения_HD" tvg-logo="Приключения HD.png",Приключения HD 
-acestream://ca31e1fa1dbfaf1c7f864c56545e06a702098e3d
+acestream://9958df926ff7c68ebb50b4ea6cc49f66febe383e
 #EXTINF:-1 tvg-name="Просвещение" tvg-logo="Просвещение.png",Просвещение 
-acestream://7ccceaea11e4d9850c9adae2951283e311da4e68
+acestream://cb5693862988530a76d80e8ae671845449b1837a
 #EXTINF:-1 tvg-name="Психология_21" tvg-logo="Психология 21.png",Психология 21 
-acestream://dd8f6d15e9070aada8d7925381d1f55486051695
+acestream://be50909285868d36d24ee7fb9f6041471414117b
 #EXTINF:-1 tvg-name="Ратник_ТВ" tvg-logo="Ратник ТВ.png",Ратник ТВ 
 acestream://29195426312e4ae016acc4ab82990248c68dc9cc
 #EXTINF:-1 tvg-name="Россия_К" tvg-logo="Россия К.png",Россия К 
-acestream://f207a94081b82b95dbab3af101ff58fee6d48d92
+acestream://7a82b743d713911052927c443e6329137925679b
 #EXTINF:-1 tvg-name="Россия_К_(+2)" tvg-logo="Россия К.png",Россия К (+2) 
 acestream://5e3166e375765a06cb8d22ebb05b0d0bb2038be1
 #EXTINF:-1 tvg-name="Россия_К_(+4)" tvg-logo="Россия К.png",Россия К (+4) 
 acestream://3bdcba989e23890ecb74bfe0fa58e7bd60278bcb
 #EXTINF:-1 tvg-name="Совершенно_секретно" tvg-logo="Совершенно секретно.png",Совершенно секретно 
-acestream://dc1f2fce4fa912b50c3b7345cea1c0000e6ef09a
+acestream://0f7d93c2d216dd1f83978ee4c032b1dbc24265d0
 #EXTINF:-1 tvg-name="Твой_Дом" tvg-logo="Твой Дом.png",Твой Дом 
-acestream://e1d1ad835f87c8539f0af471942c21eb48d3cd88
+acestream://9e898142299d3cc757923d6a27ce6544ddd2b51d
 #EXTINF:-1 tvg-name="Теледом_HD" tvg-logo="Теледом HD.png",Теледом HD 
-acestream://defb36ed5d7898a61347be5166ff90d67bd85e64
+acestream://5331427276f4457620843dda8f31579c0eb4319b
 #EXTINF:-1 tvg-name="Телекафе" tvg-logo="Телекафе.png",Телекафе 
 acestream://90fb3019fb243e5cf7cc7ae3252d8d590e9362ef
 #EXTINF:-1 tvg-name="Телепутешествия" tvg-logo="Телепутешествия.png",Телепутешествия 
-acestream://febc69d0446518d473a28db5bb271342ab8919a9
+acestream://4b85bcf76528795930986880d8410f1cde03d6cb
 #EXTINF:-1 tvg-name="Терра" tvg-logo="Терра.png",Терра 
-acestream://851df3c8161ce1757a20caeaba66531d48aa9743
+acestream://9bf57019f3541d6887b183c2f7365c3b620a9311
 #EXTINF:-1 tvg-name="Травэл_ТВ_Болгария" tvg-logo="Травэл ТВ Болгария.png",Травэл ТВ Болгария 
 acestream://f0d714053bc97b9840167afe12872852388f9e15
 #EXTINF:-1 tvg-name="Усадьба_ТВ" tvg-logo="Усадьба ТВ.png",Усадьба ТВ 
@@ -1729,9 +1708,10 @@ acestream://309ca4d20ee3b392f294a30dea1597254342e530
 #EXTINF:-1 tvg-name="Успех" tvg-logo="Успех.png",Успех 
 acestream://73e3c5ab5f542b802035b2df58b9bb27a0ae4ac3
 #EXTINF:-1 tvg-name="Фауна_(Украина)" tvg-logo="Фауна (Украина).png",Фауна (Украина) 
-acestream://eda73f5dbb98c6bbe7fb2e4b00774f886dcab0ac
+acestream://65f61127d6e061d3b4b1dfb77fa1fd378d089976
 #EXTINF:-1 tvg-name="Эко-ТВ" tvg-logo="Эко-ТВ.png",Эко-ТВ 
 acestream://3bfded8a530d9fb993846654db9050aeeddca1d1
+
 
 
 
@@ -1781,18 +1761,12 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="1+1" tvg-logo="1+1.png",1+1 
 acestream://5ddc7fd59f7767d0f0c7a99abaf0dbaef4ad301a
-#EXTINF:-1 tvg-name="BBC_1_HD_UK" tvg-logo="BBC 1 HD UK.png",BBC 1 HD UK 
-acestream://2033625b3f4eb61eca822973a4733a15369a3d0b
-#EXTINF:-1 tvg-name="Channel_9_Israel" tvg-logo="Channel 9 Israel.png",Channel 9 Israel 
-acestream://a4abe679a44d68de3967ac021d25c005e4c1899b
 #EXTINF:-1 tvg-name="Hd_Life" tvg-logo="Hd Life.png",Hd Life 
 acestream://4c60a10c09a48c1ce976fa76a94ae683b4172bdd
 #EXTINF:-1 tvg-name="Ictv" tvg-logo="Ictv.png",Ictv 
 acestream://362d156600c92aeccc65d2e39528fe8961ad3f79
 #EXTINF:-1 tvg-name="Outdoor_Channel_HD" tvg-logo="Outdoor Channel HD.png",Outdoor Channel HD 
 acestream://0213d972ee3ea0d8936347155531d68f799676f2
-#EXTINF:-1 tvg-name="Outdoor_HD" tvg-logo="Outdoor HD.png",Outdoor HD 
-acestream://4c3de05f35d539d6610935d1181aef5dc146c7cc
 #EXTINF:-1 tvg-name="Rtg_HD" tvg-logo="Rtg HD.png",Rtg HD 
 acestream://3b8bc547aad646b2c974d2a2a161ea57b0df508a
 #EXTINF:-1 tvg-name="Teletravel_HD" tvg-logo="Teletravel HD.png",Teletravel HD 
@@ -1809,6 +1783,8 @@ acestream://7995fba9c01fd918defa9b73df9ec47f8d5ee328
 acestream://da0533ba715c5de305d6762ac0811b3f3d8cc4b4
 #EXTINF:-1 tvg-name="Еда_HD" tvg-logo="Еда HD.png",Еда HD 
 acestream://28f5e5c12a758265820b94d7b0e8a481cc59fcfb
+#EXTINF:-1 tvg-name="Зоопарк" tvg-logo="Зоопарк.png",Зоопарк 
+acestream://cbb87101bd1ccc5782e6fc1d37410cdc469e3baa
 #EXTINF:-1 tvg-name="Интер" tvg-logo="Интер.png",Интер 
 acestream://42683188c7d6ddbb6e7c786ddc303443a29bdd8f
 #EXTINF:-1 tvg-name="Кухня_Тв" tvg-logo="Кухня Тв.png",Кухня Тв 
@@ -1833,8 +1809,6 @@ acestream://8fc7eaa3fa61528c79d111834ccf46ba5119706d
 acestream://9574eb8203bcd708aba5bed8203803abc3c2f9ea
 #EXTINF:-1 tvg-name="Тнт_4" tvg-logo="Тнт 4.png",Тнт 4 
 acestream://a476118ba8eed107b84f196da5b01b9a6b88a24b
-#EXTINF:-1 tvg-name="Трк_Украина" tvg-logo="Трк Украина.png",Трк Украина 
-acestream://c7342224d15b372fe575dd5fc5e4047d7482fc38
 
 
 
@@ -1877,15 +1851,13 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="0x0_Fireplace_HD" tvg-logo="0x0 Fireplace HD.png",0x0 Fireplace HD 
-acestream://6384c4181ce61b661eca2cd559f47dcbf3acb66a
+acestream://65556ed14d53431448b0850299ab9e0dcd60892e
 #EXTINF:-1 tvg-name="2x2" tvg-logo="2x2.png",2x2 
-acestream://7b4ac97dd1d5ddda177ab0cf23ff4901b8b3b425
+acestream://d03603d444d5904719ffce89460520df0b4e3078
 #EXTINF:-1 tvg-name="2x2_(+2)" tvg-logo="2x2.png",2x2 (+2) 
-acestream://97b86f61f3ccc52ad8f5e9bdc49587e315af57d4
+acestream://aa7ad6ed3d51f0975c801219b264ffeac9cfc0f5
 #EXTINF:-1 tvg-name="31_канал_(Казахстан)" tvg-logo="31 канал (Казахстан).png",31 канал (Казахстан) 
 acestream://b8bf844656b13683e3e8ac7ca1e3007f40c02bd4
-#EXTINF:-1 tvg-name="51_TV" tvg-logo="51 TV.png",51 TV 
-acestream://955681f30058ebc0314874bf8e95bb13c6ea7c00
 #EXTINF:-1 tvg-name="7_TV" tvg-logo="7 TV.png",7 TV 
 acestream://a8bfb157bf6a20048eb45aa59f5d0c19acf6bcca
 #EXTINF:-1 tvg-name="Anyday_3D" tvg-logo="Anyday 3D.png",Anyday 3D 
@@ -1899,35 +1871,39 @@ acestream://2702e3db43f2df26438a190ea181cff320c7ca46
 #EXTINF:-1 tvg-name="Boutique_TV_(Россия)" tvg-logo="Boutique TV (Россия).png",Boutique TV (Россия) 
 acestream://c7e5c34456b95e10e026e920a77dea8b3f603724
 #EXTINF:-1 tvg-name="Channel_21" tvg-logo="Channel 21.png",Channel 21 
-acestream://7cb286aa270a63251e34ce96ec7b64dbd8649e9b
+acestream://e700fe96541695d1e80b2c7405d0d28525b630f8
 #EXTINF:-1 tvg-name="Comedy_Central_Austria" tvg-logo="Comedy Central Austria.png",Comedy Central Austria 
-acestream://22ddbb3f530f0b1bc4070ee0c4203d957d7588a9
+acestream://4068098b74c1f04bac49ca54f6c6e29f3a835cb0
 #EXTINF:-1 tvg-name="DMAX_Austria" tvg-logo="DMAX Austria.png",DMAX Austria 
-acestream://9393c97cc7729919d94c0e4f6c1da550cfb78a92
+acestream://33d2cfe7df13438e89d21344dcfa957bdb855553
 #EXTINF:-1 tvg-name="Dog_TV" tvg-logo="Dog TV.png",Dog TV 
 acestream://ec7fc00fb3ca51a4abb89de7e308ce5818f8714f
 #EXTINF:-1 tvg-name="E!_Entertainment_TV" tvg-logo="E! Entertainment TV.png",E! Entertainment TV 
-acestream://29fe1caaaf2b671a5ce6b9c9a86a53fab32e5b12
+acestream://9372cb1e3ee7eeb6c316e2288aab8c6ee1ec454e
+#EXTINF:-1 tvg-name="Familia_Domashniy" tvg-logo="Familia Domashniy.png",Familia Domashniy 
+acestream://de500804ce2fbebfdc6b4c469f122514f9817b89
 #EXTINF:-1 tvg-name="Fashion_One_HD" tvg-logo="Fashion One HD.png",Fashion One HD 
-acestream://5972490c6132251550688dcb8a48dabf698caf13
+acestream://c7d2d38328308cd45af56cf0a6e82182289ecf47
 #EXTINF:-1 tvg-name="Fashion_TV" tvg-logo="Fashion TV.png",Fashion TV 
 acestream://48cc8dea888050b2335ab67656291cd58aac26e1
 #EXTINF:-1 tvg-name="Fashion_TV_HD" tvg-logo="Fashion TV HD.png",Fashion TV HD 
-acestream://851e1c5218a005e7df44ca252abcc6e084f7a6ee
+acestream://043534c2a71ec1f8c754c9b19d05d72ae145d0d4
 #EXTINF:-1 tvg-name="FashionBox_HD" tvg-logo="FashionBox HD.png",FashionBox HD 
-acestream://a4ff3be7a39ce7170f63edf8cb76cd1d5829646e
+acestream://6d76ce2a7386672015e1c94b75ab5131ad7b068e
 #EXTINF:-1 tvg-name="France_4" tvg-logo="France 4.png",France 4 
-acestream://ebee369029657a4a675bafb39ac0235f719f3c13
+acestream://9ed09bcc3dbb9d4291a3e81068848d7576c8b6cf
 #EXTINF:-1 tvg-name="GAME_SHOW_HD" tvg-logo="GAME SHOW HD.png",GAME SHOW HD 
 acestream://46f6881dbf02fc14b32b1d1f87ae94ffc7b26e95
 #EXTINF:-1 tvg-name="Game_Show" tvg-logo="Game Show.png",Game Show 
-acestream://c9ddde0389e30e1e6700228284391c610e14ce40
+acestream://aaafe3ff9bc5ffb42ecaf28de508f8c08cfac35c
 #EXTINF:-1 tvg-name="Glazella_3D" tvg-logo="Glazella 3D.png",Glazella 3D 
 acestream://fa908154b749d0e2821e04f60fc15232cc1e5574
 #EXTINF:-1 tvg-name="Glazella_HD" tvg-logo="Glazella HD.png",Glazella HD 
 acestream://94834fa61352558b6fc5a4db9db62fd78eda40b6
+#EXTINF:-1 tvg-name="HD_FASHION_and_LIFESTYLE" tvg-logo="HD FASHION and LIFESTYLE.png",HD FASHION and LIFESTYLE 
+acestream://2683ce771d2080a7e5ab9cb4a35f0610eb05347d
 #EXTINF:-1 tvg-name="HD_Media" tvg-logo="HD Media.png",HD Media 
-acestream://0595633ffd33b4e3c0ea089a2c0b542a5c85cf93
+acestream://f28bffaaaac291fd062cb227dbfa4bdb1c541607
 #EXTINF:-1 tvg-name="HD_Media_3D" tvg-logo="HD Media 3D.png",HD Media 3D 
 acestream://b777ba6c982ace2898e650526a2e63a6c1e57a92
 #EXTINF:-1 tvg-name="ID_Fashion_UA_HD" tvg-logo="ID Fashion UA HD.png",ID Fashion UA HD 
@@ -1935,13 +1911,13 @@ acestream://dca7061f2ffcaeeb38fc7e942818113279989e73
 #EXTINF:-1 tvg-name="Leomax" tvg-logo="Leomax.png",Leomax 
 acestream://61593ff99e130f133d53a385e673eef2116d65b3
 #EXTINF:-1 tvg-name="Maxxi-TV" tvg-logo="Maxxi-TV.png",Maxxi-TV 
-acestream://a1fb638f097a021673e7bb42aedbbc9dd4200cb2
+acestream://3b08c8c8c800c86dc29fb8d55c9bbec2dfd352c9
 #EXTINF:-1 tvg-name="MediaShop" tvg-logo="MediaShop.png",MediaShop 
-acestream://2996e54d832bbc240c75c5bded173c271d2b169b
+acestream://51c1157d4da45516c305b602b77518e9d14f1bcb
 #EXTINF:-1 tvg-name="Metro" tvg-logo="Metro.png",Metro 
-acestream://169733492ec217d181c3b9ae8e5ef6b269d60697
+acestream://6222cfec954b3264bce7af64c509c905e51f877c
 #EXTINF:-1 tvg-name="Mi_Lady" tvg-logo="Mi Lady.png",Mi Lady 
-acestream://e5f58276ba876386ad4cab93fd7d54bd5483b8fb
+acestream://2d68798ed2aa666e3661fd3233261caa01de7722
 #EXTINF:-1 tvg-name="Mnogo-tv" tvg-logo="Mnogo-tv.png",Mnogo-tv 
 acestream://8557b3a375a0cade5c1369108f8e68f61237ecdc
 #EXTINF:-1 tvg-name="Mute_TV_3D" tvg-logo="Mute TV 3D.png",Mute TV 3D 
@@ -1951,61 +1927,59 @@ acestream://20b3ff9f2ec3f2dbe7f483cd348c77108578f5dd
 #EXTINF:-1 tvg-name="Noise_TV" tvg-logo="Noise TV.png",Noise TV 
 acestream://3c63e914617565c2eb3e701d34e5aa37adeaf8ec
 #EXTINF:-1 tvg-name="Paramount_Comedy" tvg-logo="Paramount Comedy.png",Paramount Comedy 
-acestream://b40816cd47e90840f54054cc4b374610100731e8
+acestream://8689eecd1c5a3127406ea766687d3f62071122c4
 #EXTINF:-1 tvg-name="Paramount_Comedy_(Украина)" tvg-logo="Paramount Comedy (Украина).png",Paramount Comedy (Украина) 
 acestream://b2b284b8ca68b1cf4c51eae87413df15686a2234
 #EXTINF:-1 tvg-name="Pearl_TV" tvg-logo="Pearl TV.png",Pearl TV 
-acestream://27e813373ead283cb3ecfa9f4f141246c3c6df03
+acestream://430ae2fc6e021843050c1aa20f01c31f4c4160b8
 #EXTINF:-1 tvg-name="Pro_Все" tvg-logo="Pro Все.png",Pro Все 
 acestream://85a4f94998a851d27b3e6b220cfd57ba711097d5
 #EXTINF:-1 tvg-name="Propeller_TV" tvg-logo="Propeller TV.png",Propeller TV 
-acestream://e0d68c1ebc0758f67a54b1beb21ba40b92bc9638
+acestream://a11b2ac3b26b7c562426a9596e40ad760123c10d
 #EXTINF:-1 tvg-name="QTV" tvg-logo="QTV.png",QTV 
 acestream://b12facdfde2ebabd9a2773db1a2fa83fda0b9787
 #EXTINF:-1 tvg-name="QVC_Beauty_and_Style" tvg-logo="QVC Beauty and Style.png",QVC Beauty and Style 
-acestream://19b90b76d46a9a0f5bea542018f915973e00c1b8
+acestream://6bc6034805886045901f97e76f0d959bf3bb5d65
 #EXTINF:-1 tvg-name="QVC_Deutschland" tvg-logo="QVC Deutschland.png",QVC Deutschland 
-acestream://e3ef3d26d0a93b3f7e58c4e62042803cb1676543
+acestream://ea736e8a57152f85f19e6eee02a26558061a1948
 #EXTINF:-1 tvg-name="Shop_and_Show" tvg-logo="Shop and Show.png",Shop and Show 
-acestream://613250b9f4ec43c723603152c6159610e2119123
+acestream://9b87aed3e5d72aebee91be99134ab779f56d0168
 #EXTINF:-1 tvg-name="Shop24" tvg-logo="Shop24.png",Shop24 
-acestream://c681699a38d85dd42a913c7e4b30bcc2b0f3bf1d
+acestream://78accb933cf57d657af4217d66812997572a6395
 #EXTINF:-1 tvg-name="Shop24Direct" tvg-logo="Shop24Direct.png",Shop24Direct 
-acestream://de0843b1cfc61b4278f37570702445424e40b622
+acestream://2ee8d634d4f5b01b7177a5d572367bb50dda001a
 #EXTINF:-1 tvg-name="Shopping_Live" tvg-logo="Shopping Live.png",Shopping Live 
-acestream://3893ed9a3d4e257f2dd8ed2faa261a3b3c6a7a53
+acestream://43cc3aea8176c1a21de9fea86bcf1a5c3f202aa9
 #EXTINF:-1 tvg-name="Shopping_TV" tvg-logo="Shopping TV.png",Shopping TV 
 acestream://3448e48b4f98979d5bd253be4eae05a3637c7e69
 #EXTINF:-1 tvg-name="Slow_TV" tvg-logo="Slow TV.png",Slow TV 
-acestream://817b20411a5029d40aa611cd33aa98e94e1a6c21
+acestream://f8a75fbf74e62e3948e050592fd30189b6f3db26
 #EXTINF:-1 tvg-name="Slow_TV_HD" tvg-logo="Slow TV HD.png",Slow TV HD 
 acestream://0947172ed9c40667a7f9f95fa6151f7bd3546406
 #EXTINF:-1 tvg-name="Sparhandy_TV" tvg-logo="Sparhandy TV.png",Sparhandy TV 
-acestream://c52618d797c5d66d9422cf23bcb5865ee9d45d10
+acestream://6e04086a1a3b0f45bc453a4eb4d60156867e4ee6
 #EXTINF:-1 tvg-name="Stars_TV" tvg-logo="Stars TV.png",Stars TV 
-acestream://7af955df9625fa52d5f6eabd3ea0e4b5962a4ac7
-#EXTINF:-1 tvg-name="Super_TV" tvg-logo="Super TV.png",Super TV 
-acestream://666e068f59cec18e95b99a5ba2c68ee057e0c328
+acestream://5dead4911b938001c73298cb6661e38861cb5977
 #EXTINF:-1 tvg-name="TLC_Deutschland" tvg-logo="TLC Deutschland.png",TLC Deutschland 
-acestream://c3bf540b59d434eec0a9559f2a5ef843edf98c95
+acestream://d6b28d7b0f229950a6080bc5b8bba4bc1304719b
 #EXTINF:-1 tvg-name="TV_Mall" tvg-logo="TV Mall.png",TV Mall 
 acestream://ba84e35f4c8cf19b1c4db1cf4fdf9fc3ad350a29
 #EXTINF:-1 tvg-name="TV5_Monde" tvg-logo="TV5 Monde.png",TV5 Monde 
-acestream://8382bae81075bcd933a81f2be6b927a102e0416e
+acestream://9a29e93e81e5909fddb4a952ca74f0803627bc65
 #EXTINF:-1 tvg-name="TVP_Rozrywka" tvg-logo="TVP Rozrywka.png",TVP Rozrywka 
-acestream://048286411ecbde2134ed0f6fde9e17090833cab5
+acestream://3d68dcac52491b030555bfb81a421c5a2056f505
 #EXTINF:-1 tvg-name="Top_Shop" tvg-logo="Top Shop.png",Top Shop 
-acestream://4f6cab9887e80caeb5e291790a3a07b81728ceb5
+acestream://342baf04cf8866a2a86b4e2472bbf4f5c856eb45
 #EXTINF:-1 tvg-name="VIP_TV_HD" tvg-logo="VIP TV HD.png",VIP TV HD 
 acestream://61f7ae20ebbffd823acd1c63a491216e7781216f
 #EXTINF:-1 tvg-name="World_Fashion" tvg-logo="World Fashion.png",World Fashion 
-acestream://e115325a968cfdcd68e261dadee1c20385a96620
+acestream://da1ddfba7edc928409a7e5b5cea8edc8632f3319
 #EXTINF:-1 tvg-name="World_Fashion_HD" tvg-logo="World Fashion HD.png",World Fashion HD 
-acestream://6cb8361207301acad244b00f55aab1bc36b69dc1
+acestream://d7bf776c19367f1beefb456922b17d1e327e0e61
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="Zoom.png",Zoom 
-acestream://96bd2c8fbbbf70a478e2e6a44f88d59fc0621e12
+acestream://acf39613051b3f1cdd8cf304e3ced87b9ae53cf0
 #EXTINF:-1 tvg-name="Zoom_TV" tvg-logo="Zoom TV.png",Zoom TV 
-acestream://8938563831085cb148c583aa3020aa528a5a3185
+acestream://dae2483a9845eaa1025ec214e00b72a6aa8971b4
 #EXTINF:-1 tvg-name="БУМ_ТВ_HD" tvg-logo="БУМ ТВ HD.png",БУМ ТВ HD 
 acestream://41ce2bdc27dc76421a1f0008f7c3a8cd37dd03f4
 #EXTINF:-1 tvg-name="Бигуди" tvg-logo="Бигуди.png",Бигуди 
@@ -2014,24 +1988,22 @@ acestream://8d83cdeeedca6cb1ef8d456a4781f6199d82c0d5
 acestream://1ad4cc7df3763df510a030a6acc6d330e5ccfdd0
 #EXTINF:-1 tvg-name="Витрина_ТВ" tvg-logo="Витрина ТВ.png",Витрина ТВ 
 acestream://a647e424fbac35853e018ddf1126c4fa0b53a44b
-#EXTINF:-1 tvg-name="Вопросы_и_ответы" tvg-logo="Вопросы и ответы.png",Вопросы и ответы 
-acestream://6c23e12a930022ef6c176d7e130f6bf0aa5fd797
 #EXTINF:-1 tvg-name="Домашний_магазин" tvg-logo="Домашний магазин.png",Домашний магазин 
-acestream://8f4833b5791ad957914f8e6a84420ebde37efb94
+acestream://1107ab2603c7921059e2e631a387579db650f7ec
 #EXTINF:-1 tvg-name="Живая_природа_HD" tvg-logo="Живая природа HD.png",Живая природа HD 
-acestream://70df7100f9bdeb41f693ecfb2f7176b300fa6930
+acestream://5a8a0b183f78fdce1b766c9118fe20cf0ddd8d71
 #EXTINF:-1 tvg-name="Живи" tvg-logo="Живи.png",Живи 
-acestream://8a3b7adbc9805baa3d579a5ed1b8892c838ffb79
+acestream://43c8f55becd80b1711f30bc5b9eaa397463a8a74
 #EXTINF:-1 tvg-name="К1" tvg-logo="К1.png",К1 
-acestream://506741316df9fe6eb3719d50a5833e8aba0e9331
+acestream://ac6822dfaec016600e26ffdba384d4bbbbbf858b
 #EXTINF:-1 tvg-name="К2" tvg-logo="К2.png",К2 
-acestream://92cc54747ed2fce6bdc76cad7cbd3b9ef25dc660
+acestream://2aa1d2875c3ff1be1d2c5c38d95baf577a7ba90f
 #EXTINF:-1 tvg-name="КВН_ТВ" tvg-logo="КВН ТВ.png",КВН ТВ 
-acestream://9c05e7fa97627dc30b052b7d87460b098013468d
+acestream://065c56bdde327d5e7911db61e0402a8b7fa48ed6
 #EXTINF:-1 tvg-name="Кот_ТВ" tvg-logo="Кот ТВ.png",Кот ТВ 
 acestream://9295e071845f45938bee487d76188f11c3625688
 #EXTINF:-1 tvg-name="НТВ_Стиль" tvg-logo="НТВ Стиль.png",НТВ Стиль 
-acestream://11d306e1477db84bb066a43038de8ed1f110273b
+acestream://c14ad892639bcb71d7668b453b5b50ce4bf6ea90
 #EXTINF:-1 tvg-name="НТВ+_Инфоканал" tvg-logo="НТВ+ Инфоканал.png",НТВ+ Инфоканал 
 acestream://dbc0b6cb3038026d05e05a520d45bdd1805cf4c9
 #EXTINF:-1 tvg-name="Наша_Сибирь" tvg-logo="Наша Сибирь.png",Наша Сибирь 
@@ -2039,7 +2011,7 @@ acestream://d9114fc46a0970b7509b4f2a6905cd3d0f751595
 #EXTINF:-1 tvg-name="Наша_Сибирь_HD" tvg-logo="Наша Сибирь HD.png",Наша Сибирь HD 
 acestream://be8846a41ded0757d2afbba41d343c0daf39b853
 #EXTINF:-1 tvg-name="Новый_канал" tvg-logo="Новый канал.png",Новый канал 
-acestream://b81301c100fa20da16323f42ef14fb71af2f63f5
+acestream://a0da755301f0502668b0aa62ae8a1533779780b2
 #EXTINF:-1 tvg-name="Перец_International" tvg-logo="Перец International.png",Перец International 
 acestream://080d9a80ba889631e63e7e1e0c445d53a0a64def
 #EXTINF:-1 tvg-name="Про_все" tvg-logo="Про все.png",Про все 
@@ -2047,67 +2019,67 @@ acestream://85a4f94998a851d27b3e6b220cfd57ba711097d5
 #EXTINF:-1 tvg-name="Пятница" tvg-logo="Пятница.png",Пятница 
 acestream://700845e5e1bcdbaadc144914c39452bac6ab3010
 #EXTINF:-1 tvg-name="Пятница_(+2)" tvg-logo="Пятница.png",Пятница (+2) 
-acestream://34e43c0c7203cb1fb3eaa766414b530159c0d460
+acestream://c8423678c29a0e902b084d7804be95cf4f180d16
 #EXTINF:-1 tvg-name="Пятница_(+7)" tvg-logo="Пятница.png",Пятница (+7) 
 acestream://977d974db824e2ec0ebc8924694a7391e39b4d81
 #EXTINF:-1 tvg-name="Раз_ТВ" tvg-logo="Раз ТВ.png",Раз ТВ 
 acestream://f06d67198cda8c53bbb086807df019539aecc14e
 #EXTINF:-1 tvg-name="СТРК_HD" tvg-logo="СТРК HD.png",СТРК HD 
-acestream://2bc13350e11b5423472ffa2177680ab792d1528d
+acestream://8fe7176dce40da3e010c8eceb8bb74cf2552cac1
 #EXTINF:-1 tvg-name="СТС" tvg-logo="СТС.png",СТС 
-acestream://f7b90b93b71b233687eed7a2ed6cfd2e48d3084f
+acestream://cfad3c9aae081f34ec0f2ea5ec2a030edb8f0e66
 #EXTINF:-1 tvg-name="СТС_(+2)" tvg-logo="СТС.png",СТС (+2) 
-acestream://9a438f3b40d58f26be468d19024c884ca5c2d6b0
+acestream://b9dbfe87f2805413a075b6593cbcac11b54004b7
 #EXTINF:-1 tvg-name="СТС_(+4)" tvg-logo="СТС.png",СТС (+4) 
-acestream://9928f9992172a1f96c4d93e0a96f5c1020a51f0a
+acestream://8feedc2f56ac4c9859bad287743d245aeee08806
 #EXTINF:-1 tvg-name="СТС_(+7)" tvg-logo="СТС.png",СТС (+7) 
 acestream://c5485852c21c9bed9abe51a812eb73766db693d1
 #EXTINF:-1 tvg-name="СТС_(резерв)" tvg-logo="СТС (резерв).png",СТС (резерв) 
 acestream://6a6523b1df26e320541ddd6ac87062984a31442e
 #EXTINF:-1 tvg-name="СТС_Love" tvg-logo="СТС Love.png",СТС Love 
-acestream://77d2a9b0fea5a5b79c507521dc43ae7b74bca2be
+acestream://11f8b5aff3aaff639ac7ff4e153549eec468420f
 #EXTINF:-1 tvg-name="Сарафан_ТВ" tvg-logo="Сарафан ТВ.png",Сарафан ТВ 
-acestream://b8ae37f54bd203c1b09ca0e33701a70fed4fc04f
+acestream://cc0c57a7452b73f7c979591fdbd5825159722e7e
 #EXTINF:-1 tvg-name="Сонце" tvg-logo="Сонце.png",Сонце 
-acestream://03ab7189d7f18617a867b0f971ba84da60f01485
+acestream://c3f44273fe25ec6198dc569acbc3bc573d7191ba
 #EXTINF:-1 tvg-name="Супер_(+2)" tvg-logo="Супер.png",Супер (+2) 
 acestream://f57268ee6b7adeb1ee6094a7cb0717b9889830be
 #EXTINF:-1 tvg-name="ТДК" tvg-logo="ТДК.png",ТДК 
-acestream://aae8c4f9316d6309becbeb77afe3f69211cfd300
+acestream://0da4c0a95180a4f6446efd69c5aa12215f2a2d9c
 #EXTINF:-1 tvg-name="ТЕТ" tvg-logo="ТЕТ.png",ТЕТ 
-acestream://ee79ecf8254dfd2e188476227c02e2c4d9994e55
+acestream://e9c430c5044f11fe2bd723d65adf8d5a06629ac9
 #EXTINF:-1 tvg-name="ТНТ" tvg-logo="ТНТ.png",ТНТ 
-acestream://c6f1a5433a2365ecd1a05b464e71dadc53540103
+acestream://b70e8cda2df9b1fea55da00b9bc98670a5942ce6
 #EXTINF:-1 tvg-name="ТНТ_(+2)" tvg-logo="ТНТ.png",ТНТ (+2) 
-acestream://48a497cc2a87ffe36b1f22f7cc6c8e6a1933f160
+acestream://1fff31cfb7706673395823a42cf8f675f5ebad0c
 #EXTINF:-1 tvg-name="ТНТ_(+4)" tvg-logo="ТНТ.png",ТНТ (+4) 
-acestream://187e35f5085e5974c0255ca0518a5b27cbf408cc
+acestream://e68d581e981ddab0c8e08d4d551dd022a7d88582
 #EXTINF:-1 tvg-name="ТНТ_(+7)" tvg-logo="ТНТ.png",ТНТ (+7) 
-acestream://6677d42d0971f4470735108628c224c1b5518ebc
+acestream://3064e748c124538666e75c4a9afff4b1912715bc
 #EXTINF:-1 tvg-name="ТНТ_(резерв)" tvg-logo="ТНТ (резерв).png",ТНТ (резерв) 
 acestream://5a7ba468e46979e3391f8480a7e9aac138c3e0c9
 #EXTINF:-1 tvg-name="ТНТ_HD" tvg-logo="ТНТ HD.png",ТНТ HD 
-acestream://65b3f0f5f5ea756bf47ad12656d92151413e894b
+acestream://0e9c367b488b34ef0993ca09ccdf1f523a54c3b4
 #EXTINF:-1 tvg-name="ТНТ_International_(Беларусь)" tvg-logo="ТНТ International (Беларусь).png",ТНТ International (Беларусь) 
 acestream://bab153a7f54c3f29c436a0c4d2b0cf8412aa13a2
 #EXTINF:-1 tvg-name="ТНТ4" tvg-logo="ТНТ4.png",ТНТ4 
 acestream://0c3057413a4e126f6483d106de47012fe552065f
 #EXTINF:-1 tvg-name="ТНТ4_(+2)" tvg-logo="ТНТ4.png",ТНТ4 (+2) 
-acestream://475ff2043f5c4f758e716666383cd1213d1ac1cd
+acestream://3b0bd57fbe180d400261ab36bf9b7765ab5086e1
 #EXTINF:-1 tvg-name="ТТС" tvg-logo="ТТС.png",ТТС 
-acestream://7251e082da556b8ee879f4c38637de7c8a17e153
+acestream://db03e16af7ee6b19bd60f31cf003476dcdbaed9b
 #EXTINF:-1 tvg-name="Театр" tvg-logo="Театр.png",Театр 
 acestream://4c4a4b487b72bab85ec5e4251c65a42109340898
 #EXTINF:-1 tvg-name="Тонус_ТВ" tvg-logo="Тонус ТВ.png",Тонус ТВ 
-acestream://ef22fa68f71021306e82fe2ff0a3fdd2e1fffc1e
+acestream://edf9e59b0bd894867993d06a48370ef8d1ef98de
 #EXTINF:-1 tvg-name="Че" tvg-logo="Че.png",Че 
 acestream://7a6cb37278449e89eb0cfd4edc3793e8eebb16c3
 #EXTINF:-1 tvg-name="Че_(+2)" tvg-logo="Че.png",Че (+2) 
-acestream://b32228618c085a31ad394162b3837560cf6e81bf
+acestream://9b867699714a1f68356f24d3cd8c1b17c5b1464b
 #EXTINF:-1 tvg-name="Че_(+7)" tvg-logo="Че.png",Че (+7) 
 acestream://90b44ebbd77c78b2c4a22081e06f7bad81e79e2d
 #EXTINF:-1 tvg-name="Ю" tvg-logo="Ю.png",Ю 
-acestream://a5c765c795a13f0b57f3a956060eca54466292b6
+acestream://934b3edfacd5726ddfe0abd17e4fbde48c12f967
 #EXTINF:-1 tvg-name="Ю_(+2)" tvg-logo="Ю.png",Ю (+2) 
 acestream://3ccaebee1428cb173fe4d8f8eca4ef45bc06e34b
 #EXTINF:-1 tvg-name="Ювелирочка" tvg-logo="Ювелирочка.png",Ювелирочка 
@@ -2115,7 +2087,8 @@ acestream://6969c17874ec6ded103535a96f848387751f414a
 #EXTINF:-1 tvg-name="Ювелирочка_Мода" tvg-logo="Ювелирочка Мода.png",Ювелирочка Мода 
 acestream://8ec189f97861d518c539d77a80f1a7ab2b09fac1
 #EXTINF:-1 tvg-name="Юмор_ТВ" tvg-logo="Юмор ТВ.png",Юмор ТВ 
-acestream://bfe5c08e3dea54461a28f3910be3077a813fa8a7
+acestream://4333e1f3a0d495862cd4fa845a4366e78634ae40
+
 
 
 
@@ -2188,6 +2161,7 @@ acestream://99ef8a55720a51af291ff6c9669a43445b7eb303
 
 
 
+
 #EXTINF:1 group-title=”REGIONAL-2 (Russian-English)/Acestream”, 
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NOTE
@@ -2209,8 +2183,12 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="10_КАНАЛ-матч_тв_(ЕКАТЕРИНБУРГ)" tvg-logo="10 КАНАЛ-матч тв (ЕКАТЕРИНБУРГ).png",10 КАНАЛ-матч тв (ЕКАТЕРИНБУРГ) 
 acestream://20c3168a6204f415106f1b9b438d3ddf5af62342
+#EXTINF:-1 tvg-name="10(eser)" tvg-logo="10(eser).png",10(eser) 
+acestream://118b530e5dad0f200d098a3aee10b4b071223638
 #EXTINF:-1 tvg-name="12_канал_(Омск)" tvg-logo="12 канал (Омск).png",12 канал (Омск) 
 acestream://ab1cdfe592ba6735afb54babab02a4ded09f92d8
+#EXTINF:-1 tvg-name="20_Израиль" tvg-logo="20 Израиль.png",20 Израиль 
+acestream://4d712778b58d1682a526355386117708ce640681
 #EXTINF:-1 tvg-name="26_Регион_HD_(Ставрополь)" tvg-logo="26 Регион HD (Ставрополь).png",26 Регион HD (Ставрополь) 
 acestream://193a1b522539e77321fb8e01c0bf0064f766ff3a
 #EXTINF:-1 tvg-name="4_канал-Пятница_(+2)" tvg-logo="4 канал-Пятница.png",4 канал-Пятница (+2) 
@@ -2224,13 +2202,19 @@ acestream://df9624286280660f3bcfaeb233fe0ff29c78b6b1
 #EXTINF:-1 tvg-name="49_канал_(Новосибирск)" tvg-logo="49 канал (Новосибирск).png",49 канал (Новосибирск) 
 acestream://8e2bad59bae07c177ed0bb39fdaddb6d7e271dbc
 #EXTINF:-1 tvg-name="4Fun_TV" tvg-logo="4Fun TV.png",4Fun TV 
-acestream://fb04bc740c8fc79fc4b026d89c980962926c7505
+acestream://96b51e32a5353b0db7421b43bd545fe6f95af3ba
 #EXTINF:-1 tvg-name="5_канал_(Киргизия)" tvg-logo="5 канал (Киргизия).png",5 канал (Киргизия) 
 acestream://ad1db560aee2aee294da3f2a3108a6a4bf643152
 #EXTINF:-1 tvg-name="66_канал_(Израиль)" tvg-logo="66 канал (Израиль).png",66 канал (Израиль) 
 acestream://03e2e66dfcf52d348e4fb2312ff6eff35c164b14
+#EXTINF:-1 tvg-name="7_канал_(Казахстан)" tvg-logo="7 канал (Казахстан).png",7 канал (Казахстан) 
+acestream://0be1767616f4d12c95111199b39f440712cf2770
+#EXTINF:-1 tvg-name="78_канал" tvg-logo="78 канал.png",78 канал 
+acestream://ece558ca1ed467ef4699b8fba1d210be9b8138bf
+#EXTINF:-1 tvg-name="78_канал_HD" tvg-logo="78 канал HD.png",78 канал HD 
+acestream://28fcf85232ea872de7ff5e9e2698cae09dea96f4
 #EXTINF:-1 tvg-name="8_канал_(Красноярск)" tvg-logo="8 канал (Красноярск).png",8 канал (Красноярск) 
-acestream://3c846466621d4f861c0fa2444238cbe599b4e468
+acestream://51b745cf8caafdf255da384283c15d6b64665819
 #EXTINF:-1 tvg-name="9_канал_(Израиль)" tvg-logo="9 канал (Израиль).png",9 канал (Израиль) 
 acestream://c0e03492735ecae07bfb5c7ff707652033e9d37f
 #EXTINF:-1 tvg-name="9_канал_(Рязань)" tvg-logo="9 канал (Рязань).png",9 канал (Рязань) 
@@ -2238,33 +2222,35 @@ acestream://7b12edf5688bf63382f86e349b05768a1ac40def
 #EXTINF:-1 tvg-name="ATR" tvg-logo="ATR.png",ATR 
 acestream://d4e222302c9dcecf4aff22f632a1e7d4c3766258
 #EXTINF:-1 tvg-name="ATV" tvg-logo="ATV.png",ATV 
-acestream://764c2acf1c336b35ca22e4536b7204a5f3f9314a
+acestream://ddf23733d8262a5606f665b82f8a469b79107dac
 #EXTINF:-1 tvg-name="ATV_Azerbaycan" tvg-logo="ATV Azerbaycan.png",ATV Azerbaycan 
 acestream://9631379cfd67e047a7917820d5fb8c3ff595eb1a
 #EXTINF:-1 tvg-name="Abu_Dhabi_TV_HD" tvg-logo="Abu Dhabi TV HD.png",Abu Dhabi TV HD 
-acestream://2d601fe460e373b33ae9df5133737ca8a59cc2d4
+acestream://111543b18df34c1044bcf968369f4074bbfc40b6
 #EXTINF:-1 tvg-name="Al_Jazeera_English" tvg-logo="Al Jazeera English.png",Al Jazeera English 
-acestream://15fc247c0c3f5744714098885fa27b05399da6ba
+acestream://bede28fe7530ddda2cea7bbb8cff7994cd865216
 #EXTINF:-1 tvg-name="Almaty_HD" tvg-logo="Almaty HD.png",Almaty HD 
 acestream://34061c9b45c1b16568e49394bee08a3f2cc116ff
 #EXTINF:-1 tvg-name="Armenia_1_Satellite_HD" tvg-logo="Armenia 1 Satellite HD.png",Armenia 1 Satellite HD 
 acestream://a7924b874879a2c365bd35244be660e92d6f598f
 #EXTINF:-1 tvg-name="Armenia_TV_Satellite" tvg-logo="Armenia TV Satellite.png",Armenia TV Satellite 
-acestream://1c80f66e681580940969f3ef4a8085f28827540b
+acestream://3ad11bc3f177788ae2e542c5510348ed2bf22935
 #EXTINF:-1 tvg-name="Az_TV" tvg-logo="Az TV.png",Az TV 
-acestream://8b48a9552810452c3bfd373c1bc322d239246bbb
+acestream://136381cbb7f4c470ba137c632fd934a7ed9cb923
 #EXTINF:-1 tvg-name="CBC_TV" tvg-logo="CBC TV.png",CBC TV 
-acestream://d4e6428aa73013dc6ffa0de1e463cc6adcbf0d91
+acestream://281f7f3eb3eb68c0be0a2fe3c0d7dc90e455ab41
 #EXTINF:-1 tvg-name="CCTV_4" tvg-logo="CCTV 4.png",CCTV 4 
-acestream://71c8b74e6b3d0a1c7832382d710a27d08e0a1a98
+acestream://7ef99fdc73a1e9e0f878ab59ee16f92c8ded0e3c
 #EXTINF:-1 tvg-name="CGTN_Documentary" tvg-logo="CGTN Documentary.png",CGTN Documentary 
-acestream://dd3da44d68bd9a4134007591ee9a839544f67c2d
+acestream://6b4fc5438819033eeeda1b9de89917d33a9c4130
 #EXTINF:-1 tvg-name="CGTN_Русский" tvg-logo="CGTN Русский.png",CGTN Русский 
-acestream://74547f44f1e2d7e857af4e1d9c2d1c8faae20ed6
+acestream://88bb87d09f9f202e73e329ff92b74091002163f5
 #EXTINF:-1 tvg-name="Canal_3" tvg-logo="Canal 3.png",Canal 3 
 acestream://bde6d1a1b16e39011a456153ece756c722bf0b76
+#EXTINF:-1 tvg-name="Channel_10_(Израиль)" tvg-logo="Channel 10 (Израиль).png",Channel 10 (Израиль) 
+acestream://9aa97d67bdc05a3aad430326b32093c30bde90ae
 #EXTINF:-1 tvg-name="Dunya_TV" tvg-logo="Dunya TV.png",Dunya TV 
-acestream://5ac8faebff0425dd3cf346c10068355be234e6b1
+acestream://16f9b7a9381950465cafac881f481d01643e6d68
 #EXTINF:-1 tvg-name="ETV" tvg-logo="ETV.png",ETV 
 acestream://18e298be68a63a30ed5c3aa65e23b1bca6905743
 #EXTINF:-1 tvg-name="ETV_+" tvg-logo="ETV +.png",ETV + 
@@ -2276,9 +2262,9 @@ acestream://b7863bfd1a998e4770f7466ccfb0fcd3d84d44e1
 #EXTINF:-1 tvg-name="Iland" tvg-logo="Iland.png",Iland 
 acestream://f45c04067f34af806175372b338743185919614e
 #EXTINF:-1 tvg-name="InterAz" tvg-logo="InterAz.png",InterAz 
-acestream://3553363a1edc8d89b398fd1ee6b6b677b1c887b7
+acestream://fe574f2b7aca215743b1e17432de957f57aabb46
 #EXTINF:-1 tvg-name="KBS_World_HD" tvg-logo="KBS World HD.png",KBS World HD 
-acestream://9c20b022e574233e7f49896f81b60cde84dd3661
+acestream://833429f73d28f95e9bc1a0e36ef62498f690eb58
 #EXTINF:-1 tvg-name="Kanаl_2" tvg-logo="Kanаl 2.png",Kanаl 2 
 acestream://ab61ca1b8728599fa7b4c5e21ccab89e36600d01
 #EXTINF:-1 tvg-name="Keshet_12_IL" tvg-logo="Keshet 12 IL.png",Keshet 12 IL 
@@ -2286,35 +2272,33 @@ acestream://c94102b11895522cd7a21d2cff58573652ff87ef
 #EXTINF:-1 tvg-name="LTV_World" tvg-logo="LTV World.png",LTV World 
 acestream://5bc33bf06f57cd78b5832ba2cc787cc5fa907296
 #EXTINF:-1 tvg-name="Lider_TV" tvg-logo="Lider TV.png",Lider TV 
-acestream://e5e09daaaa63054ebf26064ef5d8f2521360a0c4
+acestream://4379802deba4f8eb130a312fc213b12f9d2e8238
 #EXTINF:-1 tvg-name="Lviv_TV" tvg-logo="Lviv TV.png",Lviv TV 
 acestream://7b6cc8fdefd283425e7a408572274778962ce81e
 #EXTINF:-1 tvg-name="MTA_International" tvg-logo="MTA International.png",MTA International 
-acestream://0ce8da5576eb986338727ebf29fb7a07488d9cde
+acestream://66cf9d5d15a7b17c8ee8ec062968077ffb14b4a9
 #EXTINF:-1 tvg-name="Moldova_1" tvg-logo="Moldova 1.png",Moldova 1 
 acestream://0f0e8ac7d53d6bdffa5d6bc6a07bdb9679dc67c9
 #EXTINF:-1 tvg-name="Moldova_2" tvg-logo="Moldova 2.png",Moldova 2 
 acestream://22db81745a7d3a428272bef9adf63babcfa28e58
 #EXTINF:-1 tvg-name="N24_Austria" tvg-logo="N24 Austria.png",N24 Austria 
-acestream://af545607ff9e337235f60a7d7d486c9e57c73e90
+acestream://405089aeaa49c0fea2dfa9596fb1f3364cb4ab4a
 #EXTINF:-1 tvg-name="N4_TV" tvg-logo="N4 TV.png",N4 TV 
 acestream://1dd3e55c19bac63a031fa0bc105ae6fbc11aee7c
-#EXTINF:-1 tvg-name="PanArmenian" tvg-logo="PanArmenian.png",PanArmenian 
-acestream://54cc54e6b8edd948688e933ab76767cfd8979f1b
 #EXTINF:-1 tvg-name="Phoenix_CNE" tvg-logo="Phoenix CNE.png",Phoenix CNE 
-acestream://1228d68c353ce0d47211941381800b438eb01016
+acestream://cbb2a0f69d250287b804e0a35ef1a7e02e30ecd0
 #EXTINF:-1 tvg-name="Polonia_1" tvg-logo="Polonia 1.png",Polonia 1 
-acestream://4490bc48c21dbf258b806cfcac89351dd27f96fe
+acestream://ca27b63adb461bb2c713d34b3069bafe7871dac4
 #EXTINF:-1 tvg-name="RaiNews_24" tvg-logo="RaiNews 24.png",RaiNews 24 
-acestream://ffd23a740df0752bc12f71376a6223384d6e62b8
+acestream://becbaae526414e541d34a8e86cb504efd722e112
 #EXTINF:-1 tvg-name="Reshet_13" tvg-logo="Reshet 13.png",Reshet 13 
 acestream://2ba89c93cd07696f5ef7fff34853fb12b8a3e16e
 #EXTINF:-1 tvg-name="SHOW_MAX" tvg-logo="SHOW MAX.png",SHOW MAX 
 acestream://130f13f765e5f27e607ac9e05bf8f6e80f7c27b9
 #EXTINF:-1 tvg-name="Shant_TV_Armenia" tvg-logo="Shant TV Armenia.png",Shant TV Armenia 
-acestream://aba271c0cefe85e9e0be4cb5648406580d030716
+acestream://d4a68523277d7f8db41ddd4e744dce622338db25
 #EXTINF:-1 tvg-name="Space_TV" tvg-logo="Space TV.png",Space TV 
-acestream://3313d632e9a5900376b9836081b152c6e2d9d019
+acestream://cea59ae931c882ea48292c7a0f06e7bceb7b470f
 #EXTINF:-1 tvg-name="TRT_Haber_HD" tvg-logo="TRT Haber HD.png",TRT Haber HD 
 acestream://2b967f647d2ecc9d56d44c7ee52cb364399fa240
 #EXTINF:-1 tvg-name="TV-4_(Украина)" tvg-logo="TV-4 (Украина).png",TV-4 (Украина) 
@@ -2324,7 +2308,7 @@ acestream://532e9be798807dc27ba065c767d23fa7b3173cb5
 #EXTINF:-1 tvg-name="TV3_Catalunya" tvg-logo="TV3 Catalunya.png",TV3 Catalunya 
 acestream://e8e772cfe4d5d3d614025e6b469141977baeb136
 #EXTINF:-1 tvg-name="TVP_Kultura" tvg-logo="TVP Kultura.png",TVP Kultura 
-acestream://53a9fd2ff19dfb7c7be2d24554ca71d0255bc723
+acestream://73cdaf0fc22e00334c46a4cb8f4919feb8aa252f
 #EXTINF:-1 tvg-name="TVP_Polonia" tvg-logo="TVP Polonia.png",TVP Polonia 
 acestream://3fe8706a111be5f6568a87dd5092924fc83f7c75
 #EXTINF:-1 tvg-name="Tele_5" tvg-logo="Tele 5.png",Tele 5 
@@ -2334,19 +2318,17 @@ acestream://106a0e7745c7eb4ebc4b5d9044ed595df21abfe1
 #EXTINF:-1 tvg-name="USArmenia_TV_HD" tvg-logo="USArmenia TV HD.png",USArmenia TV HD 
 acestream://976aef7477d04681734cf469dd5be4ace9c3d423
 #EXTINF:-1 tvg-name="Viva_Austria" tvg-logo="Viva Austria.png",Viva Austria 
-acestream://719832673c144ef51e276c8210c7301595fc3d70
+acestream://6b1cd5d1da923918377a3bb68e1a6e013804c396
 #EXTINF:-1 tvg-name="Xezer_TV" tvg-logo="Xezer TV.png",Xezer TV 
-acestream://02c613c2395dbb90fbe89bd0c46f06e17d071b53
+acestream://d137f5e59b8873676387d6f88eeff70d36d4a696
 #EXTINF:-1 tvg-name="ZDF" tvg-logo="ZDF.png",ZDF 
-acestream://edb3b36a7031c3fa1552013edac989f63ca28130
-#EXTINF:-1 tvg-name="АТН-россия_24(екатеринбург)" tvg-logo="АТН-россия 24(екатеринбург).png",АТН-россия 24(екатеринбург) 
-acestream://a35747144ef01354046cc243410eb32c9463e682
+acestream://0c94e081e08cce90fe2bd24f062d6df8f2516e62
 #EXTINF:-1 tvg-name="Абхазское_Телевидение" tvg-logo="Абхазское Телевидение.png",Абхазское Телевидение 
 acestream://79400f64e7f842bee394be258a99e5b9da3c422b
 #EXTINF:-1 tvg-name="Арктик_ТВ" tvg-logo="Арктик ТВ.png",Арктик ТВ 
 acestream://b785637fc5a837130e90eaac5049d1ae357a25fd
 #EXTINF:-1 tvg-name="Архыз24" tvg-logo="Архыз24.png",Архыз24 
-acestream://63a5b5af7e796201d27237a36e7cd8346446ad62
+acestream://54e040a20b86e8a2d9715c629d7568e622cd8445
 #EXTINF:-1 tvg-name="Астрахань_24" tvg-logo="Астрахань 24.png",Астрахань 24 
 acestream://cd9bd1be32b12eb125b51fa849e939098f7041db
 #EXTINF:-1 tvg-name="Астрахань_24_HD" tvg-logo="Астрахань 24 HD.png",Астрахань 24 HD 
@@ -2355,12 +2337,12 @@ acestream://eca7b51367c68bbaa006a34525505308064e8a5d
 acestream://0632200afdd7d4574b25ae9f127b51a5da877d55
 #EXTINF:-1 tvg-name="Беларусь_4_Могилёв" tvg-logo="Беларусь 4 Могилёв.png",Беларусь 4 Могилёв 
 acestream://463ce0b0952b6428858b9d10a9085f18d7fb96c1
-#EXTINF:-1 tvg-name="Белгород_24" tvg-logo="Белгород 24.png",Белгород 24 
-acestream://28f7ed2c829e1aabcbb467e0bced5d757657c9e0
 #EXTINF:-1 tvg-name="Белсат_ТВ" tvg-logo="Белсат ТВ.png",Белсат ТВ 
 acestream://c6f80de31b5fba0fb1f15ab0b3deba2a2be23206
 #EXTINF:-1 tvg-name="Брянская_губерния" tvg-logo="Брянская губерния.png",Брянская губерния 
-acestream://d1eb30194b83abd7bf39177d302a7301cd9de1ab
+acestream://31382f9353912cc6f3c7a112b041a1c701be58fd
+#EXTINF:-1 tvg-name="ВIНТЕРА" tvg-logo="ВIНТЕРА.png",ВIНТЕРА 
+acestream://c8f948740260cf9892432a0b143aa6fc040c44ce
 #EXTINF:-1 tvg-name="ВТВ-Плюс" tvg-logo="ВТВ-Плюс.png",ВТВ-Плюс 
 acestream://587f308f7c30d1e49a03a67321fd9c167ce96690
 #EXTINF:-1 tvg-name="Волга_ТВ" tvg-logo="Волга ТВ.png",Волга ТВ 
@@ -2368,45 +2350,45 @@ acestream://c1221e73badbc59e9e290a0813980d70ef57c011
 #EXTINF:-1 tvg-name="Волгоград_24" tvg-logo="Волгоград 24.png",Волгоград 24 
 acestream://748e5f56ccea20f733b9051d975f221a70812ddd
 #EXTINF:-1 tvg-name="Галичина" tvg-logo="Галичина.png",Галичина 
-acestream://a28d194e1a166f506bf7a0ea8debada5d47a1406
+acestream://f1210b64483603100b7859a2fda0228eea0a7212
 #EXTINF:-1 tvg-name="Горизонт" tvg-logo="Горизонт.png",Горизонт 
-acestream://546ec844207f9222753f49803cf798be2f345939
+acestream://da0ef841fc795a187f8c64c3855a8eba0828fa58
 #EXTINF:-1 tvg-name="Городской_телеканал_г._Ярославль" tvg-logo="Городской телеканал г. Ярославль.png",Городской телеканал г. Ярославль 
 acestream://560285b0899d1d57f6145d035dc48e7bc0dcb744
 #EXTINF:-1 tvg-name="Губерния_(Самара)" tvg-logo="Губерния (Самара).png",Губерния (Самара) 
 acestream://d8ddbbe939c90b5330506d613ce8b8e521d28298
 #EXTINF:-1 tvg-name="Дон_24" tvg-logo="Дон 24.png",Дон 24 
-acestream://22bf0162d9d34e627bccb51c3c1a1f73933c7820
+acestream://a008aedee9fe844c2cd3fe3124e9a74a93f6a514
 #EXTINF:-1 tvg-name="Донбас" tvg-logo="Донбас.png",Донбас 
-acestream://a7bf46ad232ca60650ef824badc110b7b759ba93
+acestream://7eb74679a2a4702e435148b7e66e8c5003d108a3
 #EXTINF:-1 tvg-name="Енисей" tvg-logo="Енисей.png",Енисей 
 acestream://8d33e266ee5643b041d2a44a7d346b5cfd0583df
-#EXTINF:-1 tvg-name="Етв" tvg-logo="Етв.png",Етв 
-acestream://954e034ac887695ffc7ff582a14fc77e8d24e774
 #EXTINF:-1 tvg-name="ИКС" tvg-logo="ИКС.png",ИКС 
 acestream://9ae00a6f51a9ae3f48c38637c97dc3bd88eff180
 #EXTINF:-1 tvg-name="КТК" tvg-logo="КТК.png",КТК 
 acestream://d0c27123ceac76231fe831ddeb06a33781074ce8
 #EXTINF:-1 tvg-name="Караван_ТВ" tvg-logo="Караван ТВ.png",Караван ТВ 
-acestream://eb9bedce8a4866022ae6ed74a7643375debdb335
+acestream://88aba2d78a28be85e2d6524ed74ca57fd48ae2d8
 #EXTINF:-1 tvg-name="Крым_24" tvg-logo="Крым 24.png",Крым 24 
-acestream://2a20f4800e7166310b4a4927594550acca84b100
+acestream://516ebcf01600fce4c160dc7a9bf30a0e6d639c1b
 #EXTINF:-1 tvg-name="Кубань_24_Орбита" tvg-logo="Кубань 24 Орбита.png",Кубань 24 Орбита 
-acestream://b0fdd496de714fd90ded176da9f16fa986fb8696
+acestream://6755806fc96fe53d425447f4c9966bd03584ad0c
 #EXTINF:-1 tvg-name="Курай_ТВ" tvg-logo="Курай ТВ.png",Курай ТВ 
-acestream://0471784ae72d17859cb420c37a3e7012ecd363ab
+acestream://38b2221978dcda9a6283d3c47167905f27352028
 #EXTINF:-1 tvg-name="Майдан" tvg-logo="Майдан.png",Майдан 
-acestream://7d53e5cc09b799eee9cb0ed3ca679bd2afef1940
+acestream://82e327f622950f02880601920268d63a6a47c8ca
 #EXTINF:-1 tvg-name="Миллет" tvg-logo="Миллет.png",Миллет 
 acestream://196aa6418d8a722fd42e94eb6f0e74e50a180921
 #EXTINF:-1 tvg-name="Москва_24" tvg-logo="Москва 24.png",Москва 24 
-acestream://8bce6677de8bd56c6a360d88c378262d035acaf1
+acestream://7f55f587f0db2a0b4046868b8d38ddde09ae61a5
 #EXTINF:-1 tvg-name="Москва_Доверие" tvg-logo="Москва Доверие.png",Москва Доверие 
-acestream://36d1e96680d6137848741a73ca9c7341c200c556
+acestream://0dd8525f1e1d1e6253136923a63163d13a389b68
 #EXTINF:-1 tvg-name="Моя_Удмуртия" tvg-logo="Моя Удмуртия.png",Моя Удмуртия 
 acestream://6afa02caf3d73cfbebeeffb5eaec374cd7c8285a
+#EXTINF:-1 tvg-name="ННТВ" tvg-logo="ННТВ.png",ННТВ 
+acestream://160c3c9051494459b707e00cfeeaa41d15c8c12d
 #EXTINF:-1 tvg-name="Новое_Телевидение" tvg-logo="Новое Телевидение.png",Новое Телевидение 
-acestream://d34bbf10de9aa3ee25a8e1899a4551c35ae7488e
+acestream://e014ede9df66cc150dc1610e83b71e0c77308015
 #EXTINF:-1 tvg-name="Новосибирские_Новости" tvg-logo="Новосибирские Новости.png",Новосибирские Новости 
 acestream://ec141bf664415fe9e3bcd79c8ee490c562f76a1b
 #EXTINF:-1 tvg-name="Новый_мир" tvg-logo="Новый мир.png",Новый мир 
@@ -2416,33 +2398,31 @@ acestream://c0b0558c5165933c0168310d43e1be58610657a7
 #EXTINF:-1 tvg-name="ОТБ_(Харьков)" tvg-logo="ОТБ (Харьков).png",ОТБ (Харьков) 
 acestream://06292d1075f4f2a4642a91b92fa00c76b8e76cb5
 #EXTINF:-1 tvg-name="ОТВ_(Екатеринбург)" tvg-logo="ОТВ (Екатеринбург).png",ОТВ (Екатеринбург) 
-acestream://8751648bea57b3a6acea380ee56b60e6cba5de63
+acestream://45c3e85ecbd5b9d9ff86b59b37da8801197be1e6
 #EXTINF:-1 tvg-name="ОТВ_(Приморье)" tvg-logo="ОТВ (Приморье).png",ОТВ (Приморье) 
 acestream://c4a79ea8c8378a23b7c27995ffe2a708df10a143
 #EXTINF:-1 tvg-name="ОТВ_(Челябинск)" tvg-logo="ОТВ (Челябинск).png",ОТВ (Челябинск) 
-acestream://71bbd7d891e3f1a61dc4d69fe2bd0041ed3677ab
+acestream://f2b0d9e68476a34eb6f8c7d5a2d15ccfe3d000c3
 #EXTINF:-1 tvg-name="ОТВ_HD_(Челябинск)" tvg-logo="ОТВ HD (Челябинск).png",ОТВ HD (Челябинск) 
 acestream://a487386b5b9bd67c33ba84594768ce8227faefd3
 #EXTINF:-1 tvg-name="ОТРК_Кыргызстан" tvg-logo="ОТРК Кыргызстан.png",ОТРК Кыргызстан 
-acestream://0cfb1de32096120595cbc4057b1219d0874adca7
+acestream://b1de6042e5e7aa434e0ab062d5b5d45de1eae680
 #EXTINF:-1 tvg-name="Первый_Городской_(Киров)" tvg-logo="Первый Городской (Киров).png",Первый Городской (Киров) 
 acestream://6e520b95821a85b72d63f9038c8090f40979700f
 #EXTINF:-1 tvg-name="Первый_Городской_(Нижний_Новгород)" tvg-logo="Первый Городской (Нижний Новгород).png",Первый Городской (Нижний Новгород) 
 acestream://f0f083d43a4aa67505f1331ce6cdf4b8a48f30a1
-#EXTINF:-1 tvg-name="Первый_Ярославский" tvg-logo="Первый Ярославский.png",Первый Ярославский 
-acestream://8c3e08fe8182548fa9558889049421c9007d0c6a
 #EXTINF:-1 tvg-name="Первый_канал_Санкт-Петербург" tvg-logo="Первый канал Санкт-Петербург.png",Первый канал Санкт-Петербург 
-acestream://b35ca031a2762a050fec3305cafd561b74415614
+acestream://7126cbd179a986d8aa15281b17805c6b0ee40983
 #EXTINF:-1 tvg-name="Первый_крымский_HD" tvg-logo="Первый крымский HD.png",Первый крымский HD 
 acestream://0393b85f26445136de15595e3a5559fd4d86b11d
 #EXTINF:-1 tvg-name="Продвижение_(+4)" tvg-logo="Продвижение.png",Продвижение (+4) 
-acestream://0dfdf6bd23ff154ab089398c70aba3b76d75c326
+acestream://e7da3de0eec30ef7e2d6814a0decb1aeb2b9f141
 #EXTINF:-1 tvg-name="Продвижение_HD_(Омск)" tvg-logo="Продвижение HD (Омск).png",Продвижение HD (Омск) 
 acestream://5c7b6b19083fb88c9a6630b493118af8dd2a03a4
 #EXTINF:-1 tvg-name="РГВК_Дагестан" tvg-logo="РГВК Дагестан.png",РГВК Дагестан 
 acestream://21c305950a2699c36e91f36801dbd45bb5567f8c
 #EXTINF:-1 tvg-name="РЕН_ТВ_Санкт-Петербург" tvg-logo="РЕН ТВ Санкт-Петербург.png",РЕН ТВ Санкт-Петербург 
-acestream://08f04106a66358868fe561bf845838f1f310db5e
+acestream://0f6d06a2e5c17dee4a392e6c6e2ccc7afc266a30
 #EXTINF:-1 tvg-name="РЕН-ТВ_ИСТОКИ_-_ОРЕЛ" tvg-logo="РЕН-ТВ ИСТОКИ - ОРЕЛ.png",РЕН-ТВ ИСТОКИ - ОРЕЛ 
 acestream://c02f01c6b27676ff5027490476ff8d52436fe328
 #EXTINF:-1 tvg-name="Регион_67" tvg-logo="Регион 67.png",Регион 67 
@@ -2451,6 +2431,8 @@ acestream://83aaabc1f351d477aa68ac9824ecbc27bf025d97
 acestream://9fe6e72ce24b216b967d030619bbcacdb4b1dc0c
 #EXTINF:-1 tvg-name="Россия_1_Санкт-Петербург" tvg-logo="Россия 1 Санкт-Петербург.png",Россия 1 Санкт-Петербург 
 acestream://08b1af3a07b3edf0b904c81cab1fd53e8c26d7ff
+#EXTINF:-1 tvg-name="Россия_24_Нижний_Новгород" tvg-logo="Россия 24 Нижний Новгород.png",Россия 24 Нижний Новгород 
+acestream://8fbdb41b69dacecc5853482a6d2bc4e091afaa13
 #EXTINF:-1 tvg-name="Рудана" tvg-logo="Рудана.png",Рудана 
 acestream://559b0e334eeafe4f71ea8809a168ca12c6449660
 #EXTINF:-1 tvg-name="СТРК_HD_Сочи" tvg-logo="СТРК HD Сочи.png",СТРК HD Сочи 
@@ -2458,7 +2440,7 @@ acestream://93cd8a4a4b4dbaec5e42eeee8a2f32a1612a780e
 #EXTINF:-1 tvg-name="СТС+ТВ21_(Мурманск)" tvg-logo="СТС+ТВ21 (Мурманск).png",СТС+ТВ21 (Мурманск) 
 acestream://be81a828b08a5e14207629a65a4d7636acb7251f
 #EXTINF:-1 tvg-name="Санкт-Петербург" tvg-logo="Санкт-Петербург.png",Санкт-Петербург 
-acestream://09664db1753902d2d21cbbdc5f8e0749469bdaf9
+acestream://8af81c7d1a4570bdb091ee2aa00315fdd20f6ba2
 #EXTINF:-1 tvg-name="Саратов_24" tvg-logo="Саратов 24.png",Саратов 24 
 acestream://24488489ffa8b70bd1cde4fe4dd6f50bc445b9d6
 #EXTINF:-1 tvg-name="Светлое_ТВ" tvg-logo="Светлое ТВ.png",Светлое ТВ 
@@ -2466,11 +2448,9 @@ acestream://f68312c2ebc2f0d51d5e9ff29e86046aa1ed786c
 #EXTINF:-1 tvg-name="Своё_ТВ_(Ставрополь)" tvg-logo="Своё ТВ (Ставрополь).png",Своё ТВ (Ставрополь) 
 acestream://f90b5c1e27e371df0855750437bf71ac90fbac30
 #EXTINF:-1 tvg-name="Север" tvg-logo="Север.png",Север 
-acestream://1ef49ca3cd489ec211d65085bae4218c147e433c
+acestream://5e992586c7daf490ca863350cecb84cc9c2c6d78
 #EXTINF:-1 tvg-name="Слуцк_ТВ" tvg-logo="Слуцк ТВ.png",Слуцк ТВ 
 acestream://dee8a352fc41764d3d083e77ef5cc032c513a494
-#EXTINF:-1 tvg-name="ТАГИЛ_ТВ" tvg-logo="ТАГИЛ ТВ.png",ТАГИЛ ТВ 
-acestream://d984f7b52731a3769c7013921e2accbe7426d362
 #EXTINF:-1 tvg-name="ТВ_3_(Беларусь)" tvg-logo="ТВ 3 (Беларусь).png",ТВ 3 (Беларусь) 
 acestream://f8cff31cfe6dfa02f2416c4d4a109aac5e3a8ca1
 #EXTINF:-1 tvg-name="ТВ_FM" tvg-logo="ТВ FM.png",ТВ FM 
@@ -2478,33 +2458,35 @@ acestream://7e2b74a6daa763eb42b778fc7446a3582711d382
 #EXTINF:-1 tvg-name="ТВ21+" tvg-logo="ТВ21+.png",ТВ21+ 
 acestream://a3c0684dc114d37f7d1dec0dce83c332d3ee0a50
 #EXTINF:-1 tvg-name="ТНВ-Планета" tvg-logo="ТНВ-Планета.png",ТНВ-Планета 
-acestream://1fdeb112d52381ee3331d23c66c88f17e1a991c9
+acestream://f71434cad590b715ba2908ba6be8d6b50800fa07
 #EXTINF:-1 tvg-name="ТНВ-Татарстан" tvg-logo="ТНВ-Татарстан.png",ТНВ-Татарстан 
-acestream://5c71f75dd6be7d92d9ea6c6b0dea9e43820b8856
+acestream://6073628c5d624b9cd96512b5b626aed8dc5a0b88
 #EXTINF:-1 tvg-name="ТРК_555" tvg-logo="ТРК 555.png",ТРК 555 
 acestream://9fa28e32a51ed68aee21bb64e6893891cec7aa84
 #EXTINF:-1 tvg-name="ТРК_Киев" tvg-logo="ТРК Киев.png",ТРК Киев 
-acestream://d300898ab43fd01dcd63e9ec5457eceed199b705
+acestream://3d9d416137dce69e815eb4dabf4ddad0cf3e9eca
 #EXTINF:-1 tvg-name="ТРК_Черновцы" tvg-logo="ТРК Черновцы.png",ТРК Черновцы 
 acestream://aaf1db81bd5a2828d6efb972ae0d14fbe1e50f1e
 #EXTINF:-1 tvg-name="ТРО_Союза" tvg-logo="ТРО Союза.png",ТРО Союза 
-acestream://ec589674347509907ca9bc898314f0857b5aa857
+acestream://386f702dd53d79f14df7a360a721b790dbda7626
 #EXTINF:-1 tvg-name="Твой_Пушкинский" tvg-logo="Твой Пушкинский.png",Твой Пушкинский 
 acestream://cf8b452a5685b0e8daf04dd71da834ba21cc784b
 #EXTINF:-1 tvg-name="Телевсесвит" tvg-logo="Телевсесвит.png",Телевсесвит 
 acestream://e9c39477ee7fea07804e788f14a2dc2d1c554762
 #EXTINF:-1 tvg-name="Тиса-1" tvg-logo="Тиса-1.png",Тиса-1 
-acestream://37801f21aa513bfdcddd48c7ef48d9372317b331
+acestream://3a1dc8f78752edbaaf60fa2ffc1845a857143692
 #EXTINF:-1 tvg-name="Томское_время" tvg-logo="Томское время.png",Томское время 
 acestream://eced239f6ace59d777fe110ba6d069a162d461e5
 #EXTINF:-1 tvg-name="Третий_Цифровой" tvg-logo="Третий Цифровой.png",Третий Цифровой 
 acestream://f8a2beb8372b4c3464e3165a2b83d383e2776899
 #EXTINF:-1 tvg-name="Тюменское_Время" tvg-logo="Тюменское Время.png",Тюменское Время 
 acestream://5a56475fda3fd880266c4f4f11b29ec02e32237b
+#EXTINF:-1 tvg-name="УрФО_24_HD" tvg-logo="УрФО 24 HD.png",УрФО 24 HD 
+acestream://07a5b7667a36e704d755d8ded4e07604b6af9725
 #EXTINF:-1 tvg-name="Центральный_канал" tvg-logo="Центральный канал.png",Центральный канал 
 acestream://9d1dbd95a1ccf9a830f8e57ce7b1b82c99e65146
 #EXTINF:-1 tvg-name="ЧГТРК_Грозный" tvg-logo="ЧГТРК Грозный.png",ЧГТРК Грозный 
-acestream://931b517abfc1eb735d62d1983c7a2c8c17ee26fe
+acestream://3d414d9c1aa6aa4cd584c564d70f6be50208c125
 #EXTINF:-1 tvg-name="Черновицкий_Проминь_HD" tvg-logo="Черновицкий Проминь HD.png",Черновицкий Проминь HD 
 acestream://1b46de9b09da25f3bc988b37dd826f44ec06cf73
 #EXTINF:-1 tvg-name="Черноморская_телекомпания" tvg-logo="Черноморская телекомпания.png",Черноморская телекомпания 
@@ -2519,6 +2501,7 @@ acestream://8e13f18c5a2be0a4a746af74df8a62fdc7c2474e
 acestream://3d92ca134b1678ad60d025130f1eb8d97098b739
 #EXTINF:-1 tvg-name="Ямал_Регион" tvg-logo="Ямал Регион.png",Ямал Регион 
 acestream://e14e8cb1abebd300de4b40a8221def521b8c58fb
+
 
 
 
@@ -2560,41 +2543,41 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="EWTN_-_Katholisches_Fernsehen" tvg-logo="EWTN - Katholisches Fernsehen.png",EWTN - Katholisches Fernsehen 
-acestream://f5488252d5bf55b6f763bc567154480af3e7c8c3
+acestream://b1b9ef167c505f5812bb870ead2af45bfd6d4c1a
 #EXTINF:-1 tvg-name="EWTN_UK_and_Ireland" tvg-logo="EWTN UK and Ireland.png",EWTN UK and Ireland 
-acestream://84b0ff682389ad2285b20739a9029b2e81af78a3
+acestream://60e3b5da8a16f03039c94c6f86c0c9c57c18ee3f
 #EXTINF:-1 tvg-name="God_TV_UK" tvg-logo="God TV UK.png",God TV UK 
-acestream://b6cd2d6467d14e53389b687a4c3f1a0360744442
+acestream://069d0be588032e1bf171cec112d47e8b8669adfb
 #EXTINF:-1 tvg-name="Islam_Channel" tvg-logo="Islam Channel.png",Islam Channel 
-acestream://ec15a11f33e8368cea69ee2f8789a0211d38baac
+acestream://4868584e097546b56f28466fad6b77a309466164
 #EXTINF:-1 tvg-name="Olive_TV" tvg-logo="Olive TV.png",Olive TV 
-acestream://2a81fe4e2323cd4eca9dc0fe6db75e207d661c83
+acestream://1b9d314732ac306227a9df884226264c74b2f857
 #EXTINF:-1 tvg-name="Peace_TV" tvg-logo="Peace TV.png",Peace TV 
-acestream://c5fe2a7a43f13fc04c45e0588527ab9744fce4f5
+acestream://6587149de3598ee1c6bd06e9111dd3495542bc27
 #EXTINF:-1 tvg-name="Revelation_TV" tvg-logo="Revelation TV.png",Revelation TV 
-acestream://618bd50123e45fb3d10b1b7cf5a95af84c3e63e2
+acestream://dd91d42c58cd70b98fd921e26d6ce26fd414b10c
 #EXTINF:-1 tvg-name="TBN_Europe" tvg-logo="TBN Europe.png",TBN Europe 
-acestream://db3ca0ea4013e88f8d9ac2ece567febbe3291c77
+acestream://d3e24c94d705e81a02f44015714568210e0754c6
 #EXTINF:-1 tvg-name="TelePace_HD" tvg-logo="TelePace HD.png",TelePace HD 
-acestream://9aa2873965420058eacd9cb3cd956404ea0b72cb
+acestream://221c9fffc46e2b2f7e85c15a8ec8869ba2b2afa8
 #EXTINF:-1 tvg-name="The_Word_Network" tvg-logo="The Word Network.png",The Word Network 
-acestream://1baa9b0e80587216de7d8cb866329b27c9f26383
+acestream://8d13a827cdabfcc0f912f39de825a15b0336f88e
 #EXTINF:-1 tvg-name="Возрождение_ТВ" tvg-logo="Возрождение ТВ.png",Возрождение ТВ 
-acestream://20a756edbdbc641ebc053b3e55a72846a1d146c6
+acestream://a864748bd04a2927da983572e48092b7d5b0f914
 #EXTINF:-1 tvg-name="Глас" tvg-logo="Глас.png",Глас 
 acestream://19156bccc18a70ad5a3587f0fbcfec4c101cbebd
 #EXTINF:-1 tvg-name="Надiя" tvg-logo="Надiя.png",Надiя 
-acestream://65116ed9bab8a1ab3610b3c29296aac4b1234755
+acestream://2a0bb27f93bf5338390e29bb14e8630a1d076341
 #EXTINF:-1 tvg-name="Новый_Христианский" tvg-logo="Новый Христианский.png",Новый Христианский 
-acestream://018331115af31d331c09a96e751222edb1dda845
+acestream://7b752ff346c03ec75636532f931404331aa0187c
 #EXTINF:-1 tvg-name="Союз" tvg-logo="Союз.png",Союз 
-acestream://291cab7f46f88bc64135a048cd71151fa229dce0
+acestream://a07d04007b781cdfb8117232691812c41dc8cf6b
 #EXTINF:-1 tvg-name="Спас_ТВ" tvg-logo="Спас ТВ.png",Спас ТВ 
-acestream://33d2864bb2a3b5f54e59bcfb1b096c3135178834
+acestream://8ac94bacf7deeac78a0dab44af8d0bac277f8c7c
 #EXTINF:-1 tvg-name="ТБН" tvg-logo="ТБН.png",ТБН 
 acestream://8c345306db6ada90645b500eaf566e86881274ca
 #EXTINF:-1 tvg-name="Три_Ангела" tvg-logo="Три Ангела.png",Три Ангела 
-acestream://16fa4fa0d20995d33f133cb0d80b5b15a3924056
+acestream://32608bc890680a7616a4a58542f109bdf88055db
 
 
 
@@ -2650,152 +2633,45 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
-#EXTINF:-1 tvg-name="A_Spor_HD_Tur" tvg-logo="A Spor HD Tur.png",A Spor HD Tur 
-acestream://85ba1e6372f065215e7be4c36427395fe7605c8b
-#EXTINF:-1 tvg-name="Bt_Sport_1_UK" tvg-logo="Bt Sport 1 UK.png",Bt Sport 1 UK 
-acestream://96d19eb9c836e5fdced591eaeca23c1770c2a6da
-#EXTINF:-1 tvg-name="Bt_Sport_2_UK" tvg-logo="Bt Sport 2 UK.png",Bt Sport 2 UK 
-acestream://33b428a9cec1d7d2cd2809d8e49a687e167378a6
-#EXTINF:-1 tvg-name="Bt_Sport_Euro" tvg-logo="Bt Sport Euro.png",Bt Sport Euro 
-acestream://a05f669c3dd1ff5e58acd8c3282b3fe6e646dd55
-#EXTINF:-1 tvg-name="C_More_Sport_2_[fi]" tvg-logo="C More Sport 2 [fi].png",C More Sport 2 [fi] 
-acestream://0fd5848339f5592ec0d4d4a796fac43d305ce7fb
+
+#EXTINF:-1 tvg-name="AFN_Sports_HD" tvg-logo="AFN Sports HD.png",AFN Sports HD 
+acestream://1202c004338963090e2da1e960392f3a12b24177
 #EXTINF:-1 tvg-name="C_More_Sport_HD_Se" tvg-logo="C More Sport HD Se.png",C More Sport HD Se 
 acestream://3b85ee777663c6d5409dd5dc15f1403b19c877bf
-#EXTINF:-1 tvg-name="CBC_Sport_HD_Az" tvg-logo="CBC Sport HD Az.png",CBC Sport HD Az 
-acestream://89524d9f802e3f916912a9ddf5ae4a5a1bfcbbba
-#EXTINF:-1 tvg-name="Canal_+_Sport_2_HD" tvg-logo="Canal + Sport 2 HD.png",Canal + Sport 2 HD 
-acestream://f00e6dc58e57f500cde35db3fb1f24193cbe1e99
-#EXTINF:-1 tvg-name="Dolce_Sport_5_Ro" tvg-logo="Dolce Sport 5 Ro.png",Dolce Sport 5 Ro 
-acestream://7b1e38373ad62d3d9e524937d30b2aea95d86625
-#EXTINF:-1 tvg-name="Dolce_Sport_6_Ro" tvg-logo="Dolce Sport 6 Ro.png",Dolce Sport 6 Ro 
-acestream://94dda65c7209cda3a543b9f208bab5a608614cd1
 #EXTINF:-1 tvg-name="Eir_Sport_1" tvg-logo="Eir Sport 1.png",Eir Sport 1 
 acestream://75703cf02401ba8a402c77989bfaaf3895cb12ea
-#EXTINF:-1 tvg-name="Eir_Sport_2E_Uk" tvg-logo="Eir Sport 2E Uk.png",Eir Sport 2E Uk 
-acestream://80db01059a22a7955ab10c583577397ba830c639
-#EXTINF:-1 tvg-name="Eurosport_1_HD" tvg-logo="Eurosport 1 HD.png",Eurosport 1 HD 
-acestream://84f05d53dd5d12faaab6cded5f2ed09d807a6a9b
-#EXTINF:-1 tvg-name="Eurosport_1_HD_Ro" tvg-logo="Eurosport 1 HD Ro.png",Eurosport 1 HD Ro 
-acestream://96943e2cb3288a943f40f2f0e5d2f036d9c01adc
-#EXTINF:-1 tvg-name="Eurosport_2_HD" tvg-logo="Eurosport 2 HD.png",Eurosport 2 HD 
-acestream://5db25a09ab7b68214352b06cb1720bb698ba824f
-#EXTINF:-1 tvg-name="Eurosport_2_HD_Ro" tvg-logo="Eurosport 2 HD Ro.png",Eurosport 2 HD Ro 
-acestream://35ac0065294efacd3bd7473941de0ff4c23e06a2
-#EXTINF:-1 tvg-name="Eurosport_HD_De" tvg-logo="Eurosport HD De.png",Eurosport HD De 
-acestream://72732f7a703fb43a95d2150cf33334b5606c8de3
-#EXTINF:-1 tvg-name="Extreme_Sports" tvg-logo="Extreme Sports.png",Extreme Sports 
-acestream://8911ad304f7c7432045f959989a3976fbe45e71f
-#EXTINF:-1 tvg-name="Fox_Sport_HD" tvg-logo="Fox Sport HD.png",Fox Sport HD 
-acestream://684c5ff6704bec4f60f10646572b18827a1e3c6b
-#EXTINF:-1 tvg-name="MTV_Sport_1_HD_Fi" tvg-logo="MTV Sport 1 HD Fi.png",MTV Sport 1 HD Fi 
-acestream://d7d1894cd35aadaf402d1cb182848a926f34a93b
-#EXTINF:-1 tvg-name="Movistar_Futbol_HD_Es" tvg-logo="Movistar Futbol HD Es.png",Movistar Futbol HD Es 
-acestream://3f9d427f7f0150491a2008c2dad17180983d8250
-#EXTINF:-1 tvg-name="NBA_HD_Us" tvg-logo="NBA HD Us.png",NBA HD Us 
-acestream://435b481700ca9a87336285c828d292a0bbe23739
 #EXTINF:-1 tvg-name="NTV_Spor_HD_Tur" tvg-logo="NTV Spor HD Tur.png",NTV Spor HD Tur 
 acestream://92ce7aec1c57d070759958f5ca51a28b54c1a57d
-#EXTINF:-1 tvg-name="One_HD_[il]" tvg-logo="One HD [il].png",One HD [il] 
-acestream://4600d71f2aca9ee0d3b9a3a85daa7cdcb838cb44
-#EXTINF:-1 tvg-name="Premier_HD" tvg-logo="Premier HD.png",Premier HD 
-acestream://a4b60863a84bc3049a24c3d02a099182200c0f1b
-#EXTINF:-1 tvg-name="Premier_Sports_Uk" tvg-logo="Premier Sports Uk.png",Premier Sports Uk 
-acestream://4829bc1c27196e51ffdf502a95857354fdeac995
 #EXTINF:-1 tvg-name="Setanta_Eurasia" tvg-logo="Setanta Eurasia.png",Setanta Eurasia 
 acestream://6df4b9fa5c5a67816bed437433b82edbcc4fb8b3
-#EXTINF:-1 tvg-name="Setanta_Eurasia_+_HD_Ru" tvg-logo="Setanta Eurasia + HD Ru.png",Setanta Eurasia + HD Ru 
-acestream://9877f02ad72222022e4d718bcd4adaf3bd19752d
-#EXTINF:-1 tvg-name="Setanta_Sports_1" tvg-logo="Setanta Sports 1.png",Setanta Sports 1 
-acestream://7c02814084b8eb0e3fc5a9093fccf1d8f3999d55
-#EXTINF:-1 tvg-name="Sky_1" tvg-logo="Sky 1.png",Sky 1 
-acestream://d9135fcc98750c7baa7f0911828ca0dfd0d32054
 #EXTINF:-1 tvg-name="Sky_2" tvg-logo="Sky 2.png",Sky 2 
 acestream://ac53af0567e4b3068b0f14cad42f575f28957d0f
 #EXTINF:-1 tvg-name="Sky_Bundesliga_1_HD" tvg-logo="Sky Bundesliga 1 HD.png",Sky Bundesliga 1 HD 
 acestream://42eab3f0f3df154092e4399e3f91255f38751aee
-#EXTINF:-1 tvg-name="Sky_Sport_1_HD_De" tvg-logo="Sky Sport 1 HD De.png",Sky Sport 1 HD De 
-acestream://26c5b6b50a3da579827a4406fc27a02c830f3fb9
 #EXTINF:-1 tvg-name="Sky_Sport_2_HD_De" tvg-logo="Sky Sport 2 HD De.png",Sky Sport 2 HD De 
 acestream://307d3a7fc7209d079062d6f92ff0e78c24554739
-#EXTINF:-1 tvg-name="Sky_Sport_2_Uk" tvg-logo="Sky Sport 2 Uk.png",Sky Sport 2 Uk 
-acestream://658b4656e18cb393c8a9cc8d66d7100ef2904876
-#EXTINF:-1 tvg-name="Sky_Sport_3_Uk" tvg-logo="Sky Sport 3 Uk.png",Sky Sport 3 Uk 
-acestream://1839157f996b63e9e13d148df692a638a0291532
 #EXTINF:-1 tvg-name="Sky_Sport_News_De" tvg-logo="Sky Sport News De.png",Sky Sport News De 
 acestream://07687f063596c38b886e59ff0ae437447572ec9c
-#EXTINF:-1 tvg-name="Sky_sports_Arena_HD" tvg-logo="Sky sports Arena HD.png",Sky sports Arena HD 
-acestream://1c14883164419285b005a7f96d502489e80b8dc4
-#EXTINF:-1 tvg-name="Sky_sports_F1_HD" tvg-logo="Sky sports F1 HD.png",Sky sports F1 HD 
-acestream://38d2c3762a9fbcb18031b18e7dba3a20bdbbaf59
-#EXTINF:-1 tvg-name="Sky_sports_Football_HD" tvg-logo="Sky sports Football HD.png",Sky sports Football HD 
-acestream://9eba690be925a98e8aecfc758070b874e19260c6
-#EXTINF:-1 tvg-name="Sky_sports_Premier_League" tvg-logo="Sky sports Premier League.png",Sky sports Premier League 
-acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9
-#EXTINF:-1 tvg-name="Sky_sports_action_HD" tvg-logo="Sky sports action HD.png",Sky sports action HD 
-acestream://88ed3eb027715170bbc30d6e6278401917901c2c
-#EXTINF:-1 tvg-name="Sky_sports_cricket_HD" tvg-logo="Sky sports cricket HD.png",Sky sports cricket HD 
-acestream://bd58392b1180b79c50439bd8beb051ea1d56fa38
-#EXTINF:-1 tvg-name="Sky_sports_golf_HD" tvg-logo="Sky sports golf HD.png",Sky sports golf HD 
-acestream://7f0f325c3eafce8bfedfc43a9ddb13f063bf0879
-#EXTINF:-1 tvg-name="Sky_sports_main_event_HD" tvg-logo="Sky sports main event HD.png",Sky sports main event HD 
-acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb
-#EXTINF:-1 tvg-name="Sport_1_HD_Il" tvg-logo="Sport 1 HD Il.png",Sport 1 HD Il 
-acestream://a74d36a7529f37dfa0080bc86e6bbeecfb6185cb
 #EXTINF:-1 tvg-name="Sport_1_HD_[hu]" tvg-logo="Sport 1 HD [hu].png",Sport 1 HD [hu] 
 acestream://7ae1acfb277a530b795b78da65be1b76440c4793
 #EXTINF:-1 tvg-name="Sport_1_[ua]" tvg-logo="Sport 1 [ua].png",Sport 1 [ua] 
 acestream://f144679f3927a7515d03d6abd08bdaebe0ce5d69
-#EXTINF:-1 tvg-name="Sport_2_HD_Il" tvg-logo="Sport 2 HD Il.png",Sport 2 HD Il 
-acestream://cbfcbf9c5825463d24f0c6be25aa40fa75deb36a
-#EXTINF:-1 tvg-name="Sport_2_HD_[cz]" tvg-logo="Sport 2 HD [cz].png",Sport 2 HD [cz] 
-acestream://2193155e6baa1200fd0333412e4b5356e8822112
 #EXTINF:-1 tvg-name="Sport_2_[ua]" tvg-logo="Sport 2 [ua].png",Sport 2 [ua] 
 acestream://c9b261964a80290e6ad173a0fa7dd76b285b9a36
-#EXTINF:-1 tvg-name="Sport_5_HD_Il" tvg-logo="Sport 5 HD Il.png",Sport 5 HD Il 
-acestream://7c74c562d01cb45b10734d8c946cb2193f310a16
-#EXTINF:-1 tvg-name="Sport_5+_Live_HD_Il" tvg-logo="Sport 5+ Live HD Il.png",Sport 5+ Live HD Il 
-acestream://1bceb8954e88c0ea3eed451ba5bd9d31ebd54ddb
-#EXTINF:-1 tvg-name="Sport1+_HD_De" tvg-logo="Sport1+ HD De.png",Sport1+ HD De 
-acestream://02d7a8c47e049589bdc1618f9939fcd07326b650
-#EXTINF:-1 tvg-name="Super_Tennis_HD_It" tvg-logo="Super Tennis HD It.png",Super Tennis HD It 
-acestream://5c40bb4a163fe01ad299ca564047af35b3f4f280
-#EXTINF:-1 tvg-name="Tvp_Sport_HD_Pl" tvg-logo="Tvp Sport HD Pl.png",Tvp Sport HD Pl 
-acestream://72893e820d5faf6b926933e566306ad8c94e05f9
-#EXTINF:-1 tvg-name="Viasat_Fotball_Sk" tvg-logo="Viasat Fotball Sk.png",Viasat Fotball Sk 
-acestream://bd8ce9cf8965c6850b484ba1b25095054b20f68a
-#EXTINF:-1 tvg-name="Viasat_Sport" tvg-logo="Viasat Sport.png",Viasat Sport 
-acestream://699fad968f55c7c2e4bee1525736c6dd50ce5d21
-#EXTINF:-1 tvg-name="Viasat_Sport_HD" tvg-logo="Viasat Sport HD.png",Viasat Sport HD 
-acestream://5a7d9a8a370b0a5f49df00d246f8a21597ff40e0
 #EXTINF:-1 tvg-name="Бокс_Тв" tvg-logo="Бокс Тв.png",Бокс Тв 
 acestream://b1500eb8b05c74bda9d99f8c89a743871280cd4e
 #EXTINF:-1 tvg-name="Евроспорт" tvg-logo="Евроспорт.png",Евроспорт 
 acestream://03898c63025f4346edd49ac6cd211b72ef780205
 #EXTINF:-1 tvg-name="Евроспорт_2" tvg-logo="Евроспорт 2.png",Евроспорт 2 
 acestream://242626fb69ff03d5f48131325a54dcf2bd725596
-#EXTINF:-1 tvg-name="Конный_Мир_HD" tvg-logo="Конный Мир HD.png",Конный Мир HD 
-acestream://560b583b0838e9587cab2e4b5acf3286a2aa510a
 #EXTINF:-1 tvg-name="Кхл_Тв" tvg-logo="Кхл Тв.png",Кхл Тв 
 acestream://2d1e7ff19615e7e841389715ef11f18ed54e235a
 #EXTINF:-1 tvg-name="Кхл_Тв_HD" tvg-logo="Кхл Тв HD.png",Кхл Тв HD 
 acestream://a461c9841962b2e0c54ad6b7bc704dcf8c87888d
-#EXTINF:-1 tvg-name="МАТЧ!_Игра_HD" tvg-logo="МАТЧ! Игра HD.png",МАТЧ! Игра HD 
-acestream://60d23ba60235161d949dc9cd828976a2c4bec5bf
-#EXTINF:-1 tvg-name="МАТЧ!_ТВ_HD" tvg-logo="МАТЧ! ТВ HD.png",МАТЧ! ТВ HD 
-acestream://bfb75101e3caf19b919e69e2f0a9856b5339ca51
-#EXTINF:-1 tvg-name="МАТЧ!_Футбол_1_HD" tvg-logo="МАТЧ! Футбол 1 HD.png",МАТЧ! Футбол 1 HD 
-acestream://0c498acb9fca59cf89f8180f3bcd7aa7171ae4af
-#EXTINF:-1 tvg-name="МАТЧ!_Футбол_2_HD" tvg-logo="МАТЧ! Футбол 2 HD.png",МАТЧ! Футбол 2 HD 
-acestream://c2eb663d4bc1d0fced00858e4011af4c8a0aae4f
-#EXTINF:-1 tvg-name="МАТЧ!_Футбол_3_HD" tvg-logo="МАТЧ! Футбол 3 HD.png",МАТЧ! Футбол 3 HD 
-acestream://9de4faeff15442c2a793fb618cf876d3cc47f72b
 #EXTINF:-1 tvg-name="Матч" tvg-logo="Матч.png",Матч 
 acestream://93836b9dec85053eaa904530048814b4aeaf31c4
 #EXTINF:-1 tvg-name="Матч_Арена" tvg-logo="Матч Арена.png",Матч Арена 
 acestream://99f8343369105c4cbd1b10ca1a4e3a05efe47dbd
-#EXTINF:-1 tvg-name="Матч_Арена_HD" tvg-logo="Матч Арена HD.png",Матч Арена HD 
-acestream://80218e619bd5f15fe8418e5bc0876fff9602fd35
 #EXTINF:-1 tvg-name="Матч_Боец" tvg-logo="Матч Боец.png",Матч Боец 
 acestream://d31bf01e3ebbc38df0f6e21f56eabfcacc7e12fa
 #EXTINF:-1 tvg-name="Матч_Игра" tvg-logo="Матч Игра.png",Матч Игра 
@@ -2818,12 +2694,10 @@ acestream://e20160a885d7b3ab3d9b9e4ec25c08ac65a20e09
 acestream://22c9ca863aaf868525b56f812a5cad5232d58627
 #EXTINF:-1 tvg-name="Матч_Футбол_3_HD" tvg-logo="Матч Футбол 3 HD.png",Матч Футбол 3 HD 
 acestream://f28bcb602f53b082479345073b7b10626e5632a0
-#EXTINF:-1 tvg-name="НТВ+_Наш_футбол_HD" tvg-logo="НТВ+ Наш футбол HD.png",НТВ+ Наш футбол HD 
-acestream://41376db68ecd846ef894922969bfff29f83d0792
+#EXTINF:-1 tvg-name="Наш_Футбол" tvg-logo="Наш Футбол.png",Наш Футбол 
+acestream://4d8985338f1e60687665c7f0552ff4bf63833ad9
 #EXTINF:-1 tvg-name="Наш_Футбол_HD" tvg-logo="Наш Футбол HD.png",Наш Футбол HD 
 acestream://c490f462b4beeff1437efab0bc4cf576eeb52769
-#EXTINF:-1 tvg-name="Русский_Экстрим" tvg-logo="Русский Экстрим.png",Русский Экстрим 
-acestream://831eaa108a67a8d22628cc9859885a7b61ef1357
 #EXTINF:-1 tvg-name="Русский_Экстрим_HD" tvg-logo="Русский Экстрим HD.png",Русский Экстрим HD 
 acestream://0a0f0d055dd8b5961a1ba268e84547cd1941eb28
 #EXTINF:-1 tvg-name="Футбол_1_HD_Ua" tvg-logo="Футбол 1 HD Ua.png",Футбол 1 HD Ua 
@@ -2834,6 +2708,7 @@ acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570
 acestream://6d54f4c794fd136b9879322bf1d4103383b83f99
 #EXTINF:-1 tvg-name="Футбол-2_Укр" tvg-logo="Футбол-2 Укр.png",Футбол-2 Укр 
 acestream://177fb74bfb14aeb95c345a88977f3b6fe16b9146
+
 
 
 
@@ -2886,64 +2761,56 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-name="AD_Sport_1_HD" tvg-logo="AD Sport 1 HD.png",AD Sport 1 HD 
 acestream://d474648f2389b890b4225ae046110388c8c98675
+#EXTINF:-1 tvg-name="AD_Sport_2_HD" tvg-logo="AD Sport 2 HD.png",AD Sport 2 HD 
+acestream://73c00bebc531e75055d52c69a75c8fb85547c5f1
+#EXTINF:-1 tvg-name="AD_Sport_3_HD" tvg-logo="AD Sport 3 HD.png",AD Sport 3 HD 
+acestream://2248b43bbf1eb5f6c631da6ca7526c35f4839f3e
 #EXTINF:-1 tvg-name="Arena_Sport_2" tvg-logo="Arena Sport 2.png",Arena Sport 2 
 acestream://e9bd088d9b6224ff6d2427536cbb39c9eeb81e30
 #EXTINF:-1 tvg-name="Arena_Sport_3" tvg-logo="Arena Sport 3.png",Arena Sport 3 
 acestream://302d53bb6a7f5d6ef21056816db71a3f9259578f
 #EXTINF:-1 tvg-name="Arena_Sport_4" tvg-logo="Arena Sport 4.png",Arena Sport 4 
 acestream://351ecfe59d69eb15f38b90edbcca306440e820ab
-#EXTINF:-1 tvg-name="BT_Sport_1_HD" tvg-logo="BT Sport 1 HD.png",BT Sport 1 HD 
-acestream://e32f86a8bcce17533a7282ef969f1175dff76def
-#EXTINF:-1 tvg-name="BT_Sport_2_HD" tvg-logo="BT Sport 2 HD.png",BT Sport 2 HD 
-acestream://2b16f10b6b1f28aee99d99ff0b476a8c31756317
-#EXTINF:-1 tvg-name="BT_Sport_3_HD" tvg-logo="BT Sport 3 HD.png",BT Sport 3 HD 
-acestream://7656bff2b9b0bb8cb66e0541d925ded049e7ab4e
 #EXTINF:-1 tvg-name="BT_Sport_ESPN_HD" tvg-logo="BT Sport ESPN HD.png",BT Sport ESPN HD 
-acestream://6041431d02dbd929e2f2040bb764adffef895f58
+acestream://30ee6e2482ec05785e8e776fe958f5f7122edc53
 #EXTINF:-1 tvg-name="Bein_Sport_Espana_HD" tvg-logo="Bein Sport Espana HD.png",Bein Sport Espana HD 
 acestream://0f786a71770a9971a848ed2f6067c5a1b503bf7c
-#EXTINF:-1 tvg-name="Bein_Sport_HD11" tvg-logo="Bein Sport HD11.png",Bein Sport HD11 
-acestream://7108791273da395a09233cc360d241dc31fb0870
+#EXTINF:-1 tvg-name="Bein_Sport_La_Liga_HD" tvg-logo="Bein Sport La Liga HD.png",Bein Sport La Liga HD 
+acestream://d47620552aae0b25189c023c95c46e7268050875
 #EXTINF:-1 tvg-name="CBC_Sport_HD" tvg-logo="CBC Sport HD.png",CBC Sport HD 
-acestream://4ac8bfc800af3ee998a5bdee1f1121f93c76b40e
+acestream://316516927a390f99a12c36f792ae0c1ba93b6a2a
 #EXTINF:-1 tvg-name="Chelsea_TV" tvg-logo="Chelsea TV.png",Chelsea TV 
 acestream://2523b77a8d2fc0e55945dfb7d5e92fb9f1f5b1de
 #EXTINF:-1 tvg-name="Diema_Sport_2" tvg-logo="Diema Sport 2.png",Diema Sport 2 
 acestream://b56c4c030e66baec8f9b65a88a84b5646722aa4c
-#EXTINF:-1 tvg-name="Eir_Sport_1_HD" tvg-logo="Eir Sport 1 HD.png",Eir Sport 1 HD 
-acestream://4e048d8505ac610f936b2eada7c411e332d7bcd6
-#EXTINF:-1 tvg-name="Eir_Sport_2_HD" tvg-logo="Eir Sport 2 HD.png",Eir Sport 2 HD 
-acestream://c1f972d0a1ccc9975b56eb48651bd186db0150c9
 #EXTINF:-1 tvg-name="Eurosport_1" tvg-logo="Eurosport 1.png",Eurosport 1 
-acestream://95420dcc4a763006acc9e0ca47d53d8b134309b8
+acestream://5855aab63dce87ae7fb6cc50b2659629ea2bba40
 #EXTINF:-1 tvg-name="Eurosport_1_Deutschland" tvg-logo="Eurosport 1 Deutschland.png",Eurosport 1 Deutschland 
-acestream://e84e23926396b67655a4d58c655f97b3656087f8
+acestream://bb3971c849bd75b79e9e3608a8b6a84bb794b265
 #EXTINF:-1 tvg-name="Eurosport_1_HD" tvg-logo="Eurosport 1 HD.png",Eurosport 1 HD 
-acestream://226749c77f2f462cd141dfd6b30a566fac4c8e26
+acestream://820919bfa8ba6f518139472f6f6399106ef1633c
 #EXTINF:-1 tvg-name="Eurosport_2" tvg-logo="Eurosport 2.png",Eurosport 2 
 acestream://2ab409d2ffd3ffdeb02715b6d9fd3b0b7fce2f2f
 #EXTINF:-1 tvg-name="Eurosport_2_HD" tvg-logo="Eurosport 2 HD.png",Eurosport 2 HD 
-acestream://6dc7475d5469fd6f6520373ec9b4351d54894541
-#EXTINF:-1 tvg-name="Eurosport_Gold" tvg-logo="Eurosport Gold.png",Eurosport Gold 
-acestream://b39fec2cc7fc9b17724e7d6c9517910a3a09a0b1
+acestream://4eb305da3f7ba079104a1b1ebc4a0f23a4f3003f
 #EXTINF:-1 tvg-name="Extreme_Sports" tvg-logo="Extreme Sports.png",Extreme Sports 
-acestream://d11ac2c8a3d2207b544e4dc439f378666b1748dc
+acestream://82c8ddaf1138955dc470dc112b2b1ae10dd98167
 #EXTINF:-1 tvg-name="Extreme_Sports_(резерв)" tvg-logo="Extreme Sports (резерв).png",Extreme Sports (резерв) 
 acestream://e659b7bac73ddacc081453539063025754e32258
 #EXTINF:-1 tvg-name="FightBox" tvg-logo="FightBox.png",FightBox 
-acestream://79ef94cf30f8be2d9ab1750d2df3ab4761d5b844
+acestream://155bd4641680098395bb56e7223c221d835d9765
 #EXTINF:-1 tvg-name="FightBox_HD" tvg-logo="FightBox HD.png",FightBox HD 
-acestream://dc2fb2c4ac0854c61d100d14edff3e00d85f6521
+acestream://38ce41f1f61aa34d76cbea88df4cebeb82423fb0
 #EXTINF:-1 tvg-name="Idman_TV" tvg-logo="Idman TV.png",Idman TV 
-acestream://581ed78a1666e2437de1d0ba626bf18499a4cba7
+acestream://d8a2b48bfb64c8b0621220739cedb50357f830b5
+#EXTINF:-1 tvg-name="KazSport" tvg-logo="KazSport.png",KazSport 
+acestream://196e17e82b51a87cbc7ea145386da6ac040cc099
 #EXTINF:-1 tvg-name="Nautical_Channеl_HD" tvg-logo="Nautical Channеl HD.png",Nautical Channеl HD 
 acestream://8abb7f5b1f429bca90ae476d83f537b0b93cb841
 #EXTINF:-1 tvg-name="Olympic_Channel_HD" tvg-logo="Olympic Channel HD.png",Olympic Channel HD 
 acestream://c45a18b9b727dcbb4a26343de4037d1c97dcf234
 #EXTINF:-1 tvg-name="Polsat_Sport_Extra" tvg-logo="Polsat Sport Extra.png",Polsat Sport Extra 
-acestream://ad357d02c436c2eac3fcda5fcb872d8c46e73c20
-#EXTINF:-1 tvg-name="Premier_Sports_HD" tvg-logo="Premier Sports HD.png",Premier Sports HD 
-acestream://d7d18a73a928cd53aa0fc16e8cb2a43ba923fb38
+acestream://acca38b7390d97483119df9d5c2ca4d7416ee1fe
 #EXTINF:-1 tvg-name="Real_Madrid_TV" tvg-logo="Real Madrid TV.png",Real Madrid TV 
 acestream://64c361fac675cd709ed08bf232d2d4481235a8b2
 #EXTINF:-1 tvg-name="Setanta_Sports_Eurasia_HD" tvg-logo="Setanta Sports Eurasia HD.png",Setanta Sports Eurasia HD 
@@ -2953,103 +2820,90 @@ acestream://e10b216f056d5183bb3c785f074e7d0abea93a7f
 #EXTINF:-1 tvg-name="Sky_Sport_2_HD" tvg-logo="Sky Sport 2 HD.png",Sky Sport 2 HD 
 acestream://307d3a7fc7209d079062d6f92ff0e78c24554739
 #EXTINF:-1 tvg-name="Sky_Sport_News_HD_Deutschland" tvg-logo="Sky Sport News HD Deutschland.png",Sky Sport News HD Deutschland 
-acestream://299d1777aa3c036bb373dbe9806d6950f26ad536
-#EXTINF:-1 tvg-name="Sky_Sports_Action_HD" tvg-logo="Sky Sports Action HD.png",Sky Sports Action HD 
-acestream://275dead597cc3cb324ffb529fb71c55e331f935e
-#EXTINF:-1 tvg-name="Sky_Sports_Arena_HD" tvg-logo="Sky Sports Arena HD.png",Sky Sports Arena HD 
-acestream://bdb17e58d272591fc653d68c5b2c35fd2482b688
-#EXTINF:-1 tvg-name="Sky_Sports_Cricket_HD" tvg-logo="Sky Sports Cricket HD.png",Sky Sports Cricket HD 
-acestream://c1533b65cc037e78d499a7b50d116bf67ee4df00
-#EXTINF:-1 tvg-name="Sky_Sports_F1_HD" tvg-logo="Sky Sports F1 HD.png",Sky Sports F1 HD 
-acestream://a2f67d7337cbdc78b93f19188f5c29869d297ccd
-#EXTINF:-1 tvg-name="Sky_Sports_Football_HD" tvg-logo="Sky Sports Football HD.png",Sky Sports Football HD 
-acestream://bd7da560af7dd99be52c00288028324598d94252
+acestream://96c4935bfaad15589b62ab8ceed5a8ccd7ef237f
 #EXTINF:-1 tvg-name="Sky_Sports_Golf_HD" tvg-logo="Sky Sports Golf HD.png",Sky Sports Golf HD 
-acestream://4aa89cc9444b2f456a2d6e9261e99edea5f599d7
-#EXTINF:-1 tvg-name="Sky_Sports_Main_Event_HD" tvg-logo="Sky Sports Main Event HD.png",Sky Sports Main Event HD 
-acestream://8706ebd7dd6c426f91e042c55c64b8ca403fae9a
+acestream://7d37e36a3a756a2db4aad6e621f9794db6967007
 #EXTINF:-1 tvg-name="Sky_Sports_Mix_HD" tvg-logo="Sky Sports Mix HD.png",Sky Sports Mix HD 
-acestream://ab2e0881affb0af395658bacdd2afb0549a97fdc
-#EXTINF:-1 tvg-name="Sky_Sports_Premiere_League_HD" tvg-logo="Sky Sports Premiere League HD.png",Sky Sports Premiere League HD 
-acestream://5085749c13d7927f56f043f811d835a1883dc0c8
+acestream://c9a0f984a75ba52cce6b0c6fdeb30f32e9e80b50
 #EXTINF:-1 tvg-name="Sport_2_HD_Il" tvg-logo="Sport 2 HD Il.png",Sport 2 HD Il 
 acestream://b5838f14ee0f0017d46d48dcf99abeccd619af17
 #EXTINF:-1 tvg-name="Super_Tennis_HD" tvg-logo="Super Tennis HD.png",Super Tennis HD 
-acestream://e29214e04697857a9d17a177051feeb788f388e9
+acestream://4b3f9a58df6542536f759dcb58abd8cc4965e754
 #EXTINF:-1 tvg-name="Viasat_Fotboll" tvg-logo="Viasat Fotboll.png",Viasat Fotboll 
-acestream://aadb8fe414f069ca0a1f5fb44a88139f4e84c1a2
+acestream://466e6e854b87a9ccad512ff7be0ac1951321dad6
 #EXTINF:-1 tvg-name="Viasat_Golf" tvg-logo="Viasat Golf.png",Viasat Golf 
 acestream://28924747862f3994c20ec41a2fa447184b360caa
 #EXTINF:-1 tvg-name="Viasat_Sport" tvg-logo="Viasat Sport.png",Viasat Sport 
-acestream://1304a104b573ec2ecbe1cee6c61faaa0948eac7e
+acestream://f7b7d37c485883799173f1cf9bf3f6c804e4254b
 #EXTINF:-1 tvg-name="Viasat_Sport_Baltic" tvg-logo="Viasat Sport Baltic.png",Viasat Sport Baltic 
-acestream://6941fd11ec99c5c731f6b3f8c6e07dd580cc4447
+acestream://9b1ea10701587fe01ab49f565e417795e7ad7968
 #EXTINF:-1 tvg-name="Viasat_Sport_HD" tvg-logo="Viasat Sport HD.png",Viasat Sport HD 
-acestream://537a00d1f8cccd86a7ef318622ab94d6750f8108
+acestream://764578282beb46ac8f80f4fbccaceae90b470457
 #EXTINF:-1 tvg-name="XSport" tvg-logo="XSport.png",XSport 
 acestream://ca5a7ad9209b591b32f0fa408ed5b191bc04338c
 #EXTINF:-1 tvg-name="КТРК_Спорт" tvg-logo="КТРК Спорт.png",КТРК Спорт 
 acestream://0dd234f5e146bea0dfa3e8dd765e75ab0afb8af1
 #EXTINF:-1 tvg-name="КХЛ_HD" tvg-logo="КХЛ HD.png",КХЛ HD 
-acestream://661d4d0e0880a4ffe75a58191b70de503390037c
+acestream://a3fc3609e2ee47025fd967dad065b8400e9843d2
 #EXTINF:-1 tvg-name="КХЛ_ТВ" tvg-logo="КХЛ ТВ.png",КХЛ ТВ 
 acestream://e69b9e29219759087724be7b1dec20c16d79b9ad
 #EXTINF:-1 tvg-name="Конный_мир" tvg-logo="Конный мир.png",Конный мир 
 acestream://ce52396f804d37d0619b45a5e11a17be631389e7
 #EXTINF:-1 tvg-name="Конный_мир_HD" tvg-logo="Конный мир HD.png",Конный мир HD 
-acestream://8f7239362b718ea24a5778bd9c06a4f69c009ce5
+acestream://955696fa3350d50b304cbd82590ef22c8c75b7b5
 #EXTINF:-1 tvg-name="Матч_ТВ" tvg-logo="Матч ТВ.png",Матч ТВ 
-acestream://84658484d12b3b8866dacbe4e4a7eb012f4ed229
+acestream://633b79edb3351d58cb0bf732cd15a6aa685eb994
 #EXTINF:-1 tvg-name="Матч_ТВ_HD" tvg-logo="Матч ТВ HD.png",Матч ТВ HD 
-acestream://3cd73ec5434698e38f6e8931769dd9e977ddf59e
+acestream://4412b6ccaacb77485f5ecd472d63e26a5fedb2ee
 #EXTINF:-1 tvg-name="Матч!_Арена" tvg-logo="Матч! Арена.png",Матч! Арена 
 acestream://ee6e92e3363909b4e8498d92e973bd793015a54f
 #EXTINF:-1 tvg-name="Матч!_Арена_HD" tvg-logo="Матч! Арена HD.png",Матч! Арена HD 
-acestream://7b5d46d08860a3bf35ee94acbe4ca0f3f7954be1
+acestream://5eb318146f4ba5f655ebfcd13582fa9dcabd6ced
 #EXTINF:-1 tvg-name="Матч!_Игра" tvg-logo="Матч! Игра.png",Матч! Игра 
 acestream://4d5701c3f3bd88f8fb9d27f53f8aff5c9323fa63
 #EXTINF:-1 tvg-name="Матч!_Игра_HD" tvg-logo="Матч! Игра HD.png",Матч! Игра HD 
-acestream://349f341624cf967d74285160567cb24780594f44
+acestream://58c4a2e08e369a2a7bc4627c20eb2f07073e1dc2
 #EXTINF:-1 tvg-name="Матч!_Наш_Спорт" tvg-logo="Матч! Наш Спорт.png",Матч! Наш Спорт 
-acestream://29c62d618ddc79f2650706660a159885de8a0fc2
+acestream://815f16d53163243d6ccbb96b0eeec0c963a4db7c
 #EXTINF:-1 tvg-name="Матч!_Планета" tvg-logo="Матч! Планета.png",Матч! Планета 
-acestream://19143f3c406e3f8f67314f50dd2390c77f919888
+acestream://50ee98831df0e5b79a29c85fcbeeeedb52cf98e4
 #EXTINF:-1 tvg-name="Матч!_Футбол_1" tvg-logo="Матч! Футбол 1.png",Матч! Футбол 1 
-acestream://34d488bc9205ab05cc17ce1fc423e50044b0759f
+acestream://32adfd44ab4919165c46045d2f219593362c8d16
 #EXTINF:-1 tvg-name="Матч!_Футбол_1_HD" tvg-logo="Матч! Футбол 1 HD.png",Матч! Футбол 1 HD 
-acestream://11fe0410fb9df599b96268218a89bba56e9802a8
+acestream://64159b9ccd8dfa35d6c7b8bb327f95d27e6b449f
 #EXTINF:-1 tvg-name="Матч!_Футбол_1_HD_Резерв_1" tvg-logo="Матч! Футбол 1 HD Резерв 1.png",Матч! Футбол 1 HD Резерв 1 
-acestream://fed05dcd5382963e44300ff075c786130c12b9ca
+acestream://acd59c02b4499b5e1938c7682f29f79513a745ff
 #EXTINF:-1 tvg-name="Матч!_Футбол_1_HD_Резерв_2" tvg-logo="Матч! Футбол 1 HD Резерв 2.png",Матч! Футбол 1 HD Резерв 2 
 acestream://b0e1d6d3d35c3eeb15e2f453dbd9d7d0451f3ea0
 #EXTINF:-1 tvg-name="Матч!_Футбол_1_HD_Резерв_3" tvg-logo="Матч! Футбол 1 HD Резерв 3.png",Матч! Футбол 1 HD Резерв 3 
-acestream://19648659d584a78252efd79e599753f4acc0ab9d
+acestream://0ea99729f4a67ff75f76827685a2706d6204d936
 #EXTINF:-1 tvg-name="Матч!_Футбол_1_Резерв_1" tvg-logo="Матч! Футбол 1 Резерв 1.png",Матч! Футбол 1 Резерв 1 
-acestream://552c1ae0cd5937012dfad02b62f068e10ea67b67
+acestream://6088b6716a927ce1147b22bab1a2e8347a51651f
 #EXTINF:-1 tvg-name="Матч!_Футбол_1_Резерв_2" tvg-logo="Матч! Футбол 1 Резерв 2.png",Матч! Футбол 1 Резерв 2 
 acestream://641704cd379ae1c7d4f06c7066f5e513a8af43f1
 #EXTINF:-1 tvg-name="Матч!_Футбол_1_Резерв_3" tvg-logo="Матч! Футбол 1 Резерв 3.png",Матч! Футбол 1 Резерв 3 
-acestream://6b57b2a7ee23d6d4dfe4a7397e2c3b2cc64d5807
+acestream://a7890ddb76527042884cae88391353676a1272f3
 #EXTINF:-1 tvg-name="Матч!_Футбол_2" tvg-logo="Матч! Футбол 2.png",Матч! Футбол 2 
-acestream://f18ba615698eb814df531e5c4634bbfe51f39564
+acestream://30ed085a0a2d44ade48fac2c601366c56edfdb04
 #EXTINF:-1 tvg-name="Матч!_Футбол_2_HD" tvg-logo="Матч! Футбол 2 HD.png",Матч! Футбол 2 HD 
-acestream://8c38b1f58dafc34244aeef0b2c2b7a24d8494222
+acestream://701628f45a424bfb7d1e0d0a2ec65a3c72d293a1
 #EXTINF:-1 tvg-name="Матч!_Футбол_3" tvg-logo="Матч! Футбол 3.png",Матч! Футбол 3 
-acestream://a74f95df49d7cdadb71f2e8b3e1d8ead196412f8
+acestream://35ff38223dd4589ff7e25eaebca0dfe348a1c151
 #EXTINF:-1 tvg-name="Матч!_Футбол_3_HD" tvg-logo="Матч! Футбол 3 HD.png",Матч! Футбол 3 HD 
-acestream://f39cb907c11eafc40b06f23e4e6953e0e452d189
+acestream://74a1c4c6605fc75a55481fe49be6729e4ab42d88
 #EXTINF:-1 tvg-name="Спорт_1_(Украина)" tvg-logo="Спорт 1 (Украина).png",Спорт 1 (Украина) 
 acestream://7da53fc52e3ea4efd0cc3a492f97a20f30b1d161
 #EXTINF:-1 tvg-name="Старт_ТВ_HD" tvg-logo="Старт ТВ HD.png",Старт ТВ HD 
 acestream://f967ab83e883cbd35f17cceb71cc07f501834ee0
 #EXTINF:-1 tvg-name="Футбол" tvg-logo="Футбол.png",Футбол 
-acestream://0fa5802c70b302b3cd39c35e95c9d1ee9cb1fdcf
+acestream://364a7ec8c7deeb65006d9ce5d3a1d719384a76a6
 #EXTINF:-1 tvg-name="Футбол_1_(Украина)" tvg-logo="Футбол 1 (Украина).png",Футбол 1 (Украина) 
-acestream://6d2330af16a0b7250c6bf9805b5395d87ed47ecc
+acestream://3297eec0ee45fa152662f0248b157f164fc740e5
 #EXTINF:-1 tvg-name="Футбол_2_(Украина)" tvg-logo="Футбол 2 (Украина).png",Футбол 2 (Украина) 
 acestream://878eb1733f53171e3a5f53ba80fc703fc0cc2374
 #EXTINF:-1 tvg-name="Футбол_2_HD" tvg-logo="Футбол 2 HD.png",Футбол 2 HD 
 acestream://8086a59387119bb5c00cf3116266c33eb477dafb
+
 
 
 
@@ -3101,9 +2955,6 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 acestream://fe40ad1ded331a323c99ad3cec08db6c67073324
 #EXTINF:-1,Футбол 2 HD
 acestream://8086a59387119bb5c00cf3116266c33eb477dafb
-
-
-
 #EXTINF:0,GOLF BRITISH AFN
 acestream://99e4657478e7b768ace5281ece419f9899e663e2
 #EXTINF:0,GOLF BRITISH VS
@@ -3186,46 +3037,48 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
 
+
 #EXTINF:-1,av01 (Arenavision)
-acestream://541257197770d34d4e89a05dac57b259e9e63127
+acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8
 #EXTINF:-1,av03 (Arenavision)
-acestream://6d478fdbfc8d4f8fc165953443ba25f8c64e2de6
+acestream://649fc6cbd093396596ddcd74cf25eb75437736a7
 #EXTINF:-1,av05 (Arenavision)
-acestream://f53be5c12b02147c0b6db8eccb2382dadfc80695
+acestream://dff7b23b67f5e9fd7e1969c199dc5298ca87d014
 #EXTINF:-1,av07 (Arenavision)
-acestream://803d4a1c84d693e29accc37e6294b04cb1fd6302
+acestream://b935a984fddb25d6582510cbe8a0462f15f3c7b6
 #EXTINF:-1,av08 (Arenavision)
-acestream://60b663f1299be92327aee5279cb3832c60526f65
+acestream://cf8b25c7394a95467138303d45f1c088d391fbfd
 #EXTINF:-1,av10 (Arenavision)
-acestream://aa634a4a55bb780a0ae52a53ed0f6bbd120ef59c
+acestream://6d81607ebb0216e3642fe39e871394171a45918d
 #EXTINF:-1,av12 (Arenavision)
 acestream://b32d0c731081e0f6a36f4078851f3ad8cfdfefba
 #EXTINF:-1,av13 (Arenavision)
-acestream://741dc504eef1b01edcfdbc0b00cce929e4cc17d8
+acestream://d9d2043bfeb832b3f9c2c14d943ae8099870a783
 #EXTINF:-1,av15 (Arenavision)
-acestream://9fad5191557d9802b63357127f6fe75bfd01df0a
+acestream://7dec8b9689264d00b8a10bc5c3bcede0c069634e
 #EXTINF:-1,av17 (Arenavision)
-acestream://11816c3fdf09a722abb938704c03a94f1b08c8f3
+acestream://093944897dc5f00512ffc5622e75bc9eb70a78d8
 #EXTINF:-1,av19 (Arenavision)
-acestream://74b5253870d0c79c6c91b8b5a22585a836501bea
+acestream://a250a03f8a59c000efb32a4fa9e5efddf99fd20b
 #EXTINF:-1,av21 (Arenavision)
-acestream://bc34a5ac693795a8951b13412e11681f0a72e5cc
+acestream://4de88b3009186ab409fb4d0464efda71f82ae29c
 #EXTINF:-1,av23 (Arenavision)
 acestream://ac66f5e77fb3da368db4a94e96b2881af98d59b3
 #EXTINF:-1,av25 (Arenavision)
-acestream://a59f0cd6741e064abe691edffd800fa69ba221f8
+acestream://1a5b7bb82cbcef09d5d1e41809e38042c9d7d9de
 #EXTINF:-1,av27 (Arenavision)
-acestream://99d4389c15ddafcc257080f054ab3e81cf8457d8
+acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1
 #EXTINF:-1,av29 (Arenavision)
-acestream://14addbe63710c24d6c87e761b8940eef0e6da6f9
+acestream://246632587de1dacf0c6bcaf812a0c11e80bb9fa9
 #EXTINF:-1,av30 (Arenavision)
-acestream://81f57a038948e20b78cf5d9241eaeb7adcac952b
+acestream://32840eee48a281d764103342246490a6ccf6aa1d
 #EXTINF:-1,av31 (Arenavision)
-acestream://315c1cdeb35714b9d6b3c788e1c05a9dac29b263
+acestream://8bf132e976811d764a5d9db6aa04834da2506996
 #EXTINF:-1,av32 (Arenavision)
 acestream://fd513e3591f00552f6bb674d37c4bd53322d1ce0
 #EXTINF:-1,av34 (Arenavision)
 acestream://558e085353fbfb75f7e9769b2a04c342a4a481db
+
 
 
 
@@ -3322,10 +3175,6 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
-
-
-#EXTINF:-1 tvg-name="Disney_Cinemagic_HD_De" tvg-logo="Disney Cinemagic HD De.png",Disney Cinemagic HD De 
-acestream://98a3844d55cec5c1d3c863fb4c372e957f70b7a4
 #EXTINF:-1 tvg-name="Mgm_HD" tvg-logo="Mgm HD.png",Mgm HD 
 acestream://fbbfa5605e607dcf45d87a798e3eaea399438bc8
 #EXTINF:-1 tvg-name="Tv1000_Comedy_HD" tvg-logo="Tv1000 Comedy HD.png",Tv1000 Comedy HD 
@@ -3334,29 +3183,18 @@ acestream://c41846a62d4ed5bf0f70ba695afe8b7c1fb68472
 acestream://64a8b0a068019a445b0870042a7d8a18cdaef89b
 #EXTINF:-1 tvg-name="Tv1000_Premium_HD" tvg-logo="Tv1000 Premium HD.png",Tv1000 Premium HD 
 acestream://3d98e83f5d2319a9f5c31d79b564484d6d26d7f4
-#EXTINF:-1 tvg-name="Кино_Премиум_HD" tvg-logo="Кино Премиум HD.png",Кино Премиум HD 
-acestream://6ba9eaa03e9946862d4ae64ce0c68c03a810b027
 #EXTINF:-1 tvg-name="Кино_Тв_HD" tvg-logo="Кино Тв HD.png",Кино Тв HD 
 acestream://c1646de83de869a7842df2150278bc8fb6f35a05
 #EXTINF:-1 tvg-name="Кинопоказ_Hd1" tvg-logo="Кинопоказ Hd1.png",Кинопоказ Hd1 
 acestream://c6484ea7f5445ff5d3b2da6be01e797bac665b44
 #EXTINF:-1 tvg-name="Кинопоказ_Hd2" tvg-logo="Кинопоказ Hd2.png",Кинопоказ Hd2 
 acestream://a23f44509cb06cb9ce30f1052188b3747b7e2068
-#EXTINF:-1 tvg-name="Кинопремьера_HD" tvg-logo="Кинопремьера HD.png",Кинопремьера HD 
-acestream://40658d52d7d4d0ae5a144db3dbd2684186d7c601
 #EXTINF:-1 tvg-name="Матч_Футбол_1_HD" tvg-logo="Матч Футбол 1 HD.png",Матч Футбол 1 HD 
 acestream://4751514e3515e1b76d1a9ec0fc88dadfba6825a9
 #EXTINF:-1 tvg-name="Мужское_Кино" tvg-logo="Мужское Кино.png",Мужское Кино 
 acestream://3d378d419d880fea28508fc1c455165362fc112d
-#EXTINF:-1 tvg-name="Наше_HD" tvg-logo="Наше HD.png",Наше HD 
-acestream://68aa514079a8871e71b78ed5329f2b31b6c69a03
-#EXTINF:-1 tvg-name="Остросюжетное_HD" tvg-logo="Остросюжетное HD.png",Остросюжетное HD 
-acestream://e7c27af87599e9c72ed46e25631702a17c49e129
 #EXTINF:-1 tvg-name="Планета_HD" tvg-logo="Планета HD.png",Планета HD 
 acestream://477ebd02b9c8c3ba7cf9a2c0f39fe4f538ab67a2
-#EXTINF:-1 tvg-name="Тнт_Music" tvg-logo="Тнт Music.png",Тнт Music 
-acestream://9d99e94caf94bb311f43baee1c30cf5a2eea87dc
-
 
 
 #EXTINF:-1 tvg-name="Amedia_Hit_HD" tvg-logo="Amedia Hit HD.png",Amedia Hit HD 
@@ -3367,14 +3205,8 @@ acestream://6ff386df5870d473b387476438becddb4fe95eab
 acestream://9038537f0767b6c1e893bed4a0ac83c5a13b70bd
 #EXTINF:-1 tvg-name="Fox_Life_HD" tvg-logo="Fox Life HD.png",Fox Life HD 
 acestream://48768f37606b2a50babaf24be5060550acdd7bd1
-#EXTINF:-1 tvg-name="Paramount_Comedy_HD" tvg-logo="Paramount Comedy HD.png",Paramount Comedy HD 
-acestream://e12493e019e08049e06f45a34f78f0ec21fcaeb1
 #EXTINF:-1 tvg-name="Paramount_channel_HD_Россия" tvg-logo="Paramount channel HD Россия.png",Paramount channel HD Россия 
 acestream://ff5b9f6b863aac531e634ff0970e3daaf6070775
-#EXTINF:-1 tvg-name="Sky_Atlantic_HD" tvg-logo="Sky Atlantic HD.png",Sky Atlantic HD 
-acestream://161a50671fb5aa2a451bf3bd1bb94bbe86abe765
-#EXTINF:-1 tvg-name="Sky_Living" tvg-logo="Sky Living.png",Sky Living 
-acestream://a1323768c7e138c7102469791d6a1add5a625b09
 #EXTINF:-1 tvg-name="Sony_Sci-Fi" tvg-logo="Sony Sci-Fi.png",Sony Sci-Fi 
 acestream://95ef2f0582ad8f0355a9291170faee8cca587679
 #EXTINF:-1 tvg-name="Русский_Роман_HD" tvg-logo="Русский Роман HD.png",Русский Роман HD 
@@ -3429,193 +3261,195 @@ acestream://29d6262c3e42fe39a91df63767a6f9c2922fcbe4
 #EXTINF:-1 tvg-name="A1_Смотри_один_HD" tvg-logo="A1 Смотри один HD.png",A1 Смотри один HD 
 acestream://3693ee3db31b1eef4da6681fb3aa4eb9b5e1d86d
 #EXTINF:-1 tvg-name="AMC" tvg-logo="AMC.png",AMC 
-acestream://b7a294c21a5cdbbd7d7fd64295e235290d97c7d0
+acestream://ed0ffb11827e7dd8bce1cfab739c64de77566643
 #EXTINF:-1 tvg-name="Amedia_1" tvg-logo="Amedia 1.png",Amedia 1 
-acestream://12773c8287cd55e62f299d49e65e592fa0b94791
+acestream://35cafe56f9d21cda8c0c4761eae39d488dccbbd5
 #EXTINF:-1 tvg-name="Amedia_2" tvg-logo="Amedia 2.png",Amedia 2 
-acestream://d86edfbdf5bc35efe296976f87d0968fb2e60148
+acestream://169cca2ba74a10e716333ae71870d07749ca2906
 #EXTINF:-1 tvg-name="Amedia_Hit" tvg-logo="Amedia Hit.png",Amedia Hit 
 acestream://6f47693e3c7bef3c0db036566ef31adca9759b0e
 #EXTINF:-1 tvg-name="Amedia_Hit_HD" tvg-logo="Amedia Hit HD.png",Amedia Hit HD 
-acestream://76d637b7c14b122b8a6937802a84540d1d143649
+acestream://df4936a23da7e815c089d0d3058a356e2497cc5f
 #EXTINF:-1 tvg-name="Amedia_Premium" tvg-logo="Amedia Premium.png",Amedia Premium 
 acestream://3275ea11d736ecaaf75dd121225dc220c48a1626
 #EXTINF:-1 tvg-name="Amedia_Premium_HD" tvg-logo="Amedia Premium HD.png",Amedia Premium HD 
-acestream://e062ed1a9cf5dc29e32182ab1fca3fc60cccf46e
+acestream://d41b753dc2959ad467a8b8c0bb22c03153983466
 #EXTINF:-1 tvg-name="BEST_Films_HD" tvg-logo="BEST Films HD.png",BEST Films HD 
 acestream://b9cf1704cebe0ebce566ecb2006415bbf027e90e
 #EXTINF:-1 tvg-name="BOLT_HD" tvg-logo="BOLT HD.png",BOLT HD 
 acestream://cae0ec34c2208867caa437e69af5d45851fad42d
 #EXTINF:-1 tvg-name="Bollywood_HD" tvg-logo="Bollywood HD.png",Bollywood HD 
-acestream://db2eb88c051e5b36dfef666d90fc449efe907d1f
+acestream://20fc227da47ce28cc4fd71737150db2c884e7584
 #EXTINF:-1 tvg-name="Cinema" tvg-logo="Cinema.png",Cinema 
-acestream://325917801288cbe9edee8291d13962bdf0cd820c
+acestream://73324555ac143ef81d22751dc868ac0bb169bf6a
 #EXTINF:-1 tvg-name="Enter_Film" tvg-logo="Enter Film.png",Enter Film 
-acestream://f6e41d6d3ba5e9a7cc4da2851ff5d570b269ef0b
+acestream://05ac8639f08ce54917a669d561e4106ffbd062a3
 #EXTINF:-1 tvg-name="FILMUADRAMA" tvg-logo="FILMUADRAMA.png",FILMUADRAMA 
-acestream://5f0dc460d10fed559a8d73d5fd95581a064b2574
+acestream://ca27b04353aced0a15c2d9d5bf98b8c32b763d65
 #EXTINF:-1 tvg-name="Fantasy" tvg-logo="Fantasy.png",Fantasy 
 acestream://b3f08f320702620067ecb3d2aee476329b1e9793
 #EXTINF:-1 tvg-name="FilmBox_Action" tvg-logo="FilmBox Action.png",FilmBox Action 
-acestream://db82a32d9729fc64e5da92b7331feb91d43bcc4b
+acestream://3f979e519f532ac001f6535af1d8fec11cb20749
 #EXTINF:-1 tvg-name="FilmBox_Arthouse" tvg-logo="FilmBox Arthouse.png",FilmBox Arthouse 
-acestream://d385f73fea8183ad3b29c9a4d9cd890e8ac7c2ce
+acestream://23488e1414d6a57c64b3bd1c4ad9f1239fe46d04
 #EXTINF:-1 tvg-name="FilmBox_Arthouse_Rus" tvg-logo="FilmBox Arthouse Rus.png",FilmBox Arthouse Rus 
-acestream://fd4919f351e008c6666d5ba307bc8c3c3bbe5a6e
+acestream://848ac5df914e2ec7932b39c825212de5a0643968
 #EXTINF:-1 tvg-name="FilmBox_Family" tvg-logo="FilmBox Family.png",FilmBox Family 
-acestream://e2c37ed45315f47fab81d6ccea1dcdcf58ea3854
+acestream://05c5eb5e340f9f942c9d4e446f6d231144839e69
 #EXTINF:-1 tvg-name="FilmBox_HD" tvg-logo="FilmBox HD.png",FilmBox HD 
-acestream://8a476a40508f2e96fe5ee73f56caab4576c050b4
+acestream://e159a5442e1af2cbeaff6f5b82155bf811db9c7c
 #EXTINF:-1 tvg-name="FilmUADrama_HD" tvg-logo="FilmUADrama HD.png",FilmUADrama HD 
 acestream://991502cece022a253dd5f0fe4bb13e0cedf1f1e2
 #EXTINF:-1 tvg-name="Filmbox_Premium_Polska" tvg-logo="Filmbox Premium Polska.png",Filmbox Premium Polska 
-acestream://8409cf2e0db7516033386376038b1c42b2a19f85
+acestream://b0722d39d2cf6bb43a7916af5189c42d9119517e
 #EXTINF:-1 tvg-name="Fox" tvg-logo="Fox.png",Fox 
-acestream://d4ab6ba68174df6998af83d73769b8bec717fabd
+acestream://07cfacc524f3012d4e2d254dfbfdc8350e0fbff0
 #EXTINF:-1 tvg-name="Fox_HD" tvg-logo="Fox HD.png",Fox HD 
-acestream://38c02ab5c4947d019a241c9123258220e868db16
+acestream://3e0b80ffdf35624541a77f080652f0e9fe9f4541
 #EXTINF:-1 tvg-name="Fox_Life" tvg-logo="Fox Life.png",Fox Life 
-acestream://70df6e9279f0996467aff4d59e25471f290bb720
+acestream://dafcc78754150602e2395c6264af08bc3b05df91
 #EXTINF:-1 tvg-name="Fox_Life_HD" tvg-logo="Fox Life HD.png",Fox Life HD 
-acestream://c663e3e5e7970baa208f85f8a4751bdf8f9317f1
+acestream://dcae0964a5e9d4c7992e31bc44664a87a0204477
 #EXTINF:-1 tvg-name="KinoTV_Polska" tvg-logo="KinoTV Polska.png",KinoTV Polska 
-acestream://cd3205739b0673c57d482901a71e1a79ce9b3336
+acestream://95f5ce95c9a65de38157083d642ea396c9dba7de
 #EXTINF:-1 tvg-name="MGM_HD" tvg-logo="MGM HD.png",MGM HD 
-acestream://9671925e195e04d0681567b7503d100d57701f91
+acestream://f75520353c888a7ac847e6b9d9d5c29b763c4513
 #EXTINF:-1 tvg-name="Movies4Men" tvg-logo="Movies4Men.png",Movies4Men 
-acestream://c162c03fb62ccc8165e5a232789e7c8fe3043f23
+acestream://690f328425de81ebee37bae9fa2503caecf39d3a
 #EXTINF:-1 tvg-name="Ovideo.Ru_HD" tvg-logo="Ovideo.Ru HD.png",Ovideo.Ru HD 
 acestream://6566640a13906b2a0e2f3ab450f16043d46f1ca4
 #EXTINF:-1 tvg-name="Paramount_Channel" tvg-logo="Paramount Channel.png",Paramount Channel 
 acestream://dff2222e44c23f154b760552fb2f251a4735971c
 #EXTINF:-1 tvg-name="Polsat_Film" tvg-logo="Polsat Film.png",Polsat Film 
-acestream://7ac6a56e97c695a493af226df3707c7df4f90a26
+acestream://414e33360e48e143ea03948909d5d3b3ac2e2f83
 #EXTINF:-1 tvg-name="SET" tvg-logo="SET.png",SET 
-acestream://9507f40d9611e9a59e9885317481df356560d182
+acestream://6cd590ba24f4c10eca7e8f8e922aa85cb10352fb
 #EXTINF:-1 tvg-name="SET_HD" tvg-logo="SET HD.png",SET HD 
-acestream://ff14a9c65657c6893b9ff898ebb98a30b020f98e
+acestream://72ca04f20901df60ed2834071eb87722d92a464b
 #EXTINF:-1 tvg-name="Sony_Channel_Turkey" tvg-logo="Sony Channel Turkey.png",Sony Channel Turkey 
 acestream://5e0de95aabc91c56b03c7159d23765e9e110f624
 #EXTINF:-1 tvg-name="Sony_Sci-Fi" tvg-logo="Sony Sci-Fi.png",Sony Sci-Fi 
-acestream://42fb3918dbfd9a3c7da6db43c5c40087c1534581
+acestream://ec89b9c51d9690c4a5d6e015a7ef66de556a52cf
 #EXTINF:-1 tvg-name="Sony_Turbo" tvg-logo="Sony Turbo.png",Sony Turbo 
-acestream://526c5b3fc24ada2218ee418a4a81b55a958874a5
+acestream://1cc70ea7105dbfd62699bace5b8394bafae4b1fb
 #EXTINF:-1 tvg-name="Spike" tvg-logo="Spike.png",Spike 
-acestream://497cee09d41996aabdd536e115d750836e5d952c
+acestream://7d6aed5ba3f10b49a5b30f22a0da909c724a176b
 #EXTINF:-1 tvg-name="Stopklatka_TV" tvg-logo="Stopklatka TV.png",Stopklatka TV 
-acestream://e1197625e74ebf4843afd80b1b1a1cd1d80e6288
+acestream://61d222a2fd09f14aaa552b730579ed162be36e92
 #EXTINF:-1 tvg-name="TV_1000" tvg-logo="TV 1000.png",TV 1000 
 acestream://e9793ee7f6aa1d8beb470b8399c777898f7d1c1b
 #EXTINF:-1 tvg-name="TV_1000_Action_East" tvg-logo="TV 1000 Action East.png",TV 1000 Action East 
-acestream://175df57ad2b4633930c43cf302fe712ff32c1b58
+acestream://27afe3dffa795e31f9d6912526758695a1ac6e1c
 #EXTINF:-1 tvg-name="TV_1000_World_Kino" tvg-logo="TV 1000 World Kino.png",TV 1000 World Kino 
 acestream://d8075903d06ef1501ca03777794ad74b24833dd3
 #EXTINF:-1 tvg-name="TV_1000_Русское_кино" tvg-logo="TV 1000 Русское кино.png",TV 1000 Русское кино 
-acestream://dddd59f3a427ac7661e14d73d5c8c1c1437dbf8e
+acestream://474e7024c09d9338d2324f2f532c436d4743e817
 #EXTINF:-1 tvg-name="TV_XXI_(TV21)" tvg-logo="TV XXI (TV21).png",TV XXI (TV21) 
-acestream://b114272df6fb4e4191d84af336e1b8db3c2c0111
+acestream://5fd84a96c2aea8824a1194e205962412fceccf85
 #EXTINF:-1 tvg-name="TV1000_Comedy_HD" tvg-logo="TV1000 Comedy HD.png",TV1000 Comedy HD 
-acestream://519693e01a1a21eee9ce8c01dd59e3783096cf10
+acestream://9f26d66d8e0febb9a4a972aab8d4e05a1346474e
 #EXTINF:-1 tvg-name="TVP_Seriale" tvg-logo="TVP Seriale.png",TVP Seriale 
-acestream://e59b11b5f16d2aee17384f6558cebe07f5b8f3e9
+acestream://5085ed61bcf057682919c1e4d458a48f22790169
 #EXTINF:-1 tvg-name="ViP_Megahit_HD" tvg-logo="ViP Megahit HD.png",ViP Megahit HD 
-acestream://c7769e9c416a453d20045278b37b2b14d8e6261a
+acestream://9dd1076df708d2c31bda55c11db6af31cc5fe70a
 #EXTINF:-1 tvg-name="ViP_Premiere" tvg-logo="ViP Premiere.png",ViP Premiere 
-acestream://52b12ea647d4fe0e1a29721b36ced8abf78d27b5
+acestream://93d794989fb8534e6ea84cb4b16de2a6bed61095
 #EXTINF:-1 tvg-name="Zee_TV" tvg-logo="Zee TV.png",Zee TV 
-acestream://99ec0e13ac232afb221775de5a7166a52aa321f1
+acestream://85118a0e153bc0e0ad25b8475802d8a6f3f864ae
 #EXTINF:-1 tvg-name="Дом_кино" tvg-logo="Дом кино.png",Дом кино 
-acestream://2afa6d04d7e3e98e94534f812134e80be82da627
+acestream://14d1a2a5e401a37cd1ef056a902cad62b955c344
 #EXTINF:-1 tvg-name="Дом_кино_Премиум_HD" tvg-logo="Дом кино Премиум HD.png",Дом кино Премиум HD 
-acestream://b96e350f456ba1279215941939bbe8a6c4dfb44e
+acestream://11968e7ea918b1d378073079022364a76f9a13ad
 #EXTINF:-1 tvg-name="Еврокино" tvg-logo="Еврокино.png",Еврокино 
-acestream://e63868837ce50b0f8325a945f5ed08698c84c62d
+acestream://10fc9981fe4e5adeb0d201713555eff89080282e
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-logo="Иллюзион+.png",Иллюзион+ 
-acestream://b7a153760598ec98a58bf1d3c95a27cc014969c8
+acestream://8b997f8db29ca65bab0e243591efe49c9af6e622
 #EXTINF:-1 tvg-name="Индийское_кино" tvg-logo="Индийское кино.png",Индийское кино 
-acestream://aa256d60024a3a89cc0b98cb7e88a2053c7a454c
+acestream://613e9c9a6d9be6f631f4d75328128a7733ec5578
 #EXTINF:-1 tvg-name="Кино_ТВ" tvg-logo="Кино ТВ.png",Кино ТВ 
-acestream://cd1f5d97c96b21b6fbf48cc0c4d5aac7c79b71ec
+acestream://61cab44f1fa94df603ffb4c0d8f05218f90eac9b
 #EXTINF:-1 tvg-name="Кино_ТВ_HD" tvg-logo="Кино ТВ HD.png",Кино ТВ HD 
-acestream://5dd14ef4ad3af42fc71ce8058a41a9038fb3d699
+acestream://32bfcb19699174e480108f1d81159eb3773e296b
 #EXTINF:-1 tvg-name="КиноПремиум_HD" tvg-logo="КиноПремиум HD.png",КиноПремиум HD 
-acestream://dc5e165504dd51bb9ad5d19c5db32523478d5b0f
+acestream://9218bb2e9934ceb7b26b43cd174bf4aa475ddf5c
 #EXTINF:-1 tvg-name="Кинокомедия" tvg-logo="Кинокомедия.png",Кинокомедия 
-acestream://18d928ceb44b2c3dd6a2dc8ad67e338c9d72e89d
+acestream://c081853f2cf26e250559d6031f46fabd9898be8f
 #EXTINF:-1 tvg-name="Киномикс" tvg-logo="Киномикс.png",Киномикс 
-acestream://8a711c87b131f01bf9c3e55491537753c13639b7
+acestream://285175d8876b0bec9487dd28c8f0beaefff0e02b
 #EXTINF:-1 tvg-name="Кинопоказ" tvg-logo="Кинопоказ.png",Кинопоказ 
-acestream://8d3c3448ef70aba57106ffcab54dd0146db957c4
+acestream://6d93c96eff15ad0dcfb747f205070115758d83b1
 #EXTINF:-1 tvg-name="Кинопоказ_1_HD" tvg-logo="Кинопоказ 1 HD.png",Кинопоказ 1 HD 
-acestream://a4214e9dad6fae60359a83b82546420cbd1ae2c7
+acestream://26dd5645e981f6e239033b4b1fcd6856fb7da2a5
 #EXTINF:-1 tvg-name="Кинопоказ_2_HD" tvg-logo="Кинопоказ 2 HD.png",Кинопоказ 2 HD 
-acestream://ab1db0876b12103d75000e848d3443977b9ddd94
+acestream://d7193282f3e6fbeed4330232013f5f097117b762
 #EXTINF:-1 tvg-name="Кинопремьера_HD" tvg-logo="Кинопремьера HD.png",Кинопремьера HD 
-acestream://ee72ffd7e9e12061a25ffc359471679011943fc1
+acestream://c0f9f5322f188ed8a713872db00da0a9af25e3ce
 #EXTINF:-1 tvg-name="Киносвидание" tvg-logo="Киносвидание.png",Киносвидание 
 acestream://3c8c59f945badcbba6d544792bb0d252392fbb12
 #EXTINF:-1 tvg-name="Киносемья" tvg-logo="Киносемья.png",Киносемья 
 acestream://89ae43c76c8e49ff1d454892d24a6f9f33654780
 #EXTINF:-1 tvg-name="Киносерия" tvg-logo="Киносерия.png",Киносерия 
-acestream://3877132c4e89722fc94c52712b0cab1b1fb089fd
+acestream://80b432cbccb6c3685c3be9a130a3fb749d456b2a
 #EXTINF:-1 tvg-name="Кинохит" tvg-logo="Кинохит.png",Кинохит 
-acestream://411a9ddbd08945dd56c629451205ce8d64965470
+acestream://cee384b2f880cbc3c3a84c7a5d523a9726874d0c
 #EXTINF:-1 tvg-name="Классика_кино" tvg-logo="Классика кино.png",Классика кино 
 acestream://47f03f45ece04e5089504e6a2c22f567620b66ed
 #EXTINF:-1 tvg-name="Мир_сериала" tvg-logo="Мир сериала.png",Мир сериала 
 acestream://a97e37e1d68699c52985476154f33e8f207456bc
 #EXTINF:-1 tvg-name="Мужское_кино" tvg-logo="Мужское кино.png",Мужское кино 
-acestream://6b9266e13ad80e1adb0d98bb8e3a26f0ef8fc03e
+acestream://3554500161cd8ec6c0fb62b0b742f08aaa5bd4cd
 #EXTINF:-1 tvg-name="НСТ" tvg-logo="НСТ.png",НСТ 
-acestream://13cea7df5e1f1ea0650119aebb4a517d50388a57
+acestream://2870bc6e885b0eb4b157fbc99a666261a1c71141
 #EXTINF:-1 tvg-name="НТВ_Право" tvg-logo="НТВ Право.png",НТВ Право 
 acestream://8de9f79d7bcbb6266aba9144021e06bb0d8137d8
 #EXTINF:-1 tvg-name="НТВ_Сериал" tvg-logo="НТВ Сериал.png",НТВ Сериал 
 acestream://0ceb25c972425e62d8c46c65f215ed9b9144f306
 #EXTINF:-1 tvg-name="Наш_Детектив" tvg-logo="Наш Детектив.png",Наш Детектив 
-acestream://22297e0d8706ea741c8190dc8a54fb939558ba2e
+acestream://ba6caca0a62da3c8bdef7e02d64811b2061506cf
 #EXTINF:-1 tvg-name="Наш_детектив_HD" tvg-logo="Наш детектив HD.png",Наш детектив HD 
-acestream://6cf39589eeec0313f5b6d6a5374b8f0e48ac0f02
+acestream://420ccbda9aed519065c3c0ee614eb348bf0a8e87
 #EXTINF:-1 tvg-name="Наш_кинороман_HD" tvg-logo="Наш кинороман HD.png",Наш кинороман HD 
-acestream://18363206ccee12004476731cabf765725e15fc94
+acestream://d835e608a4d075f211817746f7598f3e2e92badb
 #EXTINF:-1 tvg-name="Наше_Любимое_HD" tvg-logo="Наше Любимое HD.png",Наше Любимое HD 
-acestream://12d1dd4b310f872d87626a3ac72c11934057be1f
+acestream://5400cb9ef302ac92c5e22a17843d4b94c10d1560
 #EXTINF:-1 tvg-name="Наше_любимое_кино" tvg-logo="Наше любимое кино.png",Наше любимое кино 
-acestream://234ada5a030dcd01c1d74ed157e20d43a2b5f0de
+acestream://2195031fc80df769291f3a79ccd13daee2858df7
 #EXTINF:-1 tvg-name="Наше_новое_кино" tvg-logo="Наше новое кино.png",Наше новое кино 
-acestream://6c7ce3bf2c8b3d0b7d8dcd50e7416edd8ad7cdc7
+acestream://c2d1091397233681a666f16bf2a2a5708f4d1d48
 #EXTINF:-1 tvg-name="Нтв_Хит" tvg-logo="Нтв Хит.png",Нтв Хит 
 acestream://3cb356420f2a115d9fe8835ccc509aaa6ab572fd
 #EXTINF:-1 tvg-name="Остросюжетное_HD" tvg-logo="Остросюжетное HD.png",Остросюжетное HD 
-acestream://a76a91fd799a71d45aa6f0c879aac96a3d4c2671
+acestream://766e3495f38ec09c2c1e586abba7e7f19be02783
 #EXTINF:-1 tvg-name="Родное_кино" tvg-logo="Родное кино.png",Родное кино 
-acestream://5149c4c6d44b48d8ed48d3cc95690aa0a2008376
+acestream://44cbe9662c6ef2f554e55c9335252b819bdb9600
 #EXTINF:-1 tvg-name="Русская_комедия" tvg-logo="Русская комедия.png",Русская комедия 
 acestream://aef95c2e10b6a0da89f666168777172614ef1fb8
 #EXTINF:-1 tvg-name="Русский_бестселлер" tvg-logo="Русский бестселлер.png",Русский бестселлер 
-acestream://63e022aa8f4b353ccf7a8e0b39cc6d6f8318481d
+acestream://2c716221abac68e79de5aeab453f4fc2b31f68a1
 #EXTINF:-1 tvg-name="Русский_детектив" tvg-logo="Русский детектив.png",Русский детектив 
-acestream://3b31db63f3bf35299c4d712ef29f143b2bce8605
+acestream://e08e39e82290c044db93aa707a6fddd4ad0749b6
 #EXTINF:-1 tvg-name="Русский_иллюзион" tvg-logo="Русский иллюзион.png",Русский иллюзион 
-acestream://11dbef7f12632cc2a5a7d8a2cc16c1c98fc3a126
+acestream://4fc5d2b259f71216b4584b772b7d26cee4b4705c
 #EXTINF:-1 tvg-name="Русский_роман" tvg-logo="Русский роман.png",Русский роман 
-acestream://08daacd26d5b2838d42bf131d77fc18aff1b0da5
+acestream://16a0b1d77b5017d38dbcda54c9ea6fcb2b8fd328
 #EXTINF:-1 tvg-name="Русский_роман_HD" tvg-logo="Русский роман HD.png",Русский роман HD 
-acestream://6e0014b1f825989a53f0052ace387e7a45283f9a
+acestream://b94c74ee740880fb00da4a171a5a559d77c42a6e
+#EXTINF:-1 tvg-name="СТРАШНОЕ_HD_(RU)" tvg-logo="СТРАШНОЕ HD (RU).png",СТРАШНОЕ HD (RU) 
+acestream://94c022ee2b18d583e78d10a42d4781c16dfbd5e0
 #EXTINF:-1 tvg-name="ТВ_3" tvg-logo="ТВ 3.png",ТВ 3 
-acestream://b09fc49f4b187bb1a07edfe2d5c1237b26b5977a
+acestream://42867167f3327a5e33ed3647c157447f2ce975f9
 #EXTINF:-1 tvg-name="ТВ_3_(+2)" tvg-logo="ТВ 3.png",ТВ 3 (+2) 
 acestream://b0a3463497ede85a1702a612c78441e37864bb68
 #EXTINF:-1 tvg-name="ТВ_3_(+3)" tvg-logo="ТВ 3.png",ТВ 3 (+3) 
-acestream://d441f31b225551569989a2968f770bf50fd29094
+acestream://07896df36d7a3d71044a865218158f1f648512e7
 #EXTINF:-1 tvg-name="ТВ_3_HD" tvg-logo="ТВ 3 HD.png",ТВ 3 HD 
 acestream://c961c52439322abeec0d9f2395b2f954f13f6e44
 #EXTINF:-1 tvg-name="Теленовелла" tvg-logo="Теленовелла.png",Теленовелла 
 acestream://8a5303fe5b79451dd58ae1a77c9003a5ce79ab78
 #EXTINF:-1 tvg-name="Феникс+_Кино" tvg-logo="Феникс+ Кино.png",Феникс+ Кино 
-acestream://bd7fb9408470a36e2a6f7b8538dafbe0c85199fb
+acestream://c4163777c280c236b918ec0256cf249a7c1271e4
 #EXTINF:-1 tvg-name="Хорошее_кино" tvg-logo="Хорошее кино.png",Хорошее кино 
-acestream://e8295557c99a131505dbae512109953ef1c51fcd
+acestream://a0207036c1aa68785f6277347680f167ffe7b5f7
 
 
 
@@ -3673,7 +3507,7 @@ acestream://fbd561f1f1edc458f5b04b6da6b610a68343a8d7
 #EXTINF:0,A1 
 acestream://53c02429ea9d359df06c867be7ceb6d6562183d4
 #EXTINF:0,A2 
-acestream://11028c0483df433bfeaaf414a62ace074954c172
+acestream://c4bd95efa80275d968a96b03b66eac1860b69a8e
 #EXTINF:0,Ani 
 acestream://3f882de120a854fc8bcbd813a47e0e3d2190cb9b
 #EXTINF:0,Animal Planet 
@@ -3751,7 +3585,7 @@ acestream://227f526363ca29377a5d4dfb7badd436825825f0
 #EXTINF:0,КХЛ 
 acestream://51240914f4b31d4472a48e4ece11c30fb25018cc
 #EXTINF:0,Матч ТВ 
-acestream://e6c666ea6e6811f62b60c4b254786e8b115ae731
+acestream://51a9da368e6ae7c9bde74759e10326912528f83a
 #EXTINF:0,Матч! Арена 
 acestream://c7a320bc4a0fc21e781c041d49fcd6dd8177beef
 #EXTINF:0,Матч! Боец 
@@ -3761,11 +3595,11 @@ acestream://e0338a2cc76a900f6cccfeaa24f354ca602e8b6d
 #EXTINF:0,Матч! Наш Спорт 
 acestream://a194801c1ec79373a3c86d2b2499a304c8552345
 #EXTINF:0,МАТЧ! Футбол 1 
-acestream://2ee53acdea7a5ffad2c6bb2ef5bed73a506621b8
+acestream://e0a6cb70e10cfa0ff1d87dff03384c97f2f295da
 #EXTINF:0,МАТЧ! Футбол 2 
 acestream://8cfed08776e45359f943af4cb5abd8fbfd943651
 #EXTINF:0,МАТЧ! Футбол 3 
-acestream://87d9f286641f12e27918f5510e0d406954c60b54
+acestream://f05710cbd7991feb04301e57d9cbeb53d72f33c0
 #EXTINF:0,Мир Сериала 
 acestream://4bf79e51120a1d4a64b8b9f1ead5b610d5d5ebed
 #EXTINF:0,Моя Планета 
