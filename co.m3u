@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,31/01/18 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,01/02/18 
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -891,12 +891,6 @@ rtmp://vxdiptv.zapto.org/live/stream
 
 #EXTINF:-1,DISCOVERY HD
 http://185.19.188.38:8090/DISCOVERY-HD/index.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://185.19.188.37:8090/DISCOVERY-HD/index.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://185.19.188.36:8090/DISCOVERY-HD/index.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://185.19.188.36:8090/DISCOVERY-HD/index.m3u8
 #EXTINF:-1,CBS Action
 http://185.19.188.38:8090/CBS_Action/index.m3u8
 #EXTINF:-1,CBS Action
@@ -1544,12 +1538,6 @@ http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m
 
 #EXTINF:-1,DISCOVERY HD
 http://185.19.188.38:8090/DISCOVERY-HD/index.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://185.19.188.37:8090/DISCOVERY-HD/index.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://185.19.188.36:8090/DISCOVERY-HD/index.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://185.19.188.36:8090/DISCOVERY-HD/index.m3u8
 #EXTINF:-1,CBS Action
 http://185.19.188.38:8090/CBS_Action/index.m3u8
 #EXTINF:-1,CBS Action
@@ -3844,33 +3832,6 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 
 #EXTINF:6 group-title=”France2”,
-
-#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,bein fr 1 
-http://163.172.24.253:8081/a/beinfr1/playlist.m3u8 
-#EXTINF:-1,bein fr 2 
-http://163.172.24.253:8081/a/beinfr2/playlist.m3u8 
-#EXTINF:-1,bein fr 3 
-http://163.172.24.253:8081/a/beinfr3/playlist.m3u8 
 
 
 
@@ -6426,56 +6387,12 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" ,FDF 
-http://merlin.magikdata.biz:8000/live/james1/james1/568.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" ,ENERGY 
-http://merlin.magikdata.biz:8000/live/james1/james1/2124.ts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104" ,MOVISTAR DCINE 
-http://merlin.magikdata.biz:8000/live/james1/james1/339.ts
-#EXTINF:-1 tvg-logo="http://cinestrenostv.tv/img/13tv.png" ,TRECE 
-http://merlin.magikdata.biz:8000/live/james1/james1/1281.ts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" ,PARAMOUNT CHANNEL 
-http://merlin.magikdata.biz:8000/live/james1/james1/2130.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" ,MOVISTAR FUTBOL HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/362.ts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c2/MovistarPartidazo.png/revision/latest?cb=20160818140828" ,MOVISTAR PARTIDAZO HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/713.ts
-#EXTINF:-1 tvg-logo="https://static.beinsportsconnect.es/uploads/comun/img/logos/bein-laliga-md.png" ,BEIN SPORTS LALIGA HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/573.ts
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/57cfcd462a7aa087f1c0d76a2ce2ef0d" ,BEIN SPORTS LALIGA MAX 1 HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/702.ts
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/43d9dafabf685a28e53240dce9fd1cd2" ,BEIN SPORTS LALIGA MAX 2 
-http://merlin.magikdata.biz:8000/live/james1/james1/768.ts
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg" ,MOVISTAR FORMULA 1 HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/319.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" ,MOVISTAR GOLF 
-http://merlin.magikdata.biz:8000/live/james1/james1/361.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/GOLTV_Two.png/200px-GOLTV_Two.png" ,GOL 
-http://merlin.magikdata.biz:8000/live/james1/james1/455.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/GOLTV_Two.png/200px-GOLTV_Two.png" ,GOL HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/981.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/unT3Jrz.png" ,TELEDEPORTE HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/1427.ts
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/6e52a098eb6f2ec2a09db2745645c139" ,BEIN SPORTS LALIGA MAX 3 
-http://merlin.magikdata.biz:8000/live/james1/james1/2156.ts
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/636fe906acb9a9491367e11d62f9c99d" ,BEIN SPORTS LALIGA MAX 4 
-http://merlin.magikdata.biz:8000/live/james1/james1/2157.ts
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/1852bc5d146484626015cdf371a4d04f" ,BEIN SPORTS LALIGA MAX 5 
-http://merlin.magikdata.biz:8000/live/james1/james1/2158.ts
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/8ba320358a0146d0531e76a5133a69e9" ,BEIN SPORTS LALIGA MAX 6 
-http://merlin.magikdata.biz:8000/live/james1/james1/2159.ts
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4" ,BEIN SPORTS LALIGA MAX 7 
-http://merlin.magikdata.biz:8000/live/james1/james1/2160.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/200px-DM_LOGO_RGB.svg.png" ,DMAX 
-http://merlin.magikdata.biz:8000/live/james1/james1/2129.ts
-#EXTINF:-1 tvg-logo="http://www.dkiss.es/wp-content/uploads/logo-DKISS-blanco-rojo.png" ,DKISS 
-http://merlin.magikdata.biz:8000/live/james1/james1/1273.ts
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781660/logo_be%20mad.png" ,BE MAD 
-http://merlin.magikdata.biz:8000/live/james1/james1/1303.ts
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" ,MOVISTAR FUTBOL HD
+http://185.231.160.42/608/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.beinsportsconnect.es/uploads/comun/img/logos/bein-laliga-md.png" ,BEIN SPORTS LALIGA HD
+http://185.231.160.42/607/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xfrH1XE.png" ,BEIN SPORTS HD
+http://185.231.160.42/598/1/index.m3u8
 
 
 
@@ -7686,18 +7603,51 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/trtupx1481664790.png" ,SPORT TV+ 
-http://merlin.magikdata.biz:8000/live/james1/james1/2155.ts
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" ,SPORT TV 1 HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/206.ts
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" ,SPORT TV 2 HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/205.ts
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xysrvw1470407766.png" ,SPORT TV 3 HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/204.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/RedeGlobo2005.png/revision/latest?cb=20130829104710" ,GLOBO 
+http://185.26.174.67:12345/play/a018
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/TVI_Fic%C3%A7%C3%A3o_logo.png" ,TVI FICCAO 
+http://185.26.174.67:12345/play/a02f
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" ,SPORT TV 1 
+http://185.26.174.67:12345/play/a01j
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" ,SPORT TV 2 
+http://185.26.174.67:12345/play/a016
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" ,SPORT TV 3 
+http://185.26.174.67:12345/play/a01a
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" ,SPORT TV 4 
-http://merlin.magikdata.biz:8000/live/james1/james1/1110.ts
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" ,SPORT TV 5 
-http://merlin.magikdata.biz:8000/live/james1/james1/1111.ts
+http://185.26.174.67:12345/play/a01c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" ,BENFICA TV 
+http://185.26.174.67:12345/play/a002
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/01/Eurosport1_monogram.jpg" ,EUROSPORT 
+http://185.26.174.67:12345/play/a01d
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2DmI3CzVWfqq6oSWlJadk0DIAK9PHSzsWHgtnIxCUleOMJghGKVtcbxgqIQA1KROA3k=w300" ,MOTORSPORT.TV 
+http://185.26.174.67:12345/play/a023
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" ,A BOLA TV 
+http://185.26.174.67:12345/play/a02g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png" ,DISNEY CHANNEL 
+http://185.26.174.67:12345/play/a02d
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" ,TVCINE 1 
+http://185.26.174.67:12345/play/a029
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" ,TVCINE 3 
+http://185.26.174.67:12345/play/a02a
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/4f/TVS%C3%A9ries.png/revision/latest?cb=20140404133444" ,TVSERIES HD 
+http://185.26.174.67:12345/play/a02b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1280px-HWD_logo.svg.png" ,HOLLYWOOD 
+http://185.26.174.67:12345/play/a01e
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" ,SYFY 
+http://185.26.174.67:12345/play/a020
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" ,MTV PORTUGAL 
+http://185.26.174.67:12345/play/a01f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" ,TRACE TV 
+http://185.26.174.67:12345/play/a02e
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY 
+http://185.26.174.67:12345/play/a01h
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" ,HISTORIA 
+http://185.26.174.67:12345/play/a01g
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" ,ODISSEIA 
+http://185.26.174.67:12345/play/a025
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png" ,MCS EXTREME 
+http://185.26.174.67:12345/play/a022
+
 
 
 
@@ -11609,35 +11559,6 @@ http://62.68.66.250:8003/play/s10
 
 
 #EXTINF:9 group-title=”United.Arab.Emirates3”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,bein 1 
-http://163.172.24.253:8081/a/beinar1/playlist.m3u8 
-#EXTINF:-1,bein 2 
-http://163.172.24.253:8081/a/beinar2/playlist.m3u8 
-#EXTINF:-1,bein 3
-http://163.172.24.253:8081/a/beinar3/playlist.m3u8 
-#EXTINF:-1,bein 4 
-http://163.172.24.253:8081/a/beinar4/playlist.m3u8 
-#EXTINF:-1,bein 5 
-http://163.172.24.253:8081/a/beinar5/playlist.m3u8 
 
 
 
