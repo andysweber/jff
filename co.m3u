@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,02/02/18 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,04/02/18 
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -126,7 +126,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/athienitis/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=wV0Jq0iWfe4
+https://www.youtube.com/watch?v=TU5mYXtGa7Q
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/kkjOp4 ,ZOUGLA
@@ -274,18 +274,15 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,TV Mytilini
-http://gmcllc.de:25461/live/appco/licoveO1/2324.ts|user-agent=EMVideoView 3.0.5 (30500) 
+
 #EXTINF:-1,4E
-http://gmcllc.de:25461/live/appco/licoveO1/2325.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,4E Star
-http://gmcllc.de:25461/live/appco/licoveO1/2326.ts|user-agent=EMVideoView 3.0.5 (30500) 
+http://gmcllc.de:25461/live/appco/licoveO1/2325.ts|user-agent=EMVideoView 3.0.5 (30500)  
 #EXTINF:-1,AB Channel
 http://gmcllc.de:25461/live/appco/licoveO1/2327.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ACTION 24
-http://gmcllc.de:25461/live/appco/licoveO1/2328.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,AIGAIO TV
 http://gmcllc.de:25461/live/appco/licoveO1/2329.ts|user-agent=EMVideoView 3.0.5 (30500) 
+#EXTINF:-1,Aigaio
+http://gmcllc.de:25461/live/appco/licoveO1/2367.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Alpha
 http://gmcllc.de:25461/live/appco/licoveO1/2330.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,ANT1
@@ -296,134 +293,86 @@ http://gmcllc.de:25461/live/appco/licoveO1/1649.ts|user-agent=EMVideoView 3.0.5 
 http://gmcllc.de:25461/live/appco/licoveO1/2332.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Apeiro TV
 http://gmcllc.de:25461/live/appco/licoveO1/2333.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,APT
-http://gmcllc.de:25461/live/appco/licoveO1/2334.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Art
-http://gmcllc.de:25461/live/appco/licoveO1/2335.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Astra
 http://gmcllc.de:25461/live/appco/licoveO1/2336.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Axeloos TV
-http://gmcllc.de:25461/live/appco/licoveO1/2337.ts|user-agent=EMVideoView 3.0.5 (30500) 
+#EXTINF:-1,BBC World News
+http://gmcllc.de:25461/live/appco/licoveO1/2384.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,BLUE SKY
 http://gmcllc.de:25461/live/appco/licoveO1/2338.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Boyah
-http://gmcllc.de:25461/live/appco/licoveO1/2339.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Channel 9
-http://gmcllc.de:25461/live/appco/licoveO1/2340.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,DIAVATA TV
-http://gmcllc.de:25461/live/appco/licoveO1/2341.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,DIKTYO
-http://gmcllc.de:25461/live/appco/licoveO1/2342.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,E
+#EXTINF:-1,Discovery HD
+http://gmcllc.de:25461/live/appco/licoveO1/2371.ts|user-agent=EMVideoView 3.0.5 (30500) 
+#EXTINF:-1,Discovery Science
+http://gmcllc.de:25461/live/appco/licoveO1/2378.ts|user-agent=EMVideoView 3.0.5 (30500) 
+#EXTINF:-1 tvg-logo=https://goo.gl/tjFpM3 ,E
 http://gmcllc.de:25461/live/appco/licoveO1/2343.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Ellinikosfm TV
-http://gmcllc.de:25461/live/appco/licoveO1/2344.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,EPIRUS TV1
-http://gmcllc.de:25461/live/appco/licoveO1/1650.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Ept 1
 http://gmcllc.de:25461/live/appco/licoveO1/2345.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Ept 2
 http://gmcllc.de:25461/live/appco/licoveO1/2346.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ERT 1
+#EXTINF:-1,ERT 2
+http://gmcllc.de:25461/live/appco/licoveO1/2349.ts|user-agent=EMVideoView 3.0.5 (30500) 
+#EXTINF:-1,ERT 3
 http://gmcllc.de:25461/live/appco/licoveO1/2347.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Ert HD
 http://gmcllc.de:25461/live/appco/licoveO1/2348.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ERT2
-http://gmcllc.de:25461/live/appco/licoveO1/2349.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Euronews
-http://gmcllc.de:25461/live/appco/licoveO1/2350.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Eurosport 1
 http://gmcllc.de:25461/live/appco/licoveO1/2351.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Eurosport 2
 http://gmcllc.de:25461/live/appco/licoveO1/2352.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,EXTRA
-http://gmcllc.de:25461/live/appco/licoveO1/2353.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Extra Channel
 http://gmcllc.de:25461/live/appco/licoveO1/2354.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,High TV
 http://gmcllc.de:25461/live/appco/licoveO1/2355.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Hpeiros TV1
 http://gmcllc.de:25461/live/appco/licoveO1/2356.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,JAYZEE
-http://gmcllc.de:25461/live/appco/licoveO1/2357.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Kontra Channel
 http://gmcllc.de:25461/live/appco/licoveO1/2358.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,KONTRA TV
 http://gmcllc.de:25461/live/appco/licoveO1/2359.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Krhth TV
+#EXTINF:-1,Kriti TV
 http://gmcllc.de:25461/live/appco/licoveO1/2360.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,KRITI TV
-http://gmcllc.de:25461/live/appco/licoveO1/2361.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Lepanto
-http://gmcllc.de:25461/live/appco/licoveO1/2362.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Mad TV
 http://gmcllc.de:25461/live/appco/licoveO1/2363.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Makedonia
+#EXTINF:-1,Makedonia HD
 http://gmcllc.de:25461/live/appco/licoveO1/2364.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Makedonia TV
+#EXTINF:-1,Makedonia TV HD
 http://gmcllc.de:25461/live/appco/licoveO1/2365.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Makedonia TV Delay
-http://gmcllc.de:25461/live/appco/licoveO1/2366.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Makeleio Web Tv
-http://gmcllc.de:25461/live/appco/licoveO1/2367.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Mega
+#EXTINF:-1 tvg-logo=https://goo.gl/nTCu62 ,Mega
 http://gmcllc.de:25461/live/appco/licoveO1/2368.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,MESSINIA TV
 http://gmcllc.de:25461/live/appco/licoveO1/2369.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MTVeece
-http://gmcllc.de:25461/live/appco/licoveO1/2370.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nat Geo
-http://gmcllc.de:25461/live/appco/licoveO1/2371.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,NEA
 http://gmcllc.de:25461/live/appco/licoveO1/2372.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Nea Tv
 http://gmcllc.de:25461/live/appco/licoveO1/2373.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,New TV
-http://gmcllc.de:25461/live/appco/licoveO1/2374.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Nickelodeon
 http://gmcllc.de:25461/live/appco/licoveO1/2375.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,NOVA
 http://gmcllc.de:25461/live/appco/licoveO1/2376.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OMEGA
-http://gmcllc.de:25461/live/appco/licoveO1/2377.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Omega TV
-http://gmcllc.de:25461/live/appco/licoveO1/2378.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rik
+#EXTINF:-1,Rik 1
 http://gmcllc.de:25461/live/appco/licoveO1/2379.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,SAMIAKI
 http://gmcllc.de:25461/live/appco/licoveO1/2380.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SBC
-http://gmcllc.de:25461/live/appco/licoveO1/2381.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Sigma
 http://gmcllc.de:25461/live/appco/licoveO1/2382.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Skai
 http://gmcllc.de:25461/live/appco/licoveO1/2383.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Smile
-http://gmcllc.de:25461/live/appco/licoveO1/2384.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Star
+http://gmcllc.de:25461/live/appco/licoveO1/2370.ts|user-agent=EMVideoView 3.0.5 (30500) 
+#EXTINF:-1,Start TV
 http://gmcllc.de:25461/live/appco/licoveO1/2385.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Star TV
+#EXTINF:-1,Start TV
 http://gmcllc.de:25461/live/appco/licoveO1/2386.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Start TV
-http://gmcllc.de:25461/live/appco/licoveO1/2387.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Thema TV
-http://gmcllc.de:25461/live/appco/licoveO1/2388.ts|user-agent=EMVideoView 3.0.5 (30500) 
+http://gmcllc.de:25461/live/appco/licoveO1/2387.ts|user-agent=EMVideoView 3.0.5 (30500)  
 #EXTINF:-1,Thraki TV
 http://gmcllc.de:25461/live/appco/licoveO1/2389.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,TILESPORT
 http://gmcllc.de:25461/live/appco/licoveO1/2390.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TRT
-http://gmcllc.de:25461/live/appco/licoveO1/2391.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,TV 1000
 http://gmcllc.de:25461/live/appco/licoveO1/2392.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TV Gold
-http://gmcllc.de:25461/live/appco/licoveO1/2393.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,TV1 Siros
-http://gmcllc.de:25461/live/appco/licoveO1/2394.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Tv100
-http://gmcllc.de:25461/live/appco/licoveO1/2395.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Vergina TV
-http://gmcllc.de:25461/live/appco/licoveO1/2396.ts|user-agent=EMVideoView 3.0.5 (30500) 
+http://gmcllc.de:25461/live/appco/licoveO1/2394.ts|user-agent=EMVideoView 3.0.5 (30500)  
 #EXTINF:-1,VOULI
 http://gmcllc.de:25461/live/appco/licoveO1/2397.ts|user-agent=EMVideoView 3.0.5 (30500) 
 #EXTINF:-1,Vouli TV
@@ -489,10 +438,10 @@ http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/9005.ts
 http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/9004.ts
 #EXTINF:-1,EPT 1
 http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/9003.ts
-#EXTINF:-1,EPT 2
-http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/9002.ts
 #EXTINF:-1,ERT 1
 http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/9001.ts
+#EXTINF:-1,EPT 2
+http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/9002.ts
 #EXTINF:-1,ERT 2
 http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/9000.ts
 #EXTINF:-1,ERT 3
@@ -515,7 +464,7 @@ http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/8992.ts
 http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/8991.ts
 #EXTINF:-1,IONIAN TV
 http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/8990.ts
-#EXTINF:-1,JUNIOR HD
+#EXTINF:-1,Disney JUNIOR HD
 http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/8989.ts
 #EXTINF:-1,KONTRA
 http://portal.iptvkeyfi.net:8000/live/GREECE/GREECE/8988.ts
@@ -1013,14 +962,12 @@ http://93.91.113.8:9999/play/a06n
 http://93.91.113.8:9999/play/a06l 
 
 
-#EXTINF:-1 tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg" ,Investigation Discovery (Wuffy Player)
+#EXTINF:-1 ,Investigation Discovery (Wuffy Player)
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
 
 #EXTINF:-1,FOX SPORTS 2 
 rtmp://vxdiptv.zapto.org/live/stream
 
-#EXTINF:-1,DISCOVERY HD
-http://185.19.188.38:8090/DISCOVERY-HD/index.m3u8
 #EXTINF:-1,CBS Action
 http://185.19.188.38:8090/CBS_Action/index.m3u8
 #EXTINF:-1,CBS Action
@@ -1643,7 +1590,7 @@ http://93.91.113.8:9999/play/a06n
 http://93.91.113.8:9999/play/a06l 
 
 
-#EXTINF:-1 tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg" ,Investigation Discovery (Wuffy Player)
+#EXTINF:-1 ,Investigation Discovery (Wuffy Player)
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
 
 #EXTINF:-1,BabyTV 
@@ -1651,9 +1598,6 @@ http://wowza2.mysoltv.com:1992/UK_UK_Baby/index.m3u8
 #EXTINF:-1,Nat geo wild
 http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo_wild_shsaa/index.m3u8
 
-
-#EXTINF:-1,DISCOVERY HD
-http://185.19.188.38:8090/DISCOVERY-HD/index.m3u8
 #EXTINF:-1,CBS Action
 http://185.19.188.38:8090/CBS_Action/index.m3u8
 #EXTINF:-1,CBS Action
@@ -4015,8 +3959,180 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 #EXTINF:6 group-title=”France2”,
 
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1,3223: Paramount Channel HD FR
+http://185.93.3.84:5019/play/a01v
+#EXTINF:-1,3233: RFM TV HD FR
+http://185.93.3.84:5019/play/a029
+#EXTINF:-1,663: France 5 HD
+http://185.93.3.84:5019/play/a007
+#EXTINF:-1,669: NT1
+http://185.93.3.84:5019/play/a02t
+#EXTINF:-1,698: France O HD
+http://185.93.3.84:5019/play/a01f
+#EXTINF:-1,692: Eurosport 1 HD FR
+http://185.93.3.84:5019/play/a00p
+#EXTINF:-1,614: Gulli
+http://185.93.3.84:5019/play/a02i
+#EXTINF:-1,664: M6
+http://185.93.3.84:5019/play/a02j
+#EXTINF:-1,962: Science & Vie HD FR
+http://185.93.3.84:5019/play/a00c
+#EXTINF:-1,662: France 4 HD
+http://185.93.3.84:5019/play/a01m
+#EXTINF:-1,610: Canal+ Family HD FR
+http://185.93.3.84:5019/play/a018
+#EXTINF:-1,3228: Infosport+ HD FR
+http://185.93.3.84:5019/play/a01y
+#EXTINF:-1,3221: MCM HD FR
+http://185.93.3.84:5019/play/a022
+#EXTINF:-1,951: Cherie 25
+http://185.93.3.84:5019/play/a02m
+#EXTINF:-1,616: W9
+http://185.93.3.84:5019/play/a02k
+#EXTINF:-1,952: HD1
+http://185.93.3.84:5019/play/a02w
+#EXTINF:-1,3224: Mezzo Live HD FR
+http://185.93.3.84:5019/play/a02e
+#EXTINF:-1,612: Canal+ Sport HD FR
+http://185.93.3.84:5019/play/a012
+#EXTINF:-1,660: France 2 HD
+http://185.93.3.84:5019/play/a005
+#EXTINF:-1,3217: Disney Cinema HD FR
+http://185.93.3.84:5019/play/a027
+#EXTINF:-1,3225: Discovery Science HD FR
+http://185.93.3.84:5019/play/a021
+#EXTINF:-1,661: France 3 HD FR
+http://185.93.3.84:5019/play/a006
+#EXTINF:-1,3211: MTV France HD FR
+http://185.93.3.84:5019/play/a02g
+#EXTINF:-1,3243: Be Curious TV HD FR
+http://185.93.3.84:5019/play/a01q
+#EXTINF:-1,3214: Trace Urban HD FR
+http://185.93.3.84:5019/play/a01p
+#EXTINF:-1,3216: Canal J HD FR
+http://185.93.3.84:5019/play/a01u
+#EXTINF:-1,954: Numero 23
+http://185.93.3.84:5019/play/a02l
+#EXTINF:-1,3208: Boing HD FR
+http://185.93.3.84:5019/play/a01k
+#EXTINF:-1,693: Eurosport 2 HD FR
+http://185.93.3.84:5019/play/a00s
+#EXTINF:-1,3236: MCM Top HD FR
+http://185.93.3.84:5019/play/a02c
+#EXTINF:-1,3207: Boomerang HD FR
+http://185.93.3.84:5019/play/a01l
+#EXTINF:-1,668: TMC
+http://185.93.3.84:5019/play/a02p
+#EXTINF:-1,3203: SFR Sport 1
+http://185.93.3.84:5019/play/a00d
+#EXTINF:-1,3241: Game One HD FR
+http://185.93.3.84:5019/play/a01x
+#EXTINF:-1,3234: Elle Girl HD FR
+http://185.93.3.84:5019/play/a024
+#EXTINF:-1,3239: Equidia Life HD FR
+http://185.93.3.84:5019/play/a02d
+#EXTINF:-1,613: Canal+ Series HD FR
+http://185.93.3.84:5019/play/a019
+#EXTINF:-1,665: C8
+http://185.93.3.84:5019/play/a02n
+#EXTINF:-1,615: NRJ12
+http://185.93.3.84:5019/play/a02y
+#EXTINF:-1,3238: Cartoon Network HD FR
+http://185.93.3.84:5019/play/a01t
+#EXTINF:-1,673: RMC Docouverte
+http://185.93.3.84:5019/play/a02q
+#EXTINF:-1,3240: Equidia Live HD FR
+http://185.93.3.84:5019/play/a020
+#EXTINF:-1,603: BFM TV
+http://185.93.3.84:5019/play/a02z
+#EXTINF:-1,659: TF1 HD FR
+http://185.93.3.84:5019/play/a002
+#EXTINF:-1,670: CSTAR
+http://185.93.3.84:5019/play/a02v
+#EXTINF:-1,666: Arte
+http://185.93.3.84:5019/play/a02r
+#EXTINF:-1,611: Canal+ HD FR
+http://185.93.3.84:5019/play/a011
+#EXTINF:-1,609: Canal+ Decale HD FR
+http://185.93.3.84:5019/play/a01h
+#EXTINF:-1,3210: Tiji HD
+http://185.93.3.84:5019/play/a00y
+#EXTINF:-1,3229: TV Breizh HD FR
+http://185.93.3.84:5019/play/a02a
+#EXTINF:-1,970: Histoire HD FR
+http://185.93.3.84:5019/play/a01e
+#EXTINF:-1,950: 6TER
+http://185.93.3.84:5019/play/a02x
+#EXTINF:-1,608: Canal+ Cinema HD FR
+http://185.93.3.84:5019/play/a013
+#EXTINF:-1,860: Franceinfo
+http://185.93.3.84:5019/play/a030
+#EXTINF:-1,3232: Piwi+ HD FR
+http://185.93.3.84:5019/play/a025
+#EXTINF:-1,699: LCP
+http://185.93.3.84:5019/play/a02s
+#EXTINF:-1,3231: Comedie+ HD FR
+http://185.93.3.84:5019/play/a026
+#EXTINF:-1,3220: Action HD FR
+http://185.93.3.84:5019/play/a023
+#EXTINF:-1,3209: Teletoon+ HD FR
+http://185.93.3.84:5019/play/a01c
+#EXTINF:-1,3213: Syfy HD FR
+http://185.93.3.84:5019/play/a01o
+#EXTINF:-1,3201: National Geo HD FR
+http://185.93.3.84:5019/play/a00z
+#EXTINF:-1,3206: SFR Sport 5
+http://185.93.3.84:5019/play/a00m
+#EXTINF:-1,691: Cine+ Premier HD FR
+http://185.93.3.84:5019/play/a014
+#EXTINF:-1,3230: Planete+ CI HD FR
+http://185.93.3.84:5019/play/a01z
+#EXTINF:-1,3219: TV8 Mont-Blanc HD FR
+http://185.93.3.84:5019/play/a02f
+#EXTINF:-1,3226: Planete+ AE HD FR
+http://185.93.3.84:5019/play/a02b
+#EXTINF:-1,3237: Planete+ HD FR
+http://185.93.3.84:5019/play/a02h
+#EXTINF:-1,3204: SFR Sport 2
+http://185.93.3.84:5019/play/a00e
+#EXTINF:-1,607: CINE+ Frisson HD FR
+http://185.93.3.84:5019/play/a01g
+#EXTINF:-1,671: LEquipe 21
+http://185.93.3.84:5019/play/a02u
+#EXTINF:-1,3222: TCM Cinema HD FR
+http://185.93.3.84:5019/play/a028
+#EXTINF:-1,3205: SFR Sport 3
+http://185.93.3.84:5019/play/a00g
+#EXTINF:-1,3212: Golf+ HD FR
+http://185.93.3.84:5019/play/a01r
+#EXTINF:-1,3215: Cine+ Emotion HD FR
+http://185.93.3.84:5019/play/a01w
+#EXTINF:-1,667: CNews
+http://185.93.3.84:5019/play/a02o
+#EXTINF:-1,948: Voyage HD FR
+http://185.93.3.84:5019/play/a01d
+#EXTINF:-1,3227: Seasons HD FR
+http://185.93.3.84:5019/play/a01s
 
 
 
@@ -9924,120 +10040,112 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png ,==China==
 http://..........
 
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SERVER1=
-http://......
-#EXTINF:-1,AFC
-http://61.58.60.247:9000/live/176.m3u8
-#EXTINF:-1,CCTV-4
-http://61.58.60.247:9000/live/220.m3u8
-#EXTINF:-1,CCTV-4
-http://61.58.60.247:9000/live/231.m3u8
-#EXTINF:-1,CCTV戏曲
-http://61.58.60.247:9000/live/223.m3u8
-#EXTINF:-1,CCTV娱乐
-http://61.58.60.247:9000/live/224.m3u8
-#EXTINF:-1,CGTN
-http://61.58.60.247:9000/live/222.m3u8
-#EXTINF:-1,CGTN Documentary
-http://61.58.60.247:9000/live/221.m3u8
-#EXTINF:-1,CNEX
-http://61.58.60.247:9000/live/257.m3u8
-#EXTINF:-1,DIVA
-http://61.58.60.247:9000/live/178.m3u8
-#EXTINF:-1,HKS
-http://61.58.60.247:9000/live/255.m3u8
-#EXTINF:-1,Syfy
-http://61.58.60.247:9000/live/177.m3u8
-#EXTINF:-1,UniversalChannel
-http://61.58.60.247:9000/live/179.m3u8
-#EXTINF:-1,安徽国际
-http://61.58.60.247:9000/live/237.m3u8
-#EXTINF:-1,安徽卫视
-http://61.58.60.247:9000/live/248.m3u8
-#EXTINF:-1,澳亚卫视
-http://61.58.60.247:9000/live/256.m3u8
-#EXTINF:-1,北京国际
-http://61.58.60.247:9000/live/226.m3u8
-#EXTINF:-1,东方国际
-http://61.58.60.247:9000/live/227.m3u8
-#EXTINF:-1,东方卫视
-http://61.58.60.247:9000/live/249.m3u8
-#EXTINF:-1,广东南方卫视
-http://61.58.60.247:9000/live/228.m3u8
-#EXTINF:-1,广东卫视
-http://61.58.60.247:9000/live/252.m3u8
-#EXTINF:-1,国会频道-1
-http://61.58.60.247:9000/live/123.m3u8
-#EXTINF:-1,国会频道-2
-http://61.58.60.247:9000/live/124.m3u8
-#EXTINF:-1,海峡卫视
-http://61.58.60.247:9000/live/230.m3u8
-#EXTINF:-1,河南国际
-http://61.58.60.247:9000/live/240.m3u8
-#EXTINF:-1,湖北卫视
-http://61.58.60.247:9000/live/250.m3u8
+#EXTINF:-1,cctv-1
+http://183.252.176.40/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:-1,cctv-1
+http://183.252.176.40/PLTV/88888888/224/3221225829/index.m3u8
+#EXTINF:-1,cctv-2
+http://183.252.176.40/PLTV/88888888/224/3221225923/index.m3u8
+#EXTINF:-1,cctv-3
+http://183.252.176.40/PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:-1,cctv-3
+http://183.252.176.40/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:-1,cctv-5
+http://183.252.176.40/PLTV/88888888/224/3221225925/index.m3u8
+#EXTINF:-1,cctv-5
+http://183.252.176.40/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1,cctv-5+
+http://183.252.176.40/PLTV/88888888/224/3221225939/index.m3u8
+#EXTINF:-1,cctv-5+
+http://183.252.176.40/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1,cctv-6
+http://183.252.176.40/PLTV/88888888/224/3221225926/index.m3u8
+#EXTINF:-1,cctv-6
+http://183.252.176.40/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1,cctv-7
+http://183.252.176.40/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1,cctv-8
+http://183.252.176.40/PLTV/88888888/224/3221225928/index.m3u8
+#EXTINF:-1,cctv-8
+http://183.252.176.40/PLTV/88888888/224/3221225806/index.m3u8
+#EXTINF:-1,cctv-9
+http://183.252.176.40/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1,cctv-10
+http://183.252.176.40/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1,cctv-12
+http://183.252.176.40/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:-1,cctv-14
+http://183.252.176.40/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:-1,湖南卫视
-http://61.58.60.247:9000/live/253.m3u8
-#EXTINF:-1,嘉义台-1
-http://61.58.60.247:9000/live/3.m3u8
-#EXTINF:-1,嘉义台-2
-http://61.58.60.247:9000/live/84.m3u8
-#EXTINF:-1,江苏国际
-http://61.58.60.247:9000/live/229.m3u8
+http://183.252.176.40/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1,浙江卫视
+http://183.252.176.40/PLTV/88888888/224/3221225934/index.m3u8
+#EXTINF:-1,浙江卫视
+http://183.252.176.40/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1,北京卫视
+http://183.252.176.40/PLTV/88888888/224/3221225826/index.m3u8
+#EXTINF:-1,东方卫视
+http://183.252.176.40/PLTV/88888888/224/3221225936/index.m3u8
 #EXTINF:-1,江苏卫视
-http://61.58.60.247:9000/live/251.m3u8
-#EXTINF:-1,靖天日本台
-http://61.58.60.247:9000/live/243.m3u8
-#EXTINF:-1,靖天戏剧台
-http://61.58.60.247:9000/live/246.m3u8
-#EXTINF:-1,靖天综合台
-http://61.58.60.247:9000/live/242.m3u8
-#EXTINF:-1,厦门卫视
-http://61.58.60.247:9000/live/234.m3u8
-#EXTINF:-1,山东国际
-http://61.58.60.247:9000/live/239.m3u8
+http://183.252.176.40/PLTV/88888888/224/3221225930/index.m3u8
+#EXTINF:-1,江苏卫视
+http://183.252.176.40/PLTV/88888888/224/3221225847/index.m3u8
+#EXTINF:-1,湖北卫视
+http://183.252.176.40/PLTV/88888888/224/3221225948/index.m3u8
+#EXTINF:-1,湖北卫视
+http://183.252.176.40/PLTV/88888888/224/3221225840/index.m3u8
+#EXTINF:-1,广东卫视
+http://183.252.176.40/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1,山东卫视
+http://183.252.176.40/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1,山东卫视
+http://183.252.176.40/PLTV/88888888/224/3221225843/index.m3u8
 #EXTINF:-1,深圳卫视
-http://61.58.60.247:9000/live/235.m3u8
-#EXTINF:-1,世新新闻
-http://61.58.60.247:9000/live/85.m3u8
-#EXTINF:-1,世新综合
-http://61.58.60.247:9000/live/49.m3u8
-#EXTINF:-1,天津国际
-http://61.58.60.247:9000/live/238.m3u8
+http://183.252.176.40/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1,江西卫视
+http://183.252.176.40/PLTV/88888888/224/3221225868/index.m3u8
+#EXTINF:-1,江西卫视
+http://183.252.176.40/PLTV/88888888/224/3221225834/index.m3u8
 #EXTINF:-1,天津卫视
-http://61.58.60.247:9000/live/247.m3u8
-#EXTINF:-1,亚太第一卫视
-http://61.58.60.247:9000/live/254.m3u8
-#EXTINF:-1,云南国际
-http://61.58.60.247:9000/live/241.m3u8
-#EXTINF:-1,浙江国际
-http://61.58.60.247:9000/live/233.m3u8
-#EXTINF:-1,中国电影
-http://61.58.60.247:9000/live/225.m3u8
-#EXTINF:-1,中国黄河
-http://61.58.60.247:9000/live/232.m3u8
-#EXTINF:-1,重庆国际
-http://61.58.60.247:9000/live/236.m3u8
-
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=SERVER2=
-http://......
-
-#EXTINF:-1,CCTV1
-http://183.252.176.10/PLTV/88888888/224/3221225812/index.m3u8
-#EXTINF:-1,CCTV5
-http://183.252.176.10/PLTV/88888888/224/3221225821/index.m3u8
-#EXTINF:-1,北京纪实
-http://183.252.176.10/PLTV/88888888/224/3221225944/index.m3u8
-#EXTINF:-1,凤凰中文720P
-http://183.252.176.10/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:-1,凤凰资讯720P
-http://183.252.176.10/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1,黑龙江
-http://183.252.176.10/PLTV/88888888/224/3221225940/index.m3u8
-#EXTINF:-1,黑龙江
-http://183.252.176.10/PLTV/88888888/224/3221225862/index.m3u8
-
+http://183.252.176.40/PLTV/88888888/224/3221225941/index.m3u8
+#EXTINF:-1,天津卫视
+http://183.252.176.40/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://183.252.176.40/PLTV/88888888/224/3221225940/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://183.252.176.40/PLTV/88888888/224/3221225947/index.m3u8
+#EXTINF:-1,重庆卫视
+http://183.252.176.40/PLTV/88888888/224/3221225949/index.m3u8
+#EXTINF:-1,BTV纪实
+http://183.252.176.40/PLTV/88888888/224/3221225944/index.m3u8
+#EXTINF:-1,上海纪实
+http://183.252.176.40/PLTV/88888888/224/3221225946/index.m3u8
+#EXTINF:-1,五星体育
+http://183.252.176.40/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1,极速汽车
+http://183.252.176.40/PLTV/88888888/224/3221225913/index.m3u8
+#EXTINF:-1,凤凰卫视资讯台
+http://183.252.176.40/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1,NewTV动画王国
+http://183.252.176.40/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1,NewTV动作电影
+http://183.252.176.40/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1,NewTV家庭剧场
+http://183.252.176.40/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1,NewTV金牌综艺
+http://183.252.176.40/PLTV/88888888/224/3221225884/index.m3u8
+#EXTINF:-1,NewTV惊悚悬疑
+http://183.252.176.40/PLTV/88888888/224/3221225885/index.m3u8
+#EXTINF:-1,NewTV精品大剧
+http://183.252.176.40/PLTV/88888888/224/3221225889/index.m3u8
+#EXTINF:-1,NewTV精品电影
+http://183.252.176.40/PLTV/88888888/224/3221225891/index.m3u8
+#EXTINF:-1,NewTV精品纪录
+http://183.252.176.40/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1,NewTV精品体育
+http://183.252.176.40/PLTV/88888888/224/3221225886/index.m3u8
+#EXTINF:-1,NewTV明星大片
+http://183.252.176.40/PLTV/88888888/224/3221225893/index.m3u8
 
 
 
@@ -12905,132 +13013,9 @@ http://bein.website/movecast/beIN.m3u8?id=bein10-hq
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates2-MXPLAYER”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,ABU DHABI TV
-http://207.244.157.34:25461/live/gold/cold/750.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,AL AAN TV
-http://207.244.157.34:25461/live/gold/cold/774.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,AL AKHBARIA
-http://207.244.157.34:25461/live/gold/cold/745.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,AL HAYAT 2
-http://207.244.157.34:25461/live/gold/cold/743.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,AL MASRIYAH-AR
-http://207.244.157.34:25461/live/gold/cold/744.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,AL SHARGIYA NEWS
-http://207.244.157.34:25461/live/gold/cold/772.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,ANN NEWS
-http://207.244.157.34:25461/live/gold/cold/770.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,BAHRAIN QURAN TV
-http://207.244.157.34:25461/live/gold/cold/785.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,BTV CHANNEL 55
-http://207.244.157.34:25461/live/gold/cold/786.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,CAIRO DRAMA
-http://207.244.157.34:25461/live/gold/cold/715.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,CBC DRAMA
-http://207.244.157.34:25461/live/gold/cold/713.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,CBC EXTRA
-http://207.244.157.34:25461/live/gold/cold/712.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,CBC SOFRA
-http://207.244.157.34:25461/live/gold/cold/714.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,CINEMA PRO
-http://207.244.157.34:25461/live/gold/cold/734.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,CNBC ARABIA
-http://207.244.157.34:25461/live/gold/cold/747.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,DABANGA TV
-http://207.244.157.34:25461/live/gold/cold/778.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,DUBAI OULA
-http://207.244.157.34:25461/live/gold/cold/746.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,DUBAI ZAMAN
-http://207.244.157.34:25461/live/gold/cold/765.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,DW ARABIA
-http://207.244.157.34:25461/live/gold/cold/769.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,MBC 4
-http://207.244.157.34:25461/live/gold/cold/704.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,MBC MASAR
-http://207.244.157.34:25461/live/gold/cold/708.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,MBC MAX
-http://207.244.157.34:25461/live/gold/cold/706.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,MELODY AFLAM
-http://207.244.157.34:25461/live/gold/cold/730.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,MELODY CLASSIC
-http://207.244.157.34:25461/live/gold/cold/729.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,MOGA COMEDY
-http://207.244.157.34:25461/live/gold/cold/728.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,NATIONAL GEOGRAPHIC AD
-http://207.244.157.34:25461/live/gold/cold/762.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,OMAN TV
-http://207.244.157.34:25461/live/gold/cold/781.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,PANORAMA COMEDY
-http://207.244.157.34:25461/live/gold/cold/726.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,PANORAMA DRAMA 2
-http://207.244.157.34:25461/live/gold/cold/725.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,PANORAMA DRAMA
-http://207.244.157.34:25461/live/gold/cold/724.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,PANORAMA FOOD
-http://207.244.157.34:25461/live/gold/cold/727.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,ROTANA AFLAM
-http://207.244.157.34:25461/live/gold/cold/721.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,RUSSIA TODAY
-http://207.244.157.34:25461/live/gold/cold/754.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,SAT 7 ARABIC
-http://207.244.157.34:25461/live/gold/cold/780.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,SCOPE TV
-http://207.244.157.34:25461/live/gold/cold/736.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,SHADA TV
-http://207.244.157.34:25461/live/gold/cold/779.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,SYRIA NOUR EL SHAM
-http://207.244.157.34:25461/live/gold/cold/756.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,TIME CINEMA
-http://207.244.157.34:25461/live/gold/cold/732.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,TIME COMEDY
-http://207.244.157.34:25461/live/gold/cold/731.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1,TOK TOK CINEMA
-http://207.244.157.34:25461/live/gold/cold/733.ts|refferer=http://geostreamz.com/&user-agent=098
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:9 group-title=”United.Arab.Emirates3_PREMIUM-MXPlayer”,
+#EXTINF:9 group-title=”United.Arab.Emirates2_PREMIUM-MXPlayer”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
@@ -13873,7 +13858,7 @@ http://gmcllc.de:25461/live/appco/licoveO1/3254.ts|user-agent=EMVideoView 3.0.5 
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates4_PREMIUM-MXPlayer”,
+#EXTINF:9 group-title=”United.Arab.Emirates3_PREMIUM-MXPlayer”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
 http://..........
