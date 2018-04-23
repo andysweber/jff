@@ -1,5 +1,9 @@
 #EXTM3U 
 
+#EXTINF:-1  ,tvone down
+http://www.megatv.com.cy/live/?cs=1|webdown
+
+
 #EXTINF:-1  ,tvone
 http://www.megatv.com.cy/live/?cs=1|webview zoom=210 scroll=10,500
 
