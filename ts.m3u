@@ -1,18 +1,16 @@
 #EXTM3U 
 
 #EXTINF:-1  ,tvone
-http://www.megatv.com.cy/live/?cs=1|webview zoom=300 scroll=8,400
+http://www.megatv.com.cy/live/?cs=1|webview zoom=270 scroll=10,600
 #EXTINF:-1  ,rik
-http://www.fireshow.xyz/megacym.html|webview zoom=100 scroll=0,100
+http://www.fireshow.xyz/megacym.html|webview zoom=100 scroll=0,600
 
 #EXTINF:-1  ,alpha
-http://www.alphacyprus.com.cy/page/live|webview zoom=300 scroll=8,180
+http://www.alphacyprus.com.cy/page/live|webview zoom=270 scroll=20,250
 #EXTINF:-1  ,ant1
-http://www.ant1iwo.com/webtv/web-tv-live/|webview zoom=100 scroll=0,800
+http://www.ant1iwo.com/webtv/web-tv-live/|webview zoom=100 scroll=0,770
 #EXTINF:-1  ,skai
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,500
-#EXTINF:-1  ,skai web
-http://www.skai.gr/player/tvlive/|webview zoom=100 scroll=0,300
 #EXTINF:-1  ,jago
 http://www.jagobd.com/al-dawah-tv|webview zoom=100 scroll=0,300
 
