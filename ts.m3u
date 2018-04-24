@@ -19,8 +19,8 @@ http://www.skai.gr/mobile/tv-live/|webdown
 http://www.jagobd.com/al-dawah-tv|webdown
 #EXTINF:-1  ,jago web
 http://www.jagobd.com/al-dawah-tv|webview zoom=100 scroll=0,0
-#EXTINF:-1  ,skai intertv down
-http://www.freeintertv.com/view/id-2941/Greece-1-0-1|webdown
+#EXTINF:-1  ,skai  down
+http://www.stasinos.tv/Greek/Skai1.aspx|webdown
 
 #EXTINF:-1  ,skai intertv web
 http://www.freeintertv.com/view/id-2941/Greece-1-0-1|webview zoom=100 scroll=0,0
