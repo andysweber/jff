@@ -5,9 +5,9 @@ http://www.megatv.com.cy/live/?cs=1|webdown
 
 
 #EXTINF:-1  ,tvone lak
-http://www.fireshow.xyz/megacym.html|webview zoom=100 scroll=0,900
+http://www.fireshow.xyz/megacym.html|webdown
 #EXTINF:-1  ,sigma lak
-http://www.fireshow.xyz/megacym.html|webview zoom=100 scroll=0,900
+http://www.fireshow.xyz/megacym.html|webdown
 
 #EXTINF:-1  ,alpha down
 http://www.alphacyprus.com.cy/page/live|webdown
@@ -16,7 +16,7 @@ http://www.ant1iwo.com/webtv/web-tv-live/|webdown
 #EXTINF:-1  ,skai down
 http://www.skai.gr/mobile/tv-live/|webdown
 #EXTINF:-1  ,jago down
-http://www.jagobd.com/al-dawah-tv||webdown
+http://www.jagobd.com/al-dawah-tv|webdown
 
 #EXTINF:-1 tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=Zx98moCvkpU
