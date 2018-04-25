@@ -7,8 +7,11 @@ http://www.megatv.com.cy/live/?cs=1|webdown
 #EXTINF:-1  ,tvone lak
 http://www.fireshow.xyz/megacym.html|webdown
 #EXTINF:-1  ,sigma lak
-http://www.fireshow.xyz/megacym.html|webdown
-
+http://www.fireshow.xyz/sigmam.html|webdown
+#EXTINF:-1  ,smile lak
+http://www.lakatamia.tv/app/chans/cy/smilecy.html|webdown
+#EXTINF:-1  ,smile offi
+http://www.smiletvcyprus.com/gr/index.php/live|webdown
 #EXTINF:-1  ,alpha down
 http://www.alphacyprus.com.cy/page/live|webdown
 #EXTINF:-1  ,ant1 down
