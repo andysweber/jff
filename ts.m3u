@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1  ,plus down
+http://www.anacon.org/app/chans/cy/pluscy.html|webdown
 #EXTINF:-1  ,tvone down
 http://www.megatv.com.cy/live/?cs=1|webdown
 #EXTINF:-1  ,tvone lak
