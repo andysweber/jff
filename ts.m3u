@@ -6,8 +6,15 @@ http://alfabass-tvfree.do.am/index/diema_sport_2hd/0-30|webdown
 #EXTINF:-1, bulg web
 http://alfabass-tvfree.do.am/index/diema_sport_2hd/0-30|webview zoom=100 scroll=0,0
 
+#EXTINF:-1,animal
+http://watchfomny.tv/Menu/Pop3/Pop-iframe-progtv.php?http://www.liveonlinetv247.info/embed/animalplanet.php|webdown
+
+#EXTINF:-1,diascovery web
+http://watchfomny.tv/Menu/Pop3/Pop-iframe-progtv-01.php?http://www.liveonlinetv247.info/embed/discovery.php|webview zoom=100 scroll=0,0
+
 #EXTINF:-1,usa web
 http://www.sdw-net.me/channels/Animal-Planet-US.html|webview zoom=100 scroll=0,0
+
 
 #EXTINF:-1,usa web
 http://www.sdw-net.me/channels/Animal-Planet-US.html|webdown
