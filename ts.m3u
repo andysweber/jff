@@ -111,10 +111,10 @@ http://v4.ustreamix.com/stream.php?id=discovery-channel-usa&v=1524484509||webvie
 http://watchfomny.tv/Menu/Pop3/Pop-iframe-progtv-01.php?http://www.liveonlinetv247.info/embed/discovery.php|webview zoom=100 scroll=0,0
 
 #EXTINF:-1,usa web
-http://www.sdw-net.me/channels/Animal-Planet-US.html|webview zoom=100 scroll=0,0
+http://www.sdw-net.me/channels/Animal-Planet-US.html|webview zoom=100 scroll=0,200
 
 
-#EXTINF:-1,usa web
+#EXTINF:-1,usa down
 http://www.sdw-net.me/channels/Animal-Planet-US.html|webdown
 
 #EXTINF:-1, btsports web
