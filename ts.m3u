@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1, cbbc down 
-https://easyview.eu/cbbc/|webdown
+https://easyview.eu/cbbc/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
 
 #EXTINF:-1, filmon 
 https://57channels.info/|webview zoom=100 scroll=0,0
