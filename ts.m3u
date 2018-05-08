@@ -3,6 +3,9 @@
 #EXTINF:-1, bulg 
 http://alfabass-tvfree.do.am/index/diema_sport_2hd/0-30|webdown
 
+#EXTINF:-1, btsports web
+http://m.liveonlinetv247.info/external.php?title=BT%20Sport&stream=btsport1-hq|webview zoom=100 scroll=0,0
+
 #EXTINF:-1, btsports fix
 http://m.liveonlinetv247.info/external.php?title=BT%20Sport&stream=btsport1-hq|webdown$$start=source: \"http://$$end=\",\n $$replace1=source: \"$$add= 
 
