@@ -121,7 +121,7 @@ http://www.sdw-net.me/channels/Animal-Planet-US.html|webdown
 http://m.liveonlinetv247.info/external.php?title=BT%20Sport&stream=btsport1-hq|webview zoom=100 scroll=0,0
 
 #EXTINF:-1, btsports fix
-http://m.liveonlinetv247.info/external.php?title=BT%20Sport&stream=btsport1-hq|webdown$$start=source: \"http://$$end=\",\n $$replace1=source: \"$$add= 
+http://m.liveonlinetv247.info/external.php?title=BT%20Sport&stream=btsport1-hq|webdown$$start=source: \"http://$$end==\",\n $$replace1=source: \"$$add==
 
 
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
