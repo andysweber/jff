@@ -1,24 +1,14 @@
 #EXTM3U 
-#EXTINF:-1,p2p
-http://acesoplisting.in/|webdown
+
 
 #EXTINF:-1,india down
-https://www.shaamtv.com/?c=25|webdown
+https://www.shaamtv.com/?c=25|webview zoom=100 scroll=0,0
 
 
 #EXTINF:-1,deima down
-http://gledaibgtv.com/diema-family|webdown
+http://gledaibgtv.com/diema-family|webview zoom=100 scroll=0,0
 
 
-
-
-
-#EXTINF:-1, filmon 
-https://57channels.info/|webview zoom=100 scroll=0,0
-
-
-#EXTINF:-1, bulg 
-http://alfabass-tvfree.do.am/index/diema_sport_2hd/0-30|webdown
 
 #EXTINF:-1, bulg web
 http://alfabass-tvfree.do.am/index/diema_sport_2hd/0-30|webview zoom=100 scroll=0,0
@@ -33,9 +23,6 @@ http://watchfomny.tv/Menu/Pop3/Pop-iframe-progtv-01.php?http://www.liveonlinetv2
 http://www.sdw-net.me/channels/Animal-Planet-US.html|webview zoom=100 scroll=0,200
 
 
-#EXTINF:-1,usa down
-http://www.sdw-net.me/channels/Animal-Planet-US.html|webdown
-
 #EXTINF:-1, btsports web
 http://m.liveonlinetv247.info/external.php?title=BT%20Sport&stream=btsport1-hq|webview zoom=100 scroll=0,0
 
@@ -43,39 +30,6 @@ http://m.liveonlinetv247.info/external.php?title=BT%20Sport&stream=btsport1-hq|w
 http://m.liveonlinetv247.info/external.php?title=BT%20Sport&stream=btsport1-hq|webdown$$start=source: \"http://$$end=MTY=\$$replace1=source: \"$$add=MTY=
 
 
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://www.anacon.org/app/chans/cy/capitalcy.html|webdown
-#EXTINF:-1  ,7Sports
-http://www.istoikona.com/Media-Customers/moduleId/400/itemId/2/Station/7sports/controller/Media/action/gettv?SkinSrc=[G]Skins/Istoikona/PlayerPopup|webdown$$start=https://video1$$end=playlist.m3u8$$replace1=$$add=playlist.m3u8
-#EXTINF:-1  ,7Sports
-http://www.istoikona.com/Media-Customers/moduleId/400/itemId/2/Station/7sports/controller/Media/action/gettv?SkinSrc=[G]Skins/Istoikona/PlayerPopup|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
-http://www.alphacyprus.com.cy/page/live|webdown
-#EXTINF:-1  ,euronews down
-http://gr.euronews.com/live|webdown
-#EXTINF:-1  ,plus down
-http://www.anacon.org/app/chans/cy/pluscy.html|webdown
-#EXTINF:-1  ,tvone down
-http://www.megatv.com.cy/live/?cs=1|webdown
-#EXTINF:-1  ,tvone lak
-http://www.fireshow.xyz/megacym.html|webdown
-#EXTINF:-1  ,sigma lak
-http://www.fireshow.xyz/sigmam.html|webdown
-#EXTINF:-1  ,smile lak
-http://www.lakatamia.tv/app/chans/cy/smilecy.html|webdown
-#EXTINF:-1  ,alpha down
-http://www.alphacyprus.com.cy/page/live|webdown
-#EXTINF:-1  ,ant1 down
-http://www.ant1iwo.com/webtv/web-tv-live/|webdown
-#EXTINF:-1  ,skai3  down
-http://www.tvradiogr.com/p/tv/18/skai-live.html|webdown
-
-#EXTINF:-1  ,skai official web
-http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,0
-#EXTINF:-1  ,skai intertv web
-http://www.stasinos.tv/Greek/Skai1.aspx|webview zoom=100 scroll=0,0
-#EXTINF:-1  ,skai2  streema web
-http://externals.streema.com/tv/play/4539/?language=en|webview zoom=100 scroll=0,0
 
 #EXTINF:-1  ,jago down
 http://www.jagobd.com/al-dawah-tv|webdown
