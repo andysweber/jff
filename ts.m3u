@@ -1,7 +1,11 @@
 #EXTM3U 
 
 #EXTINF:-1,ace
-http://acestreamchannel.blogspot.com/|webview zoom=100 scroll=0,0
+http://acestreamchannel.blogspot.com/2017/03/sports-channels.html?m=1|webview zoom=100 scroll=0,0
+
+#EXTINF:-1,ace down
+http://acestreamchannel.blogspot.com/2017/03/sports-channels.html?m=1|webdown
+
 
 #EXTINF:-1,india down
 https://www.shaamtv.com/?c=25|webview zoom=100 scroll=0,0
