@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1,ace
+http://acestreamchannel.blogspot.com/|webview zoom=100 scroll=0,0
 
 #EXTINF:-1,india down
 https://www.shaamtv.com/?c=25|webview zoom=100 scroll=0,0
