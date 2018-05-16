@@ -6,6 +6,17 @@ http://p2ptv.online/channels|webview zoom=100 scroll=0,0
 #EXTINF:-1,ace down
 http://p2ptv.online/channels|webdown
 
+#EXTINF:-1,diema
+http://bul-tv.com/diema-family-online|webview zoom=100 scroll=0,0
+
+#EXTINF:-1,diema down
+http://bul-tv.com/diema-family-online|webdown
+
+#EXTINF:-1,p2p
+http://dvb-p.com/live-tv/music-tv/|webview zoom=100 scroll=0,0
+
+#EXTINF:-1,p2 pdown
+http://dvb-p.com/live-tv/music-tv/|webdown
 
 #EXTINF:-1,india down
 https://www.shaamtv.com/?c=25|webview zoom=100 scroll=0,0
