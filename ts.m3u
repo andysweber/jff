@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1,rik1
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdown$$start=src:  \"http://
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdown$$start=file: \"http://$$end=\"},$$replace1=file: \"$$add=
 
 
 #EXTINF:-1,7sports
