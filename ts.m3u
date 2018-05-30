@@ -7,7 +7,7 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdown$$start=\"meta\" src=\"h
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdown$$start=\"meta\" src=\"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
 
 #EXTINF:-1,rik sat
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdown$$start=\"meta\" src=\"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdown$$start=\/////////"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
 
 #EXTINF:-1,7sports
 http://www.istoikona.com/Media-Customers/moduleId/400/itemId/2/Station/7sports/controller/Media/action/gettv?SkinSrc=[G]Skins/Istoikona/PlayerPopup|webdown
