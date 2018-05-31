@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1,ert
+http://webtv.ert.gr/ertworld-live/|webdown
+
 #EXTINF:-1,rik1
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdown$$start=\"meta\" src=\"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
 
