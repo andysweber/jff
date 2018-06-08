@@ -1,16 +1,8 @@
 #EXTM3U 
 
-#EXTINF:-1,ert
-http://webtv.ert.gr/ertworld-live/|webdown
+#EXTINF:-1,tzam
+https://tzampa.tv/home|webdown
 
-#EXTINF:-1,rik1
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdown$$start=\"meta\" src=\"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
-
-#EXTINF:-1,rik2
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdown$$start=\"meta\" src=\"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
-
-#EXTINF:-1,rik sat
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdown$$start=\/////////"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
 
 #EXTINF:-1,7sports
 https://istoikona.com/7Sportstv|webview zoom=100 scroll=0,0
