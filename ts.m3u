@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
-https://easyview.eu/script.php?stream=bbc-1|webload
+https://easyview.eu/script.php?stream=bbc-1|webdown
 
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
 https://easyview.eu/script.php?stream=bbc-1|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace1=$$add=
