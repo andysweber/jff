@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
-https://easyview.eu/script.php?stream=bbc-1|webdown$$start=https://origin$$end=\">\u003C/iframe$$replace1=$$add=
+https://easyview.eu/script.php?stream=bbc-1|webno$$start=https://origin$$end=\">\u003C/iframe$$replace1=$$add=
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI Web
 http://www.lakatamiatv.xyz/app/chans/gr/skai.html|fullweb
