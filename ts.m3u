@@ -3,8 +3,22 @@
 #EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US)
 http://streamfare.com/cnn.html|webview zoom=100 scroll=0,100
 
+#EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US) down
+http://streamfare.com/cnn.html|webdown
+
 #EXTINF:0 group-title="NEWS",bbcworld
 http://bbcworldnews.web.tv/|webview zoom=100 scroll=0,100
+
+#EXTINF:0 group-title="NEWS",bbcworld down
+http://bbcworldnews.web.tv/||=webdown
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://3.bp.blogspot.com/-JA6ymVAIMFw/WOq1ybCKBqI/AAAAAAAAE9Q/b_acbw4mS1UyuYHk8LfwkI_neLtAlq7GgCLcB/s1600/bfm_fr_tv.png",BFM TV (FR) down
+https://www.bfmtv.com/mediaplayer/live-video/|webdown
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://3.bp.blogspot.com/-JA6ymVAIMFw/WOq1ybCKBqI/AAAAAAAAE9Q/b_acbw4mS1UyuYHk8LfwkI_neLtAlq7GgCLcB/s1600/bfm_fr_tv.png",BFM TV (FR)
+https://www.bfmtv.com/mediaplayer/live-video/|webview zoom=100 scroll=0,100
+
+
 
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
 https://easyview.eu/script.php?stream=bbc-1|webdown
