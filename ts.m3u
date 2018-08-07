@@ -1,22 +1,37 @@
 #EXTM3U 
 
 #EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US)
-http://streamfare.com/cnn.html|webview zoom=100 scroll=0,100
+http://streamfare.com/cnn.html|webview zoom=160 scroll=400,400
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US)full
+http://streamfare.com/cnn.html|autoweb zoom=160 scroll=400,400
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US)auto
+http://streamfare.com/cnn.html|fullweb zoom=160 scroll=400,400
 
 #EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US)
 https://www.youtube.com/embed/8vqik6xktpY
 
+#EXTINF:0 group-title="NEWS",bbcworld full
+http://bbcworldnews.web.tv/|fullweb zoom=120 scroll=0,800
+
+#EXTINF:0 group-title="NEWS",bbcworld auto
+http://bbcworldnews.web.tv/|autoweb zoom=120 scroll=0,800
+
 #EXTINF:0 group-title="NEWS",bbcworld
-http://bbcworldnews.web.tv/|webview zoom=100 scroll=0,100
+http://bbcworldnews.web.tv/|webview zoom=120 scroll=0,800
 
-#EXTINF:0 group-title="NEWS",bbcworld down
-http://bbcworldnews.web.tv/|webdown
-
-#EXTINF:0 group-title="NEWS" tvg-logo="https://3.bp.blogspot.com/-JA6ymVAIMFw/WOq1ybCKBqI/AAAAAAAAE9Q/b_acbw4mS1UyuYHk8LfwkI_neLtAlq7GgCLcB/s1600/bfm_fr_tv.png",BFM TV (FR) down
-https://www.bfmtv.com/mediaplayer/live-video/|webdown
 
 #EXTINF:0 group-title="NEWS" tvg-logo="https://3.bp.blogspot.com/-JA6ymVAIMFw/WOq1ybCKBqI/AAAAAAAAE9Q/b_acbw4mS1UyuYHk8LfwkI_neLtAlq7GgCLcB/s1600/bfm_fr_tv.png",BFM TV (FR)
-https://www.bfmtv.com/mediaplayer/live-video/|webview zoom=100 scroll=0,100
+https://www.bfmtv.com/mediaplayer/live-video/|webview zoom=120 scroll=100,400
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://3.bp.blogspot.com/-JA6ymVAIMFw/WOq1ybCKBqI/AAAAAAAAE9Q/b_acbw4mS1UyuYHk8LfwkI_neLtAlq7GgCLcB/s1600/bfm_fr_tv.png",BFM TV (FR)full
+https://www.bfmtv.com/mediaplayer/live-video/|fullweb zoom=120 scroll=100,400
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://3.bp.blogspot.com/-JA6ymVAIMFw/WOq1ybCKBqI/AAAAAAAAE9Q/b_acbw4mS1UyuYHk8LfwkI_neLtAlq7GgCLcB/s1600/bfm_fr_tv.png",BFM TV (FR)auto
+https://www.bfmtv.com/mediaplayer/live-video/|autoweb zoom=120 scroll=100,400
+
+
 
 
 
