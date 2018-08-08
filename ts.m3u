@@ -7,7 +7,7 @@ http://www.freeintertv.com/view/id-1799|fullweb zoom=100 scroll=0,0
 http://www.freeintertv.com/view/id-1799|webview zoom=200 scroll=50,500
 
 
-#EXTINF:0 group-title="NEWS",channel4 downno
+#EXTINF:0 group-title="NEWS",channel4 downnook
 http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
 
 #EXTINF:0 group-title="NEWS",channel4 web
