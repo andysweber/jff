@@ -4,7 +4,7 @@
 http://www.freeintertv.com/view/id-1799|fullweb zoom=100 scroll=0,0
 
 #EXTINF:0 group-title="NEWS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-news-logo-png-transparent.png",FOX NEWS webview
-http://www.freeintertv.com/view/id-1799|webview zoom=200 scroll=0,1000
+http://www.freeintertv.com/view/id-1799|webview zoom=200 scroll=100,400
 
 #EXTINF:0 group-title="NEWS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-news-logo-png-transparent.png",FOX NEWS auto
 http://www.freeintertv.com/view/id-1799|autoweb zoom=160 scroll=100,400
