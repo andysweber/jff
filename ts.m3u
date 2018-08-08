@@ -1,25 +1,27 @@
 #EXTM3U 
 
-#EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US)
-http://streamfare.com/cnn.html|webview zoom=160 scroll=400,400
+#EXTINF:0 group-title="NEWS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-news-logo-png-transparent.png",FOX NEWS fullweb
+http://www.freeintertv.com/view/id-1799|fullweb zoom=100 scroll=0,0
 
-#EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US)full
-http://streamfare.com/cnn.html|autoweb zoom=160 scroll=400,400
+#EXTINF:0 group-title="NEWS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-news-logo-png-transparent.png",FOX NEWS webview
+http://www.freeintertv.com/view/id-1799|webview zoom=100 scroll=0,0
 
-#EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US)auto
-http://streamfare.com/cnn.html|fullweb zoom=160 scroll=400,400
+#EXTINF:0 group-title="NEWS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-news-logo-png-transparent.png",FOX NEWS auto
+http://www.freeintertv.com/view/id-1799|autoweb zoom=100 scroll=0,0
 
-#EXTINF:0 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN (US)
-https://www.youtube.com/embed/8vqik6xktpY
+#EXTINF:0 group-title="NEWS",channel4 down
+http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|webdown
 
-#EXTINF:0 group-title="NEWS",bbcworld full
-http://bbcworldnews.web.tv/|fullweb zoom=120 scroll=0,800
+#EXTINF:0 group-title="NEWS",channel4 web
+http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|webview zoom=100 scroll=0,100
 
-#EXTINF:0 group-title="NEWS",bbcworld auto
-http://bbcworldnews.web.tv/|autoweb zoom=120 scroll=0,800
+#EXTINF:0 group-title="NEWS",channel4 full
+http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|fullweb zoom=100 scroll=0,100
 
-#EXTINF:0 group-title="NEWS",bbcworld
-http://bbcworldnews.web.tv/|webview zoom=120 scroll=0,800
+#EXTINF:0 group-title="NEWS",channel4 auto
+http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|autoweb zoom=120 scroll=0,800
+
+
 
 
 #EXTINF:0 group-title="NEWS" tvg-logo="https://3.bp.blogspot.com/-JA6ymVAIMFw/WOq1ybCKBqI/AAAAAAAAE9Q/b_acbw4mS1UyuYHk8LfwkI_neLtAlq7GgCLcB/s1600/bfm_fr_tv.png",BFM TV (FR)
