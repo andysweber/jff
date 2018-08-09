@@ -1,9 +1,8 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News
-https://easyview.eu/script.php?stream=bbc-news|webdown
-#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News
-https://easyview.eu/script.php?stream=bbc-news|webnoagent
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be.
+https://easyview.eu/script.php?stream=itvbe|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
+
 
 
 
