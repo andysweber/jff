@@ -1,10 +1,10 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be.
-https://easyview.eu/script.php?stream=itvbe|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
+#EXTINF:0 group-title="CYPRUS" tvg-logo="https://static.wixstatic.com/media/e9f47d_6c0e541e439e4fc295a848625d2b9600~mv2_d_4500_1250_s_2.png/v1/fill/w_216,h_60,al_c,usm_0.66_1.00_0.01/e9f47d_6c0e541e439e4fc295a848625d2b9600~mv2_d_4500_1250_s_2.png",7SPORTS TV
+https://istoikona.com/7Sportstv|fullweb zoom=120 scroll=0,800
 
-
-
+#EXTINF:0 group-title="CYPRUS" tvg-logo="https://static.wixstatic.com/media/e9f47d_6c0e541e439e4fc295a848625d2b9600~mv2_d_4500_1250_s_2.png/v1/fill/w_216,h_60,al_c,usm_0.66_1.00_0.01/e9f47d_6c0e541e439e4fc295a848625d2b9600~mv2_d_4500_1250_s_2.png",7SPORTS TV (2)
+https://istoikona.com/Media-Customers/moduleId/400/itemId/2/Station/7sports/controller/Media/action/gettv?SkinSrc=[G]Skins/Istoikona/PlayerPopup|fullweb zoom=120 scroll=0,800
 
 
 
