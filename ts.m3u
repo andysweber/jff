@@ -6,6 +6,12 @@ http://kora-live.tv/beinsports1.html|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/2H3ir5wm.png",CBS Reality 
 http://123tv.live/watch/cbs-reality-live-stream-sky-146_kGamw9TcLU.html|webdown
 
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LbycMJSm.png",Channel 4
+http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LbycMJSm.png",Channel 4
+http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|webdown
+
 
 #EXTINF:0 group-title="CYPRUS" tvg-logo="https://static.wixstatic.com/media/e9f47d_6c0e541e439e4fc295a848625d2b9600~mv2_d_4500_1250_s_2.png/v1/fill/w_216,h_60,al_c,usm_0.66_1.00_0.01/e9f47d_6c0e541e439e4fc295a848625d2b9600~mv2_d_4500_1250_s_2.png",7SPORTS TV
 https://istoikona.com/7Sportstv|fullweb zoom=120 scroll=0,800
