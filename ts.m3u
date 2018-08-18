@@ -1,5 +1,17 @@
 #EXTM3U 
 
+#EXTINF:-1 ,bein view
+http://showsport-tv.com/embedplayer.php?ch=bein1|webview zoom=100 scroll=0,0
+
+#EXTINF:-1 ,bein full
+http://showsport-tv.com/embedplayer.php?ch=bein1|fullweb
+
+#EXTINF:-1 ,bein no agent
+http://showsport-tv.com/embedplayer.php?ch=bein1|webnoagent
+
+#EXTINF:-1 ,bein down
+http://showsport-tv.com/embedplayer.php?ch=bein1|webdown
+
 #EXTINF:-1 ,kora
 http://kora-live.tv/beinsports1.html|webview zoom=100 scroll=0,0
 
